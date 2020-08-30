@@ -1,0 +1,351 @@
+<STRUCTURESLIST>
+	<STRUCTURE><!--sandbags small-->
+		<usCreationItem>1539</usCreationItem>
+		<usItemStatusLoss>50</usItemStatusLoss>
+		<szTileSetDisplayName>Sm Sandbags</szTileSetDisplayName>
+		<szTileSetName>sandbag.sti</szTileSetName>
+		<dCreationCost>7.5</dCreationCost>
+		<fFortifyAdjacentAdjustment>1</fFortifyAdjacentAdjustment>
+		<northfacingtile>3</northfacingtile>
+		<northfacingtile>4</northfacingtile>
+		<southfacingtile>3</southfacingtile>
+		<southfacingtile>4</southfacingtile>
+		<eastfacingtile>5</eastfacingtile>
+		<eastfacingtile>8</eastfacingtile>
+		<eastfacingtile>9</eastfacingtile>
+		<westfacingtile>5</westfacingtile>
+		<westfacingtile>8</westfacingtile>
+		<westfacingtile>9</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!--sandbags medium -->
+		<usCreationItem>1540</usCreationItem>
+		<usItemStatusLoss>50</usItemStatusLoss>
+		<szTileSetDisplayName>Md Sandbags</szTileSetDisplayName>
+		<szTileSetName>sandbag.sti</szTileSetName>
+		<dCreationCost>8.5</dCreationCost>
+		<fFortifyAdjacentAdjustment>1</fFortifyAdjacentAdjustment>
+		<northfacingtile>1</northfacingtile>
+		<southfacingtile>0</southfacingtile>
+		<southfacingtile>1</southfacingtile>
+		<eastfacingtile>6</eastfacingtile>
+		<eastfacingtile>7</eastfacingtile>
+		<westfacingtile>6</westfacingtile>
+		<westfacingtile>7</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- sandbags large -->
+		<usCreationItem>1541</usCreationItem>
+		<usItemStatusLoss>50</usItemStatusLoss>
+		<szTileSetDisplayName>Lg Sandbags</szTileSetDisplayName>
+		<szTileSetName>sandbag.sti</szTileSetName>
+		<dCreationCost>10.0</dCreationCost>
+		<fFortifyAdjacentAdjustment>1</fFortifyAdjacentAdjustment>
+		<northfacingtile>2</northfacingtile>
+		<southfacingtile>2</southfacingtile>
+		<eastfacingtile>2</eastfacingtile>
+		<westfacingtile>2</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!--concertina wire-->
+		<usCreationItem>1542</usCreationItem>
+		<usItemStatusLoss>10</usItemStatusLoss>
+		<szTileSetDisplayName>Barbed Wire</szTileSetDisplayName>
+		<szTileSetName>spot_1.sti</szTileSetName>
+		<dCreationCost>1.0</dCreationCost>
+		<fFortifyAdjacentAdjustment>1</fFortifyAdjacentAdjustment>
+		<northfacingtile>2</northfacingtile>
+		<northfacingtile>4</northfacingtile>
+		<southfacingtile>2</southfacingtile>
+		<southfacingtile>4</southfacingtile>
+		<eastfacingtile>3</eastfacingtile>
+		<eastfacingtile>5</eastfacingtile>
+		<westfacingtile>3</westfacingtile>
+		<westfacingtile>5</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!--spade creates a pile of earth-->
+		<usCreationItem>1411</usCreationItem>
+		<usItemStatusLoss>0</usItemStatusLoss>
+		<szTileSetDisplayName>Dirt Mound</szTileSetDisplayName>
+		<szTileSetName>crate.sti</szTileSetName>
+		<dCreationCost>3.0</dCreationCost>
+		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
+		<northfacingtile>7</northfacingtile>
+		<northfacingtile>8</northfacingtile>
+		<northfacingtile>9</northfacingtile>
+		<northfacingtile>10</northfacingtile>
+		<northfacingtile>11</northfacingtile>
+		<southfacingtile>7</southfacingtile>
+		<southfacingtile>8</southfacingtile>
+		<southfacingtile>9</southfacingtile>
+		<southfacingtile>10</southfacingtile>
+		<southfacingtile>11</southfacingtile>
+		<eastfacingtile>7</eastfacingtile>
+		<eastfacingtile>8</eastfacingtile>
+		<eastfacingtile>9</eastfacingtile>
+		<eastfacingtile>10</eastfacingtile>
+		<eastfacingtile>11</eastfacingtile>
+		<westfacingtile>7</westfacingtile>
+		<westfacingtile>8</westfacingtile>
+		<westfacingtile>9</westfacingtile>
+		<westfacingtile>10</westfacingtile>
+		<westfacingtile>11</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!--shovel creates a pile of earth-->
+		<usCreationItem>1412</usCreationItem>
+		<usItemStatusLoss>0</usItemStatusLoss>
+		<szTileSetDisplayName>Dirt Mound</szTileSetDisplayName>
+		<szTileSetName>crate.sti</szTileSetName>
+		<dCreationCost>3.0</dCreationCost>
+		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
+		<northfacingtile>7</northfacingtile>
+		<northfacingtile>8</northfacingtile>
+		<northfacingtile>9</northfacingtile>
+		<northfacingtile>10</northfacingtile>
+		<northfacingtile>11</northfacingtile>
+		<southfacingtile>7</southfacingtile>
+		<southfacingtile>8</southfacingtile>
+		<southfacingtile>9</southfacingtile>
+		<southfacingtile>10</southfacingtile>
+		<southfacingtile>11</southfacingtile>
+		<eastfacingtile>7</eastfacingtile>
+		<eastfacingtile>8</eastfacingtile>
+		<eastfacingtile>9</eastfacingtile>
+		<eastfacingtile>10</eastfacingtile>
+		<eastfacingtile>11</eastfacingtile>
+		<westfacingtile>7</westfacingtile>
+		<westfacingtile>8</westfacingtile>
+		<westfacingtile>9</westfacingtile>
+		<westfacingtile>10</westfacingtile>
+		<westfacingtile>11</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!--wooden planks, small 1x1 -->
+		<usCreationItem>1543</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Sm Wooden Planks</szTileSetDisplayName>
+		<szTileSetName>deb_02.sti</szTileSetName>
+		<dCreationCost>2.5</dCreationCost>
+		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
+		<northfacingtile>6</northfacingtile>
+		<northfacingtile>7</northfacingtile>
+		<northfacingtile>8</northfacingtile>
+		<northfacingtile>9</northfacingtile>
+		<southfacingtile>6</southfacingtile>
+		<southfacingtile>7</southfacingtile>
+		<southfacingtile>8</southfacingtile>
+		<southfacingtile>9</southfacingtile>
+		<eastfacingtile>6</eastfacingtile>
+		<eastfacingtile>7</eastfacingtile>
+		<eastfacingtile>8</eastfacingtile>
+		<eastfacingtile>9</eastfacingtile>
+		<westfacingtile>6</westfacingtile>
+		<westfacingtile>7</westfacingtile>
+		<westfacingtile>8</westfacingtile>
+		<westfacingtile>9</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!--wooden planks, medium 2x1 -->
+		<usCreationItem>1544</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Md Wooden Planks</szTileSetDisplayName>
+		<szTileSetName>deb_02.sti</szTileSetName>
+		<dCreationCost>2.5</dCreationCost>
+		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
+		<northfacingtile>1</northfacingtile>
+		<southfacingtile>1</southfacingtile>
+		<eastfacingtile>2</eastfacingtile>
+		<westfacingtile>2</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!--wooden planks, large 2x2 -->
+		<usCreationItem>1545</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Lg Wooden Planks</szTileSetDisplayName>
+		<szTileSetName>deb_02.sti</szTileSetName>
+		<dCreationCost>2.5</dCreationCost>
+		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
+		<northfacingtile>0</northfacingtile>
+		<northfacingtile>3</northfacingtile>
+		<northfacingtile>4</northfacingtile>
+		<northfacingtile>5</northfacingtile>
+		<southfacingtile>0</southfacingtile>
+		<southfacingtile>3</southfacingtile>
+		<southfacingtile>4</southfacingtile>
+		<southfacingtile>5</southfacingtile>
+		<eastfacingtile>0</eastfacingtile>
+		<eastfacingtile>3</eastfacingtile>
+		<eastfacingtile>4</eastfacingtile>
+		<eastfacingtile>5</eastfacingtile>
+		<westfacingtile>0</westfacingtile>
+		<westfacingtile>3</westfacingtile>
+		<westfacingtile>4</westfacingtile>
+		<westfacingtile>5</westfacingtile>
+	</STRUCTURE>	
+	<STRUCTURE><!--wooden wall, small -->
+		<usCreationItem>1546</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Sm Wooden Wall dec</szTileSetDisplayName>
+		<szTileSetName>walldec1.sti</szTileSetName>
+		<dCreationCost>2.5</dCreationCost>
+		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
+		<northfacingtile>2</northfacingtile>
+		<northfacingtile>3</northfacingtile>
+		<northfacingtile>4</northfacingtile>
+		<southfacingtile>2</southfacingtile>
+		<southfacingtile>3</southfacingtile>
+		<southfacingtile>4</southfacingtile>
+		<eastfacingtile>7</eastfacingtile>
+		<eastfacingtile>8</eastfacingtile>
+		<eastfacingtile>9</eastfacingtile>
+		<westfacingtile>7</westfacingtile>
+		<westfacingtile>8</westfacingtile>
+		<westfacingtile>9</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!--wooden wall, large -->
+		<usCreationItem>1547</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Lg Wooden Wall dec</szTileSetDisplayName>
+		<szTileSetName>walldec1.sti</szTileSetName>
+		<dCreationCost>2.5</dCreationCost>
+		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
+		<northfacingtile>0</northfacingtile>
+		<northfacingtile>1</northfacingtile>
+		<southfacingtile>0</southfacingtile>
+		<southfacingtile>1</southfacingtile>
+		<eastfacingtile>5</eastfacingtile>
+		<eastfacingtile>6</eastfacingtile>
+		<westfacingtile>5</westfacingtile>
+		<westfacingtile>6</westfacingtile>
+	</STRUCTURE>
+		<STRUCTURE><!--wooden wall, small -->
+		<usCreationItem>1546</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Sm Wooden Wall</szTileSetDisplayName>
+		<szTileSetName>build_06b.sti</szTileSetName>
+		<dCreationCost>2.5</dCreationCost>
+		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
+		<northfacingtile>9</northfacingtile>
+		<northfacingtile>10</northfacingtile>
+		<northfacingtile>11</northfacingtile>
+		<southfacingtile>9</southfacingtile>
+		<southfacingtile>10</southfacingtile>
+		<southfacingtile>11</southfacingtile>
+		<eastfacingtile>6</eastfacingtile>
+		<eastfacingtile>7</eastfacingtile>
+		<eastfacingtile>8</eastfacingtile>
+		<westfacingtile>6</westfacingtile>
+		<westfacingtile>7</westfacingtile>
+		<westfacingtile>8</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!--wooden wall, large -->
+		<usCreationItem>1547</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Lg Wooden Wall</szTileSetDisplayName>
+		<szTileSetName>build_06b.sti</szTileSetName>
+		<dCreationCost>2.5</dCreationCost>
+		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
+		<northfacingtile>3</northfacingtile>
+		<northfacingtile>4</northfacingtile>
+		<northfacingtile>5</northfacingtile>
+		<southfacingtile>3</southfacingtile>
+		<southfacingtile>4</southfacingtile>
+		<southfacingtile>5</southfacingtile>
+		<eastfacingtile>0</eastfacingtile>
+		<eastfacingtile>1</eastfacingtile>
+		<eastfacingtile>2</eastfacingtile>
+		<westfacingtile>0</westfacingtile>
+		<westfacingtile>1</westfacingtile>
+		<westfacingtile>2</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- tire #1 -->
+		<usCreationItem>1548</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Sm Tire</szTileSetDisplayName>
+		<szTileSetName>dump1.sti</szTileSetName>
+		<dCreationCost>1.0</dCreationCost>
+		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
+		<northfacingtile>0</northfacingtile>
+		<southfacingtile>0</southfacingtile>
+		<eastfacingtile>0</eastfacingtile>
+		<westfacingtile>0</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- tire #2 -->
+		<usCreationItem>1549</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Md Tire</szTileSetDisplayName>
+		<szTileSetName>dump1.sti</szTileSetName>
+		<dCreationCost>1.5</dCreationCost>
+		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
+		<northfacingtile>1</northfacingtile>
+		<southfacingtile>1</southfacingtile>
+		<eastfacingtile>1</eastfacingtile>
+		<westfacingtile>1</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- tire #3 -->
+		<usCreationItem>1550</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Lg Tire</szTileSetDisplayName>
+		<szTileSetName>dump1.sti</szTileSetName>
+		<dCreationCost>2.0</dCreationCost>
+		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
+		<northfacingtile>2</northfacingtile>
+		<southfacingtile>2</southfacingtile>
+		<eastfacingtile>2</eastfacingtile>
+		<westfacingtile>2</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!--roadblock -->
+		<usCreationItem>1551</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Roadblock</szTileSetDisplayName>
+		<szTileSetName>dump1.sti</szTileSetName>
+		<dCreationCost>0.5</dCreationCost>
+		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
+		<northfacingtile>11</northfacingtile>
+		<southfacingtile>11</southfacingtile>
+		<eastfacingtile>9</eastfacingtile>
+		<westfacingtile>9</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!--sawhorse -->
+		<usCreationItem>1552</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Sawhorse</szTileSetDisplayName>
+		<szTileSetName>dump1.sti</szTileSetName>
+		<dCreationCost>0.5</dCreationCost>
+		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
+		<northfacingtile>10</northfacingtile>
+		<southfacingtile>10</southfacingtile>
+		<eastfacingtile>8</eastfacingtile>
+		<westfacingtile>8</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- oil drum #1 -->
+		<usCreationItem>1553</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Gas Drum A</szTileSetDisplayName>
+		<szTileSetName>drum_01.sti</szTileSetName>
+		<dCreationCost>0.5</dCreationCost>
+		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
+		<northfacingtile>6</northfacingtile>
+		<southfacingtile>6</southfacingtile>
+		<eastfacingtile>6</eastfacingtile>
+		<westfacingtile>6</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- oil drum #2 -->
+		<usCreationItem>1554</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Gas Drum B</szTileSetDisplayName>
+		<szTileSetName>drum_01.sti</szTileSetName>
+		<dCreationCost>0.5</dCreationCost>
+		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
+		<northfacingtile>6</northfacingtile>
+		<southfacingtile>6</southfacingtile>
+		<eastfacingtile>6</eastfacingtile>
+		<westfacingtile>6</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- oil drum #3 -->
+		<usCreationItem>1555</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Gas Drum C</szTileSetDisplayName>
+		<szTileSetName>drum_01.sti</szTileSetName>
+		<dCreationCost>0.5</dCreationCost>
+		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
+		<northfacingtile>6</northfacingtile>
+		<southfacingtile>6</southfacingtile>
+		<eastfacingtile>6</eastfacingtile>
+		<westfacingtile>6</westfacingtile>
+	</STRUCTURE>
+</STRUCTURESLIST>
