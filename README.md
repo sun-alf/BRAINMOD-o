@@ -19,3 +19,10 @@ Key features are:
 * Fortification (construct/deconstruct/drag sandbags, tires, wooden walls etc) is supported in all sectors.
 * All suppressors have drawbacks -- reduced muzzle velocity costs accuracy and firepower.
 * Fixes (for dozens of minor bugs) you probably will never see in original AIMNAS =)
+
+#### Installation steps:
+1. Download files from this repo.
+2. Copy the files into your game directory, overwrite JA2.ini on prompt. You can just add/override the following line in JA2.ini, if you want to keep your copy:
+   VFS_CONFIG_INI = vfs_config.JA2_BRAINMOD.ini
+3. Unpack JA2.zip to have the newest available executable (JA2.exe); it also includes major modifications of Improved Interrupt System (IIS) to get rid of odd interrupts and ninja-tanks.
+Enjoy!
