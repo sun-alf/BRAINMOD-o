@@ -691,7 +691,7 @@
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4001</uiIndex>
+		<uiIndex>5</uiIndex>
 		<szWeaponName>S&amp;W Chiefs Special</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
@@ -1127,7 +1127,7 @@
 		<usOverheatingSingleShotTemperature>6</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4021</uiIndex>
+		<uiIndex>6</uiIndex>
 		<szWeaponName>Barracuda</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
@@ -3205,7 +3205,7 @@
 		<usOverheatingSingleShotTemperature>7</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4121</uiIndex>
+		<uiIndex>3</uiIndex>
 		<szWeaponName>Beretta 92F</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
@@ -5349,7 +5349,7 @@
 		<usOverheatingSingleShotTemperature>9.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4201</uiIndex>
+		<uiIndex>8</uiIndex>
 		<szWeaponName>Colt M1911A1</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
@@ -6479,7 +6479,7 @@
 		<usOverheatingSingleShotTemperature>10</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4271</uiIndex>
+		<uiIndex>7</uiIndex>
 		<szWeaponName>Desert Eagle .357</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
@@ -6936,7 +6936,7 @@
 		<usOverheatingSingleShotTemperature>7</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4301</uiIndex>
+		<uiIndex>2</uiIndex>
 		<szWeaponName>Glock 18</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>2</ubWeaponType>
@@ -7016,7 +7016,7 @@
 		<usOverheatingSingleShotTemperature>8</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4303</uiIndex>
+		<uiIndex>4</uiIndex>
 		<szWeaponName>Beretta 93R</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>2</ubWeaponType>
@@ -7096,7 +7096,7 @@
 		<usOverheatingSingleShotTemperature>7</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4305</uiIndex>
+		<uiIndex>9</uiIndex>
 		<szWeaponName>HK MP5KA4</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>2</ubWeaponType>
@@ -8760,7 +8760,7 @@
 		<usOverheatingSingleShotTemperature>10</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4361</uiIndex>
+		<uiIndex>10</uiIndex>
 		<szWeaponName>Ingram M10</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>2</ubWeaponType>
@@ -14838,7 +14838,7 @@
 		<usOverheatingSingleShotTemperature>11</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4571</uiIndex>
+		<uiIndex>11</uiIndex>
 		<szWeaponName>Thompson M1A1</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
@@ -15413,7 +15413,7 @@
 		<usOverheatingSingleShotTemperature>12</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4591</uiIndex>
+		<uiIndex>15</uiIndex>
 		<szWeaponName>FN P90</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
@@ -15618,7 +15618,7 @@
 		<usOverheatingSingleShotTemperature>7</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4601</uiIndex>
+		<uiIndex>16</uiIndex>
 		<szWeaponName>Type 85</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
@@ -18700,7 +18700,7 @@
 		<usOverheatingSingleShotTemperature>22</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4742</uiIndex>
+		<uiIndex>22</uiIndex>
 		<szWeaponName>Ruger Mini-14</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
@@ -20027,7 +20027,7 @@
 		<usOverheatingSingleShotTemperature>24.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4791</uiIndex>
+		<uiIndex>17</uiIndex>
 		<szWeaponName>SKS</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
@@ -23751,7 +23751,7 @@
 		<usOverheatingSingleShotTemperature>64</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4931</uiIndex>
+		<uiIndex>19</uiIndex>
 		<szWeaponName>M24</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
@@ -24753,7 +24753,7 @@
 		<usOverheatingSingleShotTemperature>68</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5001</uiIndex>
+		<uiIndex>18</uiIndex>
 		<szWeaponName>Dragunov SVD</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
@@ -26461,7 +26461,7 @@
 		<usOverheatingSingleShotTemperature>20</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5102</uiIndex>
+		<uiIndex>14</uiIndex>
 		<szWeaponName>AKS-74U</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
@@ -26666,7 +26666,7 @@
 		<usOverheatingSingleShotTemperature>20</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5107</uiIndex>
+		<uiIndex>25</uiIndex>
 		<szWeaponName>AK-74</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
@@ -27775,7 +27775,7 @@
 		<usOverheatingSingleShotTemperature>26</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5141</uiIndex>
+		<uiIndex>12</uiIndex>
 		<szWeaponName>Colt M4 Commando</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
@@ -28423,7 +28423,7 @@
 		<usOverheatingSingleShotTemperature>28</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5157</uiIndex>
+		<uiIndex>23</uiIndex>
 		<szWeaponName>Diemaco C7A2</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
@@ -28464,7 +28464,7 @@
 		<usOverheatingSingleShotTemperature>26</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5158</uiIndex>
+		<uiIndex>21</uiIndex>
 		<szWeaponName>HK G41A2</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
@@ -28505,7 +28505,7 @@
 		<usOverheatingSingleShotTemperature>30</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5159</uiIndex>
+		<uiIndex>13</uiIndex>
 		<szWeaponName>HK 53A3</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
@@ -33455,7 +33455,7 @@
 		<usOverheatingSingleShotTemperature>30</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5284</uiIndex>
+		<uiIndex>20</uiIndex>
 		<szWeaponName>Steyr AUG-A2</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
@@ -33861,7 +33861,7 @@
 		<usOverheatingSingleShotTemperature>30</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5294</uiIndex>
+		<uiIndex>24</uiIndex>
 		<szWeaponName>FAMAS F1</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
@@ -34560,7 +34560,7 @@
 		<usOverheatingSingleShotTemperature>33</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5311</uiIndex>
+		<uiIndex>28</uiIndex>
 		<szWeaponName>FN FAL</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
@@ -35626,7 +35626,7 @@
 		<usOverheatingSingleShotTemperature>30</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5337</uiIndex>
+		<uiIndex>29</uiIndex>
 		<szWeaponName>HK G3A3</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
@@ -35872,7 +35872,7 @@
 		<usOverheatingSingleShotTemperature>30</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5343</uiIndex>
+		<uiIndex>27</uiIndex>
 		<szWeaponName>M14</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
@@ -36364,7 +36364,7 @@
 		<usOverheatingSingleShotTemperature>24</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5358</uiIndex>
+		<uiIndex>26</uiIndex>
 		<szWeaponName>AKM</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
@@ -40728,7 +40728,7 @@
 		<usOverheatingSingleShotTemperature>24</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5467</uiIndex>
+		<uiIndex>30</uiIndex>
 		<szWeaponName>HK G11</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
@@ -42118,7 +42118,7 @@
 		<usOverheatingSingleShotTemperature>28</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5501</uiIndex>
+		<uiIndex>35</uiIndex>
 		<szWeaponName>RPK-74</szWeaponName>
 		<ubWeaponClass>4</ubWeaponClass>
 		<ubWeaponType>7</ubWeaponType>
@@ -42531,7 +42531,7 @@
 		<usOverheatingSingleShotTemperature>16</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5516</uiIndex>
+		<uiIndex>34</uiIndex>
 		<szWeaponName>FN Minimi</szWeaponName>
 		<ubWeaponClass>4</ubWeaponClass>
 		<ubWeaponType>7</ubWeaponType>
@@ -43483,7 +43483,7 @@
 		<HeavyWeapon>1</HeavyWeapon>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5552</uiIndex>
+		<uiIndex>36</uiIndex>
 		<szWeaponName>HK 21E</szWeaponName>
 		<ubWeaponClass>4</ubWeaponClass>
 		<ubWeaponType>7</ubWeaponType>
@@ -45760,7 +45760,7 @@
 		<usOverheatingSingleShotTemperature>28</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5621</uiIndex>
+		<uiIndex>31</uiIndex>
 		<szWeaponName>Remington M870</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
@@ -46169,7 +46169,7 @@
 		<usOverheatingSingleShotTemperature>40</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5635</uiIndex>
+		<uiIndex>32</uiIndex>
 		<szWeaponName>SPAS-15</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
@@ -48205,7 +48205,7 @@
 		<usOverheatingSingleShotTemperature>30</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5716</uiIndex>
+		<uiIndex>33</uiIndex>
 		<szWeaponName>HK CAWS</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
@@ -49483,7 +49483,7 @@
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5776</uiIndex>
+		<uiIndex>40</uiIndex>
 		<szWeaponName>M79 Grenade Launcher</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubReadyTime>5</ubReadyTime>
@@ -50737,7 +50737,7 @@
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5873</uiIndex>
+		<uiIndex>37</uiIndex>
 		<szWeaponName>Combat Knife</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>14</ubShotsPer4Turns>

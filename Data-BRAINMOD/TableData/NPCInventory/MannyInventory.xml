@@ -2,12 +2,12 @@
 <INVENTORYLIST>
 	<INVENTORY>
 		<uiIndex>0</uiIndex>
-		<sItemIndex>1921</sItemIndex>
+		<sItemIndex>256</sItemIndex>
 		<ubOptimalNumber>12</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>1</uiIndex>
-		<sItemIndex>1931</sItemIndex>
+		<sItemIndex>255</sItemIndex>
 		<ubOptimalNumber>6</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
@@ -77,7 +77,7 @@
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>15</uiIndex>
-		<sItemIndex>1951</sItemIndex>
+		<sItemIndex>269</sItemIndex>
 		<ubOptimalNumber>2</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
