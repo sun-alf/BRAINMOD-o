@@ -5,16 +5,17 @@ import xml.etree.ElementTree as ET;
 # Script setup values
 #
 TABLE_DATA_ROOT = r'D:\Programs\JaggedAlliance2\Data-BRAINMOD\TableData';
-MOVE_ITEMS_IDS_LIST = r'E:\Upload\id_list.txt';
+MOVE_ITEMS_IDS_LIST = r'E:\id_list.txt';
 
 
 #
 # Constants, functions, classes etc
 #
 class Rule():
-    def __init__(self, relativePath, fileName, newFileName, processorFunc):        
+    def __init__(self, relativePath, fileName, newRelativePath, newFileName, processorFunc):        
         self.relativePath = relativePath;
         self.fileName = fileName;
+        self.newRelativePath = newRelativePath;
         self.newFileName = newFileName;
         self.processorFunc = processorFunc;
         self.dirty = False;
@@ -29,12 +30,18 @@ class Rule():
     def Process(self, itemId, newItemId):
         if self.xmlTree == None:
             self.xmlTree = ET.parse(self.GetFullPath());
-        self.dirty = self.dirty or self.processorFunc(self.xmlTree.getroot(), itemId, newItemId);
+        self.dirty = self.processorFunc(self.xmlTree.getroot(), itemId, newItemId) or self.dirty;
         
     def Save(self):
         result = self.dirty;
         if self.dirty:
-            fullpathNew = os.path.join(self.relativePath, self.newFileName);
+            fullpathNew = os.path.join(self.relativePath, self.newRelativePath);
+            if self.newRelativePath != None and self.newRelativePath != "":
+                newDirPath = os.path.join(TABLE_DATA_ROOT, fullpathNew);
+                if not os.path.exists(newDirPath):
+                    os.makedirs(newDirPath);
+            
+            fullpathNew = os.path.join(fullpathNew, self.newFileName);
             fullpathNew = os.path.join(TABLE_DATA_ROOT, fullpathNew);
             f = open(fullpathNew, "w");
             f.write(r'<?xml version="1.0" encoding="utf-8"?>' + '\n');
@@ -209,7 +216,7 @@ def Proc_Items(root, oldId, newId):
                 uiIndexObj = tagObj;
             elif tagObj.tag == "szLongItemName":
                 szNameObj = tagObj;
-        if szNameObj.text.lower() == "placeholder":  # if "wrong" name text, put desired one -- Placeholder XXX.
+        if szNameObj.text.lower().find("placeholder") != -1:  # if it's a Placeholder -- put "Placeholder XXX" as item name.
             szNameObj.text = "Placeholder {0}".format(uiIndexObj.text);
 
     oldItemIdx = None;
@@ -241,57 +248,57 @@ def Proc_Items(root, oldId, newId):
 
 
 g_rules = [
-    Rule("Inventory", "EnemyGunChoices.xml", "NEW_EnemyGunChoices.xml", Proc_GunItemChoices),
-    Rule("Inventory", "EnemyItemChoices.xml", "NEW_EnemyItemChoices.xml", Proc_GunItemChoices),
-    Rule("Inventory", "GunChoices_Enemy_Admin.xml", "NEW_GunChoices_Enemy_Admin.xml", Proc_GunItemChoices),
-    Rule("Inventory", "GunChoices_Enemy_Elite.xml", "NEW_GunChoices_Enemy_Elite.xml", Proc_GunItemChoices),
-    Rule("Inventory", "GunChoices_Enemy_Regular.xml", "NEW_GunChoices_Enemy_Regular.xml", Proc_GunItemChoices),
-    Rule("Inventory", "GunChoices_Militia_Elite.xml", "NEW_GunChoices_Militia_Elite.xml", Proc_GunItemChoices),
-    Rule("Inventory", "GunChoices_Militia_Green.xml", "NEW_GunChoices_Militia_Green.xml", Proc_GunItemChoices),
-    Rule("Inventory", "GunChoices_Militia_Regular.xml", "NEW_GunChoices_Militia_Regular.xml", Proc_GunItemChoices),
-    Rule("Inventory", "IMPItemChoices.xml", "NEW_IMPItemChoices.xml", Proc_GunItemChoices),
-    Rule("Inventory", "ItemChoices_Enemy_Admin.xml", "NEW_ItemChoices_Enemy_Admin.xml", Proc_GunItemChoices),
-    Rule("Inventory", "ItemChoices_Enemy_Elite.xml", "NEW_ItemChoices_Enemy_Elite.xml", Proc_GunItemChoices),
-    Rule("Inventory", "ItemChoices_Enemy_Regular.xml", "NEW_ItemChoices_Enemy_Regular.xml", Proc_GunItemChoices),
-    Rule("Inventory", "ItemChoices_Militia_Elite.xml", "NEW_ItemChoices_Militia_Elite.xml", Proc_GunItemChoices),
-    Rule("Inventory", "ItemChoices_Militia_Green.xml", "NEW_ItemChoices_Militia_Green.xml", Proc_GunItemChoices),
-    Rule("Inventory", "ItemChoices_Militia_Regular.xml", "NEW_ItemChoices_Militia_Regular.xml", Proc_GunItemChoices),
-    Rule("Inventory", "MercStartingGear.xml", "NEW_MercStartingGear.xml", Proc_MercStartingGear),
+    Rule("Inventory", "EnemyGunChoices.xml", "NEW", "EnemyGunChoices.xml", Proc_GunItemChoices),
+    Rule("Inventory", "EnemyItemChoices.xml", "NEW", "EnemyItemChoices.xml", Proc_GunItemChoices),
+    Rule("Inventory", "GunChoices_Enemy_Admin.xml", "NEW", "GunChoices_Enemy_Admin.xml", Proc_GunItemChoices),
+    Rule("Inventory", "GunChoices_Enemy_Elite.xml", "NEW", "GunChoices_Enemy_Elite.xml", Proc_GunItemChoices),
+    Rule("Inventory", "GunChoices_Enemy_Regular.xml", "NEW", "GunChoices_Enemy_Regular.xml", Proc_GunItemChoices),
+    Rule("Inventory", "GunChoices_Militia_Elite.xml", "NEW", "GunChoices_Militia_Elite.xml", Proc_GunItemChoices),
+    Rule("Inventory", "GunChoices_Militia_Green.xml", "NEW", "GunChoices_Militia_Green.xml", Proc_GunItemChoices),
+    Rule("Inventory", "GunChoices_Militia_Regular.xml", "NEW", "GunChoices_Militia_Regular.xml", Proc_GunItemChoices),
+    Rule("Inventory", "IMPItemChoices.xml", "NEW", "IMPItemChoices.xml", Proc_GunItemChoices),
+    Rule("Inventory", "ItemChoices_Enemy_Admin.xml", "NEW", "ItemChoices_Enemy_Admin.xml", Proc_GunItemChoices),
+    Rule("Inventory", "ItemChoices_Enemy_Elite.xml", "NEW", "ItemChoices_Enemy_Elite.xml", Proc_GunItemChoices),
+    Rule("Inventory", "ItemChoices_Enemy_Regular.xml", "NEW", "ItemChoices_Enemy_Regular.xml", Proc_GunItemChoices),
+    Rule("Inventory", "ItemChoices_Militia_Elite.xml", "NEW", "ItemChoices_Militia_Elite.xml", Proc_GunItemChoices),
+    Rule("Inventory", "ItemChoices_Militia_Green.xml", "NEW", "ItemChoices_Militia_Green.xml", Proc_GunItemChoices),
+    Rule("Inventory", "ItemChoices_Militia_Regular.xml", "NEW", "ItemChoices_Militia_Regular.xml", Proc_GunItemChoices),
+    Rule("Inventory", "MercStartingGear.xml", "NEW", "MercStartingGear.xml", Proc_MercStartingGear),
     
-    Rule("Items", "AttachmentComboMerges.xml", "NEW_AttachmentComboMerges.xml", Proc_AttachmentComboMerges),
-    Rule("Items", "AttachmentInfo.xml", "NEW_AttachmentInfo.xml", Proc_AttachmentComboMerges),
-    Rule("Items", "Attachments.xml", "NEW_Attachments.xml", Proc_Attachments),
-    Rule("Items", "CompatibleFaceItems.xml", "NEW_CompatibleFaceItems.xml", Proc_CompatibleFaceItems),
-    Rule("Items", "IncompatibleAttachments.xml", "NEW_IncompatibleAttachments.xml", Proc_IncompatibleAttachments),
-    Rule("Items", "IncompatibleAttachments_2.xml", "NEW_IncompatibleAttachments_2.xml", Proc_IncompatibleAttachments),
-    Rule("Items", "Item_Transformations.xml", "NEW_Item_Transformations.xml", Proc_Item_Transformations),
-    Rule("Items", "Items.xml", "NEW_Items.xml", Proc_Items),
-    Rule("Items", "Launchables.xml", "NEW_Launchables.xml", Proc_Launchables),
-    Rule("Items", "Merges.xml", "NEW_Merges.xml", Proc_Merges),
-    Rule("Items", "StructureConstruct.xml", "NEW_StructureConstruct.xml", Proc_StructureConstruct),
-    Rule("Items", "StructureDeconstruct.xml", "NEW_StructureDeconstruct.xml", Proc_StructureConstruct),
-    Rule("Items", "Weapons.xml", "NEW_Weapons.xml", Proc_Weapons),
+    Rule("Items", "AttachmentComboMerges.xml", "NEW", "AttachmentComboMerges.xml", Proc_AttachmentComboMerges),
+    Rule("Items", "AttachmentInfo.xml", "NEW", "AttachmentInfo.xml", Proc_AttachmentComboMerges),
+    Rule("Items", "Attachments.xml", "NEW", "Attachments.xml", Proc_Attachments),
+    Rule("Items", "CompatibleFaceItems.xml", "NEW", "CompatibleFaceItems.xml", Proc_CompatibleFaceItems),
+    Rule("Items", "IncompatibleAttachments.xml", "NEW", "IncompatibleAttachments.xml", Proc_IncompatibleAttachments),
+    Rule("Items", "IncompatibleAttachments_2.xml", "NEW", "IncompatibleAttachments_2.xml", Proc_IncompatibleAttachments),
+    Rule("Items", "Item_Transformations.xml", "NEW", "Item_Transformations.xml", Proc_Item_Transformations),
+    Rule("Items", "Items.xml", "NEW", "Items.xml", Proc_Items),
+    Rule("Items", "Launchables.xml", "NEW", "Launchables.xml", Proc_Launchables),
+    Rule("Items", "Merges.xml", "NEW", "Merges.xml", Proc_Merges),
+    Rule("Items", "StructureConstruct.xml", "NEW", "StructureConstruct.xml", Proc_StructureConstruct),
+    Rule("Items", "StructureDeconstruct.xml", "NEW", "StructureDeconstruct.xml", Proc_StructureConstruct),
+    Rule("Items", "Weapons.xml", "NEW", "Weapons.xml", Proc_Weapons),
     
-    Rule("NPCInventory", "AlbertoInventory.xml","NEW_AlbertoInventory.xml", Proc_NpcInventory),
-    Rule("NPCInventory", "ArnieInventory.xml",  "NEW_ArnieInventory.xml",   Proc_NpcInventory),
-    Rule("NPCInventory", "CarloInventory.xml",  "NEW_CarloInventory.xml",   Proc_NpcInventory),
-    Rule("NPCInventory", "DevinInventory.xml",  "NEW_DevinInventory.xml",   Proc_NpcInventory),
-    Rule("NPCInventory", "ElginInventory.xml",  "NEW_ElginInventory.xml",   Proc_NpcInventory),
-    Rule("NPCInventory", "FrankInventory.xml",  "NEW_FrankInventory.xml",   Proc_NpcInventory),
-    Rule("NPCInventory", "FranzInventory.xml",  "NEW_FranzInventory.xml",   Proc_NpcInventory),
-    Rule("NPCInventory", "FredoInventory.xml",  "NEW_FredoInventory.xml",   Proc_NpcInventory),
-    Rule("NPCInventory", "GabbyInventory.xml",  "NEW_GabbyInventory.xml",   Proc_NpcInventory),
-    Rule("NPCInventory", "HerveInventory.xml",  "NEW_HerveInventory.xml",   Proc_NpcInventory),
-    Rule("NPCInventory", "HowardInventory.xml", "NEW_HowardInventory.xml",  Proc_NpcInventory),
-    Rule("NPCInventory", "JakeInventory.xml",   "NEW_JakeInventory.xml",    Proc_NpcInventory),
-    Rule("NPCInventory", "KeithInventory.xml",  "NEW_KeithInventory.xml",   Proc_NpcInventory),
-    Rule("NPCInventory", "MannyInventory.xml",  "NEW_MannyInventory.xml",   Proc_NpcInventory),
-    Rule("NPCInventory", "MickeyInventory.xml", "NEW_MickeyInventory.xml",  Proc_NpcInventory),
-    Rule("NPCInventory", "PerkoInventory.xml",  "NEW_PerkoInventory.xml",   Proc_NpcInventory),
-    Rule("NPCInventory", "PeterInventory.xml",  "NEW_PeterInventory.xml",   Proc_NpcInventory),
-    Rule("NPCInventory", "SamInventory.xml",    "NEW_SamInventory.xml",     Proc_NpcInventory),
-    Rule("NPCInventory", "TinaInventory.xml",   "NEW_TinaInventory.xml",    Proc_NpcInventory),
-    Rule("NPCInventory", "TonyInventory.xml",   "NEW_TonyInventory.xml",    Proc_NpcInventory)
+    Rule("NPCInventory", "AlbertoInventory.xml","NEW", "AlbertoInventory.xml", Proc_NpcInventory),
+    Rule("NPCInventory", "ArnieInventory.xml",  "NEW", "ArnieInventory.xml",   Proc_NpcInventory),
+    Rule("NPCInventory", "CarloInventory.xml",  "NEW", "CarloInventory.xml",   Proc_NpcInventory),
+    Rule("NPCInventory", "DevinInventory.xml",  "NEW", "DevinInventory.xml",   Proc_NpcInventory),
+    Rule("NPCInventory", "ElginInventory.xml",  "NEW", "ElginInventory.xml",   Proc_NpcInventory),
+    Rule("NPCInventory", "FrankInventory.xml",  "NEW", "FrankInventory.xml",   Proc_NpcInventory),
+    Rule("NPCInventory", "FranzInventory.xml",  "NEW", "FranzInventory.xml",   Proc_NpcInventory),
+    Rule("NPCInventory", "FredoInventory.xml",  "NEW", "FredoInventory.xml",   Proc_NpcInventory),
+    Rule("NPCInventory", "GabbyInventory.xml",  "NEW", "GabbyInventory.xml",   Proc_NpcInventory),
+    Rule("NPCInventory", "HerveInventory.xml",  "NEW", "HerveInventory.xml",   Proc_NpcInventory),
+    Rule("NPCInventory", "HowardInventory.xml", "NEW", "HowardInventory.xml",  Proc_NpcInventory),
+    Rule("NPCInventory", "JakeInventory.xml",   "NEW", "JakeInventory.xml",    Proc_NpcInventory),
+    Rule("NPCInventory", "KeithInventory.xml",  "NEW", "KeithInventory.xml",   Proc_NpcInventory),
+    Rule("NPCInventory", "MannyInventory.xml",  "NEW", "MannyInventory.xml",   Proc_NpcInventory),
+    Rule("NPCInventory", "MickeyInventory.xml", "NEW", "MickeyInventory.xml",  Proc_NpcInventory),
+    Rule("NPCInventory", "PerkoInventory.xml",  "NEW", "PerkoInventory.xml",   Proc_NpcInventory),
+    Rule("NPCInventory", "PeterInventory.xml",  "NEW", "PeterInventory.xml",   Proc_NpcInventory),
+    Rule("NPCInventory", "SamInventory.xml",    "NEW", "SamInventory.xml",     Proc_NpcInventory),
+    Rule("NPCInventory", "TinaInventory.xml",   "NEW", "TinaInventory.xml",    Proc_NpcInventory),
+    Rule("NPCInventory", "TonyInventory.xml",   "NEW", "TonyInventory.xml",    Proc_NpcInventory)
 ];
 
 
@@ -307,7 +314,7 @@ class RulesManager():
         for item in cls._moveItemIdList:
             for rule in cls._rules:
                 rule.Process(item[cls.IDX_OLD], item[cls.IDX_NEW]);
-                print("    {0} -> {1}".format(item[cls.IDX_OLD], item[cls.IDX_NEW]));
+            print("    {0} -> {1}".format(item[cls.IDX_OLD], item[cls.IDX_NEW]));
         print("");
                 
         print("Changed files:");
