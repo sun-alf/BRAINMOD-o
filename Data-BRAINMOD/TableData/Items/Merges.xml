@@ -3080,24 +3080,22 @@
 		<mergeType>3</mergeType>
 		<APCost>50</APCost>
 	</MERGE>
-	<!--
-	<MERGE>
-		<firstItemIndex>305</firstItemIndex>
-		<secondItemIndex>306</secondItemIndex>
-		<firstResultingItemIndex>1288</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>60</APCost>
-	</MERGE>
 	<MERGE>
 		<firstItemIndex>306</firstItemIndex>
-		<secondItemIndex>305</secondItemIndex>
-		<firstResultingItemIndex>1288</firstResultingItemIndex>
+		<secondItemIndex>304</secondItemIndex>
+		<firstResultingItemIndex>2515</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
-		<APCost>60</APCost>
+		<APCost>100</APCost>
 	</MERGE>
-	-->
+	<MERGE>
+		<firstItemIndex>304</firstItemIndex>
+		<secondItemIndex>306</secondItemIndex>
+		<firstResultingItemIndex>2515</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>100</APCost>
+	</MERGE>
 	<MERGE>
 		<firstItemIndex>309</firstItemIndex>
 		<secondItemIndex>224</secondItemIndex>
