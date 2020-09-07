@@ -12273,7 +12273,7 @@
 		<APCost>50</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2281</firstItemIndex>
+		<firstItemIndex>151</firstItemIndex>
 		<secondItemIndex>393</secondItemIndex>
 		<firstResultingItemIndex>2566</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
@@ -12434,7 +12434,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>2401</firstItemIndex>
-		<secondItemIndex>2281</secondItemIndex>
+		<secondItemIndex>151</secondItemIndex>
 		<firstResultingItemIndex>2481</firstResultingItemIndex>
 		<secondResultingItemIndex>2401</secondResultingItemIndex>
 		<mergeType>4</mergeType>
