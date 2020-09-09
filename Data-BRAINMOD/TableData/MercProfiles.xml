@@ -17133,7 +17133,7 @@
 		<bWisdom>82</bWisdom>
 		<bMarksmanship>69</bMarksmanship>
 		<bExplosive>16</bExplosive>
-		<bLeadership>62</bLeadership>
+		<bLeadership>27</bLeadership>
 		<bMedical>26</bMedical>
 		<bMechanical>22</bMechanical>
 		<bExpLevel>2</bExpLevel>
@@ -17141,7 +17141,7 @@
 		<bOldSkillTrait>5</bOldSkillTrait>
 		<bOldSkillTrait2>5</bOldSkillTrait2>
 		<bNewSkillTrait1>12</bNewSkillTrait1>
-		<bNewSkillTrait2>17</bNewSkillTrait2>
+		<bNewSkillTrait2>14</bNewSkillTrait2>
 		<bNewSkillTrait3>15</bNewSkillTrait3>
 		<bBuddy1>255</bBuddy1>
 		<bBuddy2>255</bBuddy2>
@@ -22968,9 +22968,9 @@
 		<bWisdom>81</bWisdom>
 		<bMarksmanship>95</bMarksmanship>
 		<bExplosive>5</bExplosive>
-		<bLeadership>22</bLeadership>
+		<bLeadership>52</bLeadership>
 		<bMedical>15</bMedical>
-		<bMechanical>68</bMechanical>
+		<bMechanical>48</bMechanical>
 		<bExpLevel>5</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>14</bOldSkillTrait>
@@ -23007,9 +23007,9 @@
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>3900</sSalary>
-		<uiWeeklySalary>24000</uiWeeklySalary>
-		<uiBiWeeklySalary>42000</uiBiWeeklySalary>
+		<sSalary>3950</sSalary>
+		<uiWeeklySalary>24300</uiWeeklySalary>
+		<uiBiWeeklySalary>42600</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>4000</sMedicalDepositAmount>
 		<usOptionalGearCost>2699</usOptionalGearCost>
