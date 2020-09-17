@@ -1090,19 +1090,19 @@
 	<!-- Night Vision Goggles, Gen. I -->
 	<ITEM>
 		<uiIndex>211</uiIndex>
-		<Type>4</Type>
-		<szFile>FACES\FACESGEAR\Face_NightVisionGogglesGenI</szFile>
+		<Type>0</Type>
+		<szFile></szFile>
 	</ITEM>
 	<ITEM>
 		<uiIndex>212</uiIndex>
-		<Type>4</Type>
-		<szFile>FACES\FACESGEAR\Face_SunGoggles</szFile>
+		<Type>0</Type>
+		<szFile></szFile>
 	</ITEM>
 	<!-- Gas Mask -->
 	<ITEM>
 		<uiIndex>213</uiIndex>
-		<Type>3</Type>
-		<szFile>FACES\FACESGEAR\Face_GasMask</szFile>
+		<Type>0</Type>
+		<szFile></szFile>
 	</ITEM>
 	<ITEM>
 		<uiIndex>214</uiIndex>
@@ -1267,8 +1267,8 @@
 	<!-- Night Vision Goggles, Gen. II -->
 	<ITEM>
 		<uiIndex>246</uiIndex>
-		<Type>4</Type>
-		<szFile>FACES\FACESGEAR\Face_NightVisionGogglesGenI</szFile>
+		<Type>0</Type>
+		<szFile></szFile>
 	</ITEM>
 	<ITEM>
 		<uiIndex>247</uiIndex>
@@ -1504,8 +1504,8 @@
 	<!-- SWAT Helmet -->
 	<ITEM>
 		<uiIndex>293</uiIndex>
-		<Type>2</Type>
-		<szFile>FACES\FACESGEAR\Face_SWAT_Helmet</szFile>
+		<Type>0</Type>
+		<szFile></szFile>
 	</ITEM>
 	<ITEM>
 		<uiIndex>294</uiIndex>
