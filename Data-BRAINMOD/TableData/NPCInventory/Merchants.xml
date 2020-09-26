@@ -182,9 +182,9 @@ uiFlags must be of
     <ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
     <iInitialCash>15000</iInitialCash>
     <uiFlags>1342177280</uiFlags>
-    <dailyIncrement>25000</dailyIncrement>
-    <dailyMaximum>25000</dailyMaximum>
-    <dailyRetained>20000</dailyRetained>
+    <dailyIncrement>2500</dailyIncrement>
+    <dailyMaximum>80000</dailyMaximum>
+    <dailyRetained>90</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>1</addToCoolness>
@@ -203,9 +203,9 @@ uiFlags must be of
     <ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
     <iInitialCash>5000</iInitialCash>
     <uiFlags>1342177280</uiFlags>
-    <dailyIncrement>1500</dailyIncrement>
-    <dailyMaximum>25000</dailyMaximum>
-    <dailyRetained>25000</dailyRetained>
+    <dailyIncrement>1000</dailyIncrement>
+    <dailyMaximum>50000</dailyMaximum>
+    <dailyRetained>90</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -225,8 +225,8 @@ uiFlags must be of
     <iInitialCash>1500</iInitialCash>
     <uiFlags>402653184</uiFlags>
     <dailyIncrement>750</dailyIncrement>
-    <dailyMaximum>5000</dailyMaximum>
-    <dailyRetained>5000</dailyRetained>
+    <dailyMaximum>10000</dailyMaximum>
+    <dailyRetained>85</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -245,9 +245,9 @@ uiFlags must be of
     <ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
     <iInitialCash>2500</iInitialCash>
     <uiFlags>402653184</uiFlags>
-    <dailyIncrement>2500</dailyIncrement>
-    <dailyMaximum>2500</dailyMaximum>
-    <dailyRetained>2500</dailyRetained>
+    <dailyIncrement>500</dailyIncrement>
+    <dailyMaximum>25000</dailyMaximum>
+    <dailyRetained>90</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -266,9 +266,9 @@ uiFlags must be of
     <ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
     <iInitialCash>3000</iInitialCash>
     <uiFlags>268435456</uiFlags>
-    <dailyIncrement>3000</dailyIncrement>
-    <dailyMaximum>3000</dailyMaximum>
-    <dailyRetained>0</dailyRetained>
+    <dailyIncrement>300</dailyIncrement>
+    <dailyMaximum>13000</dailyMaximum>
+    <dailyRetained>80</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -287,9 +287,9 @@ uiFlags must be of
     <ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
     <iInitialCash>5000</iInitialCash>
     <uiFlags>268435456</uiFlags>
-    <dailyIncrement>5000</dailyIncrement>
-    <dailyMaximum>5000</dailyMaximum>
-    <dailyRetained>0</dailyRetained>
+    <dailyIncrement>1000</dailyIncrement>
+    <dailyMaximum>25000</dailyMaximum>
+    <dailyRetained>95</dailyRetained>
     <minCoolness>3</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -308,9 +308,9 @@ uiFlags must be of
     <ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
     <iInitialCash>3000</iInitialCash>
     <uiFlags>268435456</uiFlags>
-    <dailyIncrement>3000</dailyIncrement>
-    <dailyMaximum>3000</dailyMaximum>
-    <dailyRetained>0</dailyRetained>
+    <dailyIncrement>350</dailyIncrement>
+    <dailyMaximum>30000</dailyMaximum>
+    <dailyRetained>70</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -329,9 +329,9 @@ uiFlags must be of
     <ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
     <iInitialCash>3000</iInitialCash>
     <uiFlags>268435456</uiFlags>
-    <dailyIncrement>3000</dailyIncrement>
-    <dailyMaximum>3000</dailyMaximum>
-    <dailyRetained>0</dailyRetained>
+    <dailyIncrement>1000</dailyIncrement>
+    <dailyMaximum>30000</dailyMaximum>
+    <dailyRetained>80</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -350,9 +350,9 @@ uiFlags must be of
     <ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
     <iInitialCash>500</iInitialCash>
     <uiFlags>536870912</uiFlags>
-    <dailyIncrement>500</dailyIncrement>
-    <dailyMaximum>500</dailyMaximum>
-    <dailyRetained>0</dailyRetained>
+    <dailyIncrement>100</dailyIncrement>
+    <dailyMaximum>5000</dailyMaximum>
+    <dailyRetained>60</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -372,8 +372,8 @@ uiFlags must be of
     <iInitialCash>250</iInitialCash>
     <uiFlags>536870912</uiFlags>
     <dailyIncrement>250</dailyIncrement>
-    <dailyMaximum>250</dailyMaximum>
-    <dailyRetained>0</dailyRetained>
+    <dailyMaximum>2500</dailyMaximum>
+    <dailyRetained>40</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -393,8 +393,8 @@ uiFlags must be of
     <iInitialCash>250</iInitialCash>
     <uiFlags>536870912</uiFlags>
     <dailyIncrement>250</dailyIncrement>
-    <dailyMaximum>250</dailyMaximum>
-    <dailyRetained>0</dailyRetained>
+    <dailyMaximum>2500</dailyMaximum>
+    <dailyRetained>100</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -414,8 +414,8 @@ uiFlags must be of
     <iInitialCash>250</iInitialCash>
     <uiFlags>536870912</uiFlags>
     <dailyIncrement>250</dailyIncrement>
-    <dailyMaximum>250</dailyMaximum>
-    <dailyRetained>0</dailyRetained>
+    <dailyMaximum>2500</dailyMaximum>
+    <dailyRetained>100</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -435,8 +435,8 @@ uiFlags must be of
     <iInitialCash>250</iInitialCash>
     <uiFlags>536870912</uiFlags>
     <dailyIncrement>250</dailyIncrement>
-    <dailyMaximum>250</dailyMaximum>
-    <dailyRetained>0</dailyRetained>
+    <dailyMaximum>2500</dailyMaximum>
+    <dailyRetained>95</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -449,15 +449,15 @@ uiFlags must be of
 	<MERCHANT>
     <uiIndex>13</uiIndex>
     <szName>Micky</szName>
-    <dBuyModifier>1.5</dBuyModifier>
+    <dBuyModifier>1.1</dBuyModifier>
     <dSellModifier>1.4</dSellModifier>
     <ubShopKeeperID>96</ubShopKeeperID>
     <ubTypeOfArmsDealer>2</ubTypeOfArmsDealer>
     <iInitialCash>10000</iInitialCash>
     <uiFlags>2415919104</uiFlags>
-    <dailyIncrement>10000</dailyIncrement>
+    <dailyIncrement>1000</dailyIncrement>
     <dailyMaximum>50000</dailyMaximum>
-    <dailyRetained>0</dailyRetained>
+    <dailyRetained>90</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -476,9 +476,9 @@ uiFlags must be of
     <ubTypeOfArmsDealer>3</ubTypeOfArmsDealer>
     <iInitialCash>1500</iInitialCash>
 	<uiFlags>268435456</uiFlags>
-    <dailyIncrement>1500</dailyIncrement>
-    <dailyMaximum>1500</dailyMaximum>
-    <dailyRetained>0</dailyRetained>
+    <dailyIncrement>800</dailyIncrement>
+    <dailyMaximum>15000</dailyMaximum>
+    <dailyRetained>70</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -497,9 +497,9 @@ uiFlags must be of
     <ubTypeOfArmsDealer>3</ubTypeOfArmsDealer>
     <iInitialCash>1000</iInitialCash>
     <uiFlags>2415919104</uiFlags>
-    <dailyIncrement>1000</dailyIncrement>
-    <dailyMaximum>1000</dailyMaximum>
-    <dailyRetained>0</dailyRetained>
+    <dailyIncrement>100</dailyIncrement>
+    <dailyMaximum>10000</dailyMaximum>
+    <dailyRetained>50</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -518,9 +518,9 @@ uiFlags must be of
     <ubTypeOfArmsDealer>3</ubTypeOfArmsDealer>
     <iInitialCash>1000</iInitialCash>
     <uiFlags>2415919104</uiFlags>
-    <dailyIncrement>1000</dailyIncrement>
-    <dailyMaximum>1000</dailyMaximum>
-    <dailyRetained>0</dailyRetained>
+    <dailyIncrement>200</dailyIncrement>
+    <dailyMaximum>10000</dailyMaximum>
+    <dailyRetained>50</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -540,8 +540,8 @@ uiFlags must be of
     <iInitialCash>500</iInitialCash>
     <uiFlags>536870912</uiFlags>
     <dailyIncrement>500</dailyIncrement>
-    <dailyMaximum>500</dailyMaximum>
-    <dailyRetained>0</dailyRetained>
+    <dailyMaximum>5000</dailyMaximum>
+    <dailyRetained>40</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -561,8 +561,8 @@ uiFlags must be of
     <iInitialCash>500</iInitialCash>
     <uiFlags>536870912</uiFlags>
     <dailyIncrement>500</dailyIncrement>
-    <dailyMaximum>500</dailyMaximum>
-    <dailyRetained>0</dailyRetained>
+    <dailyMaximum>5000</dailyMaximum>
+    <dailyRetained>65</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -581,9 +581,9 @@ uiFlags must be of
     <ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
     <iInitialCash>800</iInitialCash>
     <uiFlags>268435456</uiFlags>
-    <dailyIncrement>800</dailyIncrement>
-    <dailyMaximum>800</dailyMaximum>
-    <dailyRetained>0</dailyRetained>
+    <dailyIncrement>80</dailyIncrement>
+    <dailyMaximum>8000</dailyMaximum>
+    <dailyRetained>30</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -602,9 +602,9 @@ uiFlags must be of
     <ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
     <iInitialCash>100</iInitialCash>
     <uiFlags>536870912</uiFlags>
-    <dailyIncrement>100</dailyIncrement>
-    <dailyMaximum>100</dailyMaximum>
-    <dailyRetained>0</dailyRetained>
+    <dailyIncrement>10</dailyIncrement>
+    <dailyMaximum>3000</dailyMaximum>
+    <dailyRetained>35</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -616,23 +616,1042 @@ uiFlags must be of
 	</MERCHANT>
 	<MERCHANT>
     <uiIndex>21</uiIndex>
-    <szName>Betty</szName>
+    <szName>Kyle</szName>
     <dBuyModifier>1.0</dBuyModifier>
     <dSellModifier>1.0</dSellModifier>
-    <ubShopKeeperID>65</ubShopKeeperID>
-    <ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
-    <iInitialCash>3000</iInitialCash>
+    <ubShopKeeperID>95</ubShopKeeperID>
+    <ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+    <iInitialCash>2000</iInitialCash>
     <uiFlags>268435456</uiFlags>
-    <dailyIncrement>3000</dailyIncrement>
-    <dailyMaximum>3000</dailyMaximum>
-    <dailyRetained>0</dailyRetained>
+    <dailyIncrement>300</dailyIncrement>
+    <dailyMaximum>12000</dailyMaximum>
+    <dailyRetained>30</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
-    <addToCoolness>0</addToCoolness>
+    <addToCoolness>2</addToCoolness>
     <coolnessProgressRate>100</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
     <allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>22</uiIndex>
+		<szName>additional dealer 3</szName>
+		<dBuyModifier>0.8</dBuyModifier>
+		<dSellModifier>1.1</dSellModifier>
+		<ubShopKeeperID>255</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>300</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2000</dailyMaximum>
+		<dailyRetained>35</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>23</uiIndex>
+		<szName>additional dealer 4</szName>
+		<dBuyModifier>0.8</dBuyModifier>
+		<dSellModifier>1.1</dSellModifier>
+		<ubShopKeeperID>255</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>400</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2000</dailyMaximum>
+		<dailyRetained>45</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+	</MERCHANT>
+	<MERCHANT>
+ 		<uiIndex>24</uiIndex>
+		<szName>additional dealer 5</szName>
+		<dBuyModifier>0.8</dBuyModifier>
+		<dSellModifier>1.1</dSellModifier>
+		<ubShopKeeperID>255</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>500</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2000</dailyMaximum>
+		<dailyRetained>55</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>25</uiIndex>
+		<szName>additional dealer 6</szName>
+		<dBuyModifier>0.8</dBuyModifier>
+		<dSellModifier>1.1</dSellModifier>
+		<ubShopKeeperID>255</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>600</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2000</dailyMaximum>
+		<dailyRetained>65</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>26</uiIndex>
+		<szName>additional dealer 7</szName>
+		<dBuyModifier>0.8</dBuyModifier>
+		<dSellModifier>1.1</dSellModifier>
+		<ubShopKeeperID>255</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>700</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2000</dailyMaximum>
+		<dailyRetained>75</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>27</uiIndex>
+		<szName>additional dealer 8</szName>
+		<dBuyModifier>0.8</dBuyModifier>
+		<dSellModifier>1.1</dSellModifier>
+		<ubShopKeeperID>255</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>800</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2000</dailyMaximum>
+		<dailyRetained>15</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>28</uiIndex>
+		<szName>additional dealer 9</szName>
+		<dBuyModifier>0.8</dBuyModifier>
+		<dSellModifier>1.1</dSellModifier>
+		<ubShopKeeperID>255</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>900</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2000</dailyMaximum>
+		<dailyRetained>25</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>29</uiIndex>
+		<szName>additional dealer 10</szName>
+		<dBuyModifier>0.8</dBuyModifier>
+		<dSellModifier>1.1</dSellModifier>
+		<ubShopKeeperID>255</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>100</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2000</dailyMaximum>
+		<dailyRetained>35</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>30</uiIndex>
+		<szName>additional dealer 11</szName>
+		<dBuyModifier>0.8</dBuyModifier>
+		<dSellModifier>1.1</dSellModifier>
+		<ubShopKeeperID>255</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>100</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2000</dailyMaximum>
+		<dailyRetained>45</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>31</uiIndex>
+		<szName>additional dealer 12</szName>
+		<dBuyModifier>0.8</dBuyModifier>
+		<dSellModifier>1.1</dSellModifier>
+		<ubShopKeeperID>255</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>200</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2000</dailyMaximum>
+		<dailyRetained>25</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>32</uiIndex>
+		<szName>additional dealer 13</szName>
+		<dBuyModifier>0.8</dBuyModifier>
+		<dSellModifier>1.1</dSellModifier>
+		<ubShopKeeperID>255</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>300</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2000</dailyMaximum>
+		<dailyRetained>35</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>33</uiIndex>
+		<szName>additional dealer 14</szName>
+		<dBuyModifier>0.8</dBuyModifier>
+		<dSellModifier>1.1</dSellModifier>
+		<ubShopKeeperID>255</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>400</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2000</dailyMaximum>
+		<dailyRetained>45</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>34</uiIndex>
+		<szName>additional dealer 15</szName>
+		<dBuyModifier>0.8</dBuyModifier>
+		<dSellModifier>1.1</dSellModifier>
+		<ubShopKeeperID>255</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>500</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2000</dailyMaximum>
+		<dailyRetained>55</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>35</uiIndex>
+		<szName>additional dealer 16</szName>
+		<dBuyModifier>0.8</dBuyModifier>
+		<dSellModifier>1.1</dSellModifier>
+		<ubShopKeeperID>255</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>600</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2000</dailyMaximum>
+		<dailyRetained>65</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>36</uiIndex>
+		<szName>additional dealer 17</szName>
+		<dBuyModifier>0.8</dBuyModifier>
+		<dSellModifier>1.1</dSellModifier>
+		<ubShopKeeperID>255</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>700</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2000</dailyMaximum>
+		<dailyRetained>75</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>37</uiIndex>
+		<szName>additional dealer 18</szName>
+		<dBuyModifier>0.8</dBuyModifier>
+		<dSellModifier>1.1</dSellModifier>
+		<ubShopKeeperID>255</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>800</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2000</dailyMaximum>
+		<dailyRetained>85</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>38</uiIndex>
+		<szName>additional dealer 19</szName>
+		<dBuyModifier>0.8</dBuyModifier>
+		<dSellModifier>1.1</dSellModifier>
+		<ubShopKeeperID>255</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>900</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2000</dailyMaximum>
+		<dailyRetained>35</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>39</uiIndex>
+		<szName>additional dealer 20</szName>
+		<dBuyModifier>0.8</dBuyModifier>
+		<dSellModifier>1.1</dSellModifier>
+		<ubShopKeeperID>255</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>200</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2000</dailyMaximum>
+		<dailyRetained>95</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+	</MERCHANT>
+	<!-- a few non-profile-based merchants after this -->
+	<!-- The inventory files are numbered, for example, slot 40 uses AdditionalDealer_21_Inventory.xml, and so on -->
+	<MERCHANT>
+		<uiIndex>40</uiIndex>
+		<szName>A10 bunker rebel quartermaster</szName>
+		<dBuyModifier>0.2</dBuyModifier>
+		<dSellModifier>0.5</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>		<!-- Important: no profile -->
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>400</iInitialCash>
+		<uiFlags>1342177280</uiFlags>				<!-- gives us change, can have used items -->
+		<dailyIncrement>100</dailyIncrement>
+		<dailyMaximum>1800</dailyMaximum>
+		<dailyRetained>25</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>4</maxCoolness>
+		<addToCoolness>2</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>	<!-- doesn't always have everything -->
+		<nonprofile_loyaltyrequired>20</nonprofile_loyaltyrequired>		<!-- needs to trust you somewhat before he trades with you -->
+	</MERCHANT>
+	<!-- as there are several stores, we need to set up several merchantes, otherwise they'll share inventory and money -->
+	<MERCHANT>
+		<uiIndex>41</uiIndex>
+		<szName>general store Drassen (D13)</szName>
+		<dBuyModifier>0.7</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>500</iInitialCash>
+		<uiFlags>1342177280</uiFlags>
+		<dailyIncrement>300</dailyIncrement>
+		<dailyMaximum>7000</dailyMaximum>
+		<dailyRetained>50</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>20</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>42</uiIndex>
+		<szName>general store Alma (I14)</szName>
+		<dBuyModifier>0.7</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>500</iInitialCash>
+		<uiFlags>1342177280</uiFlags>
+		<dailyIncrement>500</dailyIncrement>
+		<dailyMaximum>10000</dailyMaximum>
+		<dailyRetained>50</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>20</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>43</uiIndex>
+		<szName>general store Cambria (G9)</szName>
+		<dBuyModifier>0.7</dBuyModifier>	<!-- slightly worse than Keith -->
+		<dSellModifier>1.05</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>500</iInitialCash>
+		<uiFlags>1342177280</uiFlags>
+		<dailyIncrement>200</dailyIncrement>
+		<dailyMaximum>10000</dailyMaximum>
+		<dailyRetained>50</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>20</nonprofile_loyaltyrequired>	<!-- likely earlier available than Keith -->
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>44</uiIndex>
+		<szName>general store Grumm (H1)</szName>
+		<dBuyModifier>0.7</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>500</iInitialCash>
+		<uiFlags>1342177280</uiFlags>
+		<dailyIncrement>400</dailyIncrement>
+		<dailyMaximum>10000</dailyMaximum>
+		<dailyRetained>50</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>20</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>45</uiIndex>
+		<szName>general store San Mona (C5)</szName>
+		<dBuyModifier>0.7</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>500</iInitialCash>
+		<uiFlags>1342177280</uiFlags>
+		<dailyIncrement>200</dailyIncrement>
+		<dailyMaximum>3000</dailyMaximum>
+		<dailyRetained>50</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>0</nonprofile_loyaltyrequired>		<!-- no loyalty required -->
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>46</uiIndex>
+		<szName>posh general store Meduna (O4)</szName>
+		<dBuyModifier>0.7</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>1000</iInitialCash>
+		<uiFlags>268435456</uiFlags>				<!-- change only, no used items -->
+		<dailyIncrement>400</dailyIncrement>
+		<dailyMaximum>5000</dailyMaximum>
+		<dailyRetained>100</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>1</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>30</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>47</uiIndex>
+		<szName>pharmacy Cambria (G9)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>		<!-- sells only -->
+		<iInitialCash>1500</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>100</dailyIncrement>
+		<dailyMaximum>3000</dailyMaximum>
+		<dailyRetained>50</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>20</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>48</uiIndex>
+		<szName>pharmacy Meduna (O4)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>		<!-- sells only -->
+		<iInitialCash>1500</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>500</dailyIncrement>
+		<dailyMaximum>3000</dailyMaximum>
+		<dailyRetained>50</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>30</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>49</uiIndex>
+		<szName>restaurant Cambria (G9)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
+		<iInitialCash>250</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>20</dailyIncrement>
+		<dailyMaximum>2000</dailyMaximum>
+		<dailyRetained>35</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>20</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>50</uiIndex>
+		<szName>restaurant Grumm (H1)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
+		<iInitialCash>250</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>25</dailyIncrement>
+		<dailyMaximum>2500</dailyMaximum>
+		<dailyRetained>45</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>20</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>51</uiIndex>
+		<szName>restaurant Balime gas station (L10)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
+		<iInitialCash>250</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>90</dailyIncrement>
+		<dailyMaximum>2500</dailyMaximum>
+		<dailyRetained>40</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>0</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>52</uiIndex>
+		<szName>restaurant San Mona (C5)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
+		<iInitialCash>250</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2500</dailyMaximum>
+		<dailyRetained>30</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>0</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>53</uiIndex>
+		<szName>restaurant Meduna 1 (O4)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
+		<iInitialCash>250</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>200</dailyIncrement>
+		<dailyMaximum>2500</dailyMaximum>
+		<dailyRetained>40</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>30</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>54</uiIndex>
+		<szName>restaurant Meduna 2 (O4)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
+		<iInitialCash>250</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>200</dailyIncrement>
+		<dailyMaximum>2500</dailyMaximum>
+		<dailyRetained>70</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>30</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>55</uiIndex>
+		<szName>wine store Drassen (D13)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
+		<iInitialCash>250</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2500</dailyMaximum>
+		<dailyRetained>50</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>20</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>56</uiIndex>
+		<szName>wine store Alma (I14)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
+		<iInitialCash>250</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2500</dailyMaximum>
+		<dailyRetained>80</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>20</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>57</uiIndex>
+		<szName>wine store Cambria (G9)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
+		<iInitialCash>250</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>100</dailyIncrement>
+		<dailyMaximum>2500</dailyMaximum>
+		<dailyRetained>70</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>20</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>58</uiIndex>
+		<szName>wine store Grumm (H1)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
+		<iInitialCash>250</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2500</dailyMaximum>
+		<dailyRetained>70</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>20</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>59</uiIndex>
+		<szName>wine store San Mona (C5)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
+		<iInitialCash>250</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>200</dailyIncrement>
+		<dailyMaximum>2500</dailyMaximum>
+		<dailyRetained>80</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>0</nonprofile_loyaltyrequired>		<!-- no loyalty required -->
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>60</uiIndex>
+		<szName>drug dealer Cambria ruins (F9)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>1.3</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
+		<iInitialCash>250</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2500</dailyMaximum>
+		<dailyRetained>90</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>1</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>0</nonprofile_loyaltyrequired>		<!-- no loyalty required -->
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>61</uiIndex>
+		<szName>tool shop Grumm (H1)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>1.3</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
+		<iInitialCash>250</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>50</dailyIncrement>
+		<dailyMaximum>2500</dailyMaximum>
+		<dailyRetained>80</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>1</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>20</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>62</uiIndex>
+		<szName>hunting store San Mona (C6)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
+		<iInitialCash>800</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>80</dailyIncrement>
+		<dailyMaximum>8000</dailyMaximum>
+		<dailyRetained>80</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>1</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>0</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>63</uiIndex>
+		<szName>construction materials store San Mona (C6)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
+		<iInitialCash>250</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>250</dailyIncrement>
+		<dailyMaximum>2500</dailyMaximum>
+		<dailyRetained>60</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>0</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>64</uiIndex>
+		<szName>luxury store Balime (L12)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>2.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
+		<iInitialCash>2000</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>300</dailyIncrement>
+		<dailyMaximum>7000</dailyMaximum>
+		<dailyRetained>25</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>1</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>20</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>65</uiIndex>
+		<szName>luxury store Meduna (O4)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>2.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
+		<iInitialCash>2000</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>400</dailyIncrement>
+		<dailyMaximum>8000</dailyMaximum>
+		<dailyRetained>20</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>1</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>20</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>66</uiIndex>
+		<szName>restaurant San Mona (C6)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
+		<iInitialCash>250</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>250</dailyIncrement>
+		<dailyMaximum>2500</dailyMaximum>
+		<dailyRetained>50</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>0</nonprofile_loyaltyrequired>
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>67</uiIndex>
+		<szName>armour store San Mona (C6)</szName>
+		<dBuyModifier>0.66</dBuyModifier>
+		<dSellModifier>1.1</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
+		<iInitialCash>2000</iInitialCash>
+		<uiFlags>1342177280</uiFlags>
+		<dailyIncrement>2000</dailyIncrement>
+		<dailyMaximum>5000</dailyMaximum>
+		<dailyRetained>20</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>0</nonprofile_loyaltyrequired>		<!-- no loyalty required -->
+	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>68</uiIndex>
+		<szName>Black Market dealer San Mona (C6)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>		<!-- Important: no profile -->
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
+		<iInitialCash>400</iInitialCash>
+		<uiFlags>16777216</uiFlags>					<!-- accepts only intel, no money -->
+		<dailyIncrement>400</dailyIncrement>
+		<dailyMaximum>800</dailyMaximum>
+		<dailyRetained>100</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>10</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>	<!-- doesn't always have everything -->
+		<nonprofile_loyaltyrequired>0</nonprofile_loyaltyrequired>		<!-- needs to trust you somewhat before he trades with you -->
 	</MERCHANT>
 </MERCHANTSLIST>
