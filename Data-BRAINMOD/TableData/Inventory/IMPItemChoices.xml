@@ -675,14 +675,14 @@
 	<IMPITEMCHOICES>
 		<uiIndex>12</uiIndex>
 		<name>Auto Weapons</name>
-		<ubChoices>4</ubChoices>
+		<ubChoices>6</ubChoices>
 		<ubNumItems>1</ubNumItems>
 		<bItemNo1>4440</bItemNo1>
 		<bItemNo2>4530</bItemNo2>
 		<bItemNo3>4577</bItemNo3>
 		<bItemNo4>5248</bItemNo4>
-		<bItemNo5>0</bItemNo5>
-		<bItemNo6>0</bItemNo6>
+		<bItemNo5>4403</bItemNo5>
+		<bItemNo6>4546</bItemNo6>
 		<bItemNo7>0</bItemNo7>
 		<bItemNo8>0</bItemNo8>
 		<bItemNo9>0</bItemNo9>
@@ -787,10 +787,10 @@
 	<IMPITEMCHOICES>
 		<uiIndex>14</uiIndex>
 		<name>Sniper</name>
-		<ubChoices>1</ubChoices>
+		<ubChoices>2</ubChoices>
 		<ubNumItems>1</ubNumItems>
 		<bItemNo1>4828</bItemNo1>
-		<bItemNo2>0</bItemNo2>
+		<bItemNo2>4758</bItemNo2>
 		<bItemNo3>0</bItemNo3>
 		<bItemNo4>0</bItemNo4>
 		<bItemNo5>0</bItemNo5>
@@ -1907,10 +1907,10 @@
 	<IMPITEMCHOICES>
 		<uiIndex>34</uiIndex>
 		<name>AUTO EXPERT</name>
-		<ubChoices>1</ubChoices>
+		<ubChoices>2</ubChoices>
 		<ubNumItems>1</ubNumItems>
 		<bItemNo1>5146</bItemNo1>
-		<bItemNo2>0</bItemNo2>
+		<bItemNo2>5356</bItemNo2>
 		<bItemNo3>0</bItemNo3>
 		<bItemNo4>0</bItemNo4>
 		<bItemNo5>0</bItemNo5>
