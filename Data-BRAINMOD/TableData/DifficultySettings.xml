@@ -228,8 +228,8 @@
 		<CounterAttackGroupSize>12</CounterAttackGroupSize>
 		<PercentElitesBonus>0</PercentElitesBonus>
 		<UnlimitedPoolOfTroops>0</UnlimitedPoolOfTroops>
-		<QueensInitialPoolOfTroops>350</QueensInitialPoolOfTroops>
-		<QueenPoolMaxSizePerDifficultyLevel>500</QueenPoolMaxSizePerDifficultyLevel>
+		<QueensInitialPoolOfTroops>560</QueensInitialPoolOfTroops>
+		<QueenPoolMaxSizePerDifficultyLevel>750</QueenPoolMaxSizePerDifficultyLevel>
 		<QueenPoolIncrementDaysPerDifficultyLevel>3</QueenPoolIncrementDaysPerDifficultyLevel>
 		<QueenPoolBaseIncrementSizePerDifficultyLevel>25</QueenPoolBaseIncrementSizePerDifficultyLevel>
 		<QueenPoolRecruitPercentPerDifficultyLevel>1</QueenPoolRecruitPercentPerDifficultyLevel>
@@ -308,7 +308,7 @@
 		<CounterAttackGroupSize>16</CounterAttackGroupSize>
 		<PercentElitesBonus>0</PercentElitesBonus>
 		<UnlimitedPoolOfTroops>0</UnlimitedPoolOfTroops>
-		<QueensInitialPoolOfTroops>600</QueensInitialPoolOfTroops>
+		<QueensInitialPoolOfTroops>750</QueensInitialPoolOfTroops>
 		<QueenPoolMaxSizePerDifficultyLevel>1000</QueenPoolMaxSizePerDifficultyLevel>
 		<QueenPoolIncrementDaysPerDifficultyLevel>3</QueenPoolIncrementDaysPerDifficultyLevel>
 		<QueenPoolBaseIncrementSizePerDifficultyLevel>40</QueenPoolBaseIncrementSizePerDifficultyLevel>
