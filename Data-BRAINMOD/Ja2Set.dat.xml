@@ -947,11 +947,11 @@
 				<file index="115">w_dec10.sti</file>
 				<file index="116">w_dec06.sti</file>
 				<!-- structure construct sti files -->
-				<file index="122">spot_1.sti</file>
-				<file index="35">spot_1s.sti</file>
-				<file index="41">crate.sti</file>
-				<file index="42">crate_s.sti</file>
-				<file index="47">build_06b.sti</file>
+				<file index="121">spot_1.sti</file>
+				<file index="122">spot_1s.sti</file>
+				<file index="43">crate.sti</file>
+				<file index="47">crate_s.sti</file>
+				<file index="35">build_06b.sti</file>
 				<file index="55">dump1.sti</file>
 				<file index="71">dump1_s.sti</file>
 				<file index="103">sandbag.sti</file>

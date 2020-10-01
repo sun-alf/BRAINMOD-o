@@ -17431,4 +17431,40 @@
 		<uiIndex>4154</uiIndex>
 		<sItemIndex>2030</sItemIndex>
 	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>4155</uiIndex>
+		<sItemIndex>8001</sItemIndex>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>4156</uiIndex>
+		<sItemIndex>8002</sItemIndex>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>4157</uiIndex>
+		<sItemIndex>8003</sItemIndex>
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>4158</uiIndex>
+		<sItemIndex>8004</sItemIndex>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>4159</uiIndex>
+		<sItemIndex>8005</sItemIndex>
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>4160</uiIndex>
+		<sItemIndex>8006</sItemIndex>
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>4161</uiIndex>
+		<sItemIndex>8007</sItemIndex>
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>4162</uiIndex>
+		<sItemIndex>8008</sItemIndex>
+	</INVENTORY>
 </INVENTORYLIST>
