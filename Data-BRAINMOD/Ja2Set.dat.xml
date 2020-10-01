@@ -534,8 +534,8 @@
 				<!-- structure construct sti files -->
 				<file index="34">spot_1.sti</file>
 				<file index="35">spot_1s.sti</file>
-				<file index="41">crate.sti</file>
-				<file index="42">crate_s.sti</file>
+				<file index="121">crate.sti</file>
+				<file index="122">crate_s.sti</file>
 				<file index="47">build_06b.sti</file>
 				<file index="55">dump1.sti</file>
 				<file index="71">dump1_s.sti</file>
@@ -1013,15 +1013,14 @@
 				<file index="116">w_dec06.sti</file>
 				<!-- structure construct sti files -->
 				<file index="121">spot_1.sti</file>
-				<file index="35">spot_1s.sti</file>
-				<file index="114">crate.sti</file>
+				<file index="122">spot_1s.sti</file>
+				<file index="111">crate.sti</file>
 				<file index="112">crate_s.sti</file>
-				<file index="111">build_06b.sti</file>
+				<file index="71">build_06b.sti</file>
 				<file index="55">dump1.sti</file>
-				<file index="71">dump1_s.sti</file>
-				<file index="122">drum_01.sti</file>
+				<file index="35">dump1_s.sti</file>
 				<file index="103">sandbag.sti</file>
-				<file index="104">sandbags.sti</file>
+				<file index="105">sandbags.sti</file>
 			</Files>
 		</Tileset>
 		<Tileset index="20">
