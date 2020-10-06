@@ -17319,8 +17319,7 @@
 		<sLocknLoadSound>106</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>20</bBurstAP>
-		<APsToReload>24</APsToReload>
-		<SwapClips>1</SwapClips>
+		<APsToReload>12</APsToReload>
 		<MaxDistForMessyDeath>10</MaxDistForMessyDeath>
 		<EasyUnjam>1</EasyUnjam>
 		<APsToReloadManually>14</APsToReloadManually>
