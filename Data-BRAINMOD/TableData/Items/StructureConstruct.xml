@@ -46,7 +46,7 @@
 	</STRUCTURE>
 	<STRUCTURE><!--concertina wire-->
 		<usCreationItem>1542</usCreationItem>
-		<usItemStatusLoss>10</usItemStatusLoss>
+		<usItemStatusLoss>20</usItemStatusLoss>
 		<szTileSetDisplayName>Barbed Wire</szTileSetDisplayName>
 		<szTileSetName>spot_1.sti</szTileSetName>
 		<dCreationCost>1.0</dCreationCost>
@@ -145,7 +145,7 @@
 		<usItemStatusLoss>100</usItemStatusLoss>
 		<szTileSetDisplayName>Md Wooden Planks</szTileSetDisplayName>
 		<szTileSetName>deb_02.sti</szTileSetName>
-		<dCreationCost>2.5</dCreationCost>
+		<dCreationCost>5.5</dCreationCost>
 		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
 		<northfacingtile>1</northfacingtile>
 		<southfacingtile>1</southfacingtile>
@@ -157,7 +157,7 @@
 		<usItemStatusLoss>100</usItemStatusLoss>
 		<szTileSetDisplayName>Lg Wooden Planks</szTileSetDisplayName>
 		<szTileSetName>deb_02.sti</szTileSetName>
-		<dCreationCost>2.5</dCreationCost>
+		<dCreationCost>10.5</dCreationCost>
 		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
 		<northfacingtile>0</northfacingtile>
 		<northfacingtile>3</northfacingtile>
@@ -201,7 +201,7 @@
 		<usItemStatusLoss>100</usItemStatusLoss>
 		<szTileSetDisplayName>Lg Wooden Wall dec</szTileSetDisplayName>
 		<szTileSetName>walldec1.sti</szTileSetName>
-		<dCreationCost>2.5</dCreationCost>
+		<dCreationCost>5.0</dCreationCost>
 		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
 		<northfacingtile>0</northfacingtile>
 		<northfacingtile>1</northfacingtile>
@@ -237,7 +237,7 @@
 		<usItemStatusLoss>100</usItemStatusLoss>
 		<szTileSetDisplayName>Lg Wooden Wall</szTileSetDisplayName>
 		<szTileSetName>build_06b.sti</szTileSetName>
-		<dCreationCost>2.5</dCreationCost>
+		<dCreationCost>5.0</dCreationCost>
 		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
 		<northfacingtile>3</northfacingtile>
 		<northfacingtile>4</northfacingtile>

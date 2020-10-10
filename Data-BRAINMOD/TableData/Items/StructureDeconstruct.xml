@@ -40,8 +40,8 @@
 		<!-- concertina wire -->
 		<usDeconstructItem>377</usDeconstructItem>
 		<usItemToCreate>1542</usItemToCreate>
-		<usCreatedItemStatus>10</usCreatedItemStatus>
-		<dCreationCost>1.0</dCreationCost>
+		<usCreatedItemStatus>20</usCreatedItemStatus>
+		<dCreationCost>1.5</dCreationCost>
 		<szTileSetDisplayName>Barbed Wire</szTileSetDisplayName>
 		<szTileSetName>spot_1.sti</szTileSetName>
 		<allowedtile>2</allowedtile>
@@ -55,8 +55,8 @@
 		<!-- concertina wire -->
 		<usDeconstructItem>377</usDeconstructItem>
 		<usItemToCreate>1542</usItemToCreate>
-		<usCreatedItemStatus>8</usCreatedItemStatus>
-		<dCreationCost>1.0</dCreationCost>
+		<usCreatedItemStatus>10</usCreatedItemStatus>
+		<dCreationCost>1.5</dCreationCost>
 		<szTileSetDisplayName>Barbed Wire</szTileSetDisplayName>
 		<szTileSetName>spot_1.sti</szTileSetName>
 		<allowedtile>8</allowedtile>
@@ -67,7 +67,7 @@
 		<usDeconstructItem>377</usDeconstructItem>
 		<usItemToCreate>1543</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<dCreationCost>1.0</dCreationCost>
+		<dCreationCost>2.5</dCreationCost>
 		<szTileSetDisplayName>Sm wooden planks</szTileSetDisplayName>
 		<szTileSetName>deb_02.sti</szTileSetName>
 		<allowedtile>6</allowedtile>
@@ -80,7 +80,7 @@
 		<usDeconstructItem>377</usDeconstructItem>
 		<usItemToCreate>1544</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<dCreationCost>1.0</dCreationCost>
+		<dCreationCost>5.5</dCreationCost>
 		<szTileSetDisplayName>Md wooden planks</szTileSetDisplayName>
 		<szTileSetName>deb_02.sti</szTileSetName>
 		<allowedtile>1</allowedtile>
@@ -91,7 +91,7 @@
 		<usDeconstructItem>377</usDeconstructItem>
 		<usItemToCreate>1545</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<dCreationCost>1.0</dCreationCost>
+		<dCreationCost>10.5</dCreationCost>
 		<szTileSetDisplayName>Lg wooden planks</szTileSetDisplayName>
 		<szTileSetName>deb_02.sti</szTileSetName>
 		<allowedtile>0</allowedtile>
@@ -114,7 +114,7 @@
 		<usDeconstructItem>377</usDeconstructItem>
 		<usItemToCreate>1549</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<dCreationCost>1.0</dCreationCost>
+		<dCreationCost>1.5</dCreationCost>
 		<szTileSetDisplayName>Md Tire</szTileSetDisplayName>
 		<szTileSetName>dump1.sti</szTileSetName>
 		<allowedtile>1</allowedtile>
@@ -124,7 +124,7 @@
 		<usDeconstructItem>377</usDeconstructItem>
 		<usItemToCreate>1550</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<dCreationCost>1.0</dCreationCost>
+		<dCreationCost>2.0</dCreationCost>
 		<szTileSetDisplayName>Lg Tire</szTileSetDisplayName>
 		<szTileSetName>dump1.sti</szTileSetName>
 		<allowedtile>2</allowedtile>
@@ -134,7 +134,7 @@
 		<usDeconstructItem>377</usDeconstructItem>
 		<usItemToCreate>1551</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<dCreationCost>1.0</dCreationCost>
+		<dCreationCost>0.5</dCreationCost>
 		<szTileSetDisplayName>Roadblock</szTileSetDisplayName>
 		<szTileSetName>dump1.sti</szTileSetName>
 		<allowedtile>9</allowedtile>
@@ -145,7 +145,7 @@
 		<usDeconstructItem>377</usDeconstructItem>
 		<usItemToCreate>1552</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<dCreationCost>1.0</dCreationCost>
+		<dCreationCost>0.5</dCreationCost>
 		<szTileSetDisplayName>Sawhorse</szTileSetDisplayName>
 		<szTileSetName>dump1.sti</szTileSetName>
 		<allowedtile>8</allowedtile>
@@ -156,7 +156,7 @@
 		<usDeconstructItem>377</usDeconstructItem>
 		<usItemToCreate>1553</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<dCreationCost>1.0</dCreationCost>
+		<dCreationCost>0.5</dCreationCost>
 		<szTileSetDisplayName>Gas drum</szTileSetDisplayName>
 		<szTileSetName>drum_01.sti</szTileSetName>
 		<allowedtile>6</allowedtile>
@@ -179,7 +179,7 @@
 		<!-- sandbag small -->
 		<usDeconstructItem>1411</usDeconstructItem>
 		<usItemToCreate>1539</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<usCreatedItemStatus>50</usCreatedItemStatus>
 		<dCreationCost>2.5</dCreationCost>
 		<szTileSetDisplayName>Sm Sandbags</szTileSetDisplayName>
 		<szTileSetName>sandbag.sti</szTileSetName>
@@ -193,7 +193,7 @@
 		<!-- sandbag medium -->
 		<usDeconstructItem>1411</usDeconstructItem>
 		<usItemToCreate>1540</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<usCreatedItemStatus>50</usCreatedItemStatus>
 		<dCreationCost>3.0</dCreationCost>
 		<szTileSetDisplayName>Md Sandbags</szTileSetDisplayName>
 		<szTileSetName>sandbag.sti</szTileSetName>
@@ -206,7 +206,7 @@
 		<!-- sandbagbarricade large -->
 		<usDeconstructItem>1411</usDeconstructItem>
 		<usItemToCreate>1541</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<usCreatedItemStatus>50</usCreatedItemStatus>
 		<dCreationCost>3.5</dCreationCost>
 		<szTileSetDisplayName>Lg Sandbags</szTileSetDisplayName>
 		<szTileSetName>sandbag.sti</szTileSetName>
@@ -216,8 +216,8 @@
 		<!-- concertina wire -->
 		<usDeconstructItem>1411</usDeconstructItem>
 		<usItemToCreate>1542</usItemToCreate>
-		<usCreatedItemStatus>10</usCreatedItemStatus>
-		<dCreationCost>1.0</dCreationCost>
+		<usCreatedItemStatus>20</usCreatedItemStatus>
+		<dCreationCost>1.5</dCreationCost>
 		<szTileSetDisplayName>Barbed Wire</szTileSetDisplayName>
 		<szTileSetName>spot_1.sti</szTileSetName>
 		<allowedtile>2</allowedtile>
@@ -231,8 +231,8 @@
 		<!-- concertina wire -->
 		<usDeconstructItem>1411</usDeconstructItem>
 		<usItemToCreate>1542</usItemToCreate>
-		<usCreatedItemStatus>5</usCreatedItemStatus>
-		<dCreationCost>1.0</dCreationCost>
+		<usCreatedItemStatus>10</usCreatedItemStatus>
+		<dCreationCost>1.5</dCreationCost>
 		<szTileSetDisplayName>Barbed Wire</szTileSetDisplayName>
 		<szTileSetName>spot_1.sti</szTileSetName>
 		<allowedtile>8</allowedtile>
@@ -256,7 +256,7 @@
 		<!-- sandbag small -->
 		<usDeconstructItem>1412</usDeconstructItem>
 		<usItemToCreate>1539</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<usCreatedItemStatus>50</usCreatedItemStatus>
 		<dCreationCost>2.5</dCreationCost>
 		<szTileSetDisplayName>Sm Sandbags</szTileSetDisplayName>
 		<szTileSetName>sandbag.sti</szTileSetName>
@@ -270,7 +270,7 @@
 		<!-- sandbag medium -->
 		<usDeconstructItem>1412</usDeconstructItem>
 		<usItemToCreate>1540</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<usCreatedItemStatus>50</usCreatedItemStatus>
 		<dCreationCost>3.0</dCreationCost>
 		<szTileSetDisplayName>Md Sandbags</szTileSetDisplayName>
 		<szTileSetName>sandbag.sti</szTileSetName>
@@ -283,7 +283,7 @@
 		<!-- sandbagbarricade large -->
 		<usDeconstructItem>1412</usDeconstructItem>
 		<usItemToCreate>1541</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<usCreatedItemStatus>50</usCreatedItemStatus>
 		<dCreationCost>3.5</dCreationCost>
 		<szTileSetDisplayName>Lg Sandbags</szTileSetDisplayName>
 		<szTileSetName>sandbag.sti</szTileSetName>
@@ -293,8 +293,8 @@
 		<!-- concertina wire -->
 		<usDeconstructItem>1412</usDeconstructItem>
 		<usItemToCreate>1542</usItemToCreate>
-		<usCreatedItemStatus>10</usCreatedItemStatus>
-		<dCreationCost>1.0</dCreationCost>
+		<usCreatedItemStatus>20</usCreatedItemStatus>
+		<dCreationCost>1.5</dCreationCost>
 		<szTileSetDisplayName>Barbed Wire</szTileSetDisplayName>
 		<szTileSetName>spot_1.sti</szTileSetName>
 		<allowedtile>2</allowedtile>
@@ -308,8 +308,8 @@
 		<!-- concertina wire -->
 		<usDeconstructItem>1412</usDeconstructItem>
 		<usItemToCreate>1542</usItemToCreate>
-		<usCreatedItemStatus>5</usCreatedItemStatus>
-		<dCreationCost>1.0</dCreationCost>
+		<usCreatedItemStatus>10</usCreatedItemStatus>
+		<dCreationCost>1.5</dCreationCost>
 		<szTileSetDisplayName>Barbed Wire</szTileSetDisplayName>
 		<szTileSetName>spot_1.sti</szTileSetName>
 		<allowedtile>8</allowedtile>
