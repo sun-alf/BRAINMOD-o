@@ -65,4 +65,19 @@
 		<sItemIndex>1541</sItemIndex>
 		<ubOptimalNumber>10</ubOptimalNumber>
 	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>13</uiIndex>
+		<sItemIndex>308</sItemIndex>
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>14</uiIndex>
+		<sItemIndex>304</sItemIndex>
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>15</uiIndex>
+		<sItemIndex>309</sItemIndex>
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
 </INVENTORYLIST>

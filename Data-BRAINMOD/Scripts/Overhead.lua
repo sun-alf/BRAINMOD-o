@@ -1695,71 +1695,126 @@ function AddArmsDealerAdditionalIntelData()
 	
 	-- black market:
 	-- guns
-	AddArmsDealerAdditionalIntelDataItem(68, 337, 10 * ratio, 2)	-- Five-Seven
-	AddArmsDealerAdditionalIntelDataItem(68, 663, 15 * ratio, 1)	-- HK G11 PDW
-	AddArmsDealerAdditionalIntelDataItem(68, 1073, 10 * ratio, 2)	-- HK UCP
-	AddArmsDealerAdditionalIntelDataItem(68, 673, 13 * ratio, 2)	-- HK MP7A1
-	AddArmsDealerAdditionalIntelDataItem(68, 686, 20 * ratio, 1)	-- Metal Storm Surf Zone
-	AddArmsDealerAdditionalIntelDataItem(68, 1191, 25 * ratio, 1)	-- Magpul PDR-D
+	AddArmsDealerAdditionalIntelDataItem(68, 4221, 10 * ratio, 2)	-- Five-Seven
+	AddArmsDealerAdditionalIntelDataItem(68, 30, 15 * ratio, 1)	    -- HK G11 PDW
+	AddArmsDealerAdditionalIntelDataItem(68, 4231, 10 * ratio, 2)	-- HK UCP
+	AddArmsDealerAdditionalIntelDataItem(68, 4536, 13 * ratio, 2)	-- HK MP7A1
+	AddArmsDealerAdditionalIntelDataItem(68, 5744, 20 * ratio, 1)	-- Metal Storm Surf Zone
+	AddArmsDealerAdditionalIntelDataItem(68, 4645, 25 * ratio, 1)	-- Magpul PDR-D
 	AddArmsDealerAdditionalIntelDataItem(68, 65, 40 * ratio, 1)		-- Auto Rocket Rifle
-	AddArmsDealerAdditionalIntelDataItem(68, 1334, 27 * ratio, 1)	-- AR57 6" Silenced
-	AddArmsDealerAdditionalIntelDataItem(68, 335, 40 * ratio, 1)	-- Barret M82A2
-	AddArmsDealerAdditionalIntelDataItem(68, 676, 35 * ratio, 1)	-- HL SL9SD
-	AddArmsDealerAdditionalIntelDataItem(68, 774, 50 * ratio, 1)	-- VSSK Vychlop
-	AddArmsDealerAdditionalIntelDataItem(68, 605, 22 * ratio, 1)	-- AICW
-	AddArmsDealerAdditionalIntelDataItem(68, 748, 22 * ratio, 2)	-- XM-29 OICW
-	AddArmsDealerAdditionalIntelDataItem(68, 752, 20 * ratio, 1)	-- XM-8 Sharpshooter
-	AddArmsDealerAdditionalIntelDataItem(68, 1065, 23 * ratio, 1)	-- Steyr AUG-A3
-	AddArmsDealerAdditionalIntelDataItem(68, 680, 16 * ratio, 1)	-- Jackhammer Mk3A1
+	AddArmsDealerAdditionalIntelDataItem(68, 5435, 27 * ratio, 1)	-- AR57 6" Silenced
+	AddArmsDealerAdditionalIntelDataItem(68, 4961, 40 * ratio, 1)	-- Barret M82A2
+	AddArmsDealerAdditionalIntelDataItem(68, 5031, 35 * ratio, 1)	-- HL SL9SD
+	AddArmsDealerAdditionalIntelDataItem(68, 4981, 50 * ratio, 1)	-- VSSK Vychlop
+	AddArmsDealerAdditionalIntelDataItem(68, 5291, 22 * ratio, 1)	-- AICW
+	AddArmsDealerAdditionalIntelDataItem(68, 5292, 22 * ratio, 2)	-- XM-29 OICW
+	AddArmsDealerAdditionalIntelDataItem(68, 5258, 18 * ratio, 1)	-- XM-8 Compact
+	AddArmsDealerAdditionalIntelDataItem(68, 5259, 18 * ratio, 1)	-- XM-8 Short Carbine
+	AddArmsDealerAdditionalIntelDataItem(68, 5260, 19 * ratio, 1)	-- XM-8 Baseline Carbine
+	AddArmsDealerAdditionalIntelDataItem(68, 5261, 20 * ratio, 1)	-- XM-8 Sharpshooter
+	AddArmsDealerAdditionalIntelDataItem(68, 5540, 25 * ratio, 1)	-- XM-8 Auto (LMG)
+	AddArmsDealerAdditionalIntelDataItem(68, 5451, 23 * ratio, 1)	-- Steyr AUG-A3
+	AddArmsDealerAdditionalIntelDataItem(68, 5603, 16 * ratio, 1)	-- Jackhammer Mk3A1
 	
 	-- Ammo
-	AddArmsDealerAdditionalIntelDataItem(68, 1455, 8 * ratio, 2)	-- 5.7x28 100 AET
-	AddArmsDealerAdditionalIntelDataItem(68, 1450, 8 * ratio, 2)	-- 4.7x33 100 SAP
-	AddArmsDealerAdditionalIntelDataItem(68, 1460, 8 * ratio, 2)	-- 4.6x30 100 AET	
-	AddArmsDealerAdditionalIntelDataItem(68, 544, 5 * ratio, 2)		-- 9mm MS 72 SAP
-	AddArmsDealerAdditionalIntelDataItem(68, 1518, 10 * ratio, 2)	-- 6x35 100 AP
-	AddArmsDealerAdditionalIntelDataItem(68, 113, 5 * ratio, 5)		-- Minirocket 5 HEAP
-	AddArmsDealerAdditionalIntelDataItem(68, 1738, 10 * ratio, 2)	-- Minirocket 5 Cryo
-	AddArmsDealerAdditionalIntelDataItem(68, 116, 5 * ratio, 4)		-- .50 BMG 10 AP
-	AddArmsDealerAdditionalIntelDataItem(68, 540, 3 * ratio, 4)		-- 7.62x37 10 AP
-	AddArmsDealerAdditionalIntelDataItem(68, 1512, 7 * ratio, 3)	-- 12.7x97 Subsonic 15 AP
-	AddArmsDealerAdditionalIntelDataItem(68, 1520, 10 * ratio, 2)	-- 6.8x43 SPC 100 AP
-	AddArmsDealerAdditionalIntelDataItem(68, 1423, 3 * ratio, 5)	-- 12 gauge 25 Flechette
-	AddArmsDealerAdditionalIntelDataItem(68, 1578, 1 * ratio, 10)	-- Darts 1 Neurotoxin
+	AddArmsDealerAdditionalIntelDataItem(68, 105, 8 * ratio, 2)	    -- 5.7x28  AP
+	AddArmsDealerAdditionalIntelDataItem(68, 106, 8 * ratio, 2)	    -- 5.7x28  HP
+	AddArmsDealerAdditionalIntelDataItem(68, 8183, 8 * ratio, 2)	-- 5.7x28  AET
+	AddArmsDealerAdditionalIntelDataItem(68, 8186, 8 * ratio, 2)	-- 5.7x28  SAS
+	AddArmsDealerAdditionalIntelDataItem(68, 104, 8 * ratio, 2)	    -- 4.7x33
+	AddArmsDealerAdditionalIntelDataItem(68, 8157, 8 * ratio, 2)	-- 4.6x30  AET
+	AddArmsDealerAdditionalIntelDataItem(68, 8158, 8 * ratio, 2)	-- 4.6x30  HP
+	AddArmsDealerAdditionalIntelDataItem(68, 8159, 8 * ratio, 2)	-- 4.6x30  SAP
+	AddArmsDealerAdditionalIntelDataItem(68, 8204, 10 * ratio, 2)	-- 6x35  AP
+	AddArmsDealerAdditionalIntelDataItem(68, 8205, 10 * ratio, 2)	-- 6x35  HP
+	AddArmsDealerAdditionalIntelDataItem(68, 111, 5 * ratio, 1)		-- Minirocket 15 AP
+	AddArmsDealerAdditionalIntelDataItem(68, 112, 5 * ratio, 1)		-- Minirocket 15 HE
+	AddArmsDealerAdditionalIntelDataItem(68, 113, 5 * ratio, 1)		-- Minirocket 15 HEAP
+	AddArmsDealerAdditionalIntelDataItem(68, 8123, 5 * ratio, 2)	-- .50 BMG
+	AddArmsDealerAdditionalIntelDataItem(68, 8124, 5 * ratio, 1)	-- .50 BMG HEAP
+	AddArmsDealerAdditionalIntelDataItem(68, 8125, 5 * ratio, 2)	-- .50 BMG Match
+	AddArmsDealerAdditionalIntelDataItem(68, 8215, 3 * ratio, 2)	-- 7.62x37 DU
+	AddArmsDealerAdditionalIntelDataItem(68, 8216, 3 * ratio, 2)	-- 7.62x37 SAP
+	AddArmsDealerAdditionalIntelDataItem(68, 8198, 10 * ratio, 2)	-- 6.8x43 SPC
+	AddArmsDealerAdditionalIntelDataItem(68, 8199, 10 * ratio, 2)	-- 6.8x43 SPC AP
+	AddArmsDealerAdditionalIntelDataItem(68, 8200, 10 * ratio, 2)	-- 6.8x43 SPC HP
+	AddArmsDealerAdditionalIntelDataItem(68, 8201, 10 * ratio, 1)	-- 6.8x43 SPC Match
+	AddArmsDealerAdditionalIntelDataItem(68, 8202, 10 * ratio, 2)	-- 6.8x43 SPC SPBT
+	AddArmsDealerAdditionalIntelDataItem(68, 8284, 7 * ratio, 2)	-- CAWS ammo AP
+	AddArmsDealerAdditionalIntelDataItem(68, 8285, 7 * ratio, 2)	-- CAWS ammo BS
+	AddArmsDealerAdditionalIntelDataItem(68, 7963, 9 * ratio, 2)	-- Bolts 5 HE
+	AddArmsDealerAdditionalIntelDataItem(68, 7965, 9 * ratio, 2)	-- Bolts 5 Toxic
+	AddArmsDealerAdditionalIntelDataItem(68, 7967, 4 * ratio, 2)	-- Darts 5
+	AddArmsDealerAdditionalIntelDataItem(68, 7970, 6 * ratio, 2)	-- Gyrojet Rockets 10 AP
 	
 	-- Launchers
-	AddArmsDealerAdditionalIntelDataItem(68, 908, 20 * ratio, 1)	-- XM-25 Grenade Launcher
-	AddArmsDealerAdditionalIntelDataItem(68, 1736, 40 * ratio, 1)	-- Strela-2
+	AddArmsDealerAdditionalIntelDataItem(68, 5756, 30 * ratio, 1)	-- XM-25 Grenade Launcher
+	AddArmsDealerAdditionalIntelDataItem(68, 5764, 34 * ratio, 1)	-- RPO-M Shmel
+	AddArmsDealerAdditionalIntelDataItem(68, 5761, 36 * ratio, 1)	-- M72A4 LAW
+	AddArmsDealerAdditionalIntelDataItem(68, 5761, 47 * ratio, 1)	-- M202 Flash
+	AddArmsDealerAdditionalIntelDataItem(68, 5771, 48 * ratio, 1)	-- SMAW
 	
 	-- Grenades
-	AddArmsDealerAdditionalIntelDataItem(68, 957, 4 * ratio, 2)		-- 20mm Thermobaric Clip
-	AddArmsDealerAdditionalIntelDataItem(68, 963, 4 * ratio, 2)		-- 25mm Thermobaric Clip
-	AddArmsDealerAdditionalIntelDataItem(68, 970, 2 * ratio, 5)		-- 40mm Thermobaric Grenade
-	AddArmsDealerAdditionalIntelDataItem(68, 978, 4 * ratio, 5)		-- Thermobaric Rocket
-	AddArmsDealerAdditionalIntelDataItem(68, 987, 4 * ratio, 2)		-- 40mm MS Thermobaric Clip
-	AddArmsDealerAdditionalIntelDataItem(68, 989, 4 * ratio, 2)		-- 20mm Napalm Clip
-	AddArmsDealerAdditionalIntelDataItem(68, 990, 4 * ratio, 2)		-- 25mm Napalm Clip
-	AddArmsDealerAdditionalIntelDataItem(68, 991, 1 * ratio, 5)		-- 40mm Napalm Grenade
-	AddArmsDealerAdditionalIntelDataItem(68, 993, 4 * ratio, 2)		-- 40mm MS Napalm Clip
-	AddArmsDealerAdditionalIntelDataItem(68, 1737, 6 * ratio, 4)	-- Strela-2 Missile
+	AddArmsDealerAdditionalIntelDataItem(68, 2308, 1 * ratio, 5)	-- 20mm Thermobaric Grenade
+	AddArmsDealerAdditionalIntelDataItem(68, 2303, 1 * ratio, 5)	-- 20mm Mustard gas Grenade
+	AddArmsDealerAdditionalIntelDataItem(68, 2304, 1 * ratio, 5)	-- 20mm Napalm Grenade
+	AddArmsDealerAdditionalIntelDataItem(68, 2312, 1 * ratio, 5)	-- 25mm Mustard gas Grenade
+	AddArmsDealerAdditionalIntelDataItem(68, 2313, 1 * ratio, 5)	-- 25mm Napalm Grenade
+	AddArmsDealerAdditionalIntelDataItem(68, 2317, 1 * ratio, 5)	-- 25mm Thermobaric Grenade
+	AddArmsDealerAdditionalIntelDataItem(68, 2324, 2 * ratio, 4)	-- 40mm Mustard gas Grenade
+	AddArmsDealerAdditionalIntelDataItem(68, 2325, 2 * ratio, 4)	-- 40mm Napalm Grenade
+	AddArmsDealerAdditionalIntelDataItem(68, 2330, 2 * ratio, 4)	-- 40mm Thermobaric Grenade
+	AddArmsDealerAdditionalIntelDataItem(68, 2322, 2 * ratio, 4)	-- 40mm Flashbang Grenade
+	AddArmsDealerAdditionalIntelDataItem(68, 2331, 2 * ratio, 4)	-- 40mm MS Frag
+	AddArmsDealerAdditionalIntelDataItem(68, 2332, 2 * ratio, 4)	-- 40mm MS Mustard gas Grenade
+	AddArmsDealerAdditionalIntelDataItem(68, 2333, 2 * ratio, 4)	-- 40mm MS Napalm Grenade
+	AddArmsDealerAdditionalIntelDataItem(68, 2335, 2 * ratio, 4)	-- 40mm MS Stun
+	AddArmsDealerAdditionalIntelDataItem(68, 2337, 2 * ratio, 4)	-- 40mm MS Thermobaric Grenade
+	AddArmsDealerAdditionalIntelDataItem(68, 2381, 5 * ratio, 3)	-- RPG-7 Rocket
+	AddArmsDealerAdditionalIntelDataItem(68, 2382, 5 * ratio, 3)	-- RPG-7 HEAT Rocket
+	AddArmsDealerAdditionalIntelDataItem(68, 2383, 5 * ratio, 3)	-- RPG-7 Thermobaric Rocket
+	AddArmsDealerAdditionalIntelDataItem(68, 2361, 6 * ratio, 3)	-- Carl-Gustaf M3 Napalm Rocket
+	AddArmsDealerAdditionalIntelDataItem(68, 2362, 6 * ratio, 3)	-- Carl-Gustaf M3 HEDP Rocket
+	AddArmsDealerAdditionalIntelDataItem(68, 2363, 6 * ratio, 3)	-- Carl-Gustaf M3 HEAT Rocket
+	AddArmsDealerAdditionalIntelDataItem(68, 2364, 7 * ratio, 2)	-- SMAW HEDP Rocket
+	AddArmsDealerAdditionalIntelDataItem(68, 2362, 7 * ratio, 2)	-- SMAW HEAA Rocket
+	AddArmsDealerAdditionalIntelDataItem(68, 2366, 7 * ratio, 2)	-- M202 Napalm Rocket
+	AddArmsDealerAdditionalIntelDataItem(68, 2367, 7 * ratio, 3)	-- M202 Napalm Rocket
 	
 	-- Explosives
-	AddArmsDealerAdditionalIntelDataItem(68, 951, 4 * ratio, 3)		-- 60mm Mustard Gas Shell
-	AddArmsDealerAdditionalIntelDataItem(68, 1523, 3 * ratio, 3)	-- M18 Claymore
-	AddArmsDealerAdditionalIntelDataItem(68, 1735, 3 * ratio, 4)	-- TM-62P2 anti-tank Mine
+	AddArmsDealerAdditionalIntelDataItem(68, 2524, 4 * ratio, 3)	-- 40mm Mustard Gas Shell
+	AddArmsDealerAdditionalIntelDataItem(68, 2525, 4 * ratio, 3)	-- 40mm Napalm Shell
+	AddArmsDealerAdditionalIntelDataItem(68, 2529, 4 * ratio, 3)	-- 40mm Thermobaric Shell
+	AddArmsDealerAdditionalIntelDataItem(68, 2546, 4 * ratio, 3)	-- 2" HE Shell
+	AddArmsDealerAdditionalIntelDataItem(68, 2548, 4 * ratio, 3)	-- 2" Illumination Shell
+	AddArmsDealerAdditionalIntelDataItem(68, 2551, 4 * ratio, 3)	-- 60mm Illumination Shell
+	AddArmsDealerAdditionalIntelDataItem(68, 2552, 4 * ratio, 3)	-- 60mm Napalm Shell
+	AddArmsDealerAdditionalIntelDataItem(68, 2553, 4 * ratio, 3)	-- 60mm HE Shell
+	AddArmsDealerAdditionalIntelDataItem(68, 2554, 4 * ratio, 3)	-- 60mm Mustard Gas Shell
+	AddArmsDealerAdditionalIntelDataItem(68, 1523, 3 * ratio, 4)	-- M18 Claymore
+	AddArmsDealerAdditionalIntelDataItem(68, 2506, 3 * ratio, 4)	-- S-Mine
+	AddArmsDealerAdditionalIntelDataItem(68, 2505, 3 * ratio, 4)	-- Gravel Mine
 	
 	-- Face items
-	AddArmsDealerAdditionalIntelDataItem(68, 1025, 20 * ratio, 2)	-- NVG Gen IV
+	AddArmsDealerAdditionalIntelDataItem(68, 467, 20 * ratio, 2)	-- NVG Gen IV
 	
 	-- Misc
-	AddArmsDealerAdditionalIntelDataItem(68, 216, 6 * ratio, 3)		-- Compound 18
-	AddArmsDealerAdditionalIntelDataItem(68, 235, 2 * ratio, 4)		-- Regeneration Booster
+	AddArmsDealerAdditionalIntelDataItem(68, 216, 6 * ratio, 3)		-- Compound 18 (Repair)
+	AddArmsDealerAdditionalIntelDataItem(68, 217, 8 * ratio, 1)		-- Compound 20 (Repair)
+	AddArmsDealerAdditionalIntelDataItem(68, 2171, 12 * ratio, 1)	-- Compound 18 (Upgrade Helmet)
+	AddArmsDealerAdditionalIntelDataItem(68, 2172, 14 * ratio, 1)	-- Compound 18 (Upgrade Vest)
+	AddArmsDealerAdditionalIntelDataItem(68, 2173, 12 * ratio, 1)	-- Compound 18 (Upgrade Pants)
+	AddArmsDealerAdditionalIntelDataItem(68, 2174, 18 * ratio, 1)	-- Compound 20 (Upgrade Helmet)
+	AddArmsDealerAdditionalIntelDataItem(68, 2175, 20 * ratio, 1)	-- Compound 20 (Upgrade Vest)
+	AddArmsDealerAdditionalIntelDataItem(68, 2176, 18 * ratio, 1)	-- Compound 20 (Upgrade Pants)
+	AddArmsDealerAdditionalIntelDataItem(68, 235, 2 * ratio, 4)		-- Regeneration Boost
 	AddArmsDealerAdditionalIntelDataItem(68, 324, 50 * ratio, 1)	-- X-Ray Detector
-	AddArmsDealerAdditionalIntelDataItem(68, 327, 11 * ratio, 2)	-- Tank of gas
-	AddArmsDealerAdditionalIntelDataItem(68, 592, 3 * ratio, 2)		-- Sniper Suppressor
-	AddArmsDealerAdditionalIntelDataItem(68, 1026, 2 * ratio, 2)	-- Trigger Group
-	AddArmsDealerAdditionalIntelDataItem(68, 1538, 1 * ratio, 5)	-- Stim
-	AddArmsDealerAdditionalIntelDataItem(68, 1744, 7 * ratio, 2)	-- Ballistic Shield
+	AddArmsDealerAdditionalIntelDataItem(68, 327, 11 * ratio, 4)	-- Tank of gas
+	AddArmsDealerAdditionalIntelDataItem(68, 1155, 6 * ratio, 2)	-- Sniper Suppressor
+	AddArmsDealerAdditionalIntelDataItem(68, 1156, 7 * ratio, 2)	-- Sniper Suppressor large
+	AddArmsDealerAdditionalIntelDataItem(68, 222, 1 * ratio, 5)		-- Energy Boost
+	AddArmsDealerAdditionalIntelDataItem(68, 2990, 9 * ratio, 1)	-- SWAT Shield
+	AddArmsDealerAdditionalIntelDataItem(68, 2991, 10 * ratio, 1)	-- Storm Shield
 	
 end
 
