@@ -22815,9 +22815,9 @@
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>1</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>550</sSalary>
-		<uiWeeklySalary>3400</uiWeeklySalary>
-		<uiBiWeeklySalary>6200</uiBiWeeklySalary>
+		<sSalary>790</sSalary>
+		<uiWeeklySalary>5000</uiWeeklySalary>
+		<uiBiWeeklySalary>9550</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>650</sMedicalDepositAmount>
 		<usOptionalGearCost>1029</usOptionalGearCost>
