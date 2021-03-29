@@ -39,6 +39,17 @@ class Tileset():
                 raise Exception("Tileset index=\"0\" is not unique!");
         else:
             _CopyGenericSlots(self);
+
+        # check overriding integrity within this xmlTileset: each enlisted file index under <Files> must be unique,
+        # otherwise something was overridden twice or more times.
+        for i in range (0, len(xmlTileset[2])):  # under <Files>, from file[0] to file[N]
+            xmlFileEl = xmlTileset[2][i];
+            uqinueFileIndex = int(xmlFileEl.attrib["index"]);
+            for j in range (i + 1, len(xmlTileset[2])):  # under <Files>, from file[1] to file[N] etc
+                xmlFileEl = xmlTileset[2][j];
+                testingFileIndex = int(xmlFileEl.attrib["index"]);
+                if testingFileIndex == uqinueFileIndex:
+                	print("Tileset[{0}] ({1}): redundant overriding of file index {2}".format(self.index, self.name, uqinueFileIndex));
         
         for el in xmlTileset[2]:  # in <Files>
             self.slots[int(el.attrib["index"])] = el.text;
@@ -48,8 +59,6 @@ class Tileset():
             for slot in self.slots:
                 if not slot in self.uniqueList:
                     self.uniqueList.append(slot);
-        #else:
-        #    self.Check_GenericFiles_IsFullSet();
     #end def LoadXmlElement(self, xmlTileset):
 
     def GetMissingGenericFiles(self, genericTileset):
@@ -75,7 +84,7 @@ class Tileset():
                         duplicatesList.append(slot);
     #end def PrintDuplicateSlots(self):
 
-#end class Rule():
+#end class Tileset():
 
 
 def LoadXmlTilesets(fPath):
@@ -115,6 +124,7 @@ def CheckTilesetsIntegrity(refXmlPath, workXmlPath):
     # enlist all "free" file slots in generic tileset
     workTilesets[0].PrintDuplicateSlots();
     
+    # for each my tileset, compare original overriding with mine
     for i in range(1, len(refTilesets)):
         extraMiss = _CompareLists(refTilesets[i].GetMissingGenericFiles(refTilesets[0]), workTilesets[i].GetMissingGenericFiles(workTilesets[0]));
         if len(extraMiss) > 0:

@@ -1126,10 +1126,10 @@
 				<!-- structure construct sti files -->
 				<file index="34">spot_1.sti</file>
 				<file index="35">spot_1s.sti</file>
-				<file index="41">crate.sti</file>
-				<file index="42">crate_s.sti</file>
+				<file index="105">crate.sti</file>
+				<file index="106">crate_s.sti</file>
 				<file index="47">build_06b.sti</file>
-				<file index="55">dump1.sti</file>
+				<file index="122">dump1.sti</file>
 				<file index="71">dump1_s.sti</file>
 				<file index="103">sandbag.sti</file>
 				<file index="104">sandbags.sti</file>
@@ -1222,7 +1222,7 @@
 				<file index="109">m-furn4.sti</file>
 				<file index="110">control.sti</file>
 				<!-- structure construct sti files -->
-				<file index="41">crate.sti</file>
+				<file index="122">crate.sti</file>
 				<file index="42">crate_s.sti</file>
 				<file index="47">build_06b.sti</file>
 				<file index="55">dump1.sti</file>
