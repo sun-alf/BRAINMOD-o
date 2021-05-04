@@ -219,7 +219,7 @@
 	<DIFFICULTY>
 		<uiIndex>1</uiIndex>
 		<Name>Novice</Name>
-		<ConfirmText>Easy game mode. Includes 100000 of starting cash, weakened initial garrisons, 350 soldiers in Queen's Army reserve and low strategic awareness in total. Also, only one AIM/MERC mercenary may die being on assignment somewhere.</ConfirmText>
+		<ConfirmText>Easy game mode. Includes 100000 of starting cash, weakened initial garrisons, 560 soldiers in Queen's Army reserve and low strategic awareness in total. Also, only one AIM/MERC mercenary may die being on assignment somewhere.</ConfirmText>
 		<StartingCash>100000</StartingCash>
 		<EnemyAPBonus>0</EnemyAPBonus>
 		<NumKillsPerProgressPoint>10</NumKillsPerProgressPoint>
@@ -299,8 +299,8 @@
 	<DIFFICULTY>
 		<uiIndex>2</uiIndex>
 		<Name>Experienced</Name>
-		<ConfirmText>Normal game mode. Includes 50000 of starting cash, normal initial garrisons, 600 soldiers in Queen's Army reserve and normal strategic awareness in total. Up to 3 AIM/MERC mercenaries may die being on assignment somewhere.</ConfirmText>
-		<StartingCash>50000</StartingCash>
+		<ConfirmText>Normal game mode. Includes 60000 of starting cash, normal initial garrisons, 750 soldiers in Queen's Army reserve and normal strategic awareness in total. Up to 3 AIM/MERC mercenaries may die being on assignment somewhere.</ConfirmText>
+		<StartingCash>60000</StartingCash>
 		<EnemyAPBonus>0</EnemyAPBonus>
 		<NumKillsPerProgressPoint>10</NumKillsPerProgressPoint>
 		<InitialGarrisonPercentages>100</InitialGarrisonPercentages>
