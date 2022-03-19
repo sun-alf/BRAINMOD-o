@@ -38,10 +38,10 @@
 			<mSmall0>7623</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>4</mSmall0Quantity>
-			<mSmall1>387</mSmall1>
+			<mSmall1>243</mSmall1>
 			<mSmall1Status>99</mSmall1Status>
 			<mSmall1Quantity>1</mSmall1Quantity>
-			<mSmall2>388</mSmall2>
+			<mSmall2>204</mSmall2>
 			<mSmall2Status>99</mSmall2Status>
 			<mSmall2Quantity>1</mSmall2Quantity>
 			<mSmall3>0</mSmall3>
@@ -93,10 +93,10 @@
 			<mSmall1>7623</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall2>387</mSmall2>
+			<mSmall2>243</mSmall2>
 			<mSmall2Status>99</mSmall2Status>
 			<mSmall2Quantity>1</mSmall2Quantity>
-			<mSmall3>388</mSmall3>
+			<mSmall3>204</mSmall3>
 			<mSmall3Status>99</mSmall3Status>
 			<mSmall3Quantity>1</mSmall3Quantity>
 			<mSmall4>149</mSmall4>
@@ -144,10 +144,10 @@
 			<mSmall0>7623</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>2</mSmall0Quantity>
-			<mSmall1>387</mSmall1>
+			<mSmall1>243</mSmall1>
 			<mSmall1Status>99</mSmall1Status>
 			<mSmall1Quantity>1</mSmall1Quantity>
-			<mSmall2>388</mSmall2>
+			<mSmall2>204</mSmall2>
 			<mSmall2Status>99</mSmall2Status>
 			<mSmall2Quantity>1</mSmall2Quantity>
 			<mSmall3>149</mSmall3>
@@ -198,10 +198,10 @@
 			<mSmall0>7623</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>2</mSmall0Quantity>
-			<mSmall1>387</mSmall1>
+			<mSmall1>243</mSmall1>
 			<mSmall1Status>99</mSmall1Status>
 			<mSmall1Quantity>1</mSmall1Quantity>
-			<mSmall2>388</mSmall2>
+			<mSmall2>204</mSmall2>
 			<mSmall2Status>99</mSmall2Status>
 			<mSmall2Quantity>1</mSmall2Quantity>
 			<mSmall3>149</mSmall3>
@@ -477,7 +477,7 @@
 			<mSmall1>7298</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>3</mSmall1Quantity>
-			<mSmall2>2252</mSmall2>
+			<mSmall2>131</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>3</mSmall2Quantity>
 			<mSmall3>2214</mSmall3>
@@ -706,7 +706,7 @@
 			<mSmall4>7767</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
-			<mSmall5>2212</mSmall5>
+			<mSmall5>134</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
 			<mSmall6>151</mSmall6>
@@ -756,10 +756,10 @@
 			<mSmall3>7729</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
-			<mSmall4>2212</mSmall4>
+			<mSmall4>134</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
-			<mSmall5>2252</mSmall5>
+			<mSmall5>131</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
 			<mSmall6>151</mSmall6>
@@ -960,7 +960,7 @@
 			<mBig2>37</mBig2>
 			<mBig2Status>100</mBig2Status>
 			<mBig2Quantity>1</mBig2Quantity>
-			<mBig3>5952</mBig3>
+			<mBig3>64</mBig3>
 			<mBig3Status>100</mBig3Status>
 			<mBig3Quantity>1</mBig3Quantity>
 			<mSmall0>6704</mSmall0>
@@ -1125,13 +1125,13 @@
 			<mSmall3>2251</mSmall3>
 			<mSmall3Status>99</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
-			<mSmall4>2212</mSmall4>
+			<mSmall4>134</mSmall4>
 			<mSmall4Status>99</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
 			<mSmall5>377</mSmall5>
 			<mSmall5Status>99</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>381</mSmall6>
+			<mSmall6>203</mSmall6>
 			<mSmall6Status>98</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>1903</mSmall7>
@@ -1189,7 +1189,7 @@
 			<mSmall5>377</mSmall5>
 			<mSmall5Status>99</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>381</mSmall6>
+			<mSmall6>203</mSmall6>
 			<mSmall6Status>99</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>1903</mSmall7>
@@ -1245,7 +1245,7 @@
 			<mSmall5>377</mSmall5>
 			<mSmall5Status>99</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>381</mSmall6>
+			<mSmall6>203</mSmall6>
 			<mSmall6Status>98</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>1903</mSmall7>
@@ -1348,10 +1348,10 @@
 			<mSmall2>6419</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
-			<mSmall3>2221</mSmall3>
+			<mSmall3>135</mSmall3>
 			<mSmall3Status>99</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
-			<mSmall4>2212</mSmall4>
+			<mSmall4>134</mSmall4>
 			<mSmall4Status>99</mSmall4Status>
 			<mSmall4Quantity>4</mSmall4Quantity>
 			<mSmall5>2231</mSmall5>
@@ -1414,7 +1414,7 @@
 			<mSmall1>0</mSmall1>
 			<mSmall1Status>0</mSmall1Status>
 			<mSmall1Quantity>0</mSmall1Quantity>
-			<mSmall2>387</mSmall2>
+			<mSmall2>243</mSmall2>
 			<mSmall2Status>99</mSmall2Status>
 			<mSmall2Quantity>1</mSmall2Quantity>
 			<mSmall3>139</mSmall3>
@@ -1429,7 +1429,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>824</lVest>
@@ -1519,7 +1519,7 @@
 			<mSmall0>6415</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>5</mSmall0Quantity>
-			<mSmall1>2212</mSmall1>
+			<mSmall1>134</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
 			<mSmall2>151</mSmall2>
@@ -1531,7 +1531,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>824</lVest>
@@ -1619,7 +1619,7 @@
 			<mSmall1>2223</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>3</mSmall1Quantity>
-			<mSmall2>387</mSmall2>
+			<mSmall2>243</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>1</mSmall2Quantity>
 			<mSmall3>242</mSmall3>
@@ -1688,7 +1688,7 @@
 			<mSmall1>6385</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
 			<mSmall3>151</mSmall3>
@@ -1700,7 +1700,7 @@
 			<mSmall5>0</mSmall5>
 			<mSmall5Status>0</mSmall5Status>
 			<mSmall5Quantity>0</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>0</mSmall7>
@@ -1752,7 +1752,7 @@
 			<mSmall5>151</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>743</lVest>
@@ -1790,7 +1790,7 @@
 			<mSmall5>151</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>743</lVest>
@@ -1839,7 +1839,7 @@
 			<mSmall5>151</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>743</lVest>
@@ -1885,7 +1885,7 @@
 			<mSmall5>151</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>743</lVest>
@@ -1954,7 +1954,7 @@
 			<mSmall6>0</mSmall6>
 			<mSmall6Status>0</mSmall6Status>
 			<mSmall6Quantity>0</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>794</lVest>
@@ -2009,7 +2009,7 @@
 			<mSmall6>2225</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>4</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>782</lVest>
@@ -2063,7 +2063,7 @@
 			<mSmall6>361</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>782</lVest>
@@ -2158,7 +2158,7 @@
 			<mSmall6>2343</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>4</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>790</lVest>
@@ -2218,7 +2218,7 @@
 			<mSmall3>0</mSmall3>
 			<mSmall3Status>0</mSmall3Status>
 			<mSmall3Quantity>0</mSmall3Quantity>
-			<mSmall4>388</mSmall4>
+			<mSmall4>204</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
 			<mSmall5>320</mSmall5>
@@ -2256,10 +2256,10 @@
 			<mSmall0>7624</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>4</mSmall0Quantity>
-			<mSmall3>388</mSmall3>
+			<mSmall3>204</mSmall3>
 			<mSmall3Status>99</mSmall3Status>
 			<mSmall3Quantity>1</mSmall3Quantity>
-			<mSmall4>381</mSmall4>
+			<mSmall4>203</mSmall4>
 			<mSmall4Status>97</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
 			<mSmall5>320</mSmall5>
@@ -2301,10 +2301,10 @@
 			<mSmall1>6779</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
-			<mSmall3>388</mSmall3>
+			<mSmall3>204</mSmall3>
 			<mSmall3Status>99</mSmall3Status>
 			<mSmall3Quantity>1</mSmall3Quantity>
-			<mSmall4>381</mSmall4>
+			<mSmall4>203</mSmall4>
 			<mSmall4Status>97</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
 			<mSmall5>320</mSmall5>
@@ -2343,10 +2343,10 @@
 			<mSmall1>151</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall3>388</mSmall3>
+			<mSmall3>204</mSmall3>
 			<mSmall3Status>99</mSmall3Status>
 			<mSmall3Quantity>1</mSmall3Quantity>
-			<mSmall4>381</mSmall4>
+			<mSmall4>203</mSmall4>
 			<mSmall4Status>97</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
 			<mSmall5>320</mSmall5>
@@ -2389,7 +2389,7 @@
 			<mSmall2>2224</mSmall2>
 			<mSmall2Status>99</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall4>388</mSmall4>
+			<mSmall4>204</mSmall4>
 			<mSmall4Status>99</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
 			<mSmall5>320</mSmall5>
@@ -2688,7 +2688,7 @@
 			<mSmall3>6543</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
-			<mSmall4>2221</mSmall4>
+			<mSmall4>135</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
 			<mSmall5>361</mSmall5>
@@ -2739,10 +2739,10 @@
 			<mSmall1>6543</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall2>2221</mSmall2>
+			<mSmall2>135</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall5>361</mSmall5>
@@ -2802,7 +2802,7 @@
 			<mSmall5>6543</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
-			<mSmall6>2212</mSmall6>
+			<mSmall6>134</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>6</mSmall6Quantity>
 			<mSmall7>361</mSmall7>
@@ -2962,7 +2962,7 @@
 			<mSmall2>0</mSmall2>
 			<mSmall2Status>0</mSmall2Status>
 			<mSmall2Quantity>0</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
 			<mSmall4>242</mSmall4>
@@ -2974,7 +2974,7 @@
 			<mSmall6>224</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>96</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>756</lVest>
@@ -3019,7 +3019,7 @@
 			<mSmall6>224</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>756</lVest>
@@ -3046,7 +3046,7 @@
 			<mBig1>7047</mBig1>
 			<mBig1Status>100</mBig1Status>
 			<mBig1Quantity>4</mBig1Quantity>
-			<mBig3>2212</mBig3>
+			<mBig3>134</mBig3>
 			<mBig3Status>100</mBig3Status>
 			<mBig3Quantity>6</mBig3Quantity>
 			<mSmall0>2222</mSmall0>
@@ -3058,7 +3058,7 @@
 			<mSmall2>151</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>1</mSmall2Quantity>
-			<mSmall3>2243</mSmall3>
+			<mSmall3>132</mSmall3>
 			<mSmall3Status>99</mSmall3Status>
 			<mSmall3Quantity>1</mSmall3Quantity>
 			<mSmall4>242</mSmall4>
@@ -3070,7 +3070,7 @@
 			<mSmall6>224</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>97</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>756</lVest>
@@ -3118,7 +3118,7 @@
 			<mSmall6>224</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>97</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>756</lVest>
@@ -3172,7 +3172,7 @@
 			<mSmall6>224</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>756</lVest>
@@ -3232,7 +3232,7 @@
 			<mSmall3>0</mSmall3>
 			<mSmall3Status>0</mSmall3Status>
 			<mSmall3Quantity>0</mSmall3Quantity>
-			<mSmall4>2271</mSmall4>
+			<mSmall4>133</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
 			<mSmall5>362</mSmall5>
@@ -3241,7 +3241,7 @@
 			<mSmall6>213</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>702</lVest>
@@ -3299,7 +3299,7 @@
 			<mSmall6>213</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>702</lVest>
@@ -3351,7 +3351,7 @@
 			<mSmall6>213</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>702</lVest>
@@ -3403,7 +3403,7 @@
 			<mSmall6>213</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>702</lVest>
@@ -3455,7 +3455,7 @@
 			<mSmall6>151</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>702</lVest>
@@ -3662,7 +3662,7 @@
 			<mSmall1>7623</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>3</mSmall1Quantity>
-			<mSmall2>2271</mSmall2>
+			<mSmall2>133</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall3>2215</mSmall3>
@@ -3719,7 +3719,7 @@
 			<mSmall2>2341</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>8</mSmall2Quantity>
-			<mSmall3>2271</mSmall3>
+			<mSmall3>133</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
 			<mSmall4>2225</mSmall4>
@@ -3797,10 +3797,10 @@
 			<mSmall5>356</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>1901</mSmall6>
+			<mSmall6>214</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>2</mSmall7Quantity>
 			<lVest>809</lVest>
@@ -3852,10 +3852,10 @@
 			<mSmall5>356</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>1901</mSmall6>
+			<mSmall6>214</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>2</mSmall7Quantity>
 			<lVest>809</lVest>
@@ -3899,10 +3899,10 @@
 			<mSmall4>356</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
-			<mSmall5>1901</mSmall5>
+			<mSmall5>214</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<mSmall7>373</mSmall7>
@@ -3949,13 +3949,13 @@
 			<mSmall4>356</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
-			<mSmall5>1901</mSmall5>
+			<mSmall5>214</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>824</lVest>
@@ -4005,13 +4005,13 @@
 			<mSmall4>356</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
-			<mSmall5>1901</mSmall5>
+			<mSmall5>214</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>824</lVest>
@@ -4080,7 +4080,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>830</lVest>
@@ -4132,7 +4132,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>741</lVest>
@@ -4180,7 +4180,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>704</lVest>
@@ -4225,7 +4225,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>704</lVest>
@@ -4273,7 +4273,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>830</lVest>
@@ -4333,7 +4333,7 @@
 			<mSmall3>0</mSmall3>
 			<mSmall3Status>0</mSmall3Status>
 			<mSmall3Quantity>0</mSmall3Quantity>
-			<mSmall4>2212</mSmall4>
+			<mSmall4>134</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>4</mSmall4Quantity>
 			<mSmall5>2223</mSmall5>
@@ -4342,7 +4342,7 @@
 			<mSmall6>151</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>737</lVest>
@@ -4397,7 +4397,7 @@
 			<mSmall6>151</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>737</lVest>
@@ -4442,16 +4442,16 @@
 			<mSmall3>2231</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
-			<mSmall4>2221</mSmall4>
+			<mSmall4>135</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
-			<mSmall5>2212</mSmall5>
+			<mSmall5>134</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>4</mSmall5Quantity>
 			<mSmall6>213</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>737</lVest>
@@ -4503,7 +4503,7 @@
 			<mSmall6>151</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>807</lVest>
@@ -4556,7 +4556,7 @@
 			<mSmall6>151</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>821</lVest>
@@ -4623,7 +4623,7 @@
 			<mSmall6>0</mSmall6>
 			<mSmall6Status>0</mSmall6Status>
 			<mSmall6Quantity>0</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>808</lVest>
@@ -4670,7 +4670,7 @@
 			<mSmall4>6449</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<lVest>808</lVest>
@@ -4718,7 +4718,7 @@
 			<mSmall4>6449</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>4</mSmall4Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>373</mSmall7>
@@ -4770,7 +4770,7 @@
 			<mSmall4>6449</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<lVest>808</lVest>
@@ -4823,7 +4823,7 @@
 			<mSmall5>6449</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>808</lVest>
@@ -4892,7 +4892,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>830</lVest>
@@ -4941,7 +4941,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>830</lVest>
@@ -4992,7 +4992,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>830</lVest>
@@ -5040,10 +5040,10 @@
 			<mSmall4>6732</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>3</mSmall4Quantity>
-			<mSmall5>2221</mSmall5>
+			<mSmall5>135</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
-			<mSmall6>2252</mSmall6>
+			<mSmall6>131</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<lVest>726</lVest>
@@ -5091,7 +5091,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lLeftThigh>601</lLeftThigh>
@@ -5158,7 +5158,7 @@
 			<mSmall6>373</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>4</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>0</lVest>
@@ -5204,10 +5204,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>808</lVest>
@@ -5255,10 +5255,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>773</lVest>
@@ -5300,10 +5300,10 @@
 			<mSmall4>235</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>773</lVest>
@@ -5351,10 +5351,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>773</lVest>
@@ -5420,7 +5420,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>373</mSmall7>
@@ -5469,10 +5469,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>830</lVest>
@@ -5513,10 +5513,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>731</lVest>
@@ -5566,10 +5566,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>741</lVest>
@@ -5619,10 +5619,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>830</lVest>
@@ -5654,7 +5654,7 @@
 			<mWeapon>11</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>99</mWeaponStatus>
-			<mBig0>5952</mBig0>
+			<mBig0>64</mBig0>
 			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
 			<mBig0Drop>0</mBig0Drop>
@@ -5679,7 +5679,7 @@
 			<mSmall2>0</mSmall2>
 			<mSmall2Status>0</mSmall2Status>
 			<mSmall2Quantity>0</mSmall2Quantity>
-			<mSmall3>2221</mSmall3>
+			<mSmall3>135</mSmall3>
 			<mSmall3Status>93</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall4>491</mSmall4>
@@ -5776,7 +5776,7 @@
 			<mSmall0>7046</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>6</mSmall0Quantity>
-			<mSmall1>2221</mSmall1>
+			<mSmall1>135</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
 			<mSmall2>151</mSmall2>
@@ -5815,7 +5815,7 @@
 			<mBig0>1166</mBig0>
 			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
-			<mBig1>5952</mBig1>
+			<mBig1>64</mBig1>
 			<mBig1Status>100</mBig1Status>
 			<mBig1Quantity>1</mBig1Quantity>
 			<mBig2>377</mBig2>
@@ -5830,7 +5830,7 @@
 			<mSmall2>151</mSmall2>
 			<mSmall2Status>96</mSmall2Status>
 			<mSmall2Quantity>1</mSmall2Quantity>
-			<mSmall3>2221</mSmall3>
+			<mSmall3>135</mSmall3>
 			<mSmall3Status>98</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall4>491</mSmall4>
@@ -5868,7 +5868,7 @@
 			<mBig0>1215</mBig0>
 			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
-			<mBig1>5952</mBig1>
+			<mBig1>64</mBig1>
 			<mBig1Status>100</mBig1Status>
 			<mBig1Quantity>1</mBig1Quantity>
 			<mBig2>377</mBig2>
@@ -5883,7 +5883,7 @@
 			<mSmall2>2223</mSmall2>
 			<mSmall2Status>96</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>98</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
 			<mSmall4>491</mSmall4>
@@ -5958,7 +5958,7 @@
 			<mSmall4>0</mSmall4>
 			<mSmall4Status>0</mSmall4Status>
 			<mSmall4Quantity>0</mSmall4Quantity>
-			<mSmall5>371</mSmall5>
+			<mSmall5>201</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<mSmall6>0</mSmall6>
@@ -6004,10 +6004,10 @@
 			<mSmall2>6544</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>96</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
-			<mSmall5>371</mSmall5>
+			<mSmall5>201</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<lVest>714</lVest>
@@ -6043,10 +6043,10 @@
 			<mSmall2>6544</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>96</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
-			<mSmall5>371</mSmall5>
+			<mSmall5>201</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<lVest>714</lVest>
@@ -6082,10 +6082,10 @@
 			<mSmall2>6544</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
-			<mSmall5>371</mSmall5>
+			<mSmall5>201</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<lVest>714</lVest>
@@ -6124,13 +6124,13 @@
 			<mSmall1>6544</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>714</lVest>
@@ -6321,7 +6321,7 @@
 			<mSmall2>6291</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2221</mSmall3>
+			<mSmall3>135</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>3</mSmall3Quantity>
 			<lVest>733</lVest>
@@ -6379,7 +6379,7 @@
 			<mSmall3>7653</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
-			<mSmall4>2243</mSmall4>
+			<mSmall4>132</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
 			<mSmall5>491</mSmall5>
@@ -6434,7 +6434,7 @@
 			<mSmall2>7653</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2243</mSmall3>
+			<mSmall3>132</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall4>2253</mSmall4>
@@ -6488,7 +6488,7 @@
 			<mSmall2>7653</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
-			<mSmall3>2243</mSmall3>
+			<mSmall3>132</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall4>2251</mSmall4>
@@ -6545,7 +6545,7 @@
 			<mSmall3>7653</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
-			<mSmall4>2243</mSmall4>
+			<mSmall4>132</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>4</mSmall4Quantity>
 			<mSmall5>492</mSmall5>
@@ -6599,7 +6599,7 @@
 			<mSmall3>7653</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
-			<mSmall4>2243</mSmall4>
+			<mSmall4>132</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
 			<mSmall5>2253</mSmall5>
@@ -6929,10 +6929,10 @@
 			<mSmall3>7649</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>3</mSmall3Quantity>
-			<mSmall4>387</mSmall4>
+			<mSmall4>243</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
-			<mSmall5>388</mSmall5>
+			<mSmall5>204</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<mSmall6>0</mSmall6>
@@ -6982,10 +6982,10 @@
 			<mSmall1Quantity>3</mSmall1Quantity>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall3Status>100</mSmall3Status>
-			<mSmall4>387</mSmall4>
+			<mSmall4>243</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
-			<mSmall5>388</mSmall5>
+			<mSmall5>204</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<mSmall7>1903</mSmall7>
@@ -7031,10 +7031,10 @@
 			<mSmall3>151</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
-			<mSmall4>387</mSmall4>
+			<mSmall4>243</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
-			<mSmall5>388</mSmall5>
+			<mSmall5>204</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<mSmall6>382</mSmall6>
@@ -7087,10 +7087,10 @@
 			<mSmall3>2241</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
-			<mSmall4>387</mSmall4>
+			<mSmall4>243</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
-			<mSmall5>388</mSmall5>
+			<mSmall5>204</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<mSmall6>382</mSmall6>
@@ -7143,10 +7143,10 @@
 			<mSmall3>151</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>3</mSmall3Quantity>
-			<mSmall4>387</mSmall4>
+			<mSmall4>243</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
-			<mSmall5>388</mSmall5>
+			<mSmall5>204</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<mSmall6>382</mSmall6>
@@ -7204,7 +7204,7 @@
 			<mSmall1>6541</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>3</mSmall1Quantity>
-			<mSmall2>2221</mSmall2>
+			<mSmall2>135</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall3>0</mSmall3>
@@ -7259,7 +7259,7 @@
 			<mSmall1>7653</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall2>2221</mSmall2>
+			<mSmall2>135</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall6>1903</mSmall6>
@@ -7304,7 +7304,7 @@
 			<mSmall2>2223</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall6>1903</mSmall6>
@@ -7346,7 +7346,7 @@
 			<mSmall1>7653</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall3>2223</mSmall3>
@@ -7470,7 +7470,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>2</mSmall7Quantity>
 			<lVest>712</lVest>
@@ -7518,10 +7518,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>712</lVest>
@@ -7569,10 +7569,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>712</lVest>
@@ -7620,10 +7620,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>712</lVest>
@@ -7676,10 +7676,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>712</lVest>
@@ -7742,13 +7742,13 @@
 			<mSmall4>7731</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
-			<mSmall5>2252</mSmall5>
+			<mSmall5>131</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
 			<mSmall6>151</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>388</mSmall7>
+			<mSmall7>204</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>823</lVest>
@@ -7805,7 +7805,7 @@
 			<mSmall6>151</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>388</mSmall7>
+			<mSmall7>204</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>823</lVest>
@@ -7857,7 +7857,7 @@
 			<mSmall6>2223</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>388</mSmall7>
+			<mSmall7>204</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>823</lVest>
@@ -7909,7 +7909,7 @@
 			<mSmall6>2253</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>388</mSmall7>
+			<mSmall7>204</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>823</lVest>
@@ -7960,7 +7960,7 @@
 			<mSmall6>2291</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>388</mSmall7>
+			<mSmall7>204</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>727</lVest>
@@ -8068,7 +8068,7 @@
 			<mSmall4>2201</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>4</mSmall4Quantity>
-			<mSmall5>2212</mSmall5>
+			<mSmall5>134</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
 			<mSmall6>213</mSmall6>
@@ -8103,7 +8103,7 @@
 			<mSmall2>7826</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2221</mSmall3>
+			<mSmall3>135</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall4>2201</mSmall4>
@@ -8149,7 +8149,7 @@
 			<mSmall2>7826</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2221</mSmall3>
+			<mSmall3>135</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall4>2201</mSmall4>
@@ -8198,7 +8198,7 @@
 			<mSmall2>7826</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2221</mSmall3>
+			<mSmall3>135</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall4>2201</mSmall4>
@@ -8266,7 +8266,7 @@
 			<mSmall3>0</mSmall3>
 			<mSmall3Status>0</mSmall3Status>
 			<mSmall3Quantity>0</mSmall3Quantity>
-			<mSmall4>2212</mSmall4>
+			<mSmall4>134</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>4</mSmall4Quantity>
 			<mSmall5>2231</mSmall5>
@@ -8333,7 +8333,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>761</lVest>
@@ -8375,7 +8375,7 @@
 			<mSmall2>6413</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
-			<mSmall3>2243</mSmall3>
+			<mSmall3>132</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>3</mSmall3Quantity>
 			<mSmall4>151</mSmall4>
@@ -8435,7 +8435,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>806</lVest>
@@ -8657,7 +8657,7 @@
 			<mSmall1>7830</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
-			<mSmall3>2252</mSmall3>
+			<mSmall3>131</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<lVest>714</lVest>
@@ -8697,7 +8697,7 @@
 			<mSmall4>6650</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
-			<mSmall5>2212</mSmall5>
+			<mSmall5>134</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>3</mSmall5Quantity>
 			<lVest>751</lVest>
@@ -8752,7 +8752,7 @@
 			<mSmall2>7298</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>3</mSmall2Quantity>
-			<mSmall3>2252</mSmall3>
+			<mSmall3>131</mSmall3>
 			<mSmall3Status>98</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall4>0</mSmall4>
@@ -8764,7 +8764,7 @@
 			<mSmall6>361</mSmall6>
 			<mSmall6Status>50</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>2</mSmall7Quantity>
 			<lVest>701</lVest>
@@ -8813,10 +8813,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lLeftThigh>601</lLeftThigh>
@@ -8858,7 +8858,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<lVest>701</lVest>
@@ -8909,7 +8909,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<lVest>701</lVest>
@@ -8950,7 +8950,7 @@
 			<mSmall1>7298</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>3</mSmall1Quantity>
-			<mSmall2>2252</mSmall2>
+			<mSmall2>131</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall3>2204</mSmall3>
@@ -8962,7 +8962,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<mSmall7>373</mSmall7>
@@ -9022,7 +9022,7 @@
 			<mSmall2>6279</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>6</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
 			<mSmall4>0</mSmall4>
@@ -9034,7 +9034,7 @@
 			<mSmall6>0</mSmall6>
 			<mSmall6Status>0</mSmall6Status>
 			<mSmall6Quantity>0</mSmall6Quantity>
-			<mSmall7>388</mSmall7>
+			<mSmall7>204</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>826</lVest>
@@ -9080,7 +9080,7 @@
 			<mSmall3>6524</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
-			<mSmall4>2221</mSmall4>
+			<mSmall4>135</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
 			<mSmall5>137</mSmall5>
@@ -9089,7 +9089,7 @@
 			<mSmall6>223</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>388</mSmall7>
+			<mSmall7>204</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>826</lVest>
@@ -9140,10 +9140,10 @@
 			<mSmall5>223</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>388</mSmall6>
+			<mSmall6>204</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>381</mSmall7>
+			<mSmall7>203</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>826</lVest>
@@ -9182,7 +9182,7 @@
 			<mSmall2>2223</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
 			<mSmall4>138</mSmall4>
@@ -9191,10 +9191,10 @@
 			<mSmall5>223</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
-			<mSmall6>388</mSmall6>
+			<mSmall6>204</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>381</mSmall7>
+			<mSmall7>203</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>824</lVest>
@@ -9237,7 +9237,7 @@
 			<mSmall3>2223</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
-			<mSmall4>2212</mSmall4>
+			<mSmall4>134</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>4</mSmall4Quantity>
 			<mSmall5>138</mSmall5>
@@ -9246,7 +9246,7 @@
 			<mSmall6>223</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>388</mSmall7>
+			<mSmall7>204</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>824</lVest>
@@ -9312,7 +9312,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>373</mSmall7>
@@ -9358,7 +9358,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<mSmall7>373</mSmall7>
@@ -9460,7 +9460,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<mSmall7>374</mSmall7>
@@ -9516,7 +9516,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<mSmall7>374</mSmall7>
@@ -9588,7 +9588,7 @@
 			<mSmall6>493</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>801</lVest>
@@ -9646,7 +9646,7 @@
 			<mSmall6>493</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>817</lVest>
@@ -9695,7 +9695,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>761</lVest>
@@ -9749,7 +9749,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>761</lVest>
@@ -9801,7 +9801,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>761</lVest>
@@ -9851,7 +9851,7 @@
 			<mSmall1>6541</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>3</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall3>0</mSmall3>
@@ -9866,7 +9866,7 @@
 			<mSmall6>1905</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>824</lVest>
@@ -9909,13 +9909,13 @@
 			<mSmall3>6541</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>3</mSmall3Quantity>
-			<mSmall4>2212</mSmall4>
+			<mSmall4>134</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
 			<mSmall6>1905</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>824</lVest>
@@ -9959,13 +9959,13 @@
 			<mSmall2>6541</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>3</mSmall2Quantity>
-			<mSmall3>2221</mSmall3>
+			<mSmall3>135</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall6>1905</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>824</lVest>
@@ -10009,16 +10009,16 @@
 			<mSmall2>6541</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>3</mSmall2Quantity>
-			<mSmall3>2221</mSmall3>
+			<mSmall3>135</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
-			<mSmall5>381</mSmall5>
+			<mSmall5>203</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<mSmall6>1905</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>756</lVest>
@@ -10050,7 +10050,7 @@
 			<mBig2>241</mBig2>
 			<mBig2Status>100</mBig2Status>
 			<mBig2Quantity>1</mBig2Quantity>
-			<mBig3>5952</mBig3>
+			<mBig3>64</mBig3>
 			<mBig3Status>100</mBig3Status>
 			<mBig3Quantity>1</mBig3Quantity>
 			<mSmall0>6784</mSmall0>
@@ -10062,7 +10062,7 @@
 			<mSmall2>6541</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>3</mSmall2Quantity>
-			<mSmall3>2221</mSmall3>
+			<mSmall3>135</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall4>151</mSmall4>
@@ -10074,7 +10074,7 @@
 			<mSmall6>1905</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>756</lVest>
@@ -10140,7 +10140,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<mSmall7>374</mSmall7>
@@ -10187,7 +10187,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<mSmall7>374</mSmall7>
@@ -10232,7 +10232,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<mSmall7>374</mSmall7>
@@ -10280,7 +10280,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<mSmall7>374</mSmall7>
@@ -10331,7 +10331,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<mSmall7>374</mSmall7>
@@ -10812,7 +10812,7 @@
 			<mSmall0>7660</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>4</mSmall0Quantity>
-			<mSmall1>2221</mSmall1>
+			<mSmall1>135</mSmall1>
 			<mSmall1Status>96</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
 			<lVest>753</lVest>
@@ -10937,7 +10937,7 @@
 			<mSmall1>6541</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
-			<mSmall6>381</mSmall6>
+			<mSmall6>203</mSmall6>
 			<mSmall6Status>80</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<lVest>755</lVest>
@@ -10970,7 +10970,7 @@
 			<mSmall2>6541</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
-			<mSmall6>381</mSmall6>
+			<mSmall6>203</mSmall6>
 			<mSmall6Status>80</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>256</mSmall7>
@@ -11084,7 +11084,7 @@
 			<mSmall1>6541</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>99</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<lVest>753</lVest>
@@ -11116,7 +11116,7 @@
 			<mSmall1>6541</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>94</mSmall2Status>
 			<mSmall2Quantity>3</mSmall2Quantity>
 			<mSmall7>1902</mSmall7>
@@ -11492,7 +11492,7 @@
 			<mSmall4>373</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
-			<mSmall5>387</mSmall5>
+			<mSmall5>243</mSmall5>
 			<mSmall5Status>98</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<mSmall6>138</mSmall6>
@@ -11528,7 +11528,7 @@
 			<mSmall0>6388</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>6</mSmall0Quantity>
-			<mSmall5>387</mSmall5>
+			<mSmall5>243</mSmall5>
 			<mSmall5Status>98</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<mSmall6>138</mSmall6>
@@ -11561,7 +11561,7 @@
 			<mSmall1>6898</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall5>387</mSmall5>
+			<mSmall5>243</mSmall5>
 			<mSmall5Status>98</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<mSmall6>138</mSmall6>
@@ -12044,7 +12044,7 @@
 			<mSmall2>491</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>1</mSmall2Quantity>
-			<mSmall3>2243</mSmall3>
+			<mSmall3>132</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<lVest>771</lVest>
@@ -12079,7 +12079,7 @@
 			<mSmall1>6277</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
-			<mSmall2>2243</mSmall2>
+			<mSmall2>132</mSmall2>
 			<mSmall2Status>94</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall3>491</mSmall3>
@@ -12792,7 +12792,7 @@
 			<mBig0Status>87</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
 			<mBig0Drop>1</mBig0Drop>
-			<mBig1>372</mBig1>
+			<mBig1>202</mBig1>
 			<mBig1Status>100</mBig1Status>
 			<mBig1Quantity>1</mBig1Quantity>
 			<mBig1Drop>1</mBig1Drop>
@@ -12966,7 +12966,7 @@
 			<mBig2Status>100</mBig2Status>
 			<mBig2Quantity>1</mBig2Quantity>
 			<mBig2Drop>0</mBig2Drop>
-			<mBig3>2221</mBig3>
+			<mBig3>135</mBig3>
 			<mBig3Status>100</mBig3Status>
 			<mBig3Quantity>4</mBig3Quantity>
 			<mBig3Drop>0</mBig3Drop>
@@ -13025,13 +13025,13 @@
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
-			<mHelmet>2648</mHelmet>
+			<mHelmet>181</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>100</mHelmetStatus>
-			<mVest>2827</mVest>
+			<mVest>168</mVest>
 			<mVestDrop>0</mVestDrop>
 			<mVestStatus>100</mVestStatus>
-			<mLeg>2922</mLeg>
+			<mLeg>171</mLeg>
 			<mLegDrop>0</mLegDrop>
 			<mLegStatus>100</mLegStatus>
 			<mWeapon>0</mWeapon>
@@ -13618,11 +13618,11 @@
 			<mWeapon>0</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>0</mWeaponStatus>
-			<mBig0>372</mBig0>
+			<mBig0>202</mBig0>
 			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
 			<mBig0Drop>1</mBig0Drop>
-			<mBig1>371</mBig1>
+			<mBig1>201</mBig1>
 			<mBig1Status>100</mBig1Status>
 			<mBig1Quantity>2</mBig1Quantity>
 			<mBig1Drop>1</mBig1Drop>
@@ -13705,7 +13705,7 @@
 			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>2</mBig0Quantity>
 			<mBig0Drop>1</mBig0Drop>
-			<mBig1>371</mBig1>
+			<mBig1>201</mBig1>
 			<mBig1Status>100</mBig1Status>
 			<mBig1Quantity>1</mBig1Quantity>
 			<mBig1Drop>1</mBig1Drop>
@@ -13886,10 +13886,10 @@
 			<mSmall0>6773</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>24</mSmall0Quantity>
-			<mSmall1>381</mSmall1>
+			<mSmall1>203</mSmall1>
 			<mSmall1Status>95</mSmall1Status>
 			<mSmall1Quantity>1</mSmall1Quantity>
-			<mSmall2>388</mSmall2>
+			<mSmall2>204</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>1</mSmall2Quantity>
 			<mSmall3>0</mSmall3>
@@ -14104,13 +14104,13 @@
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
-			<mHelmet>2648</mHelmet>
+			<mHelmet>181</mHelmet>
 			<mHelmetDrop>1</mHelmetDrop>
 			<mHelmetStatus>100</mHelmetStatus>
-			<mVest>2827</mVest>
+			<mVest>168</mVest>
 			<mVestDrop>1</mVestDrop>
 			<mVestStatus>100</mVestStatus>
-			<mLeg>2937</mLeg>
+			<mLeg>174</mLeg>
 			<mLegDrop>1</mLegDrop>
 			<mLegStatus>100</mLegStatus>
 			<mWeapon>0</mWeapon>
@@ -14531,7 +14531,7 @@
 			<mWeapon>0</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>0</mWeaponStatus>
-			<mBig0>372</mBig0>
+			<mBig0>202</mBig0>
 			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
 			<mBig0Drop>1</mBig0Drop>
@@ -14701,11 +14701,11 @@
 			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>2</mBig0Quantity>
 			<mBig0Drop>1</mBig0Drop>
-			<mBig1>2243</mBig1>
+			<mBig1>132</mBig1>
 			<mBig1Status>100</mBig1Status>
 			<mBig1Quantity>2</mBig1Quantity>
 			<mBig1Drop>1</mBig1Drop>
-			<mBig2>2271</mBig2>
+			<mBig2>133</mBig2>
 			<mBig2Status>100</mBig2Status>
 			<mBig2Quantity>2</mBig2Quantity>
 			<mBig2Drop>1</mBig2Drop>
@@ -17191,7 +17191,7 @@
 			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>4</mBig0Quantity>
 			<mBig0Drop>1</mBig0Drop>
-			<mBig1>2271</mBig1>
+			<mBig1>133</mBig1>
 			<mBig1Status>100</mBig1Status>
 			<mBig1Quantity>2</mBig1Quantity>
 			<mBig1Drop>1</mBig1Drop>
@@ -17270,7 +17270,7 @@
 			<mWeapon>33</mWeapon>
 			<mWeaponDrop>1</mWeaponDrop>
 			<mWeaponStatus>78</mWeaponStatus>
-			<mBig0>7959</mBig0>
+			<mBig0>110</mBig0>
 			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
 			<mBig0Drop>1</mBig0Drop>
@@ -20009,7 +20009,7 @@
 			<mWeapon>0</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>0</mWeaponStatus>
-			<mBig0>381</mBig0>
+			<mBig0>203</mBig0>
 			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
 			<mBig0Drop>1</mBig0Drop>
@@ -20262,7 +20262,7 @@
 			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>4</mBig0Quantity>
 			<mBig0Drop>1</mBig0Drop>
-			<mBig1>2271</mBig1>
+			<mBig1>133</mBig1>
 			<mBig1Status>100</mBig1Status>
 			<mBig1Quantity>2</mBig1Quantity>
 			<mBig1Drop>1</mBig1Drop>
@@ -21608,7 +21608,7 @@
 			<mSmall1>7653</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>98</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall3>0</mSmall3>
@@ -21757,7 +21757,7 @@
 			<mSmall2>2223</mSmall2>
 			<mSmall2Status>97</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>98</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall4>0</mSmall4>
@@ -21956,10 +21956,10 @@
 			<mLegStatus>93</mLegStatus>
 			<mWeapon>4716</mWeapon>
 			<mWeaponStatus>98</mWeaponStatus>
-			<mBig0>4026</mBig0>
+			<mBig0>66</mBig0>
 			<mBig0Status>98</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
-			<mBig1>4026</mBig1>
+			<mBig1>66</mBig1>
 			<mBig1Status>98</mBig1Status>
 			<mBig1Quantity>1</mBig1Quantity>
 			<mBig2>1171</mBig2>
@@ -21994,10 +21994,10 @@
 			<mLegStatus>93</mLegStatus>
 			<mWeapon>4716</mWeapon>
 			<mWeaponStatus>98</mWeaponStatus>
-			<mBig0>4026</mBig0>
+			<mBig0>66</mBig0>
 			<mBig0Status>98</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
-			<mBig1>4026</mBig1>
+			<mBig1>66</mBig1>
 			<mBig1Status>98</mBig1Status>
 			<mBig1Quantity>1</mBig1Quantity>
 			<mBig2>5871</mBig2>
@@ -22088,7 +22088,7 @@
 			<mSmall5>224</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>1903</mSmall7>
@@ -22142,7 +22142,7 @@
 			<mSmall5>224</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>4</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>1903</mSmall7>
@@ -22197,7 +22197,7 @@
 			<mSmall5>224</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>1903</mSmall7>
@@ -22358,7 +22358,7 @@
 			<mSmall6>1902</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>794</lVest>
@@ -22413,7 +22413,7 @@
 			<mSmall6>1902</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>794</lVest>
@@ -22465,7 +22465,7 @@
 			<mSmall6>1902</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>794</lVest>
@@ -22499,7 +22499,7 @@
 			<mSmall0>7947</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>6</mSmall0Quantity>
-			<mSmall1>2252</mSmall1>
+			<mSmall1>131</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
 			<mSmall2>151</mSmall2>
@@ -22557,7 +22557,7 @@
 			<mSmall6>1902</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>794</lVest>
@@ -22610,7 +22610,7 @@
 			<mSmall2>0</mSmall2>
 			<mSmall2Status>0</mSmall2Status>
 			<mSmall2Quantity>0</mSmall2Quantity>
-			<mSmall3>388</mSmall3>
+			<mSmall3>204</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>1</mSmall3Quantity>
 			<mSmall4>1911</mSmall4>
@@ -22661,10 +22661,10 @@
 			<mSmall1>6413</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall5>388</mSmall5>
+			<mSmall5>204</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>381</mSmall6>
+			<mSmall6>203</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>1911</mSmall7>
@@ -22706,10 +22706,10 @@
 			<mSmall2>2225</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
-			<mSmall4>388</mSmall4>
+			<mSmall4>204</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
-			<mSmall5>381</mSmall5>
+			<mSmall5>203</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<mSmall7>1911</mSmall7>
@@ -22757,7 +22757,7 @@
 			<mSmall3>151</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
-			<mSmall4>388</mSmall4>
+			<mSmall4>204</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
 			<mSmall7>1911</mSmall7>
@@ -22805,7 +22805,7 @@
 			<mSmall3>151</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>3</mSmall3Quantity>
-			<mSmall5>388</mSmall5>
+			<mSmall5>204</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<mSmall7>1911</mSmall7>
@@ -22922,7 +22922,7 @@
 			<mSmall4>2225</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>3</mSmall4Quantity>
-			<mSmall5>371</mSmall5>
+			<mSmall5>201</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<lVest>786</lVest>
@@ -23103,7 +23103,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>745</lVest>
@@ -23161,7 +23161,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>745</lVest>
@@ -23217,7 +23217,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>745</lVest>
@@ -23262,7 +23262,7 @@
 			<mSmall3>151</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
-			<mSmall4>2252</mSmall4>
+			<mSmall4>131</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
 			<mSmall5>2213</mSmall5>
@@ -23271,7 +23271,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>745</lVest>
@@ -23325,7 +23325,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>745</lVest>
@@ -23377,7 +23377,7 @@
 			<mSmall1>0</mSmall1>
 			<mSmall1Status>0</mSmall1Status>
 			<mSmall1Quantity>0</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
 			<mSmall3>0</mSmall3>
@@ -23435,7 +23435,7 @@
 			<mSmall2>7653</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
 			<mSmall7>1903</mSmall7>
@@ -23479,7 +23479,7 @@
 			<mSmall2>7653</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
 			<mSmall7>1903</mSmall7>
@@ -23570,7 +23570,7 @@
 			<mSmall2>7653</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2221</mSmall3>
+			<mSmall3>135</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall7>1903</mSmall7>
@@ -23627,7 +23627,7 @@
 			<mSmall1>7323</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
-			<mSmall2>2243</mSmall2>
+			<mSmall2>132</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall3>2241</mSmall3>
@@ -23639,10 +23639,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>99</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>830</lVest>
@@ -23679,7 +23679,7 @@
 			<mSmall1>7735</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
-			<mSmall2>2243</mSmall2>
+			<mSmall2>132</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall3>2241</mSmall3>
@@ -23691,10 +23691,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>99</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>830</lVest>
@@ -23730,7 +23730,7 @@
 			<mSmall1>7940</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall2>2243</mSmall2>
+			<mSmall2>132</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall3>2241</mSmall3>
@@ -23742,10 +23742,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>99</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>830</lVest>
@@ -23780,7 +23780,7 @@
 			<mSmall0>7941</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>6</mSmall0Quantity>
-			<mSmall1>2243</mSmall1>
+			<mSmall1>132</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
 			<mSmall2>2201</mSmall2>
@@ -23795,10 +23795,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>99</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>830</lVest>
@@ -23839,7 +23839,7 @@
 			<mSmall1>7940</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
-			<mSmall2>2243</mSmall2>
+			<mSmall2>132</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall3>2213</mSmall3>
@@ -23851,10 +23851,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>99</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>830</lVest>
@@ -24167,7 +24167,7 @@
 			<mSmall6>0</mSmall6>
 			<mSmall6Status>0</mSmall6Status>
 			<mSmall6Quantity>0</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>745</lVest>
@@ -24267,7 +24267,7 @@
 			<mSmall4>2226</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>4</mSmall4Quantity>
-			<mSmall5>371</mSmall5>
+			<mSmall5>201</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<mSmall6>491</mSmall6>
@@ -24318,7 +24318,7 @@
 			<mSmall5>491</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>736</lVest>
@@ -24370,7 +24370,7 @@
 			<mSmall6>491</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>817</lVest>
@@ -24518,7 +24518,7 @@
 			<mSmall2>2223</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall4>151</mSmall4>
@@ -24562,7 +24562,7 @@
 			<mSmall1>6019</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
 			<mSmall3>2223</mSmall3>
@@ -24822,7 +24822,7 @@
 			<mSmall2>0</mSmall2>
 			<mSmall2Status>0</mSmall2Status>
 			<mSmall2Quantity>0</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>99</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall4>0</mSmall4>
@@ -24867,7 +24867,7 @@
 			<mSmall1>6413</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>99</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<lVest>824</lVest>
@@ -24897,7 +24897,7 @@
 			<mSmall1>6413</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>99</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
 			<mSmall4>213</mSmall4>
@@ -25163,7 +25163,7 @@
 			<mSmall4>1903</mSmall4>
 			<mSmall4Status>98</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
-			<mSmall5>371</mSmall5>
+			<mSmall5>201</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
 			<mSmall6>373</mSmall6>
@@ -25209,10 +25209,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>98</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>99</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>99</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>825</lVest>
@@ -25352,7 +25352,7 @@
 			<mSmall1>6544</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall2>2221</mSmall2>
+			<mSmall2>135</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall6>1903</mSmall6>
@@ -25428,7 +25428,7 @@
 			<mSmall6>304</mSmall6>
 			<mSmall6Status>95</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>381</mSmall7>
+			<mSmall7>203</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>756</lVest>
@@ -25476,7 +25476,7 @@
 			<mSmall6>304</mSmall6>
 			<mSmall6Status>95</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>381</mSmall7>
+			<mSmall7>203</mSmall7>
 			<mSmall7Status>95</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>756</lVest>
@@ -25526,7 +25526,7 @@
 			<mSmall6>304</mSmall6>
 			<mSmall6Status>95</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>381</mSmall7>
+			<mSmall7>203</mSmall7>
 			<mSmall7Status>95</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>756</lVest>
@@ -25599,7 +25599,7 @@
 			<mSmall6>0</mSmall6>
 			<mSmall6Status>0</mSmall6Status>
 			<mSmall6Quantity>0</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>0</lVest>
@@ -25638,10 +25638,10 @@
 			<mSmall4>1903</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lLeftThigh>608</lLeftThigh>
@@ -25679,10 +25679,10 @@
 			<mSmall5>382</mSmall5>
 			<mSmall5Status>95</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lLeftThigh>608</lLeftThigh>
@@ -25752,10 +25752,10 @@
 			<mSmall5>366</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>832</lVest>
@@ -25791,10 +25791,10 @@
 			<mSmall5>366</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>712</lVest>
@@ -25832,10 +25832,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>712</lVest>
@@ -25873,7 +25873,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<mSmall7>373</mSmall7>
@@ -25922,10 +25922,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>712</lVest>
@@ -25991,7 +25991,7 @@
 			<mSmall6>0</mSmall6>
 			<mSmall6Status>0</mSmall6Status>
 			<mSmall6Quantity>0</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>0</lVest>
@@ -26025,7 +26025,7 @@
 			<mSmall4>1903</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>825</lVest>
@@ -26058,7 +26058,7 @@
 			<mSmall4>1903</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>2</mSmall7Quantity>
 			<lVest>825</lVest>
@@ -26099,7 +26099,7 @@
 			<mSmall4>1903</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>2</mSmall7Quantity>
 			<lVest>825</lVest>
@@ -26142,7 +26142,7 @@
 			<mSmall4>1903</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>2</mSmall7Quantity>
 			<lVest>825</lVest>
@@ -26244,7 +26244,7 @@
 			<mSmall1>7653</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall5>1903</mSmall5>
@@ -26282,7 +26282,7 @@
 			<mSmall1>7653</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall5>1903</mSmall5>
@@ -26441,7 +26441,7 @@
 			<mSmall4>2201</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>2</mSmall7Quantity>
 			<lLeftThigh>604</lLeftThigh>
@@ -26499,7 +26499,7 @@
 			<mSmall1>5803</mSmall1>
 			<mSmall1Status>98</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>99</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall3>0</mSmall3>
@@ -26544,7 +26544,7 @@
 			<mSmall1>5803</mSmall1>
 			<mSmall1Status>98</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>98</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
 			<mSmall3>2223</mSmall3>
@@ -26573,7 +26573,7 @@
 			<mSmall1>5803</mSmall1>
 			<mSmall1Status>98</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
 			<mSmall3>2223</mSmall3>
@@ -26649,7 +26649,7 @@
 			<mSmall5>382</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>388</mSmall6>
+			<mSmall6>204</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>493</mSmall7>
@@ -26685,7 +26685,7 @@
 			<mSmall1>7653</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall4>1903</mSmall4>
@@ -26694,7 +26694,7 @@
 			<mSmall5>382</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>388</mSmall6>
+			<mSmall6>204</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>493</mSmall7>
@@ -26734,7 +26734,7 @@
 			<mSmall2>7653</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall4>1903</mSmall4>
@@ -26743,7 +26743,7 @@
 			<mSmall5>382</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>388</mSmall6>
+			<mSmall6>204</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>493</mSmall7>
@@ -27361,7 +27361,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>381</mSmall6>
+			<mSmall6>203</mSmall6>
 			<mSmall6Status>80</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>0</mSmall7>
@@ -27400,7 +27400,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>381</mSmall6>
+			<mSmall6>203</mSmall6>
 			<mSmall6Status>80</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<lLeftThigh>604</lLeftThigh>
@@ -27433,7 +27433,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>381</mSmall6>
+			<mSmall6>203</mSmall6>
 			<mSmall6Status>80</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<lLeftThigh>604</lLeftThigh>
@@ -29626,7 +29626,7 @@
 			<mSmall1>7087</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall2>2221</mSmall2>
+			<mSmall2>135</mSmall2>
 			<mSmall2Status>96</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall3>0</mSmall3>
@@ -29677,7 +29677,7 @@
 			<mSmall1>6105</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
-			<mSmall2>2221</mSmall2>
+			<mSmall2>135</mSmall2>
 			<mSmall2Status>96</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall3>151</mSmall3>
@@ -29712,7 +29712,7 @@
 			<mSmall0>7046</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>6</mSmall0Quantity>
-			<mSmall1>2221</mSmall1>
+			<mSmall1>135</mSmall1>
 			<mSmall1Status>96</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
 			<mSmall2>151</mSmall2>
@@ -29754,7 +29754,7 @@
 			<mWeapon>4307</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>96</mWeaponStatus>
-			<mBig0>5952</mBig0>
+			<mBig0>64</mBig0>
 			<mBig0Status>92</mBig0Status>
 			<mBig0Quantity>0</mBig0Quantity>
 			<mBig0Drop>0</mBig0Drop>
@@ -29773,7 +29773,7 @@
 			<mSmall0>7660</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>5</mSmall0Quantity>
-			<mSmall1>2212</mSmall1>
+			<mSmall1>134</mSmall1>
 			<mSmall1Status>96</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
 			<mSmall2>0</mSmall2>
@@ -29814,7 +29814,7 @@
 			<mLeg>2908</mLeg>
 			<mLegStatus>99</mLegStatus>
 			<mWeapon>32</mWeapon>
-			<mBig0>5952</mBig0>
+			<mBig0>64</mBig0>
 			<mBig0Status>92</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
 			<mBig1>377</mBig1>
@@ -29826,7 +29826,7 @@
 			<mSmall1>6790</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>6</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>96</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall7>1903</mSmall7>
@@ -29847,7 +29847,7 @@
 			<mLegStatus>99</mLegStatus>
 			<mWeapon>4574</mWeapon>
 			<mWeaponStatus>98</mWeaponStatus>
-			<mBig0>5952</mBig0>
+			<mBig0>64</mBig0>
 			<mBig0Status>92</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
 			<mBig1>1165</mBig1>
@@ -29862,7 +29862,7 @@
 			<mSmall1>6566</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>96</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall7>1903</mSmall7>
@@ -29886,7 +29886,7 @@
 			<mLegStatus>97</mLegStatus>
 			<mWeapon>5143</mWeapon>
 			<mWeaponStatus>98</mWeaponStatus>
-			<mBig0>5952</mBig0>
+			<mBig0>64</mBig0>
 			<mBig0Status>92</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
 			<mBig1>1165</mBig1>
@@ -29942,7 +29942,7 @@
 			<mLegStatus>97</mLegStatus>
 			<mWeapon>4574</mWeapon>
 			<mWeaponStatus>98</mWeaponStatus>
-			<mBig0>5952</mBig0>
+			<mBig0>64</mBig0>
 			<mBig0Status>92</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
 			<mBig1>1165</mBig1>
@@ -30041,7 +30041,7 @@
 			<mSmall5>0</mSmall5>
 			<mSmall5Status>0</mSmall5Status>
 			<mSmall5Quantity>0</mSmall5Quantity>
-			<mSmall6>388</mSmall6>
+			<mSmall6>204</mSmall6>
 			<mSmall6Status>90</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>1903</mSmall7>
@@ -30072,7 +30072,7 @@
 			<mSmall0>7653</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>2</mSmall0Quantity>
-			<mSmall5>388</mSmall5>
+			<mSmall5>204</mSmall5>
 			<mSmall5Status>90</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<mSmall6>382</mSmall6>
@@ -30110,7 +30110,7 @@
 			<mSmall2>7653</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall5>388</mSmall5>
+			<mSmall5>204</mSmall5>
 			<mSmall5Status>90</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<mSmall6>382</mSmall6>
@@ -30185,13 +30185,13 @@
 			<mSmall4>375</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
-			<mSmall5>371</mSmall5>
+			<mSmall5>201</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<mSmall6>374</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>1901</mSmall7>
+			<mSmall7>214</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>0</lVest>
@@ -30227,13 +30227,13 @@
 			<mSmall4>1653</mSmall4>
 			<mSmall4Status>99</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
-			<mSmall5>371</mSmall5>
+			<mSmall5>201</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<mSmall6>374</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>1901</mSmall7>
+			<mSmall7>214</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lLeftThigh>601</lLeftThigh>
@@ -30265,10 +30265,10 @@
 			<mSmall1>7653</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>1901</mSmall7>
+			<mSmall7>214</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>2</mSmall7Quantity>
 			<lVest>751</lVest>
@@ -30479,7 +30479,7 @@
 			<mSmall6>0</mSmall6>
 			<mSmall6Status>0</mSmall6Status>
 			<mSmall6Quantity>0</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>0</lVest>
@@ -30518,10 +30518,10 @@
 			<mSmall5>222</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>712</lVest>
@@ -30560,10 +30560,10 @@
 			<mSmall5>222</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>4</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>712</lVest>
@@ -30725,7 +30725,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>372</mSmall6>
+			<mSmall6>202</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>373</mSmall7>
@@ -30771,7 +30771,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
-			<mSmall6>372</mSmall6>
+			<mSmall6>202</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>373</mSmall7>
@@ -30820,7 +30820,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>372</mSmall6>
+			<mSmall6>202</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>373</mSmall7>
@@ -30874,7 +30874,7 @@
 			<mSmall0>6094</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>4</mSmall0Quantity>
-			<mSmall1>2221</mSmall1>
+			<mSmall1>135</mSmall1>
 			<mSmall1Status>97</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
 			<mSmall2>0</mSmall2>
@@ -30925,7 +30925,7 @@
 			<mSmall0>7046</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>4</mSmall0Quantity>
-			<mSmall1>2221</mSmall1>
+			<mSmall1>135</mSmall1>
 			<mSmall1Status>97</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
 			<mSmall7>1903</mSmall7>
@@ -30967,7 +30967,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>752</lVest>
@@ -31026,7 +31026,7 @@
 			<mSmall2>6277</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>99</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
 			<mSmall4>0</mSmall4>
@@ -31038,7 +31038,7 @@
 			<mSmall6>0</mSmall6>
 			<mSmall6Status>0</mSmall6Status>
 			<mSmall6Quantity>0</mSmall6Quantity>
-			<mSmall7>388</mSmall7>
+			<mSmall7>204</mSmall7>
 			<mSmall7Status>99</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>827</lVest>
@@ -31078,10 +31078,10 @@
 			<mSmall2>6277</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
-			<mSmall7>388</mSmall7>
+			<mSmall7>204</mSmall7>
 			<mSmall7Status>99</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>726</lVest>
@@ -31118,16 +31118,16 @@
 			<mSmall2>6277</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
-			<mSmall3>2221</mSmall3>
+			<mSmall3>135</mSmall3>
 			<mSmall3Status>99</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall4>2266</mSmall4>
 			<mSmall4Status>99</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
-			<mSmall6>381</mSmall6>
+			<mSmall6>203</mSmall6>
 			<mSmall6Status>99</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>388</mSmall7>
+			<mSmall7>204</mSmall7>
 			<mSmall7Status>99</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>726</lVest>
@@ -31163,19 +31163,19 @@
 			<mSmall1>6277</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
-			<mSmall2>2221</mSmall2>
+			<mSmall2>135</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
 			<mSmall4>2266</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
-			<mSmall6>381</mSmall6>
+			<mSmall6>203</mSmall6>
 			<mSmall6Status>99</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>388</mSmall7>
+			<mSmall7>204</mSmall7>
 			<mSmall7Status>99</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>726</lVest>
@@ -31214,16 +31214,16 @@
 			<mSmall2>6277</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
 			<mSmall4>2266</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
-			<mSmall6>381</mSmall6>
+			<mSmall6>203</mSmall6>
 			<mSmall6Status>99</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>388</mSmall7>
+			<mSmall7>204</mSmall7>
 			<mSmall7Status>99</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>726</lVest>
@@ -31416,7 +31416,7 @@
 			<mSmall2>6544</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
-			<mSmall3>2221</mSmall3>
+			<mSmall3>135</mSmall3>
 			<mSmall3Status>95</mSmall3Status>
 			<mSmall3Quantity>3</mSmall3Quantity>
 			<mSmall4>361</mSmall4>
@@ -31463,7 +31463,7 @@
 			<mSmall3>6574</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
-			<mSmall4>2221</mSmall4>
+			<mSmall4>135</mSmall4>
 			<mSmall4Status>95</mSmall4Status>
 			<mSmall4Quantity>3</mSmall4Quantity>
 			<mSmall5>151</mSmall5>
@@ -31524,7 +31524,7 @@
 			<mSmall2>0</mSmall2>
 			<mSmall2Status>0</mSmall2Status>
 			<mSmall2Quantity>0</mSmall2Quantity>
-			<mSmall3>2221</mSmall3>
+			<mSmall3>135</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall4>0</mSmall4>
@@ -31533,7 +31533,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>373</mSmall7>
@@ -31572,7 +31572,7 @@
 			<mSmall1>7830</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall3>2221</mSmall3>
+			<mSmall3>135</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
 			<mSmall4>151</mSmall4>
@@ -31581,7 +31581,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>373</mSmall7>
@@ -31614,7 +31614,7 @@
 			<mSmall0>7047</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>4</mSmall0Quantity>
-			<mSmall3>2221</mSmall3>
+			<mSmall3>135</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
 			<mSmall4>151</mSmall4>
@@ -31623,7 +31623,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<mSmall7>373</mSmall7>
@@ -31656,7 +31656,7 @@
 			<mSmall0>7047</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>6</mSmall0Quantity>
-			<mSmall2>2221</mSmall2>
+			<mSmall2>135</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>3</mSmall2Quantity>
 			<mSmall3>2231</mSmall3>
@@ -31668,7 +31668,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<mSmall7>374</mSmall7>
@@ -31712,7 +31712,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<mSmall7>374</mSmall7>
@@ -31836,7 +31836,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>753</lVest>
@@ -31883,7 +31883,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>753</lVest>
@@ -31933,7 +31933,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>811</lVest>
@@ -31985,7 +31985,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>727</lVest>
@@ -32054,7 +32054,7 @@
 			<mSmall6>0</mSmall6>
 			<mSmall6Status>0</mSmall6Status>
 			<mSmall6Quantity>0</mSmall6Quantity>
-			<mSmall7>388</mSmall7>
+			<mSmall7>204</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>0</lVest>
@@ -32090,7 +32090,7 @@
 			<mSmall2>366</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>1</mSmall2Quantity>
-			<mSmall7>388</mSmall7>
+			<mSmall7>204</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lLeftThigh>608</lLeftThigh>
@@ -32111,7 +32111,7 @@
 			<mBig0>4113</mBig0>
 			<mBig0Status>99</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
-			<mBig1>5952</mBig1>
+			<mBig1>64</mBig1>
 			<mBig1Status>99</mBig1Status>
 			<mBig1Quantity>1</mBig1Quantity>
 			<mSmall0>6777</mSmall0>
@@ -32126,7 +32126,7 @@
 			<mSmall3>7655</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
-			<mSmall7>388</mSmall7>
+			<mSmall7>204</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>826</lVest>
@@ -32155,7 +32155,7 @@
 			<mBig2>211</mBig2>
 			<mBig2Status>99</mBig2Status>
 			<mBig2Quantity>1</mBig2Quantity>
-			<mBig3>5952</mBig3>
+			<mBig3>64</mBig3>
 			<mBig3Status>99</mBig3Status>
 			<mBig3Quantity>1</mBig3Quantity>
 			<mSmall0>7659</mSmall0>
@@ -32164,7 +32164,7 @@
 			<mSmall1>7655</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
-			<mSmall7>388</mSmall7>
+			<mSmall7>204</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>824</lVest>
@@ -32193,7 +32193,7 @@
 			<mBig2>246</mBig2>
 			<mBig2Status>99</mBig2Status>
 			<mBig2Quantity>1</mBig2Quantity>
-			<mBig3>5952</mBig3>
+			<mBig3>64</mBig3>
 			<mBig3Status>99</mBig3Status>
 			<mBig3Quantity>1</mBig3Quantity>
 			<mSmall0>7659</mSmall0>
@@ -32211,7 +32211,7 @@
 			<mSmall6>362</mSmall6>
 			<mSmall6Status>60</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>388</mSmall7>
+			<mSmall7>204</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>824</lVest>
@@ -32502,7 +32502,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>711</lVest>
@@ -32553,13 +32553,13 @@
 			<mSmall4>2202</mSmall4>
 			<mSmall4Status>98</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
-			<mSmall5>2212</mSmall5>
+			<mSmall5>134</mSmall5>
 			<mSmall5Status>96</mSmall5Status>
 			<mSmall5Quantity>4</mSmall5Quantity>
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>711</lVest>
@@ -32606,13 +32606,13 @@
 			<mSmall4>2202</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
-			<mSmall5>2221</mSmall5>
+			<mSmall5>135</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>711</lVest>
@@ -32656,7 +32656,7 @@
 			<mSmall3>2202</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
-			<mSmall4>2212</mSmall4>
+			<mSmall4>134</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>4</mSmall4Quantity>
 			<mSmall5>151</mSmall5>
@@ -32665,7 +32665,7 @@
 			<mSmall6>1903</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>371</mSmall7>
+			<mSmall7>201</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>711</lVest>
@@ -32709,7 +32709,7 @@
 			<mSmall3>6413</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
-			<mSmall4>2212</mSmall4>
+			<mSmall4>134</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
 			<mSmall5>151</mSmall5>
@@ -32766,7 +32766,7 @@
 			<mSmall1>6413</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>99</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
 			<mSmall3>0</mSmall3>
@@ -32820,7 +32820,7 @@
 			<mSmall1>6413</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>99</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
 			<mSmall3>151</mSmall3>
@@ -32864,10 +32864,10 @@
 			<mSmall1>6413</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>6</mSmall1Quantity>
-			<mSmall2>2221</mSmall2>
+			<mSmall2>135</mSmall2>
 			<mSmall2Status>99</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>99</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
 			<mSmall4>151</mSmall4>
@@ -32911,7 +32911,7 @@
 			<mSmall1>6413</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>6</mSmall1Quantity>
-			<mSmall2>2221</mSmall2>
+			<mSmall2>135</mSmall2>
 			<mSmall2Status>99</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
 			<mSmall3>2291</mSmall3>
@@ -32958,7 +32958,7 @@
 			<mSmall2>6413</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>6</mSmall2Quantity>
-			<mSmall3>2221</mSmall3>
+			<mSmall3>135</mSmall3>
 			<mSmall3Status>99</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
 			<mSmall4>151</mSmall4>
@@ -33028,7 +33028,7 @@
 			<mSmall5>0</mSmall5>
 			<mSmall5Status>0</mSmall5Status>
 			<mSmall5Quantity>0</mSmall5Quantity>
-			<mSmall6>388</mSmall6>
+			<mSmall6>204</mSmall6>
 			<mSmall6Status>98</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>1911</mSmall7>
@@ -33076,7 +33076,7 @@
 			<mSmall2>6277</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
-			<mSmall6>388</mSmall6>
+			<mSmall6>204</mSmall6>
 			<mSmall6Status>98</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>1911</mSmall7>
@@ -33117,10 +33117,10 @@
 			<mSmall1>6277</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
-			<mSmall5>388</mSmall5>
+			<mSmall5>204</mSmall5>
 			<mSmall5Status>98</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>381</mSmall6>
+			<mSmall6>203</mSmall6>
 			<mSmall6Status>80</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>1911</mSmall7>
@@ -33161,10 +33161,10 @@
 			<mSmall1>6541</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall5>388</mSmall5>
+			<mSmall5>204</mSmall5>
 			<mSmall5Status>98</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>381</mSmall6>
+			<mSmall6>203</mSmall6>
 			<mSmall6Status>80</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>1911</mSmall7>
@@ -33210,10 +33210,10 @@
 			<mSmall3>2251</mSmall3>
 			<mSmall3Status>96</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
-			<mSmall5>388</mSmall5>
+			<mSmall5>204</mSmall5>
 			<mSmall5Status>98</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>381</mSmall6>
+			<mSmall6>203</mSmall6>
 			<mSmall6Status>80</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<mSmall7>1911</mSmall7>
@@ -33268,7 +33268,7 @@
 			<mSmall1>6897</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall2>2221</mSmall2>
+			<mSmall2>135</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall3>137</mSmall3>
@@ -33316,7 +33316,7 @@
 			<mSmall1>6899</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>99</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
 			<mSmall3>137</mSmall3>
@@ -33353,10 +33353,10 @@
 			<mSmall1>6899</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
-			<mSmall2>2221</mSmall2>
+			<mSmall2>135</mSmall2>
 			<mSmall2Status>96</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>97</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
 			<mSmall4>151</mSmall4>
@@ -33396,10 +33396,10 @@
 			<mSmall1>6803</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
-			<mSmall2>2221</mSmall2>
+			<mSmall2>135</mSmall2>
 			<mSmall2Status>96</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>97</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
 			<mSmall4>151</mSmall4>
@@ -33445,10 +33445,10 @@
 			<mSmall1>6790</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>5</mSmall1Quantity>
-			<mSmall2>2221</mSmall2>
+			<mSmall2>135</mSmall2>
 			<mSmall2Status>96</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>97</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
 			<mSmall4>151</mSmall4>
@@ -33514,7 +33514,7 @@
 			<mSmall1>7653</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall3>0</mSmall3>
@@ -33701,7 +33701,7 @@
 			<mSmall3>2327</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>2</mSmall3Quantity>
-			<mSmall4>2212</mSmall4>
+			<mSmall4>134</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
 			<mSmall5>2282</mSmall5>
@@ -33764,7 +33764,7 @@
 			<mSmall2>0</mSmall2>
 			<mSmall2Status>0</mSmall2Status>
 			<mSmall2Quantity>0</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
 			<mSmall4>242</mSmall4>
@@ -33806,10 +33806,10 @@
 			<mSmall0>7660</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>4</mSmall0Quantity>
-			<mSmall2>2221</mSmall2>
+			<mSmall2>135</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>100</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
 			<mSmall4>242</mSmall4>
@@ -33854,7 +33854,7 @@
 			<mSmall1>2401</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>1</mSmall1Quantity>
-			<mSmall2>2221</mSmall2>
+			<mSmall2>135</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
 			<mSmall3>145</mSmall3>
@@ -34043,10 +34043,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>832</lVest>
@@ -34085,10 +34085,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>832</lVest>
@@ -34123,7 +34123,7 @@
 			<mSmall0>7763</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>2</mSmall0Quantity>
-			<mSmall1>2252</mSmall1>
+			<mSmall1>131</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
 			<mSmall2>151</mSmall2>
@@ -34138,10 +34138,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>711</lVest>
@@ -34175,7 +34175,7 @@
 			<mBig3>7649</mBig3>
 			<mBig3Status>100</mBig3Status>
 			<mBig3Quantity>6</mBig3Quantity>
-			<mSmall1>2252</mSmall1>
+			<mSmall1>131</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
 			<mSmall2>151</mSmall2>
@@ -34190,10 +34190,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>711</lVest>
@@ -34230,7 +34230,7 @@
 			<mSmall0>7649</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>4</mSmall0Quantity>
-			<mSmall1>2252</mSmall1>
+			<mSmall1>131</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
 			<mSmall2>151</mSmall2>
@@ -34245,10 +34245,10 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>372</mSmall7>
+			<mSmall7>202</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>711</lVest>
@@ -34311,7 +34311,7 @@
 			<mSmall4>0</mSmall4>
 			<mSmall4Status>0</mSmall4Status>
 			<mSmall4Quantity>0</mSmall4Quantity>
-			<mSmall5>381</mSmall5>
+			<mSmall5>203</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<mSmall6>0</mSmall6>
@@ -34357,7 +34357,7 @@
 			<mSmall4>2231</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>2</mSmall4Quantity>
-			<mSmall5>381</mSmall5>
+			<mSmall5>203</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<lVest>824</lVest>
@@ -34410,7 +34410,7 @@
 			<mSmall6>2328</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>4</mSmall6Quantity>
-			<mSmall7>381</mSmall7>
+			<mSmall7>203</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>826</lVest>
@@ -34463,7 +34463,7 @@
 			<mSmall6>2231</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>381</mSmall7>
+			<mSmall7>203</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>756</lVest>
@@ -34512,7 +34512,7 @@
 			<mSmall6>2231</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
-			<mSmall7>381</mSmall7>
+			<mSmall7>203</mSmall7>
 			<mSmall7Status>100</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>756</lVest>
@@ -34563,10 +34563,10 @@
 			<mSmall0>6413</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>2</mSmall0Quantity>
-			<mSmall1>388</mSmall1>
+			<mSmall1>204</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>1</mSmall1Quantity>
-			<mSmall2>387</mSmall2>
+			<mSmall2>243</mSmall2>
 			<mSmall2Status>98</mSmall2Status>
 			<mSmall2Quantity>1</mSmall2Quantity>
 			<mSmall3>366</mSmall3>
@@ -34609,10 +34609,10 @@
 			<mSmall0>6413</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>2</mSmall0Quantity>
-			<mSmall1>388</mSmall1>
+			<mSmall1>204</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>1</mSmall1Quantity>
-			<mSmall2>387</mSmall2>
+			<mSmall2>243</mSmall2>
 			<mSmall2Status>98</mSmall2Status>
 			<mSmall2Quantity>1</mSmall2Quantity>
 			<mSmall3>366</mSmall3>
@@ -34653,10 +34653,10 @@
 			<mSmall2>6413</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
-			<mSmall6>388</mSmall6>
+			<mSmall6>204</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<mSmall7>387</mSmall7>
+			<mSmall7>243</mSmall7>
 			<mSmall7Status>98</mSmall7Status>
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lLeftThigh>608</lLeftThigh>
@@ -34917,7 +34917,7 @@
 			<mSmall1>0</mSmall1>
 			<mSmall1Status>0</mSmall1Status>
 			<mSmall1Quantity>0</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>98</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall3>0</mSmall3>
@@ -34966,7 +34966,7 @@
 			<mSmall1>6277</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>99</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall5>1903</mSmall5>
@@ -35002,7 +35002,7 @@
 			<mSmall2>6277</mSmall2>
 			<mSmall2Status>100</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
-			<mSmall3>2212</mSmall3>
+			<mSmall3>134</mSmall3>
 			<mSmall3Status>99</mSmall3Status>
 			<mSmall3Quantity>4</mSmall3Quantity>
 			<mSmall5>1903</mSmall5>
@@ -35040,7 +35040,7 @@
 			<mSmall1>6277</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>6</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>99</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
 			<mSmall5>1903</mSmall5>
@@ -35140,7 +35140,7 @@
 			<mSmall3>0</mSmall3>
 			<mSmall3Status>0</mSmall3Status>
 			<mSmall3Quantity>0</mSmall3Quantity>
-			<mSmall4>371</mSmall4>
+			<mSmall4>201</mSmall4>
 			<mSmall4Status>99</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
 			<mSmall5>0</mSmall5>
@@ -35178,7 +35178,7 @@
 			<mSmall1>6492</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
-			<mSmall5>371</mSmall5>
+			<mSmall5>201</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<lVest>731</lVest>
@@ -35210,7 +35210,7 @@
 			<mSmall4>1903</mSmall4>
 			<mSmall4Status>100</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
-			<mSmall5>371</mSmall5>
+			<mSmall5>201</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>2</mSmall5Quantity>
 			<lVest>524</lVest>
@@ -35282,7 +35282,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<mSmall7>374</mSmall7>
@@ -35327,7 +35327,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<mSmall7>374</mSmall7>
@@ -35377,7 +35377,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<mSmall7>374</mSmall7>
@@ -35432,7 +35432,7 @@
 			<mSmall5>1903</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>371</mSmall6>
+			<mSmall6>201</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<mSmall7>374</mSmall7>
@@ -35475,7 +35475,7 @@
 			<mSmall1>7652</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>6</mSmall1Quantity>
-			<mSmall2>2221</mSmall2>
+			<mSmall2>135</mSmall2>
 			<mSmall2Status>98</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall3>151</mSmall3>
@@ -35594,7 +35594,7 @@
 			<mSmall1>6541</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>4</mSmall1Quantity>
-			<mSmall5>1901</mSmall5>
+			<mSmall5>214</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<lLeftThigh>648</lLeftThigh>
@@ -35624,7 +35624,7 @@
 			<mSmall4>215</mSmall4>
 			<mSmall4Status>99</mSmall4Status>
 			<mSmall4Quantity>1</mSmall4Quantity>
-			<mSmall5>1901</mSmall5>
+			<mSmall5>214</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<lLeftThigh>648</lLeftThigh>
@@ -35893,10 +35893,10 @@
 			<mSmall0>7660</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>4</mSmall0Quantity>
-			<mSmall1>2221</mSmall1>
+			<mSmall1>135</mSmall1>
 			<mSmall1Status>97</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall2>2212</mSmall2>
+			<mSmall2>134</mSmall2>
 			<mSmall2Status>98</mSmall2Status>
 			<mSmall2Quantity>4</mSmall2Quantity>
 			<mSmall3>151</mSmall3>
@@ -35941,7 +35941,7 @@
 			<mSmall0>7660</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>4</mSmall0Quantity>
-			<mSmall1>2221</mSmall1>
+			<mSmall1>135</mSmall1>
 			<mSmall1Status>98</mSmall1Status>
 			<mSmall1Quantity>6</mSmall1Quantity>
 			<mSmall2>151</mSmall2>
@@ -36201,7 +36201,7 @@
 			<mSmall1>6733</mSmall1>
 			<mSmall1Status>100</mSmall1Status>
 			<mSmall1Quantity>2</mSmall1Quantity>
-			<mSmall2>2252</mSmall2>
+			<mSmall2>131</mSmall2>
 			<mSmall2Status>98</mSmall2Status>
 			<mSmall2Quantity>2</mSmall2Quantity>
 			<mSmall4>146</mSmall4>

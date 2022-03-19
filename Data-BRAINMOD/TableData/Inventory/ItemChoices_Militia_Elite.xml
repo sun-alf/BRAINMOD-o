@@ -3,8 +3,8 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>0</uiIndex>
 		<name>Helmets</name>
-		<ubChoices>20</ubChoices>
-		<bItemNo1>2601</bItemNo1>
+		<ubChoices>1</ubChoices>
+		<bItemNo1>176</bItemNo1>
 		<bItemNo2>2601</bItemNo2>
 		<bItemNo3>2601</bItemNo3>
 		<bItemNo4>2601</bItemNo4>
@@ -58,7 +58,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>1</uiIndex>
 		<name>Vests</name>
-		<ubChoices>14</ubChoices>
+		<ubChoices>1</ubChoices>
 		<bItemNo1>2765</bItemNo1>
 		<bItemNo2>164</bItemNo2>
 		<bItemNo3>167</bItemNo3>
@@ -113,8 +113,8 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>2</uiIndex>
 		<name>Leggings</name>
-		<ubChoices>12</ubChoices>
-		<bItemNo1>170</bItemNo1>
+		<ubChoices>1</ubChoices>
+		<bItemNo1>173</bItemNo1>
 		<bItemNo2>173</bItemNo2>
 		<bItemNo3>2945</bItemNo3>
 		<bItemNo4>2957</bItemNo4>
@@ -168,12 +168,12 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>3</uiIndex>
 		<name>Hand Grenades</name>
-		<ubChoices>16</ubChoices>
-		<bItemNo1>2252</bItemNo1>
-		<bItemNo2>2243</bItemNo2>
-		<bItemNo3>2271</bItemNo3>
-		<bItemNo4>2212</bItemNo4>
-		<bItemNo5>2221</bItemNo5>
+		<ubChoices>1</ubChoices>
+		<bItemNo1>131</bItemNo1>
+		<bItemNo2>132</bItemNo2>
+		<bItemNo3>133</bItemNo3>
+		<bItemNo4>134</bItemNo4>
+		<bItemNo5>135</bItemNo5>
 		<bItemNo6>2201</bItemNo6>
 		<bItemNo7>151</bItemNo7>
 		<bItemNo8>2225</bItemNo8>
@@ -223,15 +223,15 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>4</uiIndex>
 		<name>Kits</name>
-		<ubChoices>10</ubChoices>
-		<bItemNo1>371</bItemNo1>
-		<bItemNo2>372</bItemNo2>
-		<bItemNo3>388</bItemNo3>
+		<ubChoices>1</ubChoices>
+		<bItemNo1>201</bItemNo1>
+		<bItemNo2>202</bItemNo2>
+		<bItemNo3>204</bItemNo3>
 		<bItemNo4>363</bItemNo4>
-		<bItemNo5>371</bItemNo5>
-		<bItemNo6>371</bItemNo6>
-		<bItemNo7>372</bItemNo7>
-		<bItemNo8>381</bItemNo8>
+		<bItemNo5>201</bItemNo5>
+		<bItemNo6>201</bItemNo6>
+		<bItemNo7>202</bItemNo7>
+		<bItemNo8>203</bItemNo8>
 		<bItemNo9>361</bItemNo9>
 		<bItemNo10>362</bItemNo10>
 		<bItemNo11>0</bItemNo11>
@@ -278,7 +278,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>5</uiIndex>
 		<name>Bombs</name>
-		<ubChoices>11</ubChoices>
+		<ubChoices>0</ubChoices>
 		<bItemNo1>137</bItemNo1>
 		<bItemNo2>139</bItemNo2>
 		<bItemNo3>141</bItemNo3>
@@ -333,15 +333,15 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>6</uiIndex>
 		<name>Misc</name>
-		<ubChoices>40</ubChoices>
-		<bItemNo1>49</bItemNo1>
+		<ubChoices>1</ubChoices>
+		<bItemNo1>222</bItemNo1>
 		<bItemNo2>214</bItemNo2>
 		<bItemNo3>214</bItemNo3>
 		<bItemNo4>214</bItemNo4>
 		<bItemNo5>216</bItemNo5>
 		<bItemNo6>222</bItemNo6>
 		<bItemNo7>235</bItemNo7>
-		<bItemNo8>387</bItemNo8>
+		<bItemNo8>243</bItemNo8>
 		<bItemNo9>1422</bItemNo9>
 		<bItemNo10>1423</bItemNo10>
 		<bItemNo11>1421</bItemNo11>
@@ -388,7 +388,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>7</uiIndex>
 		<name>Grenade Launchers</name>
-		<ubChoices>6</ubChoices>
+		<ubChoices>1</ubChoices>
 		<bItemNo1>40</bItemNo1>
 		<bItemNo2>5781</bItemNo2>
 		<bItemNo3>5783</bItemNo3>
@@ -608,7 +608,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>11</uiIndex>
 		<name>Armour Attachments</name>
-		<ubChoices>6</ubChoices>
+		<ubChoices>1</ubChoices>
 		<bItemNo1>183</bItemNo1>
 		<bItemNo2>2982</bItemNo2>
 		<bItemNo3>2986</bItemNo3>
@@ -663,7 +663,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>12</uiIndex>
 		<name>Gas Masks</name>
-		<ubChoices>8</ubChoices>
+		<ubChoices>1</ubChoices>
 		<bItemNo1>213</bItemNo1>
 		<bItemNo2>452</bItemNo2>
 		<bItemNo3>453</bItemNo3>
@@ -828,7 +828,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>15</uiIndex>
 		<name>Hearing Aids</name>
-		<ubChoices>8</ubChoices>
+		<ubChoices>1</ubChoices>
 		<bItemNo1>457</bItemNo1>
 		<bItemNo2>457</bItemNo2>
 		<bItemNo3>457</bItemNo3>
@@ -938,7 +938,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>17</uiIndex>
 		<name>Weapon Attachments</name>
-		<ubChoices>31</ubChoices>
+		<ubChoices>1</ubChoices>
 		<bItemNo1>209</bItemNo1>
 		<bItemNo2>209</bItemNo2>
 		<bItemNo3>1031</bItemNo3>
@@ -993,7 +993,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>18</uiIndex>
 		<name>Knives</name>
-		<ubChoices>12</ubChoices>
+		<ubChoices>1</ubChoices>
 		<bItemNo1>37</bItemNo1>
 		<bItemNo2>5805</bItemNo2>
 		<bItemNo3>5882</bItemNo3>
@@ -1103,7 +1103,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>20</uiIndex>
 		<name>LBE</name>
-		<ubChoices>50</ubChoices>
+		<ubChoices>1</ubChoices>
 		<bItemNo1>751</bItemNo1>
 		<bItemNo2>601</bItemNo2>
 		<bItemNo3>605</bItemNo3>

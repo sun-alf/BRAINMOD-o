@@ -48,57 +48,6 @@
 		<HeavyWeapon>0</HeavyWeapon>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>1</uiIndex>
-		<szWeaponName>*** Default Gun 1 ***</szWeaponName>
-		<ubWeaponClass>1</ubWeaponClass>
-		<ubWeaponType>1</ubWeaponType>
-		<ubCalibre>2</ubCalibre>
-		<ubBulletSpeed>21</ubBulletSpeed>
-		<ubImpact>30</ubImpact>
-		<ubDeadliness>16</ubDeadliness>
-		<ubMagSize>15</ubMagSize>
-		<usRange>200</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>72</ubAttackVolume>
-		<ubHitVolume>2</ubHitVolume>
-		<APsToReload>8</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>10</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>40</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5</uiIndex>
-		<szWeaponName>*** Default Gun 2 ***</szWeaponName>
-		<ubWeaponClass>1</ubWeaponClass>
-		<ubWeaponType>1</ubWeaponType>
-		<ubCalibre>1</ubCalibre>
-		<ubShotsPer4Turns>17.5</ubShotsPer4Turns>
-		<ubBulletSpeed>20</ubBulletSpeed>
-		<ubImpact>33</ubImpact>
-		<ubDeadliness>14</ubDeadliness>
-		<bAccuracy>2</bAccuracy>
-		<ubMagSize>6</ubMagSize>
-		<usRange>210</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>58</ubAttackVolume>
-		<ubHitVolume>3</ubHitVolume>
-		<sSound>400</sSound>
-		<APsToReload>11</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
-		<EasyUnjam>1</EasyUnjam>
-		<nAccuracy>10</nAccuracy>
-		<ubAimLevels>3</ubAimLevels>
-		<Handling>5</Handling>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>40</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
 		<uiIndex>34</uiIndex>
 		<szWeaponName>*** Tank MG ***</szWeaponName>
 		<ubWeaponClass>4</ubWeaponClass>
@@ -293,7 +242,7 @@
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5890</uiIndex>
+		<uiIndex>63</uiIndex>
 		<szWeaponName>Flamethrower</szWeaponName>
 		<ubWeaponClass>7</ubWeaponClass>
 		<ubCalibre>13</ubCalibre>
@@ -303,7 +252,7 @@
 		<ubImpact>30</ubImpact>
 		<ubDeadliness>47</ubDeadliness>
 		<ubMagSize>10</ubMagSize>
-		<usRange>120</usRange>
+		<usRange>40</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
 		<ubAttackVolume>58</ubAttackVolume>
@@ -545,54 +494,6 @@
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>40</usOverheatingSingleShotTemperature>
 	</WEAPON>
-	<WEAPON>
-		<uiIndex>61</uiIndex>
-		<szWeaponName>Old Dart Gun</szWeaponName>
-		<ubWeaponClass>1</ubWeaponClass>
-		<ubWeaponType>1</ubWeaponType>
-		<ubCalibre>15</ubCalibre>
-		<ubReadyTime>1</ubReadyTime>
-		<ubShotsPer4Turns>20.9</ubShotsPer4Turns>
-		<ubBulletSpeed>21</ubBulletSpeed>
-		<ubImpact>2</ubImpact>
-		<ubDeadliness>2</ubDeadliness>
-		<bAccuracy>5</bAccuracy>
-		<ubMagSize>5</ubMagSize>
-		<usRange>130</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<sReloadSound>100</sReloadSound>
-		<sLocknLoadSound>106</sLocknLoadSound>
-		<SilencedSound>157</SilencedSound>
-		<bBurstAP>20</bBurstAP>
-		<APsToReload>18</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<EasyUnjam>1</EasyUnjam>
-		<ManualReloadSound>476</ManualReloadSound>
-		<nAccuracy>28</nAccuracy>
-		<ubAimLevels>4</ubAimLevels>
-		<Handling>5</Handling>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>40</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-	    <uiIndex>64</uiIndex>
-		<szWeaponName>Old Crowbar</szWeaponName>
-		<ubWeaponClass>6</ubWeaponClass>
-		<ubShotsPer4Turns>10.50</ubShotsPer4Turns>
-		<ubImpact>45</ubImpact>
-		<ubDeadliness>4</ubDeadliness>
-		<usReloadDelay>200</usReloadDelay>
-		<ubAttackVolume>1</ubAttackVolume>
-		<ubHitVolume>1</ubHitVolume>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-    </WEAPON>
 	<WEAPON>
 		<uiIndex>65</uiIndex>
 		<szWeaponName>Auto Rocket Rifle</szWeaponName>
@@ -1312,7 +1213,7 @@
 		<usOverheatingSingleShotTemperature>6</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4026</uiIndex>
+		<uiIndex>66</uiIndex>
 		<szWeaponName>Modified EMF Hartford 6 Shooter</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
@@ -3703,7 +3604,7 @@
 		<usOverheatingSingleShotTemperature>6.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4140</uiIndex>
+		<uiIndex>67</uiIndex>
 		<szWeaponName>Calico M-950</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
@@ -9533,7 +9434,7 @@
 		<ubDeadliness>19</ubDeadliness>
 		<bAccuracy>1</bAccuracy>
 		<ubMagSize>30</ubMagSize>
-		<usRange>480</usRange>
+		<usRange>310</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>38</BurstAniDelay>
 		<ubAttackVolume>100</ubAttackVolume>
@@ -17702,7 +17603,7 @@
 		<usOverheatingSingleShotTemperature>16.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4701</uiIndex>
+		<uiIndex>68</uiIndex>
 		<szWeaponName>Calico M-900</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
@@ -26468,7 +26369,7 @@
 		<ubDeadliness>25</ubDeadliness>
 		<bAccuracy>4</bAccuracy>
 		<ubMagSize>30</ubMagSize>
-		<usRange>450</usRange>
+		<usRange>440</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>41</BurstAniDelay>
 		<ubAttackVolume>89</ubAttackVolume>
@@ -48582,7 +48483,7 @@
 		<usOverheatingSingleShotTemperature>10</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5741</uiIndex>
+		<uiIndex>61</uiIndex>
 		<szWeaponName>Dart Gun</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
@@ -51295,7 +51196,7 @@
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5952</uiIndex>
+		<uiIndex>64</uiIndex>
 		<szWeaponName>Crowbar</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>10.50</ubShotsPer4Turns>

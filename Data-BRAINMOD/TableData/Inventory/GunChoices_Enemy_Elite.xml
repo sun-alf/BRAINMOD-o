@@ -4,176 +4,11 @@
 		<uiIndex>0</uiIndex>
 		<name>0%</name>
 		<ubChoices>50</ubChoices>
-		<bItemNo1>4461</bItemNo1>
-		<bItemNo2>4461</bItemNo2>
-		<bItemNo3>4461</bItemNo3>
-		<bItemNo4>4461</bItemNo4>
-		<bItemNo5>4461</bItemNo5>
-		<bItemNo6>4461</bItemNo6>
-		<bItemNo7>4461</bItemNo7>
-		<bItemNo8>14</bItemNo8>
-		<bItemNo9>14</bItemNo9>
-		<bItemNo10>14</bItemNo10>
-		<bItemNo11>5</bItemNo11>
-		<bItemNo12>5</bItemNo12>
-		<bItemNo13>4048</bItemNo13>
-		<bItemNo14>4048</bItemNo14>
-		<bItemNo15>4118</bItemNo15>
-		<bItemNo16>4141</bItemNo16>
-		<bItemNo17>4141</bItemNo17>
-		<bItemNo18>4112</bItemNo18>
-		<bItemNo19>4112</bItemNo19>
-		<bItemNo20>4112</bItemNo20>
-		<bItemNo21>4341</bItemNo21>
-		<bItemNo22>4349</bItemNo22>
-		<bItemNo23>4841</bItemNo23>
-		<bItemNo24>4841</bItemNo24>
-		<bItemNo25>4841</bItemNo25>
-		<bItemNo26>4821</bItemNo26>
-		<bItemNo27>4821</bItemNo27>
-		<bItemNo28>4717</bItemNo28>
-		<bItemNo29>4758</bItemNo29>
-		<bItemNo30>4403</bItemNo30>
-		<bItemNo31>4403</bItemNo31>
-		<bItemNo32>4317</bItemNo32>
-		<bItemNo33>4317</bItemNo33>
-		<bItemNo34>4355</bItemNo34>
-		<bItemNo35>4355</bItemNo35>
-		<bItemNo36>4355</bItemNo36>
-		<bItemNo37>4461</bItemNo37>
-		<bItemNo38>4461</bItemNo38>
-		<bItemNo39>4579</bItemNo39>
-		<bItemNo40>16</bItemNo40>
-		<bItemNo41>5619</bItemNo41>
-		<bItemNo42>5619</bItemNo42>
-		<bItemNo43>5619</bItemNo43>
-		<bItemNo44>5702</bItemNo44>
-		<bItemNo45>5702</bItemNo45>
-		<bItemNo46>4425</bItemNo46>
-		<bItemNo47>4460</bItemNo47>
-		<bItemNo48>4460</bItemNo48>
-		<bItemNo49>4460</bItemNo49>
-		<bItemNo50>5489</bItemNo50>
-	</ENEMYGUNCHOICES>
-	<ENEMYGUNCHOICES>
-		<uiIndex>1</uiIndex>
-		<name>10%</name>
-		<ubChoices>50</ubChoices>
-		<bItemNo1>4461</bItemNo1>
-		<bItemNo2>4461</bItemNo2>
-		<bItemNo3>4461</bItemNo3>
-		<bItemNo4>4461</bItemNo4>
-		<bItemNo5>4461</bItemNo5>
-		<bItemNo6>14</bItemNo6>
-		<bItemNo7>14</bItemNo7>
-		<bItemNo8>14</bItemNo8>
-		<bItemNo9>5245</bItemNo9>
-		<bItemNo10>5245</bItemNo10>
-		<bItemNo11>5</bItemNo11>
-		<bItemNo12>4048</bItemNo12>
-		<bItemNo13>4118</bItemNo13>
-		<bItemNo14>4118</bItemNo14>
-		<bItemNo15>4141</bItemNo15>
-		<bItemNo16>4112</bItemNo16>
-		<bItemNo17>4152</bItemNo17>
-		<bItemNo18>4155</bItemNo18>
-		<bItemNo19>4189</bItemNo19>
-		<bItemNo20>4242</bItemNo20>
-		<bItemNo21>4741</bItemNo21>
-		<bItemNo22>4723</bItemNo22>
-		<bItemNo23>4750</bItemNo23>
-		<bItemNo24>4806</bItemNo24>
-		<bItemNo25>4681</bItemNo25>
-		<bItemNo26>4821</bItemNo26>
-		<bItemNo27>4821</bItemNo27>
-		<bItemNo28>4717</bItemNo28>
-		<bItemNo29>4871</bItemNo29>
-		<bItemNo30>4701</bItemNo30>
-		<bItemNo31>4403</bItemNo31>
-		<bItemNo32>4355</bItemNo32>
-		<bItemNo33>4416</bItemNo33>
-		<bItemNo34>4345</bItemNo34>
-		<bItemNo35>4345</bItemNo35>
-		<bItemNo36>4353</bItemNo36>
-		<bItemNo37>4353</bItemNo37>
-		<bItemNo38>4353</bItemNo38>
-		<bItemNo39>4579</bItemNo39>
-		<bItemNo40>16</bItemNo40>
-		<bItemNo41>5619</bItemNo41>
-		<bItemNo42>5619</bItemNo42>
-		<bItemNo43>5619</bItemNo43>
-		<bItemNo44>5702</bItemNo44>
-		<bItemNo45>5702</bItemNo45>
-		<bItemNo46>4462</bItemNo46>
-		<bItemNo47>4460</bItemNo47>
-		<bItemNo48>4460</bItemNo48>
-		<bItemNo49>5581</bItemNo49>
-		<bItemNo50>5489</bItemNo50>
-	</ENEMYGUNCHOICES>
-	<ENEMYGUNCHOICES>
-		<uiIndex>2</uiIndex>
-		<name>20%</name>
-		<ubChoices>50</ubChoices>
-		<bItemNo1>4461</bItemNo1>
-		<bItemNo2>4461</bItemNo2>
-		<bItemNo3>14</bItemNo3>
-		<bItemNo4>14</bItemNo4>
-		<bItemNo5>14</bItemNo5>
-		<bItemNo6>5108</bItemNo6>
-		<bItemNo7>5108</bItemNo7>
-		<bItemNo8>5245</bItemNo8>
-		<bItemNo9>5245</bItemNo9>
-		<bItemNo10>5245</bItemNo10>
-		<bItemNo11>6</bItemNo11>
-		<bItemNo12>4022</bItemNo12>
-		<bItemNo13>4117</bItemNo13>
-		<bItemNo14>4123</bItemNo14>
-		<bItemNo15>4142</bItemNo15>
-		<bItemNo16>8</bItemNo16>
-		<bItemNo17>4155</bItemNo17>
-		<bItemNo18>8</bItemNo18>
-		<bItemNo19>4245</bItemNo19>
-		<bItemNo20>4353</bItemNo20>
-		<bItemNo21>4415</bItemNo21>
-		<bItemNo22>4605</bItemNo22>
-		<bItemNo23>4420</bItemNo23>
-		<bItemNo24>4581</bItemNo24>
-		<bItemNo25>4826</bItemNo25>
-		<bItemNo26>14</bItemNo26>
-		<bItemNo27>4750</bItemNo27>
-		<bItemNo28>17</bItemNo28>
-		<bItemNo29>4811</bItemNo29>
-		<bItemNo30>4801</bItemNo30>
-		<bItemNo31>4826</bItemNo31>
-		<bItemNo32>5356</bItemNo32>
-		<bItemNo33>5356</bItemNo33>
-		<bItemNo34>5355</bItemNo34>
-		<bItemNo35>5355</bItemNo35>
-		<bItemNo36>5146</bItemNo36>
-		<bItemNo37>4403</bItemNo37>
-		<bItemNo38>4420</bItemNo38>
-		<bItemNo39>4410</bItemNo39>
-		<bItemNo40>4603</bItemNo40>
-		<bItemNo41>5618</bItemNo41>
-		<bItemNo42>31</bItemNo42>
-		<bItemNo43>5628</bItemNo43>
-		<bItemNo44>5619</bItemNo44>
-		<bItemNo45>5702</bItemNo45>
-		<bItemNo46>4462</bItemNo46>
-		<bItemNo47>4462</bItemNo47>
-		<bItemNo48>5581</bItemNo48>
-		<bItemNo49>5489</bItemNo49>
-		<bItemNo50>5490</bItemNo50>
-	</ENEMYGUNCHOICES>
-	<ENEMYGUNCHOICES>
-		<uiIndex>3</uiIndex>
-		<name>30%</name>
-		<ubChoices>50</ubChoices>
-		<bItemNo1>14</bItemNo1>
-		<bItemNo2>14</bItemNo2>
-		<bItemNo3>14</bItemNo3>
-		<bItemNo4>5108</bItemNo4>
-		<bItemNo5>5108</bItemNo5>
+		<bItemNo1>4123</bItemNo1>
+		<bItemNo2>1</bItemNo2>
+		<bItemNo3>4145</bItemNo3>
+		<bItemNo4>4191</bItemNo4>
+		<bItemNo5>2</bItemNo5>
 		<bItemNo6>5108</bItemNo6>
 		<bItemNo7>5245</bItemNo7>
 		<bItemNo8>5245</bItemNo8>
@@ -181,24 +16,24 @@
 		<bItemNo10>5382</bItemNo10>
 		<bItemNo11>4022</bItemNo11>
 		<bItemNo12>4041</bItemNo12>
-		<bItemNo13>4123</bItemNo13>
-		<bItemNo14>1</bItemNo14>
-		<bItemNo15>4145</bItemNo15>
-		<bItemNo16>4191</bItemNo16>
+		<bItemNo13>14</bItemNo13>
+		<bItemNo14>14</bItemNo14>
+		<bItemNo15>5108</bItemNo15>
+		<bItemNo16>5108</bItemNo16>
 		<bItemNo17>8</bItemNo17>
 		<bItemNo18>8</bItemNo18>
 		<bItemNo19>4353</bItemNo19>
 		<bItemNo20>4306</bItemNo20>
 		<bItemNo21>4483</bItemNo21>
-		<bItemNo22>4604</bItemNo22>
+		<bItemNo22>4450</bItemNo22>
 		<bItemNo23>4418</bItemNo23>
 		<bItemNo24>11</bItemNo24>
-		<bItemNo25>4553</bItemNo25>
+		<bItemNo25>4351</bItemNo25>
 		<bItemNo26>5351</bItemNo26>
 		<bItemNo27>22</bItemNo27>
-		<bItemNo28>4796</bItemNo28>
-		<bItemNo29>4873</bItemNo29>
-		<bItemNo30>4828</bItemNo30>
+		<bItemNo28>4452</bItemNo28>
+		<bItemNo29>4442</bItemNo29>
+		<bItemNo30>4444</bItemNo30>
 		<bItemNo31>4563</bItemNo31>
 		<bItemNo32>5359</bItemNo32>
 		<bItemNo33>26</bItemNo33>
@@ -214,47 +49,212 @@
 		<bItemNo43>31</bItemNo43>
 		<bItemNo44>5662</bItemNo44>
 		<bItemNo45>5606</bItemNo45>
-		<bItemNo46>4462</bItemNo46>
-		<bItemNo47>5581</bItemNo47>
-		<bItemNo48>5586</bItemNo48>
-		<bItemNo49>5595</bItemNo49>
-		<bItemNo50>5490</bItemNo50>
+		<bItemNo46>4448</bItemNo46>
+		<bItemNo47>4446</bItemNo47>
+		<bItemNo48>4447</bItemNo48>
+		<bItemNo49>4373</bItemNo49>
+		<bItemNo50>4574</bItemNo50>
+	</ENEMYGUNCHOICES>
+	<ENEMYGUNCHOICES>
+		<uiIndex>1</uiIndex>
+		<name>10%</name>
+		<ubChoices>50</ubChoices>
+		<bItemNo1>4123</bItemNo1>
+		<bItemNo2>1</bItemNo2>
+		<bItemNo3>4145</bItemNo3>
+		<bItemNo4>4191</bItemNo4>
+		<bItemNo5>2</bItemNo5>
+		<bItemNo6>5108</bItemNo6>
+		<bItemNo7>5245</bItemNo7>
+		<bItemNo8>5245</bItemNo8>
+		<bItemNo9>5245</bItemNo9>
+		<bItemNo10>5382</bItemNo10>
+		<bItemNo11>4022</bItemNo11>
+		<bItemNo12>4041</bItemNo12>
+		<bItemNo13>14</bItemNo13>
+		<bItemNo14>14</bItemNo14>
+		<bItemNo15>5108</bItemNo15>
+		<bItemNo16>5108</bItemNo16>
+		<bItemNo17>8</bItemNo17>
+		<bItemNo18>8</bItemNo18>
+		<bItemNo19>4353</bItemNo19>
+		<bItemNo20>4306</bItemNo20>
+		<bItemNo21>4483</bItemNo21>
+		<bItemNo22>4450</bItemNo22>
+		<bItemNo23>4418</bItemNo23>
+		<bItemNo24>11</bItemNo24>
+		<bItemNo25>4553</bItemNo25>
+		<bItemNo26>5351</bItemNo26>
+		<bItemNo27>22</bItemNo27>
+		<bItemNo28>4452</bItemNo28>
+		<bItemNo29>4442</bItemNo29>
+		<bItemNo30>4444</bItemNo30>
+		<bItemNo31>4563</bItemNo31>
+		<bItemNo32>5359</bItemNo32>
+		<bItemNo33>26</bItemNo33>
+		<bItemNo34>5402</bItemNo34>
+		<bItemNo35>5403</bItemNo35>
+		<bItemNo36>5146</bItemNo36>
+		<bItemNo37>5224</bItemNo37>
+		<bItemNo38>4418</bItemNo38>
+		<bItemNo39>4410</bItemNo39>
+		<bItemNo40>4792</bItemNo40>
+		<bItemNo41>5624</bItemNo41>
+		<bItemNo42>5622</bItemNo42>
+		<bItemNo43>31</bItemNo43>
+		<bItemNo44>5662</bItemNo44>
+		<bItemNo45>5606</bItemNo45>
+		<bItemNo46>4448</bItemNo46>
+		<bItemNo47>4446</bItemNo47>
+		<bItemNo48>4447</bItemNo48>
+		<bItemNo49>4373</bItemNo49>
+		<bItemNo50>4574</bItemNo50>
+	</ENEMYGUNCHOICES>
+	<ENEMYGUNCHOICES>
+		<uiIndex>2</uiIndex>
+		<name>20%</name>
+		<ubChoices>50</ubChoices>
+		<bItemNo1>4123</bItemNo1>
+		<bItemNo2>1</bItemNo2>
+		<bItemNo3>4145</bItemNo3>
+		<bItemNo4>4191</bItemNo4>
+		<bItemNo5>2</bItemNo5>
+		<bItemNo6>5108</bItemNo6>
+		<bItemNo7>5245</bItemNo7>
+		<bItemNo8>5245</bItemNo8>
+		<bItemNo9>5245</bItemNo9>
+		<bItemNo10>5382</bItemNo10>
+		<bItemNo11>4022</bItemNo11>
+		<bItemNo12>4041</bItemNo12>
+		<bItemNo13>14</bItemNo13>
+		<bItemNo14>14</bItemNo14>
+		<bItemNo15>5108</bItemNo15>
+		<bItemNo16>5108</bItemNo16>
+		<bItemNo17>8</bItemNo17>
+		<bItemNo18>8</bItemNo18>
+		<bItemNo19>4353</bItemNo19>
+		<bItemNo20>4306</bItemNo20>
+		<bItemNo21>4483</bItemNo21>
+		<bItemNo22>4450</bItemNo22>
+		<bItemNo23>4418</bItemNo23>
+		<bItemNo24>11</bItemNo24>
+		<bItemNo25>4553</bItemNo25>
+		<bItemNo26>5351</bItemNo26>
+		<bItemNo27>22</bItemNo27>
+		<bItemNo28>4452</bItemNo28>
+		<bItemNo29>4442</bItemNo29>
+		<bItemNo30>4444</bItemNo30>
+		<bItemNo31>4563</bItemNo31>
+		<bItemNo32>5359</bItemNo32>
+		<bItemNo33>26</bItemNo33>
+		<bItemNo34>5402</bItemNo34>
+		<bItemNo35>5403</bItemNo35>
+		<bItemNo36>5146</bItemNo36>
+		<bItemNo37>5224</bItemNo37>
+		<bItemNo38>4418</bItemNo38>
+		<bItemNo39>4410</bItemNo39>
+		<bItemNo40>4792</bItemNo40>
+		<bItemNo41>5628</bItemNo41>
+		<bItemNo42>5622</bItemNo42>
+		<bItemNo43>31</bItemNo43>
+		<bItemNo44>5662</bItemNo44>
+		<bItemNo45>5606</bItemNo45>
+		<bItemNo46>4448</bItemNo46>
+		<bItemNo47>4446</bItemNo47>
+		<bItemNo48>4447</bItemNo48>
+		<bItemNo49>4373</bItemNo49>
+		<bItemNo50>4574</bItemNo50>
+	</ENEMYGUNCHOICES>
+	<ENEMYGUNCHOICES>
+		<uiIndex>3</uiIndex>
+		<name>30%</name>
+		<ubChoices>50</ubChoices>
+		<bItemNo1>4123</bItemNo1>
+		<bItemNo2>1</bItemNo2>
+		<bItemNo3>4145</bItemNo3>
+		<bItemNo4>4191</bItemNo4>
+		<bItemNo5>2</bItemNo5>
+		<bItemNo6>5108</bItemNo6>
+		<bItemNo7>5245</bItemNo7>
+		<bItemNo8>5245</bItemNo8>
+		<bItemNo9>5245</bItemNo9>
+		<bItemNo10>5382</bItemNo10>
+		<bItemNo11>4022</bItemNo11>
+		<bItemNo12>4041</bItemNo12>
+		<bItemNo13>14</bItemNo13>
+		<bItemNo14>14</bItemNo14>
+		<bItemNo15>5108</bItemNo15>
+		<bItemNo16>5108</bItemNo16>
+		<bItemNo17>8</bItemNo17>
+		<bItemNo18>8</bItemNo18>
+		<bItemNo19>4353</bItemNo19>
+		<bItemNo20>4306</bItemNo20>
+		<bItemNo21>4483</bItemNo21>
+		<bItemNo22>4450</bItemNo22>
+		<bItemNo23>4418</bItemNo23>
+		<bItemNo24>11</bItemNo24>
+		<bItemNo25>4553</bItemNo25>
+		<bItemNo26>5351</bItemNo26>
+		<bItemNo27>22</bItemNo27>
+		<bItemNo28>4452</bItemNo28>
+		<bItemNo29>4442</bItemNo29>
+		<bItemNo30>4444</bItemNo30>
+		<bItemNo31>4563</bItemNo31>
+		<bItemNo32>5359</bItemNo32>
+		<bItemNo33>26</bItemNo33>
+		<bItemNo34>5402</bItemNo34>
+		<bItemNo35>5403</bItemNo35>
+		<bItemNo36>5146</bItemNo36>
+		<bItemNo37>5224</bItemNo37>
+		<bItemNo38>4418</bItemNo38>
+		<bItemNo39>4410</bItemNo39>
+		<bItemNo40>4792</bItemNo40>
+		<bItemNo41>5628</bItemNo41>
+		<bItemNo42>5622</bItemNo42>
+		<bItemNo43>31</bItemNo43>
+		<bItemNo44>5662</bItemNo44>
+		<bItemNo45>5606</bItemNo45>
+		<bItemNo46>35</bItemNo46>
+		<bItemNo47>4446</bItemNo47>
+		<bItemNo48>4447</bItemNo48>
+		<bItemNo49>4373</bItemNo49>
+		<bItemNo50>4574</bItemNo50>
 	</ENEMYGUNCHOICES>
 	<ENEMYGUNCHOICES>
 		<uiIndex>4</uiIndex>
 		<name>40%</name>
 		<ubChoices>50</ubChoices>
-		<bItemNo1>5281</bItemNo1>
-		<bItemNo2>5281</bItemNo2>
-		<bItemNo3>5108</bItemNo3>
-		<bItemNo4>5108</bItemNo4>
-		<bItemNo5>5108</bItemNo5>
-		<bItemNo6>5245</bItemNo6>
+		<bItemNo1>4123</bItemNo1>
+		<bItemNo2>1</bItemNo2>
+		<bItemNo3>3</bItemNo3>
+		<bItemNo4>4191</bItemNo4>
+		<bItemNo5>2</bItemNo5>
+		<bItemNo6>5108</bItemNo6>
 		<bItemNo7>5245</bItemNo7>
-		<bItemNo8>5382</bItemNo8>
-		<bItemNo9>5310</bItemNo9>
+		<bItemNo8>5245</bItemNo8>
+		<bItemNo9>5245</bItemNo9>
 		<bItemNo10>5382</bItemNo10>
-		<bItemNo11>4044</bItemNo11>
-		<bItemNo12>4076</bItemNo12>
-		<bItemNo13>4170</bItemNo13>
-		<bItemNo14>1</bItemNo14>
-		<bItemNo15>3</bItemNo15>
-		<bItemNo16>4202</bItemNo16>
-		<bItemNo17>4202</bItemNo17>
-		<bItemNo18>4307</bItemNo18>
-		<bItemNo19>10</bItemNo19>
+		<bItemNo11>4022</bItemNo11>
+		<bItemNo12>4041</bItemNo12>
+		<bItemNo13>14</bItemNo13>
+		<bItemNo14>14</bItemNo14>
+		<bItemNo15>5108</bItemNo15>
+		<bItemNo16>5108</bItemNo16>
+		<bItemNo17>8</bItemNo17>
+		<bItemNo18>8</bItemNo18>
+		<bItemNo19>4353</bItemNo19>
 		<bItemNo20>4306</bItemNo20>
-		<bItemNo21>4401</bItemNo21>
-		<bItemNo22>4610</bItemNo22>
+		<bItemNo21>4483</bItemNo21>
+		<bItemNo22>4450</bItemNo22>
 		<bItemNo23>4418</bItemNo23>
-		<bItemNo24>4565</bItemNo24>
-		<bItemNo25>13</bItemNo25>
+		<bItemNo24>11</bItemNo24>
+		<bItemNo25>4553</bItemNo25>
 		<bItemNo26>5351</bItemNo26>
 		<bItemNo27>22</bItemNo27>
-		<bItemNo28>4782</bItemNo28>
-		<bItemNo29>4813</bItemNo29>
-		<bItemNo30>4781</bItemNo30>
-		<bItemNo31>4561</bItemNo31>
+		<bItemNo28>4452</bItemNo28>
+		<bItemNo29>4442</bItemNo29>
+		<bItemNo30>4444</bItemNo30>
+		<bItemNo31>4563</bItemNo31>
 		<bItemNo32>5359</bItemNo32>
 		<bItemNo33>26</bItemNo33>
 		<bItemNo34>5402</bItemNo34>
@@ -266,22 +266,22 @@
 		<bItemNo40>5391</bItemNo40>
 		<bItemNo41>5606</bItemNo41>
 		<bItemNo42>5631</bItemNo42>
-		<bItemNo43>5631</bItemNo43>
+		<bItemNo43>31</bItemNo43>
 		<bItemNo44>5616</bItemNo44>
-		<bItemNo45>5708</bItemNo45>
-		<bItemNo46>4462</bItemNo46>
-		<bItemNo47>35</bItemNo47>
-		<bItemNo48>5587</bItemNo48>
-		<bItemNo49>5506</bItemNo49>
-		<bItemNo50>5593</bItemNo50>
+		<bItemNo45>5606</bItemNo45>
+		<bItemNo46>35</bItemNo46>
+		<bItemNo47>4446</bItemNo47>
+		<bItemNo48>4447</bItemNo48>
+		<bItemNo49>4373</bItemNo49>
+		<bItemNo50>4574</bItemNo50>
 	</ENEMYGUNCHOICES>
 	<ENEMYGUNCHOICES>
 		<uiIndex>5</uiIndex>
 		<name>50%</name>
 		<ubChoices>50</ubChoices>
-		<bItemNo1>5281</bItemNo1>
-		<bItemNo2>5281</bItemNo2>
-		<bItemNo3>5281</bItemNo3>
+		<bItemNo1>4447</bItemNo1>
+		<bItemNo2>4373</bItemNo2>
+		<bItemNo3>4574</bItemNo3>
 		<bItemNo4>5108</bItemNo4>
 		<bItemNo5>5108</bItemNo5>
 		<bItemNo6>5245</bItemNo6>
@@ -301,13 +301,13 @@
 		<bItemNo20>4306</bItemNo20>
 		<bItemNo21>4608</bItemNo21>
 		<bItemNo22>4440</bItemNo22>
-		<bItemNo23>4440</bItemNo23>
+		<bItemNo23>5281</bItemNo23>
 		<bItemNo24>4440</bItemNo24>
 		<bItemNo25>5161</bItemNo25>
 		<bItemNo26>5352</bItemNo26>
 		<bItemNo27>4746</bItemNo27>
-		<bItemNo28>4782</bItemNo28>
-		<bItemNo29>4831</bItemNo29>
+		<bItemNo28>5006</bItemNo28>
+		<bItemNo29>4442</bItemNo29>
 		<bItemNo30>4835</bItemNo30>
 		<bItemNo31>4922</bItemNo31>
 		<bItemNo32>5362</bItemNo32>
@@ -360,7 +360,7 @@
 		<bItemNo24>4574</bItemNo24>
 		<bItemNo25>12</bItemNo25>
 		<bItemNo26>5352</bItemNo26>
-		<bItemNo27>4794</bItemNo27>
+		<bItemNo27>5006</bItemNo27>
 		<bItemNo28>4771</bItemNo28>
 		<bItemNo29>4662</bItemNo29>
 		<bItemNo30>4776</bItemNo30>
@@ -389,10 +389,10 @@
 		<uiIndex>7</uiIndex>
 		<name>70%</name>
 		<ubChoices>50</ubChoices>
-		<bItemNo1>5281</bItemNo1>
-		<bItemNo2>5281</bItemNo2>
-		<bItemNo3>5281</bItemNo3>
-		<bItemNo4>5281</bItemNo4>
+		<bItemNo1>4447</bItemNo1>
+		<bItemNo2>4373</bItemNo2>
+		<bItemNo3>4574</bItemNo3>
+		<bItemNo4>5108</bItemNo4>
 		<bItemNo5>5281</bItemNo5>
 		<bItemNo6>5245</bItemNo6>
 		<bItemNo7>5245</bItemNo7>
@@ -444,10 +444,10 @@
 		<uiIndex>8</uiIndex>
 		<name>80%</name>
 		<ubChoices>50</ubChoices>
-		<bItemNo1>5281</bItemNo1>
-		<bItemNo2>5281</bItemNo2>
+		<bItemNo1>4447</bItemNo1>
+		<bItemNo2>5010</bItemNo2>
 		<bItemNo3>5281</bItemNo3>
-		<bItemNo4>5281</bItemNo4>
+		<bItemNo4>5044</bItemNo4>
 		<bItemNo5>5281</bItemNo5>
 		<bItemNo6>20</bItemNo6>
 		<bItemNo7>20</bItemNo7>
@@ -500,12 +500,12 @@
 		<name>90%</name>
 		<ubChoices>50</ubChoices>
 		<bItemNo1>5281</bItemNo1>
-		<bItemNo2>5281</bItemNo2>
-		<bItemNo3>5281</bItemNo3>
+		<bItemNo2>5021</bItemNo2>
+		<bItemNo3>5023</bItemNo3>
 		<bItemNo4>5282</bItemNo4>
 		<bItemNo5>20</bItemNo5>
-		<bItemNo6>20</bItemNo6>
-		<bItemNo7>20</bItemNo7>
+		<bItemNo6>5024</bItemNo6>
+		<bItemNo7>5044</bItemNo7>
 		<bItemNo8>5125</bItemNo8>
 		<bItemNo9>5310</bItemNo9>
 		<bItemNo10>5382</bItemNo10>
@@ -554,13 +554,13 @@
 		<uiIndex>10</uiIndex>
 		<name>100%</name>
 		<ubChoices>50</ubChoices>
-		<bItemNo1>5281</bItemNo1>
-		<bItemNo2>5281</bItemNo2>
-		<bItemNo3>5282</bItemNo3>
+		<bItemNo1>5045</bItemNo1>
+		<bItemNo2>5061</bItemNo2>
+		<bItemNo3>5076</bItemNo3>
 		<bItemNo4>5282</bItemNo4>
 		<bItemNo5>20</bItemNo5>
-		<bItemNo6>20</bItemNo6>
-		<bItemNo7>20</bItemNo7>
+		<bItemNo6>5083</bItemNo6>
+		<bItemNo7>4901</bItemNo7>
 		<bItemNo8>5125</bItemNo8>
 		<bItemNo9>5310</bItemNo9>
 		<bItemNo10>5382</bItemNo10>
@@ -582,7 +582,7 @@
 		<bItemNo26>5203</bItemNo26>
 		<bItemNo27>4805</bItemNo27>
 		<bItemNo28>5006</bItemNo28>
-		<bItemNo29>5002</bItemNo29>
+		<bItemNo29>4915</bItemNo29>
 		<bItemNo30>5027</bItemNo30>
 		<bItemNo31>4916</bItemNo31>
 		<bItemNo32>4991</bItemNo32>
