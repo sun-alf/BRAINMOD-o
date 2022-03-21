@@ -556,6 +556,7 @@ ActionTypes =
 	ACTIONTYPE_WATERTAP = 3,
 	ACTIONTYPE_SODAMACHINE = 4,
 	ACTIONTYPE_MINIGAME = 5,
+	ACTIONTYPE_VARIOUS = 6,
 }
 
 InfoTypes = 
@@ -573,6 +574,31 @@ MiniGames =
 {
 	TETRIS = 0,
 	PONG = 1,
+	PICTURE = 2,
+}
+
+-- luaactionids that aren't used in ModSpecificActions
+InteractiveAction =
+{
+	MINIGAME_TETRIS = 50,
+	MINIGAME_PONG = 51,	
+	BILLIARD = 52,
+	TABLETENNIS = 53,
+	TOILET = 54,
+	TV = 55,
+	STEAL_CASHREGISTER = 56,
+	PICTURE_NEONTHECLUB = 57,			-- Neon sign: 'The club'
+	PICTURE_NEONBEER = 58,				-- Neon sign: 'Beer'
+	PICTURE_BEER = 59,					-- Poster: 'Beer'
+	PICTURE_2xBEER = 60,				-- 2-tile Poster: 'Beer'
+	PICTURE_PRIVATE = 61,				-- Sign: 'Private'
+	PICTURE_XXXPITSTOP = 62,			-- Neon Sign: 'XXX Pit Stop'
+	PICTURE_DELIVERY = 63,				-- 2-tile Poster: 'Delivery'
+	PICTURE_GENERALSTORE = 64,			-- 2-tile Poster: 'General Store'
+	PICTURE_SHADYLADY = 65,				-- 2-tile Poster: 'Shady Lady'
+	COOK_COWMEAT_TO_STEAK = 66,			-- take cow meat from merc, add steak to merc
+	TAKE_FIRE_EXTINGUISHER_1 = 67,		-- delete wall decal (requires replacing wall tile) and add item to inventory
+	TAKE_FIRE_EXTINGUISHER_2 = 68,		-- delete wall decal (requires replacing wall tile) and add item to inventory
 }
 
 -- We have an array of 1000 signed integers that a modder can use to set whatever data he wants.
@@ -657,11 +683,6 @@ ModSpecificActions =
 	-- San Mona
 	READING_SANMONA_KINGPIN_BOOKSHELF_1 = 49,	
 	-- |||||||||||||||||||||||||||||||||| books |||||||||||||||||||||||||||||||||||||
-	
-	-- |||||||||||||||||||||||||||||||||| minigames |||||||||||||||||||||||||||||||||||||
-	MINIGAME_TETRIS = 50,
-	MINIGAME_PONG = 51,
-	-- |||||||||||||||||||||||||||||||||| minigames |||||||||||||||||||||||||||||||||||||
 	
 	-- |||||||||||||||||||||||||||||||||| photo data |||||||||||||||||||||||||||||||||||||
 	PHOTO_FLAGS_BEGIN = 60,
@@ -1646,7 +1667,7 @@ function HandleInteractiveActionResult(sSectorX, sSectorY, bSectorZ, sGridNo, bL
 	elseif ( usActionType == ActionTypes.ACTIONTYPE_MINIGAME ) then
 	
 		-- for now, the only game we have is tetris
-		if ( sLuaactionid == ModSpecificActions.MINIGAME_TETRIS ) then
+		if ( sLuaactionid == InteractiveAction.MINIGAME_TETRIS ) then
 		
 			-- playing a game costs $1
 			if ( SoldierSpendMoney(ubID, 1) == 1 ) then
@@ -1655,7 +1676,7 @@ function HandleInteractiveActionResult(sSectorX, sSectorY, bSectorZ, sGridNo, bL
 				SetPendingNewScreen(ScreenTypes.MINIGAME)
 			
 			end
-		elseif ( sLuaactionid == ModSpecificActions.MINIGAME_PONG ) then
+		elseif ( sLuaactionid == InteractiveAction.MINIGAME_PONG ) then
 		
 			-- playing a game costs $1
 			if ( SoldierSpendMoney(ubID, 1) == 1 ) then
@@ -1665,7 +1686,105 @@ function HandleInteractiveActionResult(sSectorX, sSectorY, bSectorZ, sGridNo, bL
 			
 			end
 		end
+		
+	elseif ( usActionType == ActionTypes.ACTIONTYPE_VARIOUS ) then
+	
+		if ( sLuaactionid == InteractiveAction.BILLIARD ) then
+		
+			PlaySound("Sounds\\billiard.wav")
+			
+		elseif ( sLuaactionid == InteractiveAction.TABLETENNIS ) then
+		
+			PlaySound("Sounds\\tabletennis.wav")
+			
+		elseif ( sLuaactionid == InteractiveAction.TOILET ) then
+		
+			PlaySound("Sounds\\toilet.wav")
+		
+		elseif ( sLuaactionid == InteractiveAction.TV ) then
+		
+			PlaySound("Sounds\\tvstatic.wav")
+			
+		elseif ( sLuaactionid == InteractiveAction.STEAL_CASHREGISTER ) then
+		
+			PlaySound("Sounds\\cashregister.wav")
+		
+		elseif ( sLuaactionid == InteractiveAction.PICTURE_NEONTHECLUB ) then
+			
+			-- The first argument is the path of a .png picture (any other format will be ignored).
+			-- The second argument determines whether we stretch the picture to fullscreen (1) or not (0). If the picture is larger than our screen, we stretch it anyway.
+			-- Only call this function from tactical (the call will be ignored otherwise).
+			DisplayPictureTactical("Interface\\neonsign_theclub.png", 1)
+			
+		elseif ( sLuaactionid == InteractiveAction.PICTURE_NEONBEER ) then
+			
+			DisplayPictureTactical("Interface\\neonsign_beer.png", 0)
+			
+		elseif ( sLuaactionid == InteractiveAction.PICTURE_BEER ) then
+			
+			DisplayPictureTactical("Interface\\poster_beer1.png", 0)
+
+		elseif ( sLuaactionid == InteractiveAction.PICTURE_2xBEER ) then
+			
+			DisplayPictureTactical("Interface\\poster_yellow_green_bottle.png", 0)
+		
+		elseif ( sLuaactionid == InteractiveAction.PICTURE_PRIVATE ) then
+			
+			DisplayPictureTactical("Interface\\kingpinclub_entrance.png", 0)
+			
+		elseif ( sLuaactionid == InteractiveAction.PICTURE_XXXPITSTOP ) then
+			
+			DisplayPictureTactical("Interface\\neonsign_xxx.png", 0)
+			
+		elseif ( sLuaactionid == InteractiveAction.PICTURE_DELIVERY ) then
+			
+			DisplayPictureTactical("Interface\\delivery.png", 0)
+			
+		elseif ( sLuaactionid == InteractiveAction.PICTURE_GENERALSTORE ) then
+			
+			DisplayPictureTactical("Interface\\sign_generalstore.png", 0)
+			
+		elseif ( sLuaactionid == InteractiveAction.PICTURE_SHADYLADY ) then
+			
+			DisplayPictureTactical("Interface\\shady_lady.png", 0)
+			
+		elseif ( sLuaactionid == InteractiveAction.COOK_COWMEAT_TO_STEAK ) then
+						
+			-- 1565 cow meat
+			-- 1559 Steak
+			
+			if ( HasItemInInventory(ubID, 1565) ) then
+			
+				CreateItemInvOrFloor(ubID, 1559)
 				
+				DestroyOneItemInInventory(ubID, 1565)
+				
+				PlaySound("Sounds\\cooking.wav")
+			
+				SetScreenMsg(FontColour.FONT_MCOLOR_DKWHITE, "Cooked a steak.")
+				
+			end
+			
+		elseif ( sLuaactionid == InteractiveAction.TAKE_FIRE_EXTINGUISHER_1 ) then
+		
+			-- 1761 fire extinguisher
+			
+			CreateItemInvOrFloor(ubID, 1761)
+			
+			-- due to the way structures are handled, we the decal is on a tile next to the one we are handling, so account for that
+			-- the empty wall is in another tileset
+			DestroyAndReplaceDecal(sGridNo - 1, "build_29.sti", 6)
+			
+		elseif ( sLuaactionid == InteractiveAction.TAKE_FIRE_EXTINGUISHER_2 ) then
+		
+			CreateItemInvOrFloor(ubID, 1761)
+			
+			-- due to the way structures are handled, we the decal is on a tile next to the one we are handling, so account for that
+			-- the empty wall is in another tileset
+			DestroyAndReplaceDecal(sGridNo - 160, "build_29.sti", 9)
+		
+		end
+		
 	end
 	
 	

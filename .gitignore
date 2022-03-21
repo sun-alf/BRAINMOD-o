@@ -1,0 +1,27 @@
+# Ignore directories:
+.svn
+Data
+Data-1.13
+Data-UB
+Docs
+MULTIPLAYER
+
+# Ignore root dir executable binaries and symbols:
+/*.dll
+/*.exe
+/*.pdb
+
+# Ignore root dir run-time generated stuff and INI:
+/patch.timestamp
+/*.log
+/*.txt
+/vfs_config.JA2113.ini
+/vfs_config.JA2113AIMNAS.ini
+/vfs_config.JA2Vanilla.ini
+
+# Ignore generated /Profiles stuff:
+/Profiles/UserProfile_*/*.txt
+/Profiles/UserProfile_*/*.log
+/Profiles/UserProfile_*/FortificationPlan
+/Profiles/UserProfile_*/SavedGames
+/Profiles/UserProfile_*/ShadeTables
