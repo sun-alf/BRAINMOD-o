@@ -22,6 +22,8 @@ MULTIPLAYER
 # Ignore generated /Profiles stuff:
 /Profiles/UserProfile_*/*.txt
 /Profiles/UserProfile_*/*.log
+/Profiles/UserProfile_*/*.ini
+/Profiles/UserProfile_*/*.INI
 /Profiles/UserProfile_*/FortificationPlan
 /Profiles/UserProfile_*/SavedGames
 /Profiles/UserProfile_*/ShadeTables

@@ -22,8 +22,9 @@ import xml.etree.ElementTree as ET;
 #
 # Script setup values
 #
-TABLE_DATA_ROOT = r'D:\Programs\JaggedAlliance2\Data-BRAINMOD\TableData';
-MOVE_ITEMS_IDS_LIST = r'E:\id_list.txt';
+SWDIR = os.getcwd();
+TABLE_DATA_ROOT = r'{}\..\..\Data-BRAINMOD\TableData'.format(SWDIR);
+MOVE_ITEMS_IDS_LIST = r'C:\Temp\lookup.txt';
 
 
 #

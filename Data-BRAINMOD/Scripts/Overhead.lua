@@ -1849,7 +1849,7 @@ function AddArmsDealerAdditionalIntelData()
 	AddArmsDealerAdditionalIntelDataItem(68, 111, 5 * ratio, 1)		-- Minirocket 15 AP
 	AddArmsDealerAdditionalIntelDataItem(68, 112, 5 * ratio, 1)		-- Minirocket 15 HE
 	AddArmsDealerAdditionalIntelDataItem(68, 113, 5 * ratio, 1)		-- Minirocket 15 HEAP
-	AddArmsDealerAdditionalIntelDataItem(68, 8123, 5 * ratio, 2)	-- .50 BMG
+	AddArmsDealerAdditionalIntelDataItem(68, 116, 5 * ratio, 2)		-- .50 BMG
 	AddArmsDealerAdditionalIntelDataItem(68, 8124, 5 * ratio, 1)	-- .50 BMG HEAP
 	AddArmsDealerAdditionalIntelDataItem(68, 8125, 5 * ratio, 2)	-- .50 BMG Match
 	AddArmsDealerAdditionalIntelDataItem(68, 8215, 3 * ratio, 2)	-- 7.62x37 DU
@@ -1870,7 +1870,7 @@ function AddArmsDealerAdditionalIntelData()
 	AddArmsDealerAdditionalIntelDataItem(68, 5756, 30 * ratio, 1)	-- XM-25 Grenade Launcher
 	AddArmsDealerAdditionalIntelDataItem(68, 5764, 34 * ratio, 1)	-- RPO-M Shmel
 	AddArmsDealerAdditionalIntelDataItem(68, 5761, 36 * ratio, 1)	-- M72A4 LAW
-	AddArmsDealerAdditionalIntelDataItem(68, 5761, 47 * ratio, 1)	-- M202 Flash
+	AddArmsDealerAdditionalIntelDataItem(68, 5775, 47 * ratio, 1)	-- M202 Flash
 	AddArmsDealerAdditionalIntelDataItem(68, 5771, 48 * ratio, 1)	-- SMAW
 	
 	-- Grenades
@@ -1896,7 +1896,7 @@ function AddArmsDealerAdditionalIntelData()
 	AddArmsDealerAdditionalIntelDataItem(68, 2362, 6 * ratio, 3)	-- Carl-Gustaf M3 HEDP Rocket
 	AddArmsDealerAdditionalIntelDataItem(68, 2363, 6 * ratio, 3)	-- Carl-Gustaf M3 HEAT Rocket
 	AddArmsDealerAdditionalIntelDataItem(68, 2364, 7 * ratio, 2)	-- SMAW HEDP Rocket
-	AddArmsDealerAdditionalIntelDataItem(68, 2362, 7 * ratio, 2)	-- SMAW HEAA Rocket
+	AddArmsDealerAdditionalIntelDataItem(68, 2365, 7 * ratio, 2)	-- SMAW HEAA Rocket
 	AddArmsDealerAdditionalIntelDataItem(68, 2366, 7 * ratio, 2)	-- M202 Napalm Rocket
 	AddArmsDealerAdditionalIntelDataItem(68, 2367, 7 * ratio, 3)	-- M202 Napalm Rocket
 	
