@@ -1,3 +1,21 @@
+#### USAGE ####
+# 0. Ensure you have !!! Python 3 !!! installed (version 3.x -- does not matter).
+# 1. Create a text file with specified name under specified path, see MOVE_ITEMS_IDS_LIST.
+# 2. Type desired commands, one command per one line; save file. See available commands and syntax in the next section.
+# 3. Run this script (i.e. "items_xml.py") in a cmd line window.
+#
+# Available commands with syntax/examples (use without quotes):
+# + Comment line: "// any text"
+# + Look-up item: "? item_id"
+#   Print all places where the item is referenced.
+# + Move item: "old_item_id -> new_item_id"
+#   Basically does swapping of given item ids. If new_item_id holds a placeholder, it will go onto old_item_id place.
+# + Delete item: "x item_id"
+#   In Items.xml, it will replace the whole specified item entry by a placeholder.
+#   In other *.xml, it will delete all elements what use this item_id. Once again, not tags with that item_id, but the whole
+#   elements if it is sematically need.
+
+
 import os, sys;
 import xml.etree.ElementTree as ET;
 
@@ -11,6 +29,12 @@ MOVE_ITEMS_IDS_LIST = r'E:\id_list.txt';
 #
 # Constants, functions, classes etc
 #
+class Actions():
+    LOOKUP = 0;
+    MOVE = 1;
+#end class Actions():
+
+
 class Rule():
     def __init__(self, relativePath, fileName, newRelativePath, newFileName, processorFunc):        
         self.relativePath = relativePath;
@@ -27,10 +51,10 @@ class Rule():
     def GetFullPath(self):
         return os.path.join(TABLE_DATA_ROOT, self.GetRelativePath());
 
-    def Process(self, itemId, newItemId):
+    def Process(self, itemId, newItemId, action):
         if self.xmlTree == None:
             self.xmlTree = ET.parse(self.GetFullPath());
-        self.dirty = self.processorFunc(self.xmlTree.getroot(), itemId, newItemId) or self.dirty;
+        self.dirty = self.processorFunc(self.xmlTree.getroot(), itemId, newItemId, action, self.fileName) or self.dirty;
         
     def Save(self):
         result = self.dirty;
@@ -43,8 +67,8 @@ class Rule():
             
             fullpathNew = os.path.join(fullpathNew, self.newFileName);
             fullpathNew = os.path.join(TABLE_DATA_ROOT, fullpathNew);
-            f = open(fullpathNew, "w");
-            f.write(r'<?xml version="1.0" encoding="utf-8"?>' + '\n');
+            f = open(fullpathNew, "wb");
+            f.write(bytearray(r'<?xml version="1.0" encoding="utf-8"?>' + '\n', "utf-8"));
             self.xmlTree.write(f, encoding="utf-8", xml_declaration=None, default_namespace=None, method="xml");
             f.close();
             self.dirty = False;  #TODO: starting from this point, should work with newly saved XML data (in self.newFileName)
@@ -52,164 +76,200 @@ class Rule():
 #end class Rule():
 
 
-def Proc_GunItemChoices(root, oldId, newId):
+def Proc_GunItemChoices(root, oldId, newId, action, fileName):
     result = False;
     for child in root:
         for tagObj in child:
             if tagObj.tag.lower().find("bitemno") != -1:
                 if tagObj.text == oldId:
-                    tagObj.text = newId;
-                    result = True;
+                    if action == Actions.LOOKUP:
+                        print("{2}: <{0}>{1}</{0}>".format(tagObj.tag, oldId, fileName));
+                    else:
+                        tagObj.text = newId;
+                        result = True;
     #end for child in root:
     return result;
-#end def Proc_GunItemChoices(root, oldId, newId):
+#end def Proc_GunItemChoices(root, oldId, newId, action, fileName):
 
 
-def Proc_MercStartingGear(root, oldId, newId):
+def Proc_MercStartingGear(root, oldId, newId, action, fileName):
     result = False;
     for mercgear in root:
         for child in mercgear:
             if child.tag == "GEARKIT":
                 for tagObj in child:
                     if (tagObj.tag == "mHelmet" or tagObj.tag == "mVest" or tagObj.tag == "mLeg" or tagObj.tag == "mWeapon" or tagObj.tag == "mBig0" or tagObj.tag == "mBig1" or tagObj.tag == "mBig2" or tagObj.tag == "mBig3" or tagObj.tag == "mSmall0" or tagObj.tag == "mSmall1" or tagObj.tag == "mSmall2" or tagObj.tag == "mSmall3" or tagObj.tag == "mSmall4" or tagObj.tag == "mSmall5" or tagObj.tag == "mSmall6" or tagObj.tag == "mSmall7" or tagObj.tag == "lVest" or tagObj.tag == "lLeftThigh" or tagObj.tag == "lRightThigh" or tagObj.tag == "lCPack" or tagObj.tag == "lBPack") and tagObj.text == oldId:
-                        tagObj.text = newId;
-                        result = True;
+                        if action == Actions.LOOKUP:
+                            print("{2}: <{0}>{1}</{0}>".format(tagObj.tag, oldId, fileName));
+                        else:
+                            tagObj.text = newId;
+                            result = True;
     #end for mercgear in root:
     return result;
-#end def Proc_MercStartingGear(root, oldId, newId):
+#end def Proc_MercStartingGear(root, oldId, newId, action, fileName):
 
 
-def Proc_AttachmentComboMerges(root, oldId, newId):
+def Proc_AttachmentComboMerges(root, oldId, newId, action, fileName):
     result = False;
     for child in root:
         for tagObj in child:
             if tagObj.tag == "usItem" or tagObj.tag.lower().find("usattachment") != -1:
                 if tagObj.text == oldId:
-                    tagObj.text = newId;
-                    result = True;
+                    if action == Actions.LOOKUP:
+                        print("{2}: <{0}>{1}</{0}>".format(tagObj.tag, oldId, fileName));
+                    else:
+                        tagObj.text = newId;
+                        result = True;
     #end for child in root:
     return result;
-#end def Proc_AttachmentComboMerges(root, oldId, newId):
+#end def Proc_AttachmentComboMerges(root, oldId, newId, action, fileName):
 
 
-def Proc_Attachments(root, oldId, newId):
+def Proc_Attachments(root, oldId, newId, action, fileName):
     result = False;
     for child in root:
         for tagObj in child:
             if tagObj.tag == "attachmentIndex" or tagObj.tag == "itemIndex":
                 if tagObj.text == oldId:
-                    tagObj.text = newId;
-                    result = True;
+                    if action == Actions.LOOKUP:
+                        print("{2}: <{0}>{1}</{0}>".format(tagObj.tag, oldId, fileName));
+                    else:
+                        tagObj.text = newId;
+                        result = True;
     #end for child in root:
     return result;
-#end def Proc_Attachments(root, oldId, newId):
+#end def Proc_Attachments(root, oldId, newId, action, fileName):
 
 
-def Proc_CompatibleFaceItems(root, oldId, newId):
+def Proc_CompatibleFaceItems(root, oldId, newId, action, fileName):
     result = False;
     for child in root:
         for tagObj in child:
             if tagObj.tag == "compatiblefaceitemIndex" or tagObj.tag == "itemIndex":
                 if tagObj.text == oldId:
-                    tagObj.text = newId;
-                    result = True;
+                    if action == Actions.LOOKUP:
+                        print("{2}: <{0}>{1}</{0}>".format(tagObj.tag, oldId, fileName));
+                    else:
+                        tagObj.text = newId;
+                        result = True;
     #end for child in root:
     return result;
-#end def Proc_CompatibleFaceItems(root, oldId, newId):
+#end def Proc_CompatibleFaceItems(root, oldId, newId, action, fileName):
 
 
-def Proc_IncompatibleAttachments(root, oldId, newId):
+def Proc_IncompatibleAttachments(root, oldId, newId, action, fileName):
     result = False;
     for child in root:
         for tagObj in child:
             if tagObj.tag == "incompatibleattachmentIndex" or tagObj.tag == "itemIndex":
                 if tagObj.text == oldId:
-                    tagObj.text = newId;
-                    result = True;
+                    if action == Actions.LOOKUP:
+                        print("{2}: <{0}>{1}</{0}>".format(tagObj.tag, oldId, fileName));
+                    else:
+                        tagObj.text = newId;
+                        result = True;
     #end for child in root:
     return result;
-#end def Proc_IncompatibleAttachments(root, oldId, newId):
+#end def Proc_IncompatibleAttachments(root, oldId, newId, action, fileName):
 
 
-def Proc_Item_Transformations(root, oldId, newId):
+def Proc_Item_Transformations(root, oldId, newId, action, fileName):
     result = False;
     for child in root:
         for tagObj in child:
             if tagObj.tag == "usItem" or tagObj.tag.lower().find("usresult") != -1:
                 if tagObj.text == oldId:
-                    tagObj.text = newId;
-                    result = True;
+                    if action == Actions.LOOKUP:
+                        print("{2}: <{0}>{1}</{0}>".format(tagObj.tag, oldId, fileName));
+                    else:
+                        tagObj.text = newId;
+                        result = True;
     #end for child in root:
     return result;
-#end def Proc_Item_Transformations(root, oldId, newId):
+#end def Proc_Item_Transformations(root, oldId, newId, action, fileName):
 
 
-def Proc_Launchables(root, oldId, newId):
+def Proc_Launchables(root, oldId, newId, action, fileName):
     result = False;
     for child in root:
         for tagObj in child:
             if tagObj.tag == "launchableIndex" or tagObj.tag == "itemIndex":
                 if tagObj.text == oldId:
-                    tagObj.text = newId;
-                    result = True;
+                    if action == Actions.LOOKUP:
+                        print("{2}: <{0}>{1}</{0}>".format(tagObj.tag, oldId, fileName));
+                    else:
+                        tagObj.text = newId;
+                        result = True;
     #end for child in root:
     return result;
-#end def Proc_Launchables(root, oldId, newId):
+#end def Proc_Launchables(root, oldId, newId, action, fileName):
 
 
-def Proc_Merges(root, oldId, newId):
+def Proc_Merges(root, oldId, newId, action, fileName):
     result = False;
     for child in root:
         for tagObj in child:
             if tagObj.tag == "firstItemIndex" or tagObj.tag == "secondItemIndex" or tagObj.tag == "firstResultingItemIndex" or tagObj.tag == "secondResultingItemIndex":
                 if tagObj.text == oldId:
-                    tagObj.text = newId;
-                    result = True;
+                    if action == Actions.LOOKUP:
+                        print("{2}: <{0}>{1}</{0}>".format(tagObj.tag, oldId, fileName));
+                    else:
+                        tagObj.text = newId;
+                        result = True;
     #end for child in root:
     return result;
-#end def Proc_Merges(root, oldId, newId):
+#end def Proc_Merges(root, oldId, newId, action, fileName):
 
 
-def Proc_StructureConstruct(root, oldId, newId):
+def Proc_StructureConstruct(root, oldId, newId, action, fileName):
     result = False;
     for child in root:
         for tagObj in child:
             if tagObj.tag == "usCreationItem" or tagObj.tag == "usDeconstructItem" or tagObj.tag == "usItemToCreate":
                 if tagObj.text == oldId:
-                    tagObj.text = newId;
-                    result = True;
+                    if action == Actions.LOOKUP:
+                        print("{2}: <{0}>{1}</{0}>".format(tagObj.tag, oldId, fileName));
+                    else:
+                        tagObj.text = newId;
+                        result = True;
     #end for child in root:
     return result;
-#end def Proc_StructureConstruct(root, oldId, newId):
+#end def Proc_StructureConstruct(root, oldId, newId, action, fileName):
 
 
-def Proc_Weapons(root, oldId, newId):
+def Proc_Weapons(root, oldId, newId, action, fileName):
     result = False;
     for child in root:
         for tagObj in child:
             if tagObj.tag == "uiIndex":
                 if tagObj.text == oldId:
-                    tagObj.text = newId;
-                    result = True;
+                    if action == Actions.LOOKUP:
+                        print("{2}: <{0}>{1}</{0}>".format(tagObj.tag, oldId, fileName));
+                    else:
+                        tagObj.text = newId;
+                        result = True;
     #end for child in root:
     return result;
-#end def Proc_Weapons(root, oldId, newId):
+#end def Proc_Weapons(root, oldId, newId, action, fileName):
 
 
-def Proc_NpcInventory(root, oldId, newId):
+def Proc_NpcInventory(root, oldId, newId, action, fileName):
     result = False;
     for child in root:
         for tagObj in child:
             if tagObj.tag == "sItemIndex":
                 if tagObj.text == oldId:
-                    tagObj.text = newId;
-                    result = True;
+                    if action == Actions.LOOKUP:
+                        print("{2}: <{0}>{1}</{0}>".format(tagObj.tag, oldId, fileName));
+                    else:
+                        tagObj.text = newId;
+                        result = True;
     #end for child in root:
     return result;
-#end def Proc_NpcInventory(root, oldId, newId):
+#end def Proc_NpcInventory(root, oldId, newId, action, fileName):
 
 
-def Proc_Items(root, oldId, newId):
+def Proc_Items(root, oldId, newId, action, fileName):
     def _CorrectPlaceholderName(item):
         for tagObj in item:
             if tagObj.tag == "uiIndex":
@@ -223,11 +283,16 @@ def Proc_Items(root, oldId, newId):
     newItemIdx = None;
     for itemIdx in range(0, len(root)):
         child = root[itemIdx];
+        saveTagObj = None;
         for tagObj in child:
             if tagObj.tag == "uiIndex":
                 if tagObj.text == oldId:
-                    tagObj.text = newId;
-                    oldItemIdx = itemIdx;
+                    if action == Actions.LOOKUP:
+                        print("{2}: <{0}>{1}</{0}>".format(tagObj.tag, oldId, fileName));
+                        return False;  # skip all other manipulations as we need only print a match of this ID
+                    else:
+                        tagObj.text = newId;
+                        oldItemIdx = itemIdx;
                 elif tagObj.text == newId:
                     tagObj.text = oldId;
                     newItemIdx = itemIdx;
@@ -244,7 +309,7 @@ def Proc_Items(root, oldId, newId):
     if oldItemIdx == None or newItemIdx == None:
         raise Exception("New or old item ID is not found in Items.xml ({0} -> {1})".format(oldId, newId));
     return True;
-#end def Proc_Items(root, oldId, newId):
+#end def Proc_Items(root, oldId, newId, action, fileName):
 
 
 g_rules = [
@@ -300,6 +365,10 @@ g_rules = [
     Rule("NPCInventory", "TinaInventory.xml",   "NEW", "TinaInventory.xml",    Proc_NpcInventory),
     Rule("NPCInventory", "TonyInventory.xml",   "NEW", "TonyInventory.xml",    Proc_NpcInventory)
 ];
+for i in range(1, 61):
+    xmlFileName = "AdditionalDealer_{}_Inventory.xml".format(i);
+    g_rules.append(Rule("NPCInventory", xmlFileName, "NEW", xmlFileName, Proc_NpcInventory));
+
 
 
 class RulesManager():
@@ -307,16 +376,24 @@ class RulesManager():
     IDX_NEW = 1;
     _rules = g_rules;
     _moveItemIdList = [];
+    _lookupIdList = [];
 
     @classmethod
     def ProcessAll(cls):
+        print("Process Lookup item IDs:");
+        for item in cls._lookupIdList:
+            print("    ? {0} mentioned in:".format(item));
+            for rule in cls._rules:
+                rule.Process(item, 0, Actions.LOOKUP);
+        print("");
+
         print("Process Move item IDs:");
         for item in cls._moveItemIdList:
             for rule in cls._rules:
-                rule.Process(item[cls.IDX_OLD], item[cls.IDX_NEW]);
-            print("    {0} -> {1}".format(item[cls.IDX_OLD], item[cls.IDX_NEW]));
+                rule.Process(item[cls.IDX_OLD], item[cls.IDX_NEW], Actions.MOVE);
+            print("    {0} -> {1} done".format(item[cls.IDX_OLD], item[cls.IDX_NEW]));
         print("");
-                
+
         print("Changed files:");
         for rule in cls._rules:
             if rule.Save():
@@ -326,29 +403,53 @@ class RulesManager():
     @classmethod
     def MoveItemId(cls, oldId, newId):
         cls._moveItemIdList.append([oldId, newId]);
+
+    @classmethod
+    def LookupItemId(cls, oldId):
+        cls._lookupIdList.append(oldId);
 #end class RulesManager():
 
 
-def MoveItemsIds(idListFullPath):
+def ProcessItemsIds(idListFullPath):
     idListFile = open(idListFullPath, "r");
     idLines = idListFile.readlines();
     idListFile.close();
     
     for line in idLines:
-        ids = line.split(" -> ");
-        if len(ids) == 2:
-            oldIdInt = int(ids[0]);  # convert to int and back to str in order to drop any special characters, i.e. '\n' etc
-            newIdInt = int(ids[1]);
-            RulesManager.MoveItemId(str(oldIdInt), str(newIdInt));
+        if line.find("//") == 0:  # starts with "//" -- a comment
+            pass;  # skip commented line
+        elif line.find('x') != -1:
+            #TODO: delete item
+            pass;
+        elif line.find('?') != -1:
+            ids = line.split("? ");
+            if len(ids) == 2:
+                idInt = int(ids[1]);  # convert to int and back to str in order to drop any special characters, i.e. '\n' etc
+                RulesManager.LookupItemId(str(idInt));
+            else:
+                raise Exception("Bad line on input", line);
+        elif line.find("->") != -1:
+            ids = line.split(" -> ");
+            if len(ids) == 2:
+                oldIdInt = int(ids[0]);  # convert to int and back to str in order to drop any special characters, i.e. '\n' etc
+                newIdInt = int(ids[1]);
+                RulesManager.MoveItemId(str(oldIdInt), str(newIdInt));
+            else:
+                raise Exception("Bad line on input", line);
+        elif line.find(">>") != -1:
+            #TODO: move item with overriding (delete target/new ID if exists)
+            pass;
+        elif len(line.strip()) == 0:
+            pass;  # skip empty line
         else:
-            raise Exception("Bad line on input", line);
+            raise Exception("Bad line (unknown command) on input", line);
     
     RulesManager.ProcessAll();
-#end def MoveItemsIds(idListFullPath):
+#end def ProcessItemsIds(idListFullPath):
 
 
 #
 # Entry point (like Main())
 #
-MoveItemsIds(MOVE_ITEMS_IDS_LIST);
+ProcessItemsIds(MOVE_ITEMS_IDS_LIST);
 
