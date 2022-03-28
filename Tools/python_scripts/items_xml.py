@@ -6,7 +6,9 @@
 #
 # Available commands with syntax/examples (use without quotes):
 # + Comment line: "// any text"
-# + Look-up item: "? item_id"
+# + What is item: "? item_id"
+#   Print long name of the item only.
+# + Look-up item: "* item_id"
 #   Print all places where the item is referenced.
 # + Move item: "old_item_id -> new_item_id"
 #   Basically does swapping of given item ids. If new_item_id holds a placeholder, it will go onto old_item_id place.
@@ -33,6 +35,7 @@ MOVE_ITEMS_IDS_LIST = r'C:\Temp\lookup.txt';
 class Actions():
     LOOKUP = 0;
     MOVE = 1;
+    WHATIS = 2;
 #end class Actions():
 
 
@@ -270,6 +273,7 @@ def Proc_NpcInventory(root, oldId, newId, action, fileName):
 #end def Proc_NpcInventory(root, oldId, newId, action, fileName):
 
 
+g_Proc_Items_return = None;
 def Proc_Items(root, oldId, newId, action, fileName):
     def _CorrectPlaceholderName(item):
         for tagObj in item:
@@ -279,6 +283,25 @@ def Proc_Items(root, oldId, newId, action, fileName):
                 szNameObj = tagObj;
         if szNameObj.text.lower().find("placeholder") != -1:  # if it's a Placeholder -- put "Placeholder XXX" as item name.
             szNameObj.text = "Placeholder {0}".format(uiIndexObj.text);
+    #end def _CorrectPlaceholderName(item):
+
+    def _GetTagValue(item, tagName):
+        for tagObj in item:
+            if tagObj.tag == tagName:
+                return tagObj.text;
+        return None;
+    #end def _GetTagValue(item):
+
+    def _GetLongName(item):
+        return _GetTagValue(item, "szLongItemName");
+    #end def _GetLongName(item):
+
+    def _GetDescription(item):
+        return _GetTagValue(item, "szItemDesc");
+    #end def _GetDescription(item):
+
+    global g_Proc_Items_return;
+    g_Proc_Items_return = None;
 
     oldItemIdx = None;
     newItemIdx = None;
@@ -291,6 +314,9 @@ def Proc_Items(root, oldId, newId, action, fileName):
                     if action == Actions.LOOKUP:
                         print("{2}: <{0}>{1}</{0}>".format(tagObj.tag, oldId, fileName));
                         return False;  # skip all other manipulations as we need only print a match of this ID
+                    elif action == Actions.WHATIS:
+                        g_Proc_Items_return = "{}  [{}]".format(_GetLongName(child), _GetDescription(child));
+                        return False;  # skip all other manipulations as we need name of the item
                     else:
                         tagObj.text = newId;
                         oldItemIdx = itemIdx;
@@ -309,7 +335,11 @@ def Proc_Items(root, oldId, newId, action, fileName):
     
     if oldItemIdx == None or newItemIdx == None:
         raise Exception("New or old item ID is not found in Items.xml ({0} -> {1})".format(oldId, newId));
-    return True;
+    
+    if oldItemIdx != None and newItemIdx != None and action == Actions.MOVE:
+        return True;
+    else:
+        return False;
 #end def Proc_Items(root, oldId, newId, action, fileName):
 
 
@@ -378,12 +408,29 @@ class RulesManager():
     _rules = g_rules;
     _moveItemIdList = [];
     _lookupIdList = [];
+    _whatisIdList = [];
+
+    @classmethod
+    def GetRule(cls, fileName, processorFunc):
+        for rule in cls._rules:
+            if rule.fileName == fileName and rule.processorFunc == processorFunc:
+                return rule;
+        return None;
+    #end def GetRule(fileName, processorFunc):
 
     @classmethod
     def ProcessAll(cls):
+        print("Process WhatIs item IDs:");
+        rule = RulesManager.GetRule("Items.xml", Proc_Items);
+        for item in cls._whatisIdList:
+            rule.Process(item, 0, Actions.WHATIS);
+            if g_Proc_Items_return.lower().find("placeholder") == -1:  # if there is no word "placeholder" then print
+                print("    ? {0} is: {1}".format(item, g_Proc_Items_return));
+        print("");
+
         print("Process Lookup item IDs:");
         for item in cls._lookupIdList:
-            print("    ? {0} mentioned in:".format(item));
+            print("    * {0} mentioned in:".format(item));
             for rule in cls._rules:
                 rule.Process(item, 0, Actions.LOOKUP);
         print("");
@@ -408,10 +455,28 @@ class RulesManager():
     @classmethod
     def LookupItemId(cls, oldId):
         cls._lookupIdList.append(oldId);
+
+    @classmethod
+    def WhatisItemId(cls, oldId):
+        cls._whatisIdList.append(oldId);
 #end class RulesManager():
 
 
 def ProcessItemsIds(idListFullPath):
+    def _GetRangeIfAny(text):
+        result = None;
+        if text.find("..") != -1:
+            nums = text.split("..");
+            if len(nums) == 2:
+                a = int(nums[0]);
+                b = int(nums[1]);
+                result = [a, b];
+        else:  # one number is given
+            a = int(text);
+            result = [a, a];
+        return result;
+    #end def _GetRangeIfAny(text):
+    
     idListFile = open(idListFullPath, "r");
     idLines = idListFile.readlines();
     idListFile.close();
@@ -419,16 +484,35 @@ def ProcessItemsIds(idListFullPath):
     for line in idLines:
         if line.find("//") == 0:  # starts with "//" -- a comment
             pass;  # skip commented line
+
         elif line.find('x') != -1:
             #TODO: delete item
             pass;
+
         elif line.find('?') != -1:
             ids = line.split("? ");
             if len(ids) == 2:
-                idInt = int(ids[1]);  # convert to int and back to str in order to drop any special characters, i.e. '\n' etc
-                RulesManager.LookupItemId(str(idInt));
+                idsInt = _GetRangeIfAny(ids[1]);  # convert to int and back to str in order to drop any special characters, i.e. '\n' etc
+                if idsInt != None:
+                    for i in range(idsInt[0], idsInt[1] + 1): 
+                        RulesManager.WhatisItemId(str(i));
+                else:
+                    raise Exception("Bad line on input", line);
             else:
                 raise Exception("Bad line on input", line);
+
+        elif line.find('*') != -1:
+            ids = line.split("* ");
+            if len(ids) == 2:
+                idsInt = _GetRangeIfAny(ids[1]);  # convert to int and back to str in order to drop any special characters, i.e. '\n' etc
+                if idsInt != None:
+                    for i in range(idsInt[0], idsInt[1] + 1): 
+                        RulesManager.LookupItemId(str(i));
+                else:
+                    raise Exception("Bad line on input", line);
+            else:
+                raise Exception("Bad line on input", line);
+
         elif line.find("->") != -1:
             ids = line.split(" -> ");
             if len(ids) == 2:
@@ -437,11 +521,14 @@ def ProcessItemsIds(idListFullPath):
                 RulesManager.MoveItemId(str(oldIdInt), str(newIdInt));
             else:
                 raise Exception("Bad line on input", line);
+
         elif line.find(">>") != -1:
             #TODO: move item with overriding (delete target/new ID if exists)
             pass;
+
         elif len(line.strip()) == 0:
             pass;  # skip empty line
+
         else:
             raise Exception("Bad line (unknown command) on input", line);
     
