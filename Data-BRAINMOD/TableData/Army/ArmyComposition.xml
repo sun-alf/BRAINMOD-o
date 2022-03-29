@@ -139,28 +139,28 @@ Changes require starting of a new game.
 	</COMPOSITION>
 	<COMPOSITION>
 		<Index>7</Index>
-		<Priority>80</Priority>
-		<ElitePercentage>20</ElitePercentage>
-		<TroopPercentage>80</TroopPercentage>
-		<AdminPercentage>20</AdminPercentage>
+		<Priority>50</Priority>
+		<ElitePercentage>10</ElitePercentage>
+		<TroopPercentage>90</TroopPercentage>
+		<AdminPercentage>80</AdminPercentage>
 		<DesiredPopulation>15</DesiredPopulation>
-		<StartPopulation>25</StartPopulation>
+		<StartPopulation>30</StartPopulation>
 	</COMPOSITION>
 	<COMPOSITION>
 		<Index>8</Index>
-		<Priority>70</Priority>
+		<Priority>50</Priority>
 		<ElitePercentage>10</ElitePercentage>
 		<TroopPercentage>90</TroopPercentage>
-		<AdminPercentage>40</AdminPercentage>
+		<AdminPercentage>80</AdminPercentage>
 		<DesiredPopulation>15</DesiredPopulation>
-		<StartPopulation>25</StartPopulation>
+		<StartPopulation>30</StartPopulation>
 	</COMPOSITION>
 	<COMPOSITION>
 		<Index>9</Index>
 		<Priority>90</Priority>
 		<ElitePercentage>25</ElitePercentage>
 		<TroopPercentage>75</TroopPercentage>
-		<AdminPercentage>20</AdminPercentage>
+		<AdminPercentage>70</AdminPercentage>
 		<DesiredPopulation>30</DesiredPopulation>
 		<StartPopulation>30</StartPopulation>
 	</COMPOSITION>
@@ -168,18 +168,18 @@ Changes require starting of a new game.
 		<Index>10</Index>
 		<Priority>1</Priority>
 		<ElitePercentage>0</ElitePercentage>
-		<TroopPercentage>80</TroopPercentage>
-		<AdminPercentage>20</AdminPercentage>
+		<TroopPercentage>100</TroopPercentage>
+		<AdminPercentage>10</AdminPercentage>
 		<DesiredPopulation>10</DesiredPopulation>
 		<StartPopulation>8</StartPopulation>
 	</COMPOSITION>
 	<COMPOSITION>
 		<Index>11</Index>
 		<Priority>60</Priority>
-		<ElitePercentage>45</ElitePercentage>
-		<TroopPercentage>55</TroopPercentage>
-		<AdminPercentage>20</AdminPercentage>
-		<DesiredPopulation>20</DesiredPopulation>
+		<ElitePercentage>40</ElitePercentage>
+		<TroopPercentage>60</TroopPercentage>
+		<AdminPercentage>70</AdminPercentage>
+		<DesiredPopulation>30</DesiredPopulation>
 		<StartPopulation>10</StartPopulation>
 	</COMPOSITION>
 	<COMPOSITION>
@@ -205,7 +205,7 @@ Changes require starting of a new game.
 		<Priority>74</Priority>
 		<ElitePercentage>15</ElitePercentage>
 		<TroopPercentage>85</TroopPercentage>
-		<AdminPercentage>0</AdminPercentage>
+		<AdminPercentage>40</AdminPercentage>
 		<DesiredPopulation>25</DesiredPopulation>
 		<StartPopulation>20</StartPopulation>
 	</COMPOSITION>
@@ -214,42 +214,42 @@ Changes require starting of a new game.
 		<Priority>80</Priority>
 		<ElitePercentage>20</ElitePercentage>
 		<TroopPercentage>80</TroopPercentage>
-		<AdminPercentage>45</AdminPercentage>
+		<AdminPercentage>20</AdminPercentage>
 		<DesiredPopulation>25</DesiredPopulation>
 		<StartPopulation>25</StartPopulation>
 	</COMPOSITION>
 	<COMPOSITION>
 		<Index>16</Index>
 		<Priority>50</Priority>
-		<ElitePercentage>0</ElitePercentage>
-		<TroopPercentage>100</TroopPercentage>
-		<AdminPercentage>30</AdminPercentage>
-		<DesiredPopulation>15</DesiredPopulation>
+		<ElitePercentage>10</ElitePercentage>
+		<TroopPercentage>90</TroopPercentage>
+		<AdminPercentage>90</AdminPercentage>
+		<DesiredPopulation>20</DesiredPopulation>
 		<StartPopulation>15</StartPopulation>
 	</COMPOSITION>
 	<COMPOSITION>
 		<Index>17</Index>
 		<Priority>60</Priority>
-		<ElitePercentage>15</ElitePercentage>
+		<ElitePercentage>10</ElitePercentage>
 		<TroopPercentage>90</TroopPercentage>
-		<AdminPercentage>40</AdminPercentage>
+		<AdminPercentage>75</AdminPercentage>
 		<DesiredPopulation>25</DesiredPopulation>
 		<StartPopulation>25</StartPopulation>
 	</COMPOSITION>
 	<COMPOSITION>
 		<Index>18</Index>
 		<Priority>30</Priority>
-		<ElitePercentage>0</ElitePercentage>
-		<TroopPercentage>100</TroopPercentage>
-		<AdminPercentage>75</AdminPercentage>
+		<ElitePercentage>5</ElitePercentage>
+		<TroopPercentage>95</TroopPercentage>
+		<AdminPercentage>100</AdminPercentage>
 		<DesiredPopulation>12</DesiredPopulation>
 		<StartPopulation>10</StartPopulation>
 	</COMPOSITION>
 	<COMPOSITION>
 		<Index>19</Index>
 		<Priority>40</Priority>
-		<ElitePercentage>0</ElitePercentage>
-		<TroopPercentage>100</TroopPercentage>
+		<ElitePercentage>5</ElitePercentage>
+		<TroopPercentage>95</TroopPercentage>
 		<AdminPercentage>75</AdminPercentage>
 		<DesiredPopulation>20</DesiredPopulation>
 		<StartPopulation>15</StartPopulation>
@@ -266,9 +266,9 @@ Changes require starting of a new game.
 	<COMPOSITION>
 		<Index>21</Index>
 		<Priority>30</Priority>
-		<ElitePercentage>0</ElitePercentage>
-		<TroopPercentage>100</TroopPercentage>
-		<AdminPercentage>85</AdminPercentage>
+		<ElitePercentage>5</ElitePercentage>
+		<TroopPercentage>95</TroopPercentage>
+		<AdminPercentage>50</AdminPercentage>
 		<DesiredPopulation>20</DesiredPopulation>
 		<StartPopulation>20</StartPopulation>
 	</COMPOSITION>
@@ -277,15 +277,15 @@ Changes require starting of a new game.
 		<Priority>20</Priority>
 		<ElitePercentage>0</ElitePercentage>
 		<TroopPercentage>100</TroopPercentage>
-		<AdminPercentage>80</AdminPercentage>
+		<AdminPercentage>100</AdminPercentage>
 		<DesiredPopulation>10</DesiredPopulation>
 		<StartPopulation>8</StartPopulation>
 	</COMPOSITION>
 	<COMPOSITION>
 		<Index>23</Index>
 		<Priority>35</Priority>
-		<ElitePercentage>0</ElitePercentage>
-		<TroopPercentage>100</TroopPercentage>
+		<ElitePercentage>5</ElitePercentage>
+		<TroopPercentage>95</TroopPercentage>
 		<AdminPercentage>75</AdminPercentage>
 		<DesiredPopulation>20</DesiredPopulation>
 		<StartPopulation>20</StartPopulation>
@@ -302,17 +302,17 @@ Changes require starting of a new game.
 	<COMPOSITION>   <!-- Roadblock 1, minor -->
 		<Index>25</Index>
 		<Priority>5</Priority>
-		<ElitePercentage>0</ElitePercentage>
-		<TroopPercentage>100</TroopPercentage>
-		<AdminPercentage>70</AdminPercentage>
+		<ElitePercentage>5</ElitePercentage>
+		<TroopPercentage>95</TroopPercentage>
+		<AdminPercentage>40</AdminPercentage>
 		<DesiredPopulation>8</DesiredPopulation>
 		<StartPopulation>8</StartPopulation>
 	</COMPOSITION>
 	<COMPOSITION>   <!-- Roadblock 2, moderate -->
 		<Index>26</Index>
 		<Priority>10</Priority>
-		<ElitePercentage>0</ElitePercentage>
-		<TroopPercentage>100</TroopPercentage>
+		<ElitePercentage>5</ElitePercentage>
+		<TroopPercentage>95</TroopPercentage>
 		<AdminPercentage>40</AdminPercentage>
 		<DesiredPopulation>12</DesiredPopulation>
 		<StartPopulation>12</StartPopulation>

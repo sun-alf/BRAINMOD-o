@@ -32,10 +32,10 @@ Changes require starting of a new game.
 -->
 <PATROL_INFO>
 	<PATROL>
-		<Size>8</Size>
-		<Priority>40</Priority>
+		<Size>6</Size>
+		<Priority>30</Priority>
 		<Waypoints>
-			<Sector1>B1</Sector1>
+			<Sector1>A1</Sector1>
 			<Sector2>C1</Sector2>
 			<Sector3>C3</Sector3>
 			<Sector4>A3</Sector4>
@@ -43,7 +43,7 @@ Changes require starting of a new game.
 	</PATROL>
 	<PATROL>
 		<Size>6</Size>
-		<Priority>35</Priority>
+		<Priority>15</Priority>
 		<Waypoints>
 			<Sector1>B4</Sector1>
 			<Sector2>B7</Sector2>
@@ -52,8 +52,8 @@ Changes require starting of a new game.
 		</Waypoints>
 	</PATROL>
 	<PATROL>
-		<Size>6</Size>
-		<Priority>25</Priority>
+		<Size>10</Size>
+		<Priority>35</Priority>
 		<Waypoints>
 			<Sector1>A8</Sector1>
 			<Sector2>B8</Sector2>
@@ -62,8 +62,8 @@ Changes require starting of a new game.
 		</Waypoints>
 	</PATROL>
 	<PATROL>
-		<Size>6</Size>
-		<Priority>30</Priority>
+		<Size>10</Size>
+		<Priority>45</Priority>
 		<Waypoints>
 			<Sector1>B10</Sector1>
 			<Sector2>B12</Sector2>
@@ -72,7 +72,7 @@ Changes require starting of a new game.
 		</Waypoints>
 	</PATROL>
 	<PATROL>
-		<Size>7</Size>
+		<Size>10</Size>
 		<Priority>45</Priority>
 		<Waypoints>
 			<Sector1>A11</Sector1>
@@ -205,9 +205,9 @@ Changes require starting of a new game.
 		<Size>12</Size>
 		<Priority>75</Priority>
 		<Waypoints>
-			<Sector1>J2</Sector1>
-			<Sector2>K2</Sector2>
-			<Sector3>0</Sector3>
+			<Sector1>K2</Sector1>
+			<Sector2>M2</Sector2>
+			<Sector3>M3</Sector3>
 			<Sector4>0</Sector4>
 		</Waypoints>
 	</PATROL>
@@ -217,7 +217,7 @@ Changes require starting of a new game.
 		<Waypoints>
 			<Sector1>I3</Sector1>
 			<Sector2>J3</Sector2>
-			<Sector3>0</Sector3>
+			<Sector3>J2</Sector3>
 			<Sector4>0</Sector4>
 		</Waypoints>
 	</PATROL>
@@ -226,7 +226,7 @@ Changes require starting of a new game.
 		<Priority>80</Priority>
 		<Waypoints>
 			<Sector1>J6</Sector1>
-			<Sector2>K6</Sector2>
+			<Sector2>L6</Sector2>
 			<Sector3>0</Sector3>
 			<Sector4>0</Sector4>
 		</Waypoints>
@@ -246,7 +246,7 @@ Changes require starting of a new game.
 		<Priority>90</Priority>
 		<Waypoints>
 			<Sector1>L10</Sector1>
-			<Sector2>M10</Sector2>
+			<Sector2>N10</Sector2>
 			<Sector3>0</Sector3>
 			<Sector4>0</Sector4>
 		</Waypoints>
@@ -256,7 +256,7 @@ Changes require starting of a new game.
 		<Priority>90</Priority>
 		<Waypoints>
 			<Sector1>N9</Sector1>
-			<Sector2>N10</Sector2>
+			<Sector2>N6</Sector2>
 			<Sector3>0</Sector3>
 			<Sector4>0</Sector4>
 		</Waypoints>
@@ -319,6 +319,16 @@ Changes require starting of a new game.
 			<Sector2>M13</Sector2>
 			<Sector3>M14</Sector3>
 			<Sector4>L14</Sector4>
+		</Waypoints>
+	</PATROL>
+	<PATROL>
+		<Size>10</Size>
+		<Priority>80</Priority>
+		<Waypoints>
+			<Sector1>M4</Sector1>
+			<Sector2>M6</Sector2>
+			<Sector3>0</Sector3>
+			<Sector4>0</Sector4>
 		</Waypoints>
 	</PATROL>
 </PATROL_INFO>

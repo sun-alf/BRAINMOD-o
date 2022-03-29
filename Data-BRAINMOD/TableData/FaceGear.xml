@@ -1090,19 +1090,19 @@
 	<!-- Night Vision Goggles, Gen. I -->
 	<ITEM>
 		<uiIndex>211</uiIndex>
-		<Type>0</Type>
-		<szFile></szFile>
+		<Type>4</Type>
+		<szFile>FACES\FACESGEAR\Face_NightVisionGogglesGenI</szFile>
 	</ITEM>
 	<ITEM>
 		<uiIndex>212</uiIndex>
-		<Type>0</Type>
-		<szFile></szFile>
+		<Type>4</Type>
+		<szFile>FACES\FACESGEAR\Face_SunGoggles</szFile>
 	</ITEM>
 	<!-- Gas Mask -->
 	<ITEM>
 		<uiIndex>213</uiIndex>
-		<Type>0</Type>
-		<szFile></szFile>
+		<Type>3</Type>
+		<szFile>FACES\FACESGEAR\Face_GasMask</szFile>
 	</ITEM>
 	<ITEM>
 		<uiIndex>214</uiIndex>
@@ -1267,8 +1267,8 @@
 	<!-- Night Vision Goggles, Gen. II -->
 	<ITEM>
 		<uiIndex>246</uiIndex>
-		<Type>0</Type>
-		<szFile></szFile>
+		<Type>4</Type>
+		<szFile>FACES\FACESGEAR\Face_NightVisionGogglesGenI</szFile>
 	</ITEM>
 	<ITEM>
 		<uiIndex>247</uiIndex>
@@ -1501,7 +1501,6 @@
 		<Type>0</Type>
 		<szFile></szFile>
 	</ITEM>
-	<!-- SWAT Helmet -->
 	<ITEM>
 		<uiIndex>293</uiIndex>
 		<Type>0</Type>
@@ -2299,14 +2298,14 @@
 		<szFile></szFile>
 	</ITEM>
 	<ITEM>
-		<uiIndex>452</uiIndex>
-		<Type>0</Type>
-		<szFile></szFile>
+		<uiIndex>452</uiIndex> <!-- Gas Mask - Avon S10 -->
+		<Type>3</Type>
+		<szFile>FACES\FACESGEAR\Face_GasMask</szFile>
 	</ITEM>
 	<ITEM>
-		<uiIndex>453</uiIndex>
-		<Type>0</Type>
-		<szFile></szFile>
+		<uiIndex>453</uiIndex> <!-- Gas Mask - XM-50 -->
+		<Type>3</Type>
+		<szFile>FACES\FACESGEAR\Face_GasMask</szFile>
 	</ITEM>
 	<ITEM>
 		<uiIndex>454</uiIndex>
@@ -2349,9 +2348,9 @@
 		<szFile></szFile>
 	</ITEM>
 	<ITEM>
-		<uiIndex>462</uiIndex>
-		<Type>0</Type>
-		<szFile></szFile>
+		<uiIndex>462</uiIndex> <!-- Night Vision Goggles, Gen. I B -->
+		<Type>4</Type>
+		<szFile>FACES\FACESGEAR\Face_NightVisionGogglesGenI</szFile>
 	</ITEM>
 	<ITEM>
 		<uiIndex>463</uiIndex>
@@ -2359,24 +2358,24 @@
 		<szFile></szFile>
 	</ITEM>
 	<ITEM>
-		<uiIndex>464</uiIndex>
-		<Type>0</Type>
-		<szFile></szFile>
+		<uiIndex>464</uiIndex> <!-- Night Vision Goggles, Gen. II B -->
+		<Type>4</Type>
+		<szFile>FACES\FACESGEAR\Face_NightVisionGogglesGenI</szFile>
 	</ITEM>
 	<ITEM>
-		<uiIndex>465</uiIndex>
-		<Type>0</Type>
-		<szFile></szFile>
+		<uiIndex>465</uiIndex> <!-- Night Vision Goggles, Gen. III A -->
+		<Type>4</Type>
+		<szFile>FACES\FACESGEAR\Face_NightVisionGogglesGenI</szFile>
 	</ITEM>
 	<ITEM>
-		<uiIndex>466</uiIndex>
-		<Type>0</Type>
-		<szFile></szFile>
+		<uiIndex>466</uiIndex> <!-- Night Vision Goggles, Gen. III B -->
+		<Type>4</Type>
+		<szFile>FACES\FACESGEAR\Face_NightVisionGogglesGenI</szFile>
 	</ITEM>
 	<ITEM>
-		<uiIndex>467</uiIndex>
-		<Type>0</Type>
-		<szFile></szFile>
+		<uiIndex>467</uiIndex> <!-- Night Vision Goggles, Gen. IV -->
+		<Type>4</Type>
+		<szFile>FACES\FACESGEAR\Face_NightVisionGogglesGenI</szFile>
 	</ITEM>
 	<ITEM>
 		<uiIndex>468</uiIndex>
@@ -5165,17 +5164,15 @@
 		<Type>0</Type>
 		<szFile></szFile>
 	</ITEM>
-	<!-- Night Vision Goggles, Gen. III -->
 	<ITEM>
 		<uiIndex>1024</uiIndex>
-		<Type>4</Type>
-		<szFile>FACES\FACESGEAR\Face_NightVisionGogglesGenI</szFile>
+		<Type>0</Type>
+		<szFile></szFile>
 	</ITEM>
-	<!-- Night Vision Goggles, Gen. IV -->
 	<ITEM>
 		<uiIndex>1025</uiIndex>
-		<Type>4</Type>
-		<szFile>FACES\FACESGEAR\Face_NightVisionGogglesGenI</szFile>
+		<Type>0</Type>
+		<szFile></szFile>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1026</uiIndex>
@@ -13540,19 +13537,19 @@
 		<szFile></szFile>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2698</uiIndex>
-		<Type>0</Type>
-		<szFile></szFile>
+		<uiIndex>2698</uiIndex> <!-- SWAT Helmet -->
+		<Type>2</Type>
+		<szFile>FACES\FACESGEAR\Face_SWAT_Helmet</szFile>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2699</uiIndex>
-		<Type>0</Type>
-		<szFile></szFile>
+		<uiIndex>2699</uiIndex> <!-- SWAT Helmet C-18 -->
+		<Type>2</Type>
+		<szFile>FACES\FACESGEAR\Face_SWAT_Helmet</szFile>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2700</uiIndex>
-		<Type>0</Type>
-		<szFile></szFile>
+		<uiIndex>2670</uiIndex> <!-- SWAT Helmet C-20 -->
+		<Type>2</Type>
+		<szFile>FACES\FACESGEAR\Face_SWAT_Helmet</szFile>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2701</uiIndex>
