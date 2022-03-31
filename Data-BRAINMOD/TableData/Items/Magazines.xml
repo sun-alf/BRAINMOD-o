@@ -13415,7 +13415,7 @@
 	<MAGAZINE>
 		<uiIndex>1916</uiIndex>
 		<ubCalibre>53</ubCalibre>
-		<ubMagSize>50</ubMagSize>
+		<ubMagSize>37</ubMagSize>
 		<ubAmmoType>18</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
@@ -13429,7 +13429,7 @@
 	<MAGAZINE>
 		<uiIndex>1918</uiIndex>
 		<ubCalibre>53</ubCalibre>
-		<ubMagSize>50</ubMagSize>
+		<ubMagSize>37</ubMagSize>
 		<ubAmmoType>35</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
@@ -13443,7 +13443,7 @@
 	<MAGAZINE>
 		<uiIndex>1920</uiIndex>
 		<ubCalibre>53</ubCalibre>
-		<ubMagSize>50</ubMagSize>
+		<ubMagSize>37</ubMagSize>
 		<ubAmmoType>38</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
@@ -13457,7 +13457,7 @@
 	<MAGAZINE>
 		<uiIndex>1922</uiIndex>
 		<ubCalibre>53</ubCalibre>
-		<ubMagSize>50</ubMagSize>
+		<ubMagSize>37</ubMagSize>
 		<ubAmmoType>39</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
@@ -13471,7 +13471,7 @@
 	<MAGAZINE>
 		<uiIndex>1924</uiIndex>
 		<ubCalibre>53</ubCalibre>
-		<ubMagSize>50</ubMagSize>
+		<ubMagSize>37</ubMagSize>
 		<ubAmmoType>40</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
@@ -13485,35 +13485,35 @@
 	<MAGAZINE>
 		<uiIndex>1926</uiIndex>
 		<ubCalibre>53</ubCalibre>
-		<ubMagSize>100</ubMagSize>
+		<ubMagSize>47</ubMagSize>
 		<ubAmmoType>18</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
 	<MAGAZINE>
 		<uiIndex>1927</uiIndex>
 		<ubCalibre>53</ubCalibre>
-		<ubMagSize>100</ubMagSize>
+		<ubMagSize>47</ubMagSize>
 		<ubAmmoType>35</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
 	<MAGAZINE>
 		<uiIndex>1928</uiIndex>
 		<ubCalibre>53</ubCalibre>
-		<ubMagSize>100</ubMagSize>
+		<ubMagSize>47</ubMagSize>
 		<ubAmmoType>38</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
 	<MAGAZINE>
 		<uiIndex>1929</uiIndex>
 		<ubCalibre>53</ubCalibre>
-		<ubMagSize>100</ubMagSize>
+		<ubMagSize>47</ubMagSize>
 		<ubAmmoType>39</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
 	<MAGAZINE>
 		<uiIndex>1930</uiIndex>
 		<ubCalibre>53</ubCalibre>
-		<ubMagSize>100</ubMagSize>
+		<ubMagSize>47</ubMagSize>
 		<ubAmmoType>40</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
