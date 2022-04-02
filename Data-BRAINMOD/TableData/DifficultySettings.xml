@@ -222,7 +222,7 @@
 		<ConfirmText>Easy game mode. Includes 100000 of starting cash, weakened initial garrisons, 560 soldiers in Queen's Army reserve and low strategic awareness in total. Also, only one AIM/MERC mercenary may die being on assignment somewhere.</ConfirmText>
 		<StartingCash>100000</StartingCash>
 		<EnemyAPBonus>0</EnemyAPBonus>
-		<NumKillsPerProgressPoint>10</NumKillsPerProgressPoint>
+		<NumKillsPerProgressPoint>15</NumKillsPerProgressPoint>
 		<InitialGarrisonPercentages>75</InitialGarrisonPercentages>
 		<MinEnemyGroupSize>4</MinEnemyGroupSize>
 		<CounterAttackGroupSize>12</CounterAttackGroupSize>
@@ -302,7 +302,7 @@
 		<ConfirmText>Normal game mode. Includes 60000 of starting cash, normal initial garrisons, 750 soldiers in Queen's Army reserve and normal strategic awareness in total. Up to 3 AIM/MERC mercenaries may die being on assignment somewhere.</ConfirmText>
 		<StartingCash>60000</StartingCash>
 		<EnemyAPBonus>0</EnemyAPBonus>
-		<NumKillsPerProgressPoint>10</NumKillsPerProgressPoint>
+		<NumKillsPerProgressPoint>15</NumKillsPerProgressPoint>
 		<InitialGarrisonPercentages>100</InitialGarrisonPercentages>
 		<MinEnemyGroupSize>6</MinEnemyGroupSize>
 		<CounterAttackGroupSize>16</CounterAttackGroupSize>
@@ -382,7 +382,7 @@
 		<ConfirmText>Difficult game mode. Includes 35000 of starting cash, reinforced initial garrisons, 1000 soldiers in Queen's Army reserve and superb strategic awareness in total. Up to 5 AIM/MERC mercenaries may die being on assignment somewhere.</ConfirmText>
 		<StartingCash>35000</StartingCash>
 		<EnemyAPBonus>0</EnemyAPBonus>
-		<NumKillsPerProgressPoint>10</NumKillsPerProgressPoint>
+		<NumKillsPerProgressPoint>12</NumKillsPerProgressPoint>
 		<InitialGarrisonPercentages>120</InitialGarrisonPercentages>
 		<MinEnemyGroupSize>8</MinEnemyGroupSize>
 		<CounterAttackGroupSize>24</CounterAttackGroupSize>
@@ -462,7 +462,7 @@
 		<ConfirmText>Extremely difficult game mode. It has similar game settings to Expert mode, and it features extremely aggressive Queen's Army strategy. Prepare yourself for survival quests...</ConfirmText>
 		<StartingCash>35000</StartingCash>
 		<EnemyAPBonus>0</EnemyAPBonus>
-		<NumKillsPerProgressPoint>10</NumKillsPerProgressPoint>
+		<NumKillsPerProgressPoint>12</NumKillsPerProgressPoint>
 		<InitialGarrisonPercentages>120</InitialGarrisonPercentages>
 		<MinEnemyGroupSize>8</MinEnemyGroupSize>
 		<CounterAttackGroupSize>24</CounterAttackGroupSize>

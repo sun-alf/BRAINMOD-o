@@ -3,7 +3,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>0</uiIndex>
 		<name>Helmets</name>
-		<ubChoices>12</ubChoices>
+		<ubChoices>15</ubChoices>
 		<bItemNo1>176</bItemNo1>
 		<bItemNo2>2635</bItemNo2>
 		<bItemNo3>177</bItemNo3>
@@ -16,9 +16,9 @@
 		<bItemNo10>2662</bItemNo10>
 		<bItemNo11>2662</bItemNo11>
 		<bItemNo12>2662</bItemNo12>
-		<bItemNo13>0</bItemNo13>
-		<bItemNo14>0</bItemNo14>
-		<bItemNo15>0</bItemNo15>
+		<bItemNo13>176</bItemNo13>
+		<bItemNo14>176</bItemNo14>
+		<bItemNo15>176</bItemNo15>
 		<bItemNo16>0</bItemNo16>
 		<bItemNo17>0</bItemNo17>
 		<bItemNo18>0</bItemNo18>
@@ -168,7 +168,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>3</uiIndex>
 		<name>Hand Grenades</name>
-		<ubChoices>18</ubChoices>
+		<ubChoices>30</ubChoices>
 		<bItemNo1>131</bItemNo1>
 		<bItemNo2>132</bItemNo2>
 		<bItemNo3>133</bItemNo3>
@@ -223,7 +223,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>4</uiIndex>
 		<name>Kits</name>
-		<ubChoices>9</ubChoices>
+		<ubChoices>40</ubChoices>
 		<bItemNo1>373</bItemNo1>
 		<bItemNo2>373</bItemNo2>
 		<bItemNo3>373</bItemNo3>
@@ -278,11 +278,11 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>5</uiIndex>
 		<name>Bombs</name>
-		<ubChoices>11</ubChoices>
+		<ubChoices>50</ubChoices>
 		<bItemNo1>137</bItemNo1>
 		<bItemNo2>139</bItemNo2>
-		<bItemNo3>141</bItemNo3>
-		<bItemNo4>140</bItemNo4>
+		<bItemNo3>0</bItemNo3>
+		<bItemNo4>0</bItemNo4>
 		<bItemNo5>145</bItemNo5>
 		<bItemNo6>223</bItemNo6>
 		<bItemNo7>224</bItemNo7>
@@ -336,11 +336,11 @@
 		<ubChoices>50</ubChoices>
 		<bItemNo1>49</bItemNo1>
 		<bItemNo2>214</bItemNo2>
-		<bItemNo3>214</bItemNo3>
-		<bItemNo4>214</bItemNo4>
+		<bItemNo3>1902</bItemNo3>
+		<bItemNo4>1903</bItemNo4>
 		<bItemNo5>216</bItemNo5>
 		<bItemNo6>222</bItemNo6>
-		<bItemNo7>214</bItemNo7>
+		<bItemNo7>0</bItemNo7>
 		<bItemNo8>243</bItemNo8>
 		<bItemNo9>245</bItemNo9>
 		<bItemNo10>255</bItemNo10>
@@ -354,41 +354,41 @@
 		<bItemNo18>305</bItemNo18>
 		<bItemNo19>306</bItemNo19>
 		<bItemNo20>308</bItemNo20>
-		<bItemNo21>309</bItemNo21>
+		<bItemNo21>0</bItemNo21>
 		<bItemNo22>311</bItemNo22>
 		<bItemNo23>1911</bItemNo23>
 		<bItemNo24>316</bItemNo24>
 		<bItemNo25>320</bItemNo25>
-		<bItemNo26>224</bItemNo26>
-		<bItemNo27>223</bItemNo27>
+		<bItemNo26>0</bItemNo26>
+		<bItemNo27>0</bItemNo27>
 		<bItemNo28>1767</bItemNo28>
-		<bItemNo29>1767</bItemNo29>
+		<bItemNo29>0</bItemNo29>
 		<bItemNo30>1767</bItemNo30>
 		<bItemNo31>331</bItemNo31>
 		<bItemNo32>5942</bItemNo32>
 		<bItemNo33>332</bItemNo33>
 		<bItemNo34>1501</bItemNo34>
 		<bItemNo35>5943</bItemNo35>
-		<bItemNo36>304</bItemNo36>
+		<bItemNo36>0</bItemNo36>
 		<bItemNo37>309</bItemNo37>
-		<bItemNo38>1503</bItemNo38>
+		<bItemNo38>0</bItemNo38>
 		<bItemNo39>1504</bItemNo39>
 		<bItemNo40>401</bItemNo40>
 		<bItemNo41>291</bItemNo41>
 		<bItemNo42>292</bItemNo42>
-		<bItemNo43>373</bItemNo43>
-		<bItemNo44>373</bItemNo44>
+		<bItemNo43>0</bItemNo43>
+		<bItemNo44>0</bItemNo44>
 		<bItemNo45>1733</bItemNo45>
-		<bItemNo46>1767</bItemNo46>
-		<bItemNo47>1767</bItemNo47>
-		<bItemNo48>1767</bItemNo48>
-		<bItemNo49>1767</bItemNo49>
-		<bItemNo50>1767</bItemNo50>
+		<bItemNo46>0</bItemNo46>
+		<bItemNo47>0</bItemNo47>
+		<bItemNo48>0</bItemNo48>
+		<bItemNo49>0</bItemNo49>
+		<bItemNo50>0</bItemNo50>
 	</ENEMYITEMCHOICES>
 	<ENEMYITEMCHOICES>
 		<uiIndex>7</uiIndex>
 		<name>Grenade Launchers</name>
-		<ubChoices>6</ubChoices>
+		<ubChoices>20</ubChoices>
 		<bItemNo1>40</bItemNo1>
 		<bItemNo2>5781</bItemNo2>
 		<bItemNo3>5783</bItemNo3>
@@ -443,7 +443,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>8</uiIndex>
 		<name>Single Shot Rocket Launchers</name>
-		<ubChoices>4</ubChoices>
+		<ubChoices>20</ubChoices>
 		<bItemNo1>5761</bItemNo1>
 		<bItemNo2>5764</bItemNo2>
 		<bItemNo3>5762</bItemNo3>
@@ -498,7 +498,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>9</uiIndex>
 		<name>Multi-shot Rocket Launchers</name>
-		<ubChoices>4</ubChoices>
+		<ubChoices>20</ubChoices>
 		<bItemNo1>5768</bItemNo1>
 		<bItemNo2>5770</bItemNo2>
 		<bItemNo3>5769</bItemNo3>
@@ -553,7 +553,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>10</uiIndex>
 		<name>Mortars</name>
-		<ubChoices>3</ubChoices>
+		<ubChoices>15</ubChoices>
 		<bItemNo1>41</bItemNo1>
 		<bItemNo2>5752</bItemNo2>
 		<bItemNo3>5751</bItemNo3>
@@ -608,7 +608,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>11</uiIndex>
 		<name>Armour Attachments</name>
-		<ubChoices>6</ubChoices>
+		<ubChoices>20</ubChoices>
 		<bItemNo1>183</bItemNo1>
 		<bItemNo2>2982</bItemNo2>
 		<bItemNo3>2986</bItemNo3>
@@ -718,7 +718,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>13</uiIndex>
 		<name>Low Quality Face Items</name>
-		<ubChoices>3</ubChoices>
+		<ubChoices>15</ubChoices>
 		<bItemNo1>211</bItemNo1>
 		<bItemNo2>212</bItemNo2>
 		<bItemNo3>246</bItemNo3>
@@ -773,7 +773,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>14</uiIndex>
 		<name>High Quality Face Items</name>
-		<ubChoices>6</ubChoices>
+		<ubChoices>20</ubChoices>
 		<bItemNo1>464</bItemNo1>
 		<bItemNo2>246</bItemNo2>
 		<bItemNo3>462</bItemNo3>
@@ -938,18 +938,18 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>17</uiIndex>
 		<name>Weapon Attachments</name>
-		<ubChoices>36</ubChoices>
+		<ubChoices>50</ubChoices>
 		<bItemNo1>209</bItemNo1>
 		<bItemNo2>209</bItemNo2>
 		<bItemNo3>1026</bItemNo3>
-		<bItemNo4>1026</bItemNo4>
+		<bItemNo4>0</bItemNo4>
 		<bItemNo5>241</bItemNo5>
-		<bItemNo6>241</bItemNo6>
+		<bItemNo6>0</bItemNo6>
 		<bItemNo7>1040</bItemNo7>
-		<bItemNo8>1040</bItemNo8>
+		<bItemNo8>0</bItemNo8>
 		<bItemNo9>1043</bItemNo9>
-		<bItemNo10>1043</bItemNo10>
-		<bItemNo11>1043</bItemNo11>
+		<bItemNo10>0</bItemNo10>
+		<bItemNo11>0</bItemNo11>
 		<bItemNo12>1044</bItemNo12>
 		<bItemNo13>1135</bItemNo13>
 		<bItemNo14>1135</bItemNo14>
@@ -963,7 +963,7 @@
 		<bItemNo22>1188</bItemNo22>
 		<bItemNo23>1227</bItemNo23>
 		<bItemNo24>1238</bItemNo24>
-		<bItemNo25>1238</bItemNo25>
+		<bItemNo25>0</bItemNo25>
 		<bItemNo26>1242</bItemNo26>
 		<bItemNo27>1237</bItemNo27>
 		<bItemNo28>1243</bItemNo28>
@@ -993,7 +993,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>18</uiIndex>
 		<name>Knives</name>
-		<ubChoices>12</ubChoices>
+		<ubChoices>20</ubChoices>
 		<bItemNo1>37</bItemNo1>
 		<bItemNo2>5805</bItemNo2>
 		<bItemNo3>5882</bItemNo3>
