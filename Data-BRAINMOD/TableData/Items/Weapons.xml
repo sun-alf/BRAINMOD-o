@@ -242,6 +242,30 @@
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
+		<uiIndex>48</uiIndex>
+		<szWeaponName>*** Queen Creature Spit ***</szWeaponName>
+		<ubWeaponClass>7</ubWeaponClass>
+		<ubCalibre>91</ubCalibre>
+		<ubShotsPer4Turns>10</ubShotsPer4Turns>
+		<ubBulletSpeed>250</ubBulletSpeed>
+		<ubImpact>20</ubImpact>
+		<ubDeadliness>1</ubDeadliness>
+		<ubMagSize>50</ubMagSize>
+		<usRange>180</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>10</ubAttackVolume>
+		<ubHitVolume>5</ubHitVolume>
+		<sSound>175</sSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<SilencedSound>175</SilencedSound>
+		<bBurstAP>20</bBurstAP>
+		<APsToReload>20</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
+		<nAccuracy>60</nAccuracy>
+	</WEAPON>
+	<WEAPON>
 		<uiIndex>63</uiIndex>
 		<szWeaponName>Flamethrower</szWeaponName>
 		<ubWeaponClass>7</ubWeaponClass>
@@ -389,7 +413,7 @@
 		<uiIndex>57</uiIndex>
 		<szWeaponName>*** Infant Spit ***</szWeaponName>
 		<ubWeaponClass>7</ubWeaponClass>
-		<ubCalibre>13</ubCalibre>
+		<ubCalibre>91</ubCalibre>
 		<ubShotsPer4Turns>13</ubShotsPer4Turns>
 		<ubBulletSpeed>250</ubBulletSpeed>
 		<ubImpact>12</ubImpact>
@@ -416,13 +440,13 @@
 		<uiIndex>58</uiIndex>
 		<szWeaponName>*** Young Male Spit ***</szWeaponName>
 		<ubWeaponClass>7</ubWeaponClass>
-		<ubCalibre>13</ubCalibre>
+		<ubCalibre>91</ubCalibre>
 		<ubShotsPer4Turns>10</ubShotsPer4Turns>
 		<ubBulletSpeed>250</ubBulletSpeed>
 		<ubImpact>16</ubImpact>
 		<ubDeadliness>1</ubDeadliness>
 		<ubMagSize>10</ubMagSize>
-		<usRange>150</usRange>
+		<usRange>130</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
 		<ubAttackVolume>13</ubAttackVolume>
@@ -443,13 +467,13 @@
 		<uiIndex>59</uiIndex>
 		<szWeaponName>*** Old Male Spit ***</szWeaponName>
 		<ubWeaponClass>7</ubWeaponClass>
-		<ubCalibre>13</ubCalibre>
+		<ubCalibre>91</ubCalibre>
 		<ubShotsPer4Turns>10</ubShotsPer4Turns>
 		<ubBulletSpeed>250</ubBulletSpeed>
 		<ubImpact>20</ubImpact>
 		<ubDeadliness>1</ubDeadliness>
 		<ubMagSize>20</ubMagSize>
-		<usRange>180</usRange>
+		<usRange>150</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
 		<ubAttackVolume>13</ubAttackVolume>

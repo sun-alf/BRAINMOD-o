@@ -7676,21 +7676,21 @@
 		<uiIndex>1096</uiIndex>
 		<ubCalibre>13</ubCalibre>
 		<ubMagSize>10</ubMagSize>
-		<ubAmmoType>7</ubAmmoType>
+		<ubAmmoType>78</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
 	<MAGAZINE>
 		<uiIndex>1097</uiIndex>
 		<ubCalibre>13</ubCalibre>
 		<ubMagSize>50</ubMagSize>
-		<ubAmmoType>7</ubAmmoType>
+		<ubAmmoType>78</ubAmmoType>
 		<ubMagType>2</ubMagType>
 	</MAGAZINE>
 	<MAGAZINE>
 		<uiIndex>1098</uiIndex>
 		<ubCalibre>13</ubCalibre>
 		<ubMagSize>200</ubMagSize>
-		<ubAmmoType>7</ubAmmoType>
+		<ubAmmoType>78</ubAmmoType>
 		<ubMagType>3</ubMagType>
 	</MAGAZINE>
 	<MAGAZINE>

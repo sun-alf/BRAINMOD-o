@@ -6,7 +6,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2500</mAbsolutePrice>
+			<mAbsolutePrice>3300</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>100</mHelmetStatus>
@@ -71,8 +71,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>4500</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>161</mVest>
@@ -119,8 +119,8 @@
 			<lCPackStatus>90</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>6900</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>161</mVest>
@@ -173,8 +173,8 @@
 			<lCPackStatus>90</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>5500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>6100</mAbsolutePrice>
 			<mHelmet>2635</mHelmet>
 			<mHelmetStatus>100</mHelmetStatus>
 			<mVest>161</mVest>
@@ -229,8 +229,8 @@
 			<lCPackStatus>90</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>7500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7600</mAbsolutePrice>
 			<mHelmet>2635</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>161</mVest>
@@ -291,7 +291,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2000</mAbsolutePrice>
+			<mAbsolutePrice>2900</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>89</mHelmetStatus>
@@ -356,8 +356,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>3000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>4200</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>89</mHelmetStatus>
 			<mVest>2701</mVest>
@@ -401,8 +401,8 @@
 			<lRightThighStatus>86</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>5000</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>89</mHelmetStatus>
 			<mVest>2748</mVest>
@@ -449,8 +449,8 @@
 			<lRightThighStatus>86</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>5300</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>89</mHelmetStatus>
 			<mVest>2748</mVest>
@@ -497,8 +497,8 @@
 			<lRightThighStatus>86</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>8000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>8700</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>89</mHelmetStatus>
 			<mVest>2748</mVest>
@@ -554,7 +554,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>6000</mAbsolutePrice>
+			<mAbsolutePrice>9600</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -619,8 +619,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>9500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>10500</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -669,8 +669,8 @@
 			<lCPackStatus>94</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>13500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>14100</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -722,8 +722,8 @@
 			<lCPackStatus>89</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>17500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>15900</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -775,8 +775,8 @@
 			<lCPackStatus>89</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>30</mPriceMod>
-			<mAbsolutePrice>23500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>23800</mAbsolutePrice>
 			<mHelmet>2650</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2844</mVest>
@@ -834,7 +834,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>1500</mAbsolutePrice>
+			<mAbsolutePrice>5500</mAbsolutePrice>
 			<mHelmet>2662</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>98</mHelmetStatus>
@@ -899,8 +899,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>8300</mAbsolutePrice>
 			<mHelmet>2662</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>161</mVest>
@@ -941,8 +941,8 @@
 			<lCPackStatus>90</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>7500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7400</mAbsolutePrice>
 			<mHelmet>2662</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>161</mVest>
@@ -986,8 +986,8 @@
 			<lCPackStatus>86</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>11800</mAbsolutePrice>
 			<mHelmet>2662</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>161</mVest>
@@ -1036,8 +1036,8 @@
 			<lCPackStatus>90</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>12500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>10400</mAbsolutePrice>
 			<mHelmet>2662</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>161</mVest>
@@ -1084,7 +1084,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2000</mAbsolutePrice>
+			<mAbsolutePrice>2900</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -1149,8 +1149,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>4500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>6200</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -1205,8 +1205,8 @@
 			<lCPackStatus>89</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>5500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>8400</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -1261,8 +1261,8 @@
 			<lCPackStatus>89</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>8000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>9100</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -1317,8 +1317,8 @@
 			<lCPackStatus>89</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>12500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>14300</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2745</mVest>
@@ -1379,7 +1379,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mAbsolutePrice>7700</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -1444,8 +1444,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>8000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>11200</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -1494,8 +1494,8 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>8300</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>196</mVest>
@@ -1544,8 +1544,8 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>15000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>13800</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -1591,8 +1591,8 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>18000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>16000</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -1653,7 +1653,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2000</mAbsolutePrice>
+			<mAbsolutePrice>3300</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -1718,8 +1718,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>4000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>4900</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -1761,8 +1761,8 @@
 			<lLeftThighStatus>94</lLeftThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>6000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7000</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2745</mVest>
@@ -1799,8 +1799,8 @@
 			<lLeftThighStatus>94</lLeftThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>9000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>8800</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2745</mVest>
@@ -1848,8 +1848,8 @@
 			<lLeftThighStatus>94</lLeftThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>12500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>13700</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -1904,7 +1904,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mAbsolutePrice>6800</mAbsolutePrice>
 			<mHelmet>2611</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>100</mHelmetStatus>
@@ -1969,8 +1969,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>8000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>13900</mAbsolutePrice>
 			<mHelmet>2611</mHelmet>
 			<mHelmetStatus>100</mHelmetStatus>
 			<mVest>164</mVest>
@@ -2020,8 +2020,8 @@
 			<lRightThighStatus>100</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>13700</mAbsolutePrice>
 			<mHelmet>2611</mHelmet>
 			<mHelmetStatus>100</mHelmetStatus>
 			<mVest>164</mVest>
@@ -2072,8 +2072,8 @@
 			<lRightThighStatus>100</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>15000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>13700</mAbsolutePrice>
 			<mHelmet>2611</mHelmet>
 			<mHelmetStatus>100</mHelmetStatus>
 			<mVest>164</mVest>
@@ -2115,8 +2115,8 @@
 			<lRightThighStatus>100</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>17500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>17700</mAbsolutePrice>
 			<mHelmet>2611</mHelmet>
 			<mHelmetStatus>100</mHelmetStatus>
 			<mVest>164</mVest>
@@ -2177,7 +2177,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>1500</mAbsolutePrice>
+			<mAbsolutePrice>2500</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
@@ -2242,8 +2242,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>2500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>3900</mAbsolutePrice>
 			<mVest>2709</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>2911</mLeg>
@@ -2279,8 +2279,8 @@
 			<lCPackStatus>89</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>4000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>5700</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2709</mVest>
@@ -2324,8 +2324,8 @@
 			<lCPackStatus>89</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>6000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7200</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>161</mVest>
@@ -2364,8 +2364,8 @@
 			<lCPackStatus>89</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7200</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>161</mVest>
@@ -2414,7 +2414,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2500</mAbsolutePrice>
+			<mAbsolutePrice>3000</mAbsolutePrice>
 			<mHelmet>2635</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -2479,8 +2479,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>4300</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2775</mVest>
@@ -2516,8 +2516,8 @@
 			<lCPackStatus>86</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>4500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>5200</mAbsolutePrice>
 			<mHelmet>2635</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2772</mVest>
@@ -2553,8 +2553,8 @@
 			<lCPackStatus>86</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>7000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7100</mAbsolutePrice>
 			<mHelmet>2635</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2796</mVest>
@@ -2596,8 +2596,8 @@
 			<lCPackStatus>86</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7900</mAbsolutePrice>
 			<mHelmet>2635</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2796</mVest>
@@ -2647,7 +2647,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>7500</mAbsolutePrice>
+			<mAbsolutePrice>11400</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -2712,7 +2712,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>7500</mAbsolutePrice>
+			<mAbsolutePrice>10100</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2787</mVest>
@@ -2762,8 +2762,8 @@
 			<lRightThighStatus>95</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>14900</mAbsolutePrice>
 			<mHelmet>2995</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2996</mVest>
@@ -2814,8 +2814,8 @@
 			<lLeftThighStatus>89</lLeftThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>18000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>17200</mAbsolutePrice>
 			<mHelmet>2650</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2850</mVest>
@@ -2866,8 +2866,8 @@
 			<lLeftThighStatus>89</lLeftThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>24000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>19700</mAbsolutePrice>
 			<mHelmet>2650</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2847</mVest>
@@ -2924,7 +2924,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2000</mAbsolutePrice>
+			<mAbsolutePrice>8600</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -2989,7 +2989,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>3000</mAbsolutePrice>
+			<mAbsolutePrice>10600</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>196</mVest>
@@ -3030,8 +3030,8 @@
 			<lCPackStatus>94</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>6000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>13000</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>161</mVest>
@@ -3081,8 +3081,8 @@
 			<lCPackStatus>92</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>8000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>14500</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>161</mVest>
@@ -3129,8 +3129,8 @@
 			<lCPackStatus>92</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>12500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>17100</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2731</mVest>
@@ -3191,7 +3191,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mAbsolutePrice>9200</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -3256,8 +3256,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>12000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>14200</mAbsolutePrice>
 			<mHelmet>2644</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2784</mVest>
@@ -3308,8 +3308,8 @@
 			<lCPackStatus>99</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>12500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>12700</mAbsolutePrice>
 			<mHelmet>2644</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2784</mVest>
@@ -3360,8 +3360,8 @@
 			<lCPackStatus>99</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>20000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>18800</mAbsolutePrice>
 			<mHelmet>2644</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2784</mVest>
@@ -3412,8 +3412,8 @@
 			<lCPackStatus>99</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>24000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>24200</mAbsolutePrice>
 			<mHelmet>2644</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2784</mVest>
@@ -3470,7 +3470,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2500</mAbsolutePrice>
+			<mAbsolutePrice>6100</mAbsolutePrice>
 			<mHelmet>2622</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -3535,8 +3535,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7000</mAbsolutePrice>
 			<mHelmet>2622</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2796</mVest>
@@ -3583,8 +3583,8 @@
 			<lCPackStatus>87</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>7000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>10500</mAbsolutePrice>
 			<mHelmet>2622</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2796</mVest>
@@ -3634,8 +3634,8 @@
 			<lCPackStatus>87</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>9000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>8800</mAbsolutePrice>
 			<mHelmet>2622</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2802</mVest>
@@ -3688,8 +3688,8 @@
 			<lCPackStatus>87</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>12500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>14800</mAbsolutePrice>
 			<mHelmet>2622</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2796</mVest>
@@ -3750,7 +3750,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>1000</mAbsolutePrice>
+			<mAbsolutePrice>2900</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -3815,8 +3815,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>2500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>3200</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2745</mVest>
@@ -3868,8 +3868,8 @@
 			<lCPackStatus>99</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>4000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>4600</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2745</mVest>
@@ -3918,8 +3918,8 @@
 			<lCPackStatus>99</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>5800</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2745</mVest>
@@ -3968,8 +3968,8 @@
 			<lCPackStatus>82</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>6500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>6600</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2745</mVest>
@@ -4030,7 +4030,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>3000</mAbsolutePrice>
+			<mAbsolutePrice>5200</mAbsolutePrice>
 			<mHelmet>2616</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -4095,8 +4095,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>4000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7000</mAbsolutePrice>
 			<mHelmet>2616</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -4143,8 +4143,8 @@
 			<lCPackStatus>98</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>5500</mAbsolutePrice>
 			<mHelmet>2616</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -4191,8 +4191,8 @@
 			<lCPackStatus>94</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>7500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>6000</mAbsolutePrice>
 			<mHelmet>2616</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -4236,8 +4236,8 @@
 			<lCPackStatus>94</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>8300</mAbsolutePrice>
 			<mHelmet>2616</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -4292,7 +4292,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>7500</mAbsolutePrice>
+			<mAbsolutePrice>13000</mAbsolutePrice>
 			<mHelmet>2650</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -4357,8 +4357,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>12500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>18300</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2844</mVest>
@@ -4408,8 +4408,8 @@
 			<lCPackStatus>99</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>17500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>24300</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>196</mVest>
@@ -4462,8 +4462,8 @@
 			<lCPackStatus>84</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>20000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>21400</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>196</mVest>
@@ -4514,8 +4514,8 @@
 			<lCPackStatus>93</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>25000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>31500</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>167</mVest>
@@ -4533,9 +4533,10 @@
 			<mBig2>1188</mBig2>
 			<mBig2Status>100</mBig2Status>
 			<mBig2Quantity>1</mBig2Quantity>
-			<mBig3>1038</mBig3>
+			<mBig3>209</mBig3>
 			<mBig3Status>100</mBig3Status>
 			<mBig3Quantity>1</mBig3Quantity>
+			<mSmall0>1296</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>1</mSmall0Quantity>
 			<mSmall1>7417</mSmall1>
@@ -4573,7 +4574,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2000</mAbsolutePrice>
+			<mAbsolutePrice>3000</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
@@ -4638,8 +4639,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>6600</mAbsolutePrice>
 			<mVest>164</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>2907</mLeg>
@@ -4681,8 +4682,8 @@
 			<lRightThighStatus>99</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7600</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetStatus>97</mHelmetStatus>
 			<mVest>164</mVest>
@@ -4734,8 +4735,8 @@
 			<lCPackStatus>98</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>9000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>6800</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetStatus>97</mHelmetStatus>
 			<mVest>164</mVest>
@@ -4783,8 +4784,8 @@
 			<lBPackStatus>98</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>12000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>8700</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetStatus>97</mHelmetStatus>
 			<mVest>164</mVest>
@@ -4842,7 +4843,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2500</mAbsolutePrice>
+			<mAbsolutePrice>3700</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -4907,8 +4908,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>5200</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -4952,8 +4953,8 @@
 			<lRightThighStatus>96</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7700</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -5003,8 +5004,8 @@
 			<lRightThighStatus>96</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>8500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>10600</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -5054,8 +5055,8 @@
 			<lRightThighStatus>99</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>12500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>11000</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -5108,7 +5109,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>1500</mAbsolutePrice>
+			<mAbsolutePrice>5200</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
@@ -5173,8 +5174,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>3000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>6400</mAbsolutePrice>
 			<mVest>2728</mVest>
 			<mVestStatus>100</mVestStatus>
 			<mLeg>2908</mLeg>
@@ -5220,8 +5221,8 @@
 			<lCPackStatus>100</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7200</mAbsolutePrice>
 			<mVest>2728</mVest>
 			<mVestStatus>100</mVestStatus>
 			<mLeg>2908</mLeg>
@@ -5271,8 +5272,8 @@
 			<lCPackStatus>100</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>6000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7800</mAbsolutePrice>
 			<mVest>2728</mVest>
 			<mVestStatus>100</mVestStatus>
 			<mLeg>2908</mLeg>
@@ -5316,8 +5317,8 @@
 			<lCPackStatus>100</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>8000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>13500</mAbsolutePrice>
 			<mVest>2728</mVest>
 			<mVestStatus>100</mVestStatus>
 			<mLeg>2908</mLeg>
@@ -5373,7 +5374,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2000</mAbsolutePrice>
+			<mAbsolutePrice>3100</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -5438,8 +5439,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>4500</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>161</mVest>
@@ -5485,8 +5486,8 @@
 			<lCPackStatus>99</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>4000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>4800</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>161</mVest>
@@ -5529,8 +5530,8 @@
 			<lCPackStatus>99</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>7500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>6800</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>161</mVest>
@@ -5582,7 +5583,7 @@
 			<lCPackStatus>99</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>30</mPriceMod>
+			<mPriceMod>0</mPriceMod>
 			<mAbsolutePrice>12000</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -5641,7 +5642,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>1500</mAbsolutePrice>
+			<mAbsolutePrice>2600</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -5706,8 +5707,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>2500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>2600</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -5754,8 +5755,8 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>6100</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -5802,8 +5803,8 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>6000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7200</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2796</mVest>
@@ -5855,8 +5856,8 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>9000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>10000</mAbsolutePrice>
 			<mHelmet>2604</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2802</mVest>
@@ -5914,7 +5915,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2000</mAbsolutePrice>
+			<mAbsolutePrice>3900</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>98</mHelmetStatus>
@@ -5979,8 +5980,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>3000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>3400</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -6018,8 +6019,8 @@
 			<lCPackStatus>98</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>2500</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -6057,8 +6058,8 @@
 			<lCPackStatus>98</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>7500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>5300</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -6096,8 +6097,8 @@
 			<lCPackStatus>98</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>5000</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -6147,7 +6148,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>3000</mAbsolutePrice>
+			<mAbsolutePrice>4400</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
@@ -6212,8 +6213,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>4600</mAbsolutePrice>
 			<mVest>161</mVest>
 			<mVestStatus>96</mVestStatus>
 			<mLeg>2908</mLeg>
@@ -6240,8 +6241,8 @@
 			<lCPackStatus>88</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>6500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7900</mAbsolutePrice>
 			<mVest>2757</mVest>
 			<mVestStatus>96</mVestStatus>
 			<mLeg>2908</mLeg>
@@ -6271,8 +6272,8 @@
 			<lCPackStatus>88</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>12500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>10500</mAbsolutePrice>
 			<mVest>2757</mVest>
 			<mVestStatus>96</mVestStatus>
 			<mLeg>2908</mLeg>
@@ -6301,8 +6302,8 @@
 			<lCPackStatus>88</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>17500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>13500</mAbsolutePrice>
 			<mVest>2757</mVest>
 			<mVestStatus>96</mVestStatus>
 			<mLeg>2908</mLeg>
@@ -6338,7 +6339,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>3000</mAbsolutePrice>
+			<mAbsolutePrice>4800</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>100</mHelmetStatus>
@@ -6403,8 +6404,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>4000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>6500</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -6457,8 +6458,8 @@
 			<lRightThighStatus>99</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>7500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>10300</mAbsolutePrice>
 			<mHelmet>2698</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2898</mVest>
@@ -6511,8 +6512,8 @@
 			<lRightThighStatus>99</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>9000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>11000</mAbsolutePrice>
 			<mHelmet>2698</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2898</mVest>
@@ -6565,8 +6566,8 @@
 			<lRightThighStatus>87</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>14500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>14900</mAbsolutePrice>
 			<mHelmet>2698</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2898</mVest>
@@ -6625,7 +6626,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>4000</mAbsolutePrice>
+			<mAbsolutePrice>4700</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>100</mHelmetStatus>
@@ -6690,8 +6691,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>5400</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -6739,8 +6740,8 @@
 			<lLeftThighStatus>99</lLeftThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>8500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>10800</mAbsolutePrice>
 			<mHelmet>2698</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2898</mVest>
@@ -6785,8 +6786,8 @@
 			<lLeftThighStatus>99</lLeftThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>13500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>14200</mAbsolutePrice>
 			<mHelmet>2698</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2898</mVest>
@@ -6831,8 +6832,8 @@
 			<lLeftThighStatus>99</lLeftThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>20000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>19500</mAbsolutePrice>
 			<mHelmet>2698</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2898</mVest>
@@ -6888,7 +6889,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2000</mAbsolutePrice>
+			<mAbsolutePrice>4800</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
@@ -6953,8 +6954,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>5200</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>161</mVest>
@@ -6997,8 +6998,8 @@
 			<lCPackStatus>94</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>6000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>6800</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>161</mVest>
@@ -7053,8 +7054,8 @@
 			<lCPackStatus>94</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>6500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>8300</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>161</mVest>
@@ -7109,8 +7110,8 @@
 			<lCPackStatus>94</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>10200</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>196</mVest>
@@ -7169,7 +7170,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>4500</mAbsolutePrice>
+			<mAbsolutePrice>5300</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -7234,8 +7235,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>7500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7600</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2707</mVest>
@@ -7276,7 +7277,7 @@
 			<lRightThighStatus>97</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
+			<mPriceMod>0</mPriceMod>
 			<mAbsolutePrice>8000</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -7321,8 +7322,8 @@
 			<lRightThighStatus>97</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>9000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>8600</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2707</mVest>
@@ -7369,8 +7370,8 @@
 			<lRightThighStatus>97</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>12000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>11900</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2796</mVest>
@@ -7420,7 +7421,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mAbsolutePrice>4300</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>98</mHelmetStatus>
@@ -7485,7 +7486,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mAbsolutePrice>6200</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>164</mVest>
@@ -7532,8 +7533,8 @@
 			<lCPackStatus>89</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>6000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>8500</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>164</mVest>
@@ -7583,8 +7584,8 @@
 			<lCPackStatus>89</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>8000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>10300</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>196</mVest>
@@ -7636,8 +7637,8 @@
 			<lCPackStatus>89</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>12000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>14300</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>196</mVest>
@@ -7698,7 +7699,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>7000</mAbsolutePrice>
+			<mAbsolutePrice>12300</mAbsolutePrice>
 			<mHelmet>2650</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -7763,7 +7764,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>12000</mAbsolutePrice>
+			<mAbsolutePrice>15900</mAbsolutePrice>
 			<mHelmet>2650</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2844</mVest>
@@ -7814,8 +7815,8 @@
 			<lCPackStatus>98</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>15000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>20100</mAbsolutePrice>
 			<mHelmet>2650</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2844</mVest>
@@ -7866,8 +7867,8 @@
 			<lCPackStatus>98</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>20000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>19400</mAbsolutePrice>
 			<mHelmet>2650</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>167</mVest>
@@ -7918,8 +7919,8 @@
 			<lCPackStatus>98</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>25000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>21500</mAbsolutePrice>
 			<mHelmet>2650</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>167</mVest>
@@ -7977,7 +7978,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2000</mAbsolutePrice>
+			<mAbsolutePrice>2700</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>98</mHelmetStatus>
@@ -8042,8 +8043,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>3000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>3900</mAbsolutePrice>
 			<mVest>2745</mVest>
 			<mVestStatus>98</mVestStatus>
 			<mLeg>2910</mLeg>
@@ -8083,8 +8084,8 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>6000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>6100</mAbsolutePrice>
 			<mVest>2745</mVest>
 			<mVestStatus>98</mVestStatus>
 			<mLeg>2910</mLeg>
@@ -8124,8 +8125,8 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>9000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>9400</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -8170,8 +8171,8 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>12000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>10100</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -8225,7 +8226,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>8500</mAbsolutePrice>
+			<mAbsolutePrice>15900</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>100</mHelmetStatus>
@@ -8290,8 +8291,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>12500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>16700</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>100</mHelmetStatus>
 			<mVest>164</mVest>
@@ -8344,8 +8345,8 @@
 			<lCPackStatus>96</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>15000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>15700</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>100</mHelmetStatus>
 			<mVest>164</mVest>
@@ -8398,8 +8399,8 @@
 			<lCPackStatus>96</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>17500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>20100</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>100</mHelmetStatus>
 			<mVest>164</mVest>
@@ -8446,8 +8447,8 @@
 			<lCPackStatus>96</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>24000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>20700</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>100</mHelmetStatus>
 			<mVest>164</mVest>
@@ -8505,7 +8506,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>800</mAbsolutePrice>
+			<mAbsolutePrice>1600</mAbsolutePrice>
 			<mHelmet>2728</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -8570,8 +8571,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>2000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>2600</mAbsolutePrice>
 			<mHelmet>2728</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>188</mVest>
@@ -8600,8 +8601,8 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>2500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>3300</mAbsolutePrice>
 			<mHelmet>2728</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>188</mVest>
@@ -8634,8 +8635,8 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>4400</mAbsolutePrice>
 			<mVest>164</mVest>
 			<mVestStatus>80</mVestStatus>
 			<mLeg>2905</mLeg>
@@ -8668,8 +8669,8 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>7500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>6300</mAbsolutePrice>
 			<mVest>164</mVest>
 			<mVestStatus>80</mVestStatus>
 			<mLeg>2905</mLeg>
@@ -8714,7 +8715,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2000</mAbsolutePrice>
+			<mAbsolutePrice>3200</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
@@ -8779,8 +8780,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>5000</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>90</mHelmetStatus>
 			<mVest>161</mVest>
@@ -8827,8 +8828,8 @@
 			<lCPackStatus>84</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>4000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>3700</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>90</mHelmetStatus>
 			<mVest>161</mVest>
@@ -8869,8 +8870,8 @@
 			<lCPackStatus>84</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>7000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>4700</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>90</mHelmetStatus>
 			<mVest>161</mVest>
@@ -8922,8 +8923,8 @@
 			<lCPackStatus>84</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>9000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7600</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>90</mHelmetStatus>
 			<mVest>2704</mVest>
@@ -8984,7 +8985,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2500</mAbsolutePrice>
+			<mAbsolutePrice>4000</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
@@ -9049,7 +9050,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mAbsolutePrice>5200</mAbsolutePrice>
 			<mVest>188</mVest>
 			<mVestStatus>89</mVestStatus>
 			<mLeg>2907</mLeg>
@@ -9102,8 +9103,8 @@
 			<lCPackStatus>87</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>4000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>5700</mAbsolutePrice>
 			<mVest>188</mVest>
 			<mVestStatus>89</mVestStatus>
 			<mLeg>2907</mLeg>
@@ -9156,8 +9157,8 @@
 			<lCPackStatus>92</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>6000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>6700</mAbsolutePrice>
 			<mVest>188</mVest>
 			<mVestStatus>89</mVestStatus>
 			<mLeg>2907</mLeg>
@@ -9207,8 +9208,8 @@
 			<lCPackStatus>87</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>7500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>8700</mAbsolutePrice>
 			<mHelmet>2728</mHelmet>
 			<mHelmetStatus>100</mHelmetStatus>
 			<mVest>188</mVest>
@@ -9265,7 +9266,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2500</mAbsolutePrice>
+			<mAbsolutePrice>4000</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>98</mHelmetStatus>
@@ -9330,8 +9331,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>4000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>5500</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>161</mVest>
@@ -9372,8 +9373,8 @@
 			<lCPackStatus>89</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>6000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>6200</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>161</mVest>
@@ -9420,8 +9421,8 @@
 			<lCPackStatus>99</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>8500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>9500</mAbsolutePrice>
 			<mHelmet>2635</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>164</mVest>
@@ -9476,8 +9477,8 @@
 			<lCPackStatus>99</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>14000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>12400</mAbsolutePrice>
 			<mHelmet>2635</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>164</mVest>
@@ -9538,7 +9539,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>6500</mAbsolutePrice>
+			<mAbsolutePrice>12300</mAbsolutePrice>
 			<mHelmet>2698</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>100</mHelmetStatus>
@@ -9603,8 +9604,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>8000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>14000</mAbsolutePrice>
 			<mHelmet>2698</mHelmet>
 			<mHelmetStatus>100</mHelmetStatus>
 			<mVest>2898</mVest>
@@ -9655,8 +9656,8 @@
 			<lLeftThighStatus>100</lLeftThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>11500</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetStatus>100</mHelmetStatus>
 			<mVest>2787</mVest>
@@ -9706,8 +9707,8 @@
 			<lCPackStatus>99</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>15000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>14300</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetStatus>100</mHelmetStatus>
 			<mVest>2787</mVest>
@@ -9758,8 +9759,8 @@
 			<lCPackStatus>99</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>20000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>21700</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetStatus>100</mHelmetStatus>
 			<mVest>2787</mVest>
@@ -9816,7 +9817,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>3000</mAbsolutePrice>
+			<mAbsolutePrice>5100</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>96</mHelmetStatus>
@@ -9881,8 +9882,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>4500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>6100</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>96</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -9928,8 +9929,8 @@
 			<lCPackStatus>92</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>5500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7300</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>96</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -9978,8 +9979,8 @@
 			<lCPackStatus>92</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>8500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>10700</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>96</mHelmetStatus>
 			<mVest>164</mVest>
@@ -10031,8 +10032,8 @@
 			<lCPackStatus>92</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>12500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>10400</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>96</mHelmetStatus>
 			<mVest>2844</mVest>
@@ -10093,7 +10094,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2000</mAbsolutePrice>
+			<mAbsolutePrice>2600</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
@@ -10158,7 +10159,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
+			<mPriceMod>0</mPriceMod>
 			<mAbsolutePrice>3000</mAbsolutePrice>
 			<mVest>2715</mVest>
 			<mVestStatus>97</mVestStatus>
@@ -10203,7 +10204,7 @@
 			<lCPackStatus>99</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
+			<mPriceMod>0</mPriceMod>
 			<mAbsolutePrice>3500</mAbsolutePrice>
 			<mVest>2715</mVest>
 			<mVestStatus>97</mVestStatus>
@@ -10248,8 +10249,8 @@
 			<lCPackStatus>99</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>3000</mAbsolutePrice>
 			<mVest>2715</mVest>
 			<mVestStatus>97</mVestStatus>
 			<mLeg>2908</mLeg>
@@ -10296,8 +10297,8 @@
 			<lCPackStatus>99</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>7000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>4300</mAbsolutePrice>
 			<mVest>2715</mVest>
 			<mVestStatus>97</mVestStatus>
 			<mLeg>2908</mLeg>
@@ -10353,7 +10354,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>1500</mAbsolutePrice>
+			<mAbsolutePrice>2900</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
@@ -10418,8 +10419,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>8500</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>95</mHelmetStatus>
 			<mVest>164</mVest>
@@ -10459,8 +10460,8 @@
 			<lCPackStatus>90</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>6000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7700</mAbsolutePrice>
 			<mVest>161</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>2905</mLeg>
@@ -10495,8 +10496,8 @@
 			<lCPackStatus>90</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>7000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>10500</mAbsolutePrice>
 			<mVest>164</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>2905</mLeg>
@@ -10531,8 +10532,8 @@
 			<lCPackStatus>90</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>9600</mAbsolutePrice>
 			<mVest>164</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>2905</mLeg>
@@ -10574,7 +10575,7 @@
 		<mIndex>40</mIndex>
 		<mName>Biff</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
@@ -10730,7 +10731,7 @@
 		<mIndex>41</mIndex>
 		<mName>Haywire</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
@@ -10851,7 +10852,7 @@
 		<mIndex>42</mIndex>
 		<mName>Gasket</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
@@ -10996,7 +10997,7 @@
 		<mIndex>43</mIndex>
 		<mName>Razor</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
@@ -11142,7 +11143,7 @@
 		<mIndex>44</mIndex>
 		<mName>Flo</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
@@ -11287,7 +11288,7 @@
 		<mIndex>45</mIndex>
 		<mName>Gumpy</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
@@ -11446,7 +11447,7 @@
 		<mIndex>46</mIndex>
 		<mName>Larry</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
@@ -11588,7 +11589,7 @@
 		<mIndex>47</mIndex>
 		<mName>Larry</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
@@ -11671,7 +11672,7 @@
 		<mIndex>48</mIndex>
 		<mName>Cougar</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
@@ -11816,7 +11817,7 @@
 		<mIndex>49</mIndex>
 		<mName>Numb</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
@@ -11952,7 +11953,7 @@
 		<mIndex>50</mIndex>
 		<mName>Bubba</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
@@ -21571,7 +21572,7 @@
 		<mIndex>165</mIndex>
 		<mName>Gaston</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2623</mHelmet>
@@ -21717,7 +21718,7 @@
 		<mIndex>166</mIndex>
 		<mName>Stogie</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
@@ -21880,7 +21881,7 @@
 		<mIndex>167</mIndex>
 		<mName>Tex</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2612</mHelmet>
@@ -22039,7 +22040,7 @@
 		<mIndex>168</mIndex>
 		<mName>Biggins</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2622</mHelmet>
@@ -22308,7 +22309,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>4000</mAbsolutePrice>
+			<mAbsolutePrice>7500</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -22373,8 +22374,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>8000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>11600</mAbsolutePrice>
 			<mHelmet>2650</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2850</mVest>
@@ -22422,8 +22423,8 @@
 			<lCPackStatus>86</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>12000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>11100</mAbsolutePrice>
 			<mHelmet>2650</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2847</mVest>
@@ -22474,8 +22475,8 @@
 			<lCPackStatus>86</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>14000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>13600</mAbsolutePrice>
 			<mHelmet>2644</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2784</mVest>
@@ -22520,8 +22521,8 @@
 			<lCPackStatus>98</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>18000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>17800</mAbsolutePrice>
 			<mHelmet>2650</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2850</mVest>
@@ -22572,7 +22573,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mAbsolutePrice>4600</mAbsolutePrice>
 			<mHelmet>2659</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -22637,7 +22638,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>4500</mAbsolutePrice>
+			<mAbsolutePrice>5800</mAbsolutePrice>
 			<mHelmet>2659</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -22678,8 +22679,8 @@
 			<lCPackStatus>90</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>6000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7300</mAbsolutePrice>
 			<mHelmet>2659</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -22723,8 +22724,8 @@
 			<lCPackStatus>99</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>10200</mAbsolutePrice>
 			<mHelmet>2659</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>196</mVest>
@@ -22771,8 +22772,8 @@
 			<lCPackStatus>95</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>13500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>11200</mAbsolutePrice>
 			<mHelmet>2659</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>196</mVest>
@@ -22827,7 +22828,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mAbsolutePrice>4600</mAbsolutePrice>
 			<mHelmet>2659</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -22892,7 +22893,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mAbsolutePrice>6200</mAbsolutePrice>
 			<mHelmet>2659</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>161</mVest>
@@ -22931,8 +22932,8 @@
 			<lLeftThighStatus>86</lLeftThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>6500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7600</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -22974,8 +22975,8 @@
 			<lLeftThighStatus>86</lLeftThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>8900</mAbsolutePrice>
 			<mHelmet>2659</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>161</mVest>
@@ -23005,8 +23006,8 @@
 			<lLeftThighStatus>86</lLeftThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>13500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>11300</mAbsolutePrice>
 			<mHelmet>2659</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>164</mVest>
@@ -23053,7 +23054,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>6000</mAbsolutePrice>
+			<mAbsolutePrice>14200</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -23118,8 +23119,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>12500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>20000</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2844</mVest>
@@ -23174,8 +23175,8 @@
 			<lCPackStatus>98</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>17500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>18700</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2757</mVest>
@@ -23228,8 +23229,8 @@
 			<lCPackStatus>98</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>25000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>21300</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2757</mVest>
@@ -23282,8 +23283,8 @@
 			<lCPackStatus>98</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>28000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>23400</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2757</mVest>
@@ -23342,7 +23343,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>1000</mAbsolutePrice>
+			<mAbsolutePrice>3100</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
@@ -23407,8 +23408,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>2500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>4400</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>87</mHelmetStatus>
 			<mVest>161</mVest>
@@ -23451,8 +23452,8 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>4500</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>90</mHelmetStatus>
 			<mVest>164</mVest>
@@ -23495,8 +23496,8 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>6000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7400</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>90</mHelmetStatus>
 			<mVest>164</mVest>
@@ -23539,8 +23540,8 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7300</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>90</mHelmetStatus>
 			<mVest>164</mVest>
@@ -23592,7 +23593,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>4500</mAbsolutePrice>
+			<mAbsolutePrice>5800</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -23657,8 +23658,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>6000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>7100</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2745</mVest>
@@ -23705,8 +23706,8 @@
 			<lCPackStatus>80</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>8000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>9200</mAbsolutePrice>
 			<mHelmet>2635</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2745</mVest>
@@ -23758,8 +23759,8 @@
 			<lCPackStatus>80</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>10600</mAbsolutePrice>
 			<mHelmet>2635</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2745</mVest>
@@ -23811,8 +23812,8 @@
 			<lCPackStatus>80</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>15000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>15100</mAbsolutePrice>
 			<mHelmet>2635</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2745</mVest>
@@ -23873,7 +23874,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>1000</mAbsolutePrice>
+			<mAbsolutePrice>1400</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
@@ -23938,8 +23939,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>2500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>2900</mAbsolutePrice>
 			<mVest>2728</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>2908</mLeg>
@@ -23975,7 +23976,7 @@
 			<lRightThighStatus>87</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
+			<mPriceMod>0</mPriceMod>
 			<mAbsolutePrice>3500</mAbsolutePrice>
 			<mVest>2728</mVest>
 			<mVestStatus>99</mVestStatus>
@@ -24015,8 +24016,8 @@
 			<lRightThighStatus>88</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>4000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>4400</mAbsolutePrice>
 			<mVest>2728</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>2908</mLeg>
@@ -24057,8 +24058,8 @@
 			<lRightThighStatus>96</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>6000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>5600</mAbsolutePrice>
 			<mVest>2728</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>2908</mLeg>
@@ -24117,7 +24118,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>8000</mAbsolutePrice>
+			<mAbsolutePrice>10700</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -24182,8 +24183,8 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>10</mPriceMod>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>12000</mAbsolutePrice>
 			<mHelmet>2698</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2898</mVest>
@@ -24233,8 +24234,8 @@
 			<lRightThighStatus>99</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>15000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>19800</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2796</mVest>
@@ -24281,8 +24282,8 @@
 			<lCPackStatus>99</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>20</mPriceMod>
-			<mAbsolutePrice>17500</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>14900</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2799</mVest>
@@ -24327,8 +24328,8 @@
 			<lLeftThighStatus>99</lLeftThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mPriceMod>40</mPriceMod>
-			<mAbsolutePrice>20000</mAbsolutePrice>
+			<mPriceMod>0</mPriceMod>
+			<mAbsolutePrice>19500</mAbsolutePrice>
 			<mHelmet>2698</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2898</mVest>
@@ -24385,9 +24386,9 @@
 		<mIndex>178</mIndex>
 		<mName>Spooky</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>7000</mAbsolutePrice>
+			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2609</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -24452,7 +24453,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2609</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2787</mVest>
@@ -24488,7 +24489,7 @@
 			<lCPackStatus>96</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>13500</mAbsolutePrice>
+			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2609</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2787</mVest>
@@ -24535,7 +24536,7 @@
 			<lCPackStatus>96</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>17500</mAbsolutePrice>
+			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2609</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2790</mVest>
@@ -24579,7 +24580,7 @@
 			<lCPackStatus>96</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>20000</mAbsolutePrice>
+			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2609</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2790</mVest>
@@ -24635,7 +24636,7 @@
 		<mIndex>179</mIndex>
 		<mName>Skitz</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
@@ -24782,7 +24783,7 @@
 		<mIndex>180</mIndex>
 		<mName>Weasel</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2601</mHelmet>
@@ -24919,7 +24920,7 @@
 		<mIndex>181</mIndex>
 		<mName>It</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
@@ -25071,7 +25072,7 @@
 		<mIndex>182</mIndex>
 		<mName>Bernie</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
@@ -25235,7 +25236,7 @@
 		<mIndex>183</mIndex>
 		<mName>Pops</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
@@ -25376,7 +25377,7 @@
 		<mIndex>184</mIndex>
 		<mName>Wally</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
@@ -25547,7 +25548,7 @@
 		<mIndex>185</mIndex>
 		<mName>Eli</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
@@ -25705,7 +25706,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>1000</mAbsolutePrice>
+			<mAbsolutePrice>2400</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
@@ -25770,7 +25771,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mAbsolutePrice>3600</mAbsolutePrice>
 			<mVest>2728</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>2910</mLeg>
@@ -25805,7 +25806,7 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mAbsolutePrice>5800</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>97</mHelmetStatus>
 			<mVest>164</mVest>
@@ -25846,7 +25847,7 @@
 			<lCPackStatus>96</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>7500</mAbsolutePrice>
+			<mAbsolutePrice>6600</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>97</mHelmetStatus>
 			<mVest>164</mVest>
@@ -25889,7 +25890,7 @@
 			<lCPackStatus>98</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>9000</mAbsolutePrice>
+			<mAbsolutePrice>11200</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>97</mHelmetStatus>
 			<mVest>164</mVest>
@@ -25941,7 +25942,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>800</mAbsolutePrice>
+			<mAbsolutePrice>1100</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
@@ -26006,7 +26007,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>2000</mAbsolutePrice>
+			<mAbsolutePrice>1800</mAbsolutePrice>
 			<mVest>2728</mVest>
 			<mVestStatus>98</mVestStatus>
 			<mLeg>2907</mLeg>
@@ -26036,7 +26037,7 @@
 			<lRightThighStatus>97</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>2500</mAbsolutePrice>
+			<mAbsolutePrice>3500</mAbsolutePrice>
 			<mVest>2728</mVest>
 			<mVestStatus>98</mVestStatus>
 			<mLeg>2907</mLeg>
@@ -26112,7 +26113,7 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mAbsolutePrice>4400</mAbsolutePrice>
 			<mHelmet>2665</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2731</mVest>
@@ -26159,7 +26160,7 @@
 		<mIndex>188</mIndex>
 		<mName>Lance</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
@@ -26309,7 +26310,7 @@
 		<mIndex>189</mIndex>
 		<mName>Raffi</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2627</mHelmet>
@@ -26462,7 +26463,7 @@
 		<mIndex>190</mIndex>
 		<mName>Wink</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
@@ -26600,7 +26601,7 @@
 		<mIndex>191</mIndex>
 		<mName>Speck</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2626</mHelmet>
@@ -27018,7 +27019,7 @@
 		<mIndex>195</mIndex>
 		<mName>John</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
@@ -27157,7 +27158,7 @@
 		<mIndex>196</mIndex>
 		<mName>Elio</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2614</mHelmet>
@@ -27312,7 +27313,7 @@
 		<mIndex>197</mIndex>
 		<mName>Juan</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2615</mHelmet>
@@ -27454,7 +27455,7 @@
 		<mIndex>198</mIndex>
 		<mName>Wahan</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
@@ -29345,7 +29346,7 @@
 		<mIndex>220</mIndex>
 		<mName>Postie</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
@@ -29463,7 +29464,7 @@
 		<mIndex>221</mIndex>
 		<mName>Reuban</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
@@ -29589,7 +29590,7 @@
 		<mIndex>222</mIndex>
 		<mName>Leon</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2662</mHelmet>
@@ -29741,7 +29742,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2500</mAbsolutePrice>
+			<mAbsolutePrice>2600</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>95</mHelmetStatus>
@@ -29806,7 +29807,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>3600</mAbsolutePrice>
+			<mAbsolutePrice>3700</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>95</mHelmetStatus>
 			<mVest>161</mVest>
@@ -29992,7 +29993,7 @@
 		<mIndex>224</mIndex>
 		<mName>Sparky</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
@@ -30139,7 +30140,7 @@
 		<mIndex>225</mIndex>
 		<mName>Beth</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
@@ -30287,7 +30288,7 @@
 		<mIndex>226</mIndex>
 		<mName>Sam</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
@@ -30427,7 +30428,7 @@
 		<mIndex>227</mIndex>
 		<mName>Hurl</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
@@ -30584,7 +30585,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>3000</mAbsolutePrice>
+			<mAbsolutePrice>4000</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>98</mHelmetStatus>
@@ -30649,7 +30650,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>4000</mAbsolutePrice>
+			<mAbsolutePrice>6000</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>2703</mVest>
@@ -30695,7 +30696,7 @@
 			<lCPackStatus>93</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>6500</mAbsolutePrice>
+			<mAbsolutePrice>4800</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetStatus>96</mHelmetStatus>
 			<mVest>2802</mVest>
@@ -30741,7 +30742,7 @@
 			<lCPackStatus>93</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>9000</mAbsolutePrice>
+			<mAbsolutePrice>6100</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetStatus>96</mHelmetStatus>
 			<mVest>2802</mVest>
@@ -30787,7 +30788,7 @@
 			<lCPackStatus>93</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>12000</mAbsolutePrice>
+			<mAbsolutePrice>9200</mAbsolutePrice>
 			<mHelmet>2604</mHelmet>
 			<mHelmetStatus>96</mHelmetStatus>
 			<mVest>2802</mVest>
@@ -30988,7 +30989,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2000</mAbsolutePrice>
+			<mAbsolutePrice>3600</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
@@ -31053,7 +31054,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mAbsolutePrice>6000</mAbsolutePrice>
 			<mVest>164</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>2907</mLeg>
@@ -31090,7 +31091,7 @@
 			<lLeftThighStatus>99</lLeftThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>6000</mAbsolutePrice>
+			<mAbsolutePrice>11200</mAbsolutePrice>
 			<mVest>164</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>2907</mLeg>
@@ -31138,7 +31139,7 @@
 			<lCPackStatus>98</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mAbsolutePrice>14800</mAbsolutePrice>
 			<mVest>2844</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>2907</mLeg>
@@ -31186,7 +31187,7 @@
 			<lCPackStatus>98</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>14000</mAbsolutePrice>
+			<mAbsolutePrice>17800</mAbsolutePrice>
 			<mVest>2844</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>2907</mLeg>
@@ -31242,7 +31243,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2000</mAbsolutePrice>
+			<mAbsolutePrice>2900</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
@@ -31307,7 +31308,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>3000</mAbsolutePrice>
+			<mAbsolutePrice>3800</mAbsolutePrice>
 			<mVest>2745</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>2905</mLeg>
@@ -31338,7 +31339,7 @@
 			<lCPackStatus>92</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mAbsolutePrice>6200</mAbsolutePrice>
 			<mVest>2745</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>2903</mLeg>
@@ -31386,7 +31387,7 @@
 			<lCPackStatus>92</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>7500</mAbsolutePrice>
+			<mAbsolutePrice>8900</mAbsolutePrice>
 			<mHelmet>2635</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2745</mVest>
@@ -31430,7 +31431,7 @@
 			<lCPackStatus>92</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>13500</mAbsolutePrice>
+			<mAbsolutePrice>11300</mAbsolutePrice>
 			<mHelmet>2635</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2745</mVest>
@@ -31486,7 +31487,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>3000</mAbsolutePrice>
+			<mAbsolutePrice>5100</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>98</mHelmetStatus>
@@ -31551,7 +31552,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mAbsolutePrice>6600</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>196</mVest>
@@ -31593,7 +31594,7 @@
 			<lLeftThighStatus>98</lLeftThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>7500</mAbsolutePrice>
+			<mAbsolutePrice>9300</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>196</mVest>
@@ -31635,7 +31636,7 @@
 			<lLeftThighStatus>98</lLeftThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>9500</mAbsolutePrice>
+			<mAbsolutePrice>10100</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>164</mVest>
@@ -31682,7 +31683,7 @@
 			<lCPackStatus>98</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>13500</mAbsolutePrice>
+			<mAbsolutePrice>12500</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>164</mVest>
@@ -31732,7 +31733,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mAbsolutePrice>9200</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -31797,7 +31798,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>7500</mAbsolutePrice>
+			<mAbsolutePrice>10500</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2787</mVest>
@@ -31847,7 +31848,7 @@
 			<lCPackStatus>96</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mAbsolutePrice>10800</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2787</mVest>
@@ -31894,7 +31895,7 @@
 			<lCPackStatus>96</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>14000</mAbsolutePrice>
+			<mAbsolutePrice>11600</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2787</mVest>
@@ -31946,7 +31947,7 @@
 			<lCPackStatus>96</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>18000</mAbsolutePrice>
+			<mAbsolutePrice>15600</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2790</mVest>
@@ -32004,7 +32005,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>1000</mAbsolutePrice>
+			<mAbsolutePrice>1500</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -32069,7 +32070,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>2500</mAbsolutePrice>
+			<mAbsolutePrice>2000</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -32099,7 +32100,7 @@
 			<lCPackStatus>98</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>3000</mAbsolutePrice>
+			<mAbsolutePrice>2800</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -32137,7 +32138,7 @@
 			<lRightThighStatus>96</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mAbsolutePrice>4400</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -32175,7 +32176,7 @@
 			<lRightThighStatus>96</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>8000</mAbsolutePrice>
+			<mAbsolutePrice>6100</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -32228,7 +32229,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2000</mAbsolutePrice>
+			<mAbsolutePrice>2700</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>96</mHelmetStatus>
@@ -32293,7 +32294,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>4000</mAbsolutePrice>
+			<mAbsolutePrice>3800</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetStatus>96</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -32327,7 +32328,7 @@
 			<lVestStatus>92</lVestStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mAbsolutePrice>4500</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetStatus>96</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -32368,7 +32369,7 @@
 			<lRightThighStatus>95</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>6000</mAbsolutePrice>
+			<mAbsolutePrice>3700</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetStatus>96</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -32403,7 +32404,7 @@
 			<lRightThighStatus>97</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mAbsolutePrice>7900</mAbsolutePrice>
 			<mHelmet>2602</mHelmet>
 			<mHelmetStatus>96</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -32452,7 +32453,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mAbsolutePrice>6200</mAbsolutePrice>
 			<mHelmet>2601</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -32517,7 +32518,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mAbsolutePrice>9600</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2796</mVest>
@@ -32570,7 +32571,7 @@
 			<lCPackStatus>93</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>8000</mAbsolutePrice>
+			<mAbsolutePrice>11700</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2796</mVest>
@@ -32623,7 +32624,7 @@
 			<lCPackStatus>93</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>12000</mAbsolutePrice>
+			<mAbsolutePrice>14100</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2760</mVest>
@@ -32676,7 +32677,7 @@
 			<lCPackStatus>93</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>14000</mAbsolutePrice>
+			<mAbsolutePrice>16900</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2760</mVest>
@@ -32731,7 +32732,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mAbsolutePrice>10400</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -32796,7 +32797,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>6500</mAbsolutePrice>
+			<mAbsolutePrice>11500</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2757</mVest>
@@ -32837,7 +32838,7 @@
 			<lCPackStatus>96</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mAbsolutePrice>14500</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2757</mVest>
@@ -32884,7 +32885,7 @@
 			<lCPackStatus>96</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>15000</mAbsolutePrice>
+			<mAbsolutePrice>17000</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2757</mVest>
@@ -32931,7 +32932,7 @@
 			<lCPackStatus>96</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>20000</mAbsolutePrice>
+			<mAbsolutePrice>18500</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>167</mVest>
@@ -32981,7 +32982,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>800</mAbsolutePrice>
+			<mAbsolutePrice>1200</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>98</mHelmetStatus>
@@ -33046,7 +33047,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>2000</mAbsolutePrice>
+			<mAbsolutePrice>2100</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>188</mVest>
@@ -33090,7 +33091,7 @@
 			<lCPackStatus>96</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>3000</mAbsolutePrice>
+			<mAbsolutePrice>2800</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>188</mVest>
@@ -33134,7 +33135,7 @@
 			<lCPackStatus>96</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mAbsolutePrice>3200</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>188</mVest>
@@ -33180,7 +33181,7 @@
 			<lCPackStatus>96</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>8000</mAbsolutePrice>
+			<mAbsolutePrice>5200</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>188</mVest>
@@ -33233,7 +33234,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2700</mAbsolutePrice>
+			<mAbsolutePrice>3000</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
@@ -33298,7 +33299,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>4200</mAbsolutePrice>
+			<mAbsolutePrice>4300</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>97</mHelmetStatus>
 			<mVest>161</mVest>
@@ -33335,7 +33336,7 @@
 			<lCPackStatus>92</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>5300</mAbsolutePrice>
+			<mAbsolutePrice>7100</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>161</mVest>
@@ -33378,7 +33379,7 @@
 			<lCPackStatus>92</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>8000</mAbsolutePrice>
+			<mAbsolutePrice>10600</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>2844</mVest>
@@ -33424,7 +33425,7 @@
 			<lCPackStatus>92</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>12000</mAbsolutePrice>
+			<mAbsolutePrice>13900</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>2844</mVest>
@@ -33479,7 +33480,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2000</mAbsolutePrice>
+			<mAbsolutePrice>3300</mAbsolutePrice>
 			<mHelmet>2601</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -33544,7 +33545,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mAbsolutePrice>5500</mAbsolutePrice>
 			<mHelmet>2601</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2706</mVest>
@@ -33579,7 +33580,7 @@
 			<lRightThighStatus>99</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>6500</mAbsolutePrice>
+			<mAbsolutePrice>8800</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2706</mVest>
@@ -33622,7 +33623,7 @@
 			<lCPackStatus>99</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>9000</mAbsolutePrice>
+			<mAbsolutePrice>11100</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2796</mVest>
@@ -33668,7 +33669,7 @@
 			<lCPackStatus>99</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>14000</mAbsolutePrice>
+			<mAbsolutePrice>13600</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2796</mVest>
@@ -33726,7 +33727,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>1500</mAbsolutePrice>
+			<mAbsolutePrice>4800</mAbsolutePrice>
 			<mHelmet>2604</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -33791,7 +33792,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>2500</mAbsolutePrice>
+			<mAbsolutePrice>6600</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2778</mVest>
@@ -33830,7 +33831,7 @@
 			<lCPackStatus>96</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mAbsolutePrice>9700</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2778</mVest>
@@ -33882,7 +33883,7 @@
 			<lCPackStatus>96</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>7500</mAbsolutePrice>
+			<mAbsolutePrice>17400</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2895</mVest>
@@ -33935,7 +33936,7 @@
 			<lCPackStatus>96</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mAbsolutePrice>17800</mAbsolutePrice>
 			<mHelmet>180</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2895</mVest>
@@ -33996,7 +33997,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>1500</mAbsolutePrice>
+			<mAbsolutePrice>5600</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -34061,7 +34062,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mAbsolutePrice>9300</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>96</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -34099,7 +34100,7 @@
 			<lCPackStatus>98</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mAbsolutePrice>11800</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>96</mHelmetStatus>
 			<mVest>164</mVest>
@@ -34154,7 +34155,7 @@
 			<lCPackStatus>98</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>6500</mAbsolutePrice>
+			<mAbsolutePrice>12100</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>196</mVest>
@@ -34206,7 +34207,7 @@
 			<lCPackStatus>98</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>9000</mAbsolutePrice>
+			<mAbsolutePrice>18100</mAbsolutePrice>
 			<mHelmet>2650</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>2844</mVest>
@@ -34267,7 +34268,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>1500</mAbsolutePrice>
+			<mAbsolutePrice>2700</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
@@ -34332,7 +34333,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>2500</mAbsolutePrice>
+			<mAbsolutePrice>4300</mAbsolutePrice>
 			<mVest>161</mVest>
 			<mVestStatus>98</mVestStatus>
 			<mLeg>2907</mLeg>
@@ -34370,7 +34371,7 @@
 			<lCPackStatus>92</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>6000</mAbsolutePrice>
+			<mAbsolutePrice>9400</mAbsolutePrice>
 			<mVest>164</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>2907</mLeg>
@@ -34423,7 +34424,7 @@
 			<lCPackStatus>92</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>8000</mAbsolutePrice>
+			<mAbsolutePrice>11300</mAbsolutePrice>
 			<mVest>164</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>170</mLeg>
@@ -34476,7 +34477,7 @@
 			<lCPackStatus>92</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>15000</mAbsolutePrice>
+			<mAbsolutePrice>20800</mAbsolutePrice>
 			<mVest>164</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>170</mLeg>
@@ -34529,7 +34530,7 @@
 		<mIndex>244</mIndex>
 		<mName>Elroy</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
@@ -34679,7 +34680,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>800</mAbsolutePrice>
+			<mAbsolutePrice>1300</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
@@ -34744,7 +34745,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>1500</mAbsolutePrice>
+			<mAbsolutePrice>2400</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>97</mHelmetStatus>
 			<mVest>2704</mVest>
@@ -34771,7 +34772,7 @@
 			<lRightThighStatus>98</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>2500</mAbsolutePrice>
+			<mAbsolutePrice>3400</mAbsolutePrice>
 			<mHelmet>2606</mHelmet>
 			<mHelmetStatus>97</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -34804,7 +34805,7 @@
 			<lRightThighStatus>97</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mAbsolutePrice>3900</mAbsolutePrice>
 			<mVest>2728</mVest>
 			<mVestStatus>98</mVestStatus>
 			<mLeg>2908</mLeg>
@@ -34840,7 +34841,7 @@
 			<lCPackStatus>98</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mAbsolutePrice>5800</mAbsolutePrice>
 			<mVest>2728</mVest>
 			<mVestStatus>98</mVestStatus>
 			<mLeg>2908</mLeg>
@@ -34882,7 +34883,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>400</mAbsolutePrice>
+			<mAbsolutePrice>900</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
@@ -34947,7 +34948,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>1500</mAbsolutePrice>
+			<mAbsolutePrice>2400</mAbsolutePrice>
 			<mVest>2717</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>2908</mLeg>
@@ -34980,7 +34981,7 @@
 			<lCPackStatus>95</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>2500</mAbsolutePrice>
+			<mAbsolutePrice>3500</mAbsolutePrice>
 			<mVest>2717</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>2908</mLeg>
@@ -35018,7 +35019,7 @@
 			<lCPackStatus>95</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mAbsolutePrice>5400</mAbsolutePrice>
 			<mVest>2717</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>2908</mLeg>
@@ -35054,7 +35055,7 @@
 			<lCPackStatus>95</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>8000</mAbsolutePrice>
+			<mAbsolutePrice>7200</mAbsolutePrice>
 			<mVest>2717</mVest>
 			<mVestStatus>99</mVestStatus>
 			<mLeg>2908</mLeg>
@@ -35097,7 +35098,7 @@
 		<mIndex>247</mIndex>
 		<mName>Rev</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
@@ -35235,7 +35236,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>3000</mAbsolutePrice>
+			<mAbsolutePrice>7200</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>98</mHelmetStatus>
@@ -35300,7 +35301,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mAbsolutePrice>9300</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>164</mVest>
@@ -35341,7 +35342,7 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>8000</mAbsolutePrice>
+			<mAbsolutePrice>14000</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>164</mVest>
@@ -35393,7 +35394,7 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>14000</mAbsolutePrice>
+			<mAbsolutePrice>18200</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>196</mVest>
@@ -35448,7 +35449,7 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>20000</mAbsolutePrice>
+			<mAbsolutePrice>18900</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>196</mVest>
@@ -35505,7 +35506,7 @@
 		<mIndex>249</mIndex>
 		<mName>Ears</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
@@ -35647,7 +35648,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>1000</mAbsolutePrice>
+			<mAbsolutePrice>2000</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
@@ -35712,7 +35713,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>2500</mAbsolutePrice>
+			<mAbsolutePrice>2900</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetStatus>97</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -35747,7 +35748,7 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mAbsolutePrice>2900</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetStatus>97</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -35782,7 +35783,7 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>5000</mAbsolutePrice>
+			<mAbsolutePrice>3800</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetStatus>97</mHelmetStatus>
 			<mVest>2728</mVest>
@@ -35820,7 +35821,7 @@
 			<lCPackStatus>97</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>8000</mAbsolutePrice>
+			<mAbsolutePrice>7800</mAbsolutePrice>
 			<mHelmet>2603</mHelmet>
 			<mHelmetStatus>97</mHelmetStatus>
 			<mVest>2745</mVest>
@@ -35861,7 +35862,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>2000</mAbsolutePrice>
+			<mAbsolutePrice>5300</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>98</mHelmetStatus>
@@ -35926,7 +35927,7 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>3500</mAbsolutePrice>
+			<mAbsolutePrice>6500</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>161</mVest>
@@ -35970,7 +35971,7 @@
 			<lCPackStatus>92</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>4500</mAbsolutePrice>
+			<mAbsolutePrice>5600</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>161</mVest>
@@ -36019,7 +36020,7 @@
 			<lCPackStatus>92</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>6500</mAbsolutePrice>
+			<mAbsolutePrice>6900</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>97</mHelmetStatus>
 			<mVest>161</mVest>
@@ -36066,7 +36067,7 @@
 			<lCPackStatus>92</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mAbsolutePrice>10000</mAbsolutePrice>
+			<mAbsolutePrice>11200</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>97</mHelmetStatus>
 			<mVest>164</mVest>
@@ -36116,7 +36117,7 @@
 		<mIndex>252</mIndex>
 		<mName>Dyno</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
@@ -36282,7 +36283,7 @@
 		<mIndex>253</mIndex>
 		<mName>Turtle</mName>
 		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
+			<mPriceMod>-5</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
@@ -36425,7 +36426,7 @@
 		</GEARKIT>
 		<GEARKIT>
 			<mAbsolutePrice>-1</mAbsolutePrice>
-	</GEARKIT>
+		</GEARKIT>
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>254</mIndex>
@@ -36508,7 +36509,7 @@
 		</GEARKIT>
 		<GEARKIT>
 			<mAbsolutePrice>-1</mAbsolutePrice>
-	</GEARKIT>
+		</GEARKIT>
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>255</mIndex>
@@ -36591,6 +36592,6 @@
 		</GEARKIT>
 		<GEARKIT>
 			<mAbsolutePrice>-1</mAbsolutePrice>
-	</GEARKIT>
+		</GEARKIT>
 	</MERCGEAR>
 </MERCGEARLIST>
