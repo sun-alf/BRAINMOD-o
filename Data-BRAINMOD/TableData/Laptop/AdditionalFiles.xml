@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+Each <File> tag represents an additional file, up to 100 files can be added. Each file takes fileId ("ubCode" code in LUA
+function "AddFilesToPlayersLog") automatically, starting from ID 100, if tag <File> formed propely.
+
+File attributes:
+
+    Name: in-game displayed name of file
+
+    Path: Local (relative) path to file in your file system. Game looks for your file starting in:
+        /path_to_your_JA2/Data-your_mod/TableData/Laptop/
+        I.e. if you put "<Path>X1/f1.txt</Path>", game will look at /path_to_your_JA2/Data-your_mod/TableData/Laptop/X1/f1.txt
+
+    AtInit: put 1 if you want to have this file from the game beginning, put 0 otherwise.
+        To give this file to player during gameplay (AtInit=0), use LUA function "AddFilesToPlayersLog".
+
+    Font: font handler, valid values are [0..25], inclusive. Current game code utilizes handlers as below, so any unused handler
+        will run you into default font:
+        0  - LARGEFONT1
+        1  - SMALLFONT1
+        2  - TINYFONT1
+        3  - FONT12POINT1
+        4  - CLOCKFONT  (not a human-readable font)
+        5  - COMPFONT
+        6  - SMALLCOMPFONT  (really small font)
+        7  - FONT10ROMAN
+        8  - FONT12ROMAN
+        9  - FONT14SANSERIF
+        10 - FONT10ARIAL
+        11 - FONT14ARIAL
+        12 - FONT10ARIALBOLD
+        13 - FONT12ARIAL
+        14 - BLOCKFONT
+        15 - BLOCKFONT2
+        16 - BLOCKFONT2  (yes, the same as 15)
+        17 - FONT12ARIALFIXEDWIDTH
+        18 - FONT16ARIAL
+        19 - BLOCKFONTNARROW
+        20 - FONT14HUMANIST
+
+    TextColor: should be 8-bit RGB encoding of font color, bit schema is below. Please refer to Wikipedia for details.
+        Bit    7  6  5  4  3  2  1  0
+        Data   R  R  R  G  G  G  B  B
+        For example, byte bits "0000 0011" give pure blue color, and these bits are 3 in decimal.
+        Sounds good? Yeah!
+        
+        But shitty shit called "color palette" is actually used instead, unfortunately. And this palette
+        differs between actual fonts. Let's say, something 123 makes LARGEFONT1 be pink and makes BLOCKFONT2 be brown.
+        Sad but true. Enjoy!
+        
+        Known colors:
+        0 - black
+        
+    BkgdColor: absolutely same as TextColor, but makes background of your font be colored excepting 0, what makes
+        background be white.
+        Note: colored background may be a bit glitchy when rendered (depends on DDRAW DLL you use, I guess).
+        
+        Known colors:
+        0 - white
+ -->
+
+<AdditionalFiles>
+   <File>  <!-- FILE ID 100 -->
+      <Name>DIY: IEDs</Name>
+      <Path>recipes_IEDs.txt</Path>
+      <AtInit>1</AtInit>
+      <Font>20</Font>
+      <TextColor>192</TextColor>
+      <BkgdColor>0</BkgdColor>
+   </File>
+</AdditionalFiles>
