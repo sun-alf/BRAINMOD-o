@@ -20,7 +20,6 @@ import math;
 #
 SWDIR = os.getcwd();
 TABLE_DATA_ROOT = r'{}\..\..\Data-BRAINMOD\TableData'.format(SWDIR);
-TABLE_DATA_ROOT = r'D:\Programs\JaggedAlliance2\Data-BRAINMOD\TableData';
 INVENTORY_DATA_ROOT = os.path.join(TABLE_DATA_ROOT, "Inventory");
 ITEMS_DATA_ROOT = os.path.join(TABLE_DATA_ROOT, "Items");
 

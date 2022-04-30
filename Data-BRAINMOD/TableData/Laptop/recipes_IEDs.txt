@@ -1,0 +1,87 @@
+A list of quick instructions for field-cooking of a little
+(or big) boom. A lot of new recipes appeared here since
+Metavira...         !!! Watch your hands !!!
+
+Improved explosives:
+  HMX = [RDX Crystals  +  TNT]
+  HMX = [TNT  +  RDX Crystals]
+  C1  = [C1 small Charge  +  C1 small Charge]
+  C4  = [RDX Crystals  +  C1]
+  C4  = [C1  +  RDX Crystals]
+  C4  = [C4 small Charge  +  C4 small Charge]
+  Bundled TNT = [TNT  +  TNT]
+
+Weakened explosives (small charges):
+  Shaped Charge = [C1 small Charge  +  Gameboy]
+  C1 small Charge = [C1  +  Copper Wire]
+  C1 small Charge = [Shaped Charge  +  Shaped Charge]
+  C4 small Charge = [RDX Crystals  +  C1 small Charge]
+  C4 small Charge = [C4  +  Copper Wire]
+
+Detonators:
+  Detonator (Timed)  = [Copper Wire  +  Platinum Watch]
+  Detonator (Remote) = [Battery  +  Detonator (Timed)]
+  Sticky Det.(Any) = [Detonator (Any)  +  Duct Tape]
+  Sticky Det.(Any) = [Detonator (Any)  +  Quick Glue]
+  Sticky Det.(Remote)= [Battery  +  Sticky Det.(Timed)]
+
+Auxiliary components:
+  Jar with Marbles = [Marbles  +  Glass Jar]
+  Jar with Nails   = [Pack of Nails  +  Glass Jar]
+  Emerg.Flare taped = [Duct Tape  +  Emergency Flare]
+  Modified Flare = [Detonator (Timed)  +
+      Emergency Flare  or  Emerg.Flare taped]
+  Modified Flare = [Sticky Det.(Timed)  +
+      Emergency Flare  or  Emerg.Flare taped]
+  Modified Walkman = [Walkman  +  Detonator (Timed)]
+  Modified Walkman = [Walkman  +  Sticky Det.(Timed)]
+  Tube/Primer= [Detonator (Timed)  +  Steel Pipe]
+  Tube/Primer= [Sticky Det.(Timed)  +  Steel Pipe]
+
+Chemistry:
+  Sodium Hypochlorite= [Toilet cleaner  +  Glass Jar]
+  Hydrochloric Acid  = [Hydrochloric Acid  +  Glass Jar]
+  Sulfur Trioxide    = [Sulfur Trioxide  +  Glass Jar]
+  White Phosphorous  = [White Phosphorous  +  Glass Jar]
+
+Booby traps:
+  Can with String = [String  +  Soda Can]
+  Can with String = [String  +  Empty Can]
+  Boobytrap (Flare) = [Tripwire  +  Modified Flare]
+  Boobytrap (Klaxon)= [Tripwire  +  Modified Walkman]
+  Boobytrap (Impact)= [Tripwire  +  any hand grenade]
+
+Cocktails:
+  Alcohol-Oil Mix = [Oil  +  Bottle of Alcohol]
+  Alcohol-Oil Mix taped= [Duct Tape  +  Alcohol-Oil Mix]
+  Gasoline-Oil mix = [Oil  +  Tank of Gas]
+  Molotov Cocktail = [Rag  +  Alcohol-Oil Mix]
+  Molotov Cocktail = [Rag  +  Alcohol-Oil Mix taped]
+  Improvised Chlorine Gas Grenade = [Glass Jar + 
+      Sodium Hypochlorite + Hydrochloric Acid]
+  Improvised Smoke Gas Grenade    = [Glass Jar +
+      Hydrochloric Acid + Sulfur Trioxide]
+  Improvised WP Grenade           = [Glass Jar +
+      White Phosphorous  +  Rubber Band]
+
+Improvised Exploding Devices (IED, bomb):
+  Pipebomb C1 = [C1 small Charge  +  Tube/Primer]
+  Pipebomb C4 = [C4 small Charge  +  Tube/Primer]
+  Flarebomb = [Alcohol-Oil Mix  +  Emerg.Flare taped]
+  Flarebomb = [Alcohol-Oil Mix taped  +  Emergency Flare]
+  Flarebomb = [Alcohol-Oil Mix taped  +  Emerg.Flare taped]
+  Flarebomb = [Emergency Flare  +  Alcohol-Oil Mix taped]
+  Flarebomb = [Emerg.Flare taped  +  Alcohol-Oil Mix]
+  Flarebomb = [Emerg.Flare taped  +  Alcohol-Oil Mix taped]
+  Fertilizer Bomb = [Fertilizer  +  Tank of Gas]
+  Eagle Screamer = [Tear Gas Grenade  +  Gasoline-Oil mix]
+  Eagle Silencer = [Stun Grenade  +  Gasoline-Oil mix]
+  Eagle Fearball = [Frag. Grenade  +  Gasoline-Oil mix]
+  Eagle Fireflash = [Gasoline-Oil mix  +
+      AN/M14 Incendiary Grenade or Molotov Cocktail]
+  Eagle Dog = [Mustard Gas Grenade  +  Gasoline-Oil mix]
+  Eagle Smokeball = [Smoke Grenade  +  Gasoline-Oil mix]
+
+Improvised Grenades:
+  Marble Grenade = [Shaped Charge  +  Jar with Marbles]
+  Nail Grenade   = [Shaped Charge  +  Jar with Nails]

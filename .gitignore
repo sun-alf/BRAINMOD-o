@@ -15,6 +15,7 @@ MULTIPLAYER
 /patch.timestamp
 /*.log
 /*.txt
+/Ja2.ini
 /vfs_config.JA2113.ini
 /vfs_config.JA2113AIMNAS.ini
 /vfs_config.JA2Vanilla.ini
@@ -27,3 +28,4 @@ MULTIPLAYER
 /Profiles/UserProfile_*/FortificationPlan
 /Profiles/UserProfile_*/SavedGames
 /Profiles/UserProfile_*/ShadeTables
+/Profiles/UserProfile_JA2113

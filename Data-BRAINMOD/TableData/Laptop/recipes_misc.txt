@@ -1,0 +1,59 @@
+Other useful DIY notes.
+
+>> Any knife can be sharpened with a rock.
+   Or another rock... :-)
+
+>> A meele weapon from a pipe:
+   Pummel Pipe = [Plumbing Fittings  +  Steel Pipe]
+
+>> All protective gear and plating can be restored by
+   Compound-18 or Compound-20. To improve protection with
+   that compounds you need to find upgrade kit.
+
+>> A bunch of Leg Rigs for 40mm Grenades can be combined in
+   to Combat Pack for 40mm Grenades.
+
+>> Using any knife, a camo dress can be shredded into a
+   ragtop helmet cover. Not a modern helmet cover, but is
+   much better than nothing.
+   
+>> Using gardener tools, it is possible to cut a solid piece
+   of ground with vegetation for creating a Ghillie Kit:
+   Ghillie Kit Wood   = [Vegetation (Agaves) + Rubber Band]
+   Ghillie Kit Wood   = [Vegetation (Grass) + Rubber Band]
+   Ghillie Kit Desert = [Vegetation (Cactus) + Rubber Band]
+   Ghillie Kit Desert = [Vegetation (D.Grass) + Rubber Band]
+
+>> Camo Kits:
+   Camo Kit Wood  = [Water (Canteen, large) + Cigars]
+   Camo Kit Desert= [Water (Canteen, large) + Cuban Cigars]
+
+>> A sophisticated detection device:
+   LameBoy Display = [Copper Wire  +  Gameboy]
+   Display Unit    = [Copper Wire  +  LameBoy Display]
+   X-ray Device    = [FumblePak + X-ray Tube + Pack of Gum]
+   X-ray Detector  = [Display Unit  +  X-ray Device]
+
+>> Yummy-yummy field dish:
+   Chili con Carne = [Can of Baked Beans  +
+       Can of Corned Beef]
+
+
+Fortification/entrenchment tips:
+
+>> Use entrenchment tools (shovels, picks, hatchets etc) to
+   dig dirt and deconstruct everything you see: debris,
+   tires, sandbags and so on.
+
+>> Combine Tires into a stack (3 pieces max) to construct a
+   higher wall.
+
+>> Morph construction materials one into another:
+   Sandbag (med.) = [Sandbag (sm.) + Sandbag (sm.)]
+   Sandbag (lar.) = [Sandbag (med.) + Wooden Planks (sm.)]
+   Wooden Planks (med.)= [Wooden Planks (sm.) +
+       Wooden Planks (sm.)]
+   Wooden Planks (lar.)= [Wooden Planks (med.) +
+       Wooden Planks (med.)]
+   Wooden Wall (sm.) = [Wooden Planks (med.)  +  Nails]
+   Wooden Wall (lar.)= [Wooden Planks (lar.)  +  Nails]

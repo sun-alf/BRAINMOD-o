@@ -50,4 +50,9 @@
 		<sItemIndex>246</sItemIndex>
 		<ubOptimalNumber>1</ubOptimalNumber>
 	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>10</uiIndex>
+		<sItemIndex>406</sItemIndex>
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
 </INVENTORYLIST>

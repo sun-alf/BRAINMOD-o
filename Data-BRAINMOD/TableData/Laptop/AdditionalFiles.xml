@@ -17,8 +17,8 @@ File attributes:
     Font: font handler, valid values are [0..25], inclusive. Current game code utilizes handlers as below, so any unused handler
         will run you into default font:
         0  - LARGEFONT1
-        1  - SMALLFONT1
-        2  - TINYFONT1
+        1  - SMALLFONT1  (monospace: 52 chars per line)
+        2  - TINYFONT1   (monospace: 61 chars per line)
         3  - FONT12POINT1
         4  - CLOCKFONT  (not a human-readable font)
         5  - COMPFONT
@@ -33,7 +33,7 @@ File attributes:
         14 - BLOCKFONT
         15 - BLOCKFONT2
         16 - BLOCKFONT2  (yes, the same as 15)
-        17 - FONT12ARIALFIXEDWIDTH
+        17 - FONT12ARIALFIXEDWIDTH  (monospace: 60 chars per line)
         18 - FONT16ARIAL
         19 - BLOCKFONTNARROW
         20 - FONT14HUMANIST
@@ -60,12 +60,36 @@ File attributes:
  -->
 
 <AdditionalFiles>
-   <File>  <!-- FILE ID 100 -->
-      <Name>DIY: IEDs</Name>
-      <Path>recipes_IEDs.txt</Path>
-      <AtInit>1</AtInit>
-      <Font>20</Font>
-      <TextColor>192</TextColor>
-      <BkgdColor>0</BkgdColor>
-   </File>
+	<File>  <!-- FILE ID 100 -->
+		<Name>DIY: hints</Name>
+		<Path>recipes_hints.txt</Path>
+		<AtInit>1</AtInit>
+		<Font>17</Font>
+		<TextColor>192</TextColor>
+		<BkgdColor>0</BkgdColor>
+	</File>
+	<File>  <!-- FILE ID 101 -->
+		<Name>DIY: IEDs</Name>
+		<Path>recipes_IEDs.txt</Path>
+		<AtInit>1</AtInit>
+		<Font>17</Font>
+		<TextColor>192</TextColor>
+		<BkgdColor>0</BkgdColor>
+	</File>
+	<File>  <!-- FILE ID 102 -->
+		<Name>DIY: gunsmith</Name>
+		<Path>recipes_guns.txt</Path>
+		<AtInit>1</AtInit>
+		<Font>17</Font>
+		<TextColor>192</TextColor>
+		<BkgdColor>0</BkgdColor>
+	</File>
+	<File>  <!-- FILE ID 103 -->
+		<Name>DIY: misc</Name>
+		<Path>recipes_misc.txt</Path>
+		<AtInit>1</AtInit>
+		<Font>17</Font>
+		<TextColor>192</TextColor>
+		<BkgdColor>0</BkgdColor>
+	</File>
 </AdditionalFiles>

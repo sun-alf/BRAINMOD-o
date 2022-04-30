@@ -1,0 +1,35 @@
+There some not-to-forget notes for gunsmith of any sort:
+
+>> There numbers of replacement parts (Stocks, Foregrips
+   etc) for guns of any sort. All can be easily obtained
+   over Internet.
+
+>> There are full Conversion Kits even -- Desert Eagle .357
+   can be converted into Desert Eagle .50 and so on.
+
+>> Number of modern machineguns allow to replace its' over-
+   heated barrel on a fresh one.
+
+>> Some optical scopes and electronic sights can be combined
+   into one multi-purpose aiming module.
+
+>> Intratec TEC-9 pistol can be 'extended' to a full-auto
+   variant, no sophisticated tools, minimum efforts:
+   Improvised Conversion = [Tool Kit + Spring + Steel Pipe]
+   They say the similar improvement is possible of:
+   * Calico M-900
+   * Winchester Model 1907
+   * Ruger Mini-14
+   * Ruger Mini-30
+   * M1 Carbine
+   * Dragunov SVU
+
+>> A very simple (but not obvious) way to get full-auto in
+   Beretta 93R:
+   Beretta 93R Full-auto = [Rubber Band  +  Beretta 93R]
+
+>> To get an Improvised suppressor, make an 'auger' first:
+   'Auger' = [Spring  +  Duct Tape]
+   Than combine it with a barrel and casing:
+   Improvised suppressor = [Steel Pipe  +  'Auger'  +
+       Chromium-plated steel tube + Duct Tape + Quick Glue]
