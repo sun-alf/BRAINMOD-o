@@ -2221,9 +2221,9 @@
 		<chance_skin_TANSKIN>30</chance_skin_TANSKIN>
 		<chance_skin_DARKSKIN>5</chance_skin_DARKSKIN>
 		<chance_skin_BLACKSKIN>0</chance_skin_BLACKSKIN>	
-		<dailycost_green>60</dailycost_green>
-		<dailycost_regular>105</dailycost_regular>
-		<dailycost_elite>180</dailycost_elite>		
+		<dailycost_green>180</dailycost_green>
+		<dailycost_regular>330</dailycost_regular>
+		<dailycost_elite>500</dailycost_elite>		
 	</ORIGINDATA>
 	<ORIGINDATA>
 		<!-- Defectors: militia created by interrogating prisoners. We assume these are not of Arulcan origin for more flavour 
@@ -2733,8 +2733,8 @@
 		<chance_skin_TANSKIN>30</chance_skin_TANSKIN>
 		<chance_skin_DARKSKIN>1</chance_skin_DARKSKIN>
 		<chance_skin_BLACKSKIN>1</chance_skin_BLACKSKIN>
-		<dailycost_green>40</dailycost_green>
-		<dailycost_regular>70</dailycost_regular>
-		<dailycost_elite>130</dailycost_elite>
+		<dailycost_green>70</dailycost_green>
+		<dailycost_regular>120</dailycost_regular>
+		<dailycost_elite>200</dailycost_elite>
 	</ORIGINDATA>	
 </MILITIAORIGINDATA>

@@ -61,14 +61,14 @@
 		<usItem>223</usItem>
 		<uiItemClass>512</uiItemClass>
 		<bAttachmentSkillCheck>3</bAttachmentSkillCheck>
-		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
+		<bAttachmentSkillCheckMod>20</bAttachmentSkillCheckMod>
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
 		<uiIndex>9</uiIndex>
 		<usItem>224</usItem>
 		<uiItemClass>512</uiItemClass>
 		<bAttachmentSkillCheck>4</bAttachmentSkillCheck>
-		<bAttachmentSkillCheckMod>-10</bAttachmentSkillCheckMod>
+		<bAttachmentSkillCheckMod>50</bAttachmentSkillCheckMod>  <!-- compensate stupid penalty (skill / 2) for Remote Det. -->
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
 		<uiIndex>10</uiIndex>
