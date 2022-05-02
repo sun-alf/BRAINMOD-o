@@ -11,14 +11,18 @@ Key features are:
 * Effects of bulletdrop are perceptible now.
 * You cannot repair non-repairable items like helmets and bulletproof vests. (It is funny, but I just revealed it is AIMNAS default behavior)
 * Settings of difficulty levels are adjusted so that random numbers will not make you frustrating anymore. The more difficult game mode is chosen, the more tight, tough and smart Queen's Army becomes.
-* Queen's Army garrisons and patrols a revisited across the whole Arulco. Roads are patrolled, military and important objects are defended, while majority of town sectors are covered by police forces.
+* Queen's Army garrisons and patrols are revisited across the whole Arulco. Roads are patrolled, military and important objects are defended, while majority of town sectors are covered by police forces.
 * Game starts during a night (4 AM), when most of Omerta guards are probably asleep, and this gives additional coverage of initial Landing Zone.
 * Food system, diseases, Arulco Special Division and other Strategic Features are enabled and adjusted.
 * You will never see zombies or Crepitus (Creatures) in this game.
 * Spring&Rod upgrade is removed from the game (absurd), Barrel Extender (absurd) is now an improvised suppressor.
 * Fortification (construct/deconstruct/drag sandbags, tires, wooden walls etc) is supported in all sectors.
 * All suppressors have drawbacks -- reduced muzzle velocity costs accuracy and firepower.
+* Find additional notes-and-tips files in your Laptop!
+* LOgical BOdy Types (LOBOT) is fully supported.
+* Both new and old inventory selection for IMP do matter.
 * Fixes (for dozens of minor bugs) you probably will never see in original AIMNAS =)
+* And hundreds of adjustments and improvements for better realism in gameplay.
 
 #### Installation steps:
 1. Download files from this repo.
