@@ -44289,7 +44289,7 @@
 		<ubImpact>49</ubImpact>
 		<ubDeadliness>60</ubDeadliness>
 		<bAccuracy>5</bAccuracy>
-		<ubMagSize>50</ubMagSize>
+		<ubMagSize>47</ubMagSize>
 		<usRange>1150</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>46</BurstAniDelay>
@@ -44303,7 +44303,7 @@
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>12</bBurstAP>
 		<bAutofireShotsPerFiveAP>3</bAutofireShotsPerFiveAP>
-		<APsToReload>30</APsToReload>
+		<APsToReload>50</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>25</MaxDistForMessyDeath>
 		<AutoPenalty>8</AutoPenalty>
