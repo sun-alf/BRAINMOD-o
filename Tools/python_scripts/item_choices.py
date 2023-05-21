@@ -18,7 +18,9 @@ import xml.etree.ElementTree as ET;
 #
 # Script setup values
 #
-TABLE_DATA_ROOT = r'D:\Programs\JaggedAlliance2\Data-BRAINMOD\TableData';
+#TABLE_DATA_ROOT = r'C:\Games\JaggedAlliance2\Data-BRAINMOD\TableData';
+SWDIR = os.getcwd();
+TABLE_DATA_ROOT = r'{}\..\..\Data-BRAINMOD\TableData'.format(SWDIR);
 INVENTORY_DATA_ROOT = os.path.join(TABLE_DATA_ROOT, "Inventory");
 ITEMS_DATA_ROOT = os.path.join(TABLE_DATA_ROOT, "Items");
 

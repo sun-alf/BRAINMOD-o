@@ -41,17 +41,17 @@
 
 	<ENEMY_ADMIN>
 		<Vest>BROWNVEST</Vest>
-		<Pants>TANPANTS</Pants>
+		<Pants>BLACKPANTS</Pants>
 	</ENEMY_ADMIN>
 
 	<ENEMY_TROOP>
 		<Vest>GREENVEST</Vest>
-		<Pants>TANPANTS</Pants>
+		<Pants>BLACKPANTS</Pants>
 	</ENEMY_TROOP>
 
 	<ENEMY_ELITE>
 		<Vest>BLACKSHIRT</Vest>
-		<Pants>TANPANTS</Pants>
+		<Pants>BLACKPANTS</Pants>
 	</ENEMY_ELITE>
 
 	<MILITIA_ROOKIE>
