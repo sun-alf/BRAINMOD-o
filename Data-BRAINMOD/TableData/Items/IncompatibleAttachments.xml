@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <INCOMPATIBLEATTACHMENTLIST>
 	<INCOMPATIBLEATTACHMENT>
-		<itemIndex>50</itemIndex>
-		<incompatibleattachmentIndex>5664</incompatibleattachmentIndex>
-	</INCOMPATIBLEATTACHMENT>
-	<INCOMPATIBLEATTACHMENT>
 		<itemIndex>310</itemIndex>
 		<incompatibleattachmentIndex>5845</incompatibleattachmentIndex>
 	</INCOMPATIBLEATTACHMENT>
@@ -1726,7 +1722,7 @@
 	</INCOMPATIBLEATTACHMENT>
 	<INCOMPATIBLEATTACHMENT>
 		<itemIndex>5664</itemIndex>
-		<incompatibleattachmentIndex>50</incompatibleattachmentIndex>
+		<incompatibleattachmentIndex>5791</incompatibleattachmentIndex>
 	</INCOMPATIBLEATTACHMENT>
 	<INCOMPATIBLEATTACHMENT>
 		<itemIndex>5664</itemIndex>
@@ -1778,6 +1774,34 @@
 	</INCOMPATIBLEATTACHMENT>
 	<INCOMPATIBLEATTACHMENT>
 		<itemIndex>50</itemIndex>
+		<incompatibleattachmentIndex>5664</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>5791</itemIndex>
+		<incompatibleattachmentIndex>1027</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>5791</itemIndex>
+		<incompatibleattachmentIndex>1028</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>5791</itemIndex>
+		<incompatibleattachmentIndex>1031</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>5791</itemIndex>
+		<incompatibleattachmentIndex>1030</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>5791</itemIndex>
+		<incompatibleattachmentIndex>1033</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>5791</itemIndex>
+		<incompatibleattachmentIndex>1003</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>5791</itemIndex>
 		<incompatibleattachmentIndex>5664</incompatibleattachmentIndex>
 	</INCOMPATIBLEATTACHMENT>
 	<INCOMPATIBLEATTACHMENT>
