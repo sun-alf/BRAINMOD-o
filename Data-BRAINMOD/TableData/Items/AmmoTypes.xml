@@ -42,9 +42,11 @@
 	<temperatureModificator>	additive modifier for temperature generation. 1.0 means +100%
 	<dirtModificator>			additive modifier for dirt generation. 1.0 means +100%
 	<ammoflag>			flagmask for various ammo properties:
-							AMMO_CRYO			1			this ammo shock-freezes target (scifi)
-							AMMO_BLIND			2			this ammo will blind if it hits the head
-							AMMO_ANTIMATERIEL	4			this ammo is anti-materiel, bullets can destroy structures
+							AMMO_CRYO				1			this ammo shock-freezes target (scifi)
+							AMMO_BLIND				2			this ammo will blind if it hits the head
+							AMMO_ANTIMATERIEL		4			this ammo is anti-materiel, bullets can destroy structures
+							AMMO_TRAIL_WHITESMOKE	8			this ammo leaves a trail of white smoke
+							AMMO_TRAIL_FIRE			16			this ammo leaves a trail of fire
 	<dDamageModifierLife>					multiplier for damage to health
 	<dDamageModifierBreath>					multiplier for damage to breath
 	<dDamageModifierTank>					additional multiplier for damage to health if target is a tank
@@ -566,7 +568,7 @@
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
 		<dirtModificator>0</dirtModificator>
-		<ammoflag>0</ammoflag>
+		<ammoflag>16</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 		<dDamageModifierTank>0.1</dDamageModifierTank>

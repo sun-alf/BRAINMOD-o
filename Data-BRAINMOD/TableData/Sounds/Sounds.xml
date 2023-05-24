@@ -501,4 +501,8 @@
 	<SOUND>SOUNDS\WEAPONS\SILENCER 01.ogg</SOUND>
 	<SOUND>SOUNDS\WEAPONS\30M1\30-06 HCAR SINGLE SHOT.ogg</SOUND>
 	<SOUND>SOUNDS\roof_collapse_1.wav</SOUND>
+	<SOUND>SOUNDS\nothing.wav</SOUND>
+	<SOUND>SOUNDS\beartrap_activated.wav</SOUND>
+	<SOUND>SOUNDS\beartrap_fleshhit.wav</SOUND>
+	<SOUND>SOUNDS\WEAPONS\Misc\fireextinguisher.wav</SOUND>
 </SOUNDLIST>

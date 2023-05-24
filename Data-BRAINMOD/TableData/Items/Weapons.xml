@@ -45,7 +45,12 @@
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-		<HeavyWeapon>0</HeavyWeapon>
+		<HeavyGun>0</HeavyGun>
+		<fBurstOnlyByFanTheHammer>0</fBurstOnlyByFanTheHammer>	<!-- burst mode is accessible only if the user is a gunslinger holding it in hipfire (eye symbol on gun) -->
+		<!-- This tag allows setting how many bullets the gun can fire per shot -->
+		<!-- if no value is set, it is assumed the gun can fire from one barrel -->
+		<!-- this tag can be added multiple times -->
+		<BarrelConfiguration>0</BarrelConfiguration>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>34</uiIndex>
