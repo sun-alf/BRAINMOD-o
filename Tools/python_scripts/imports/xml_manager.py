@@ -13,7 +13,7 @@ import xml.etree.ElementTree as ET;
 #
 
 class XmlFile():
-    def __init__(self, filePath, fileName, newFilePath = None, newFileName = None):        
+    def __init__(self, filePath, fileName, newFilePath = None, newFileName = None):
         self._filePath = filePath;
         self._fileName = fileName;
         self._newFilePath = newFilePath;
@@ -87,17 +87,21 @@ class XmlFile():
 
 
 class XmlManager():
-    def __init__(self):        
+    def __init__(self):
         self._fileList = [];
 
     def AddXml(self, filePath, fileName, newFilePath = None, newFileName = None):
-        newXml = XmlFile(filePath, fileName, newFilePath, newFileName);
-        self._fileList.append(newXml);
+        xmlRoot = self.GetXml(filePath, fileName);  # try to find among opened items first
+        if xmlRoot == None:  # if this file is not open yet, open it
+            newXml = XmlFile(filePath, fileName, newFilePath, newFileName);
+            self._fileList.append(newXml);
+            xmlRoot = newXml.TreeRoot;
+        return xmlRoot;
 
-    def GetXml(self, fileName):
+    def GetXml(self, filePath, fileName):
         targetXml = None;
         for xml in self._fileList:
-            if xml.Name == fileName:
+            if xml.Name == fileName and xml.Path == filePath:
                 targetXml = xml.TreeRoot;
                 break;
         
@@ -108,8 +112,3 @@ class XmlManager():
             xml.Save();
 
 #end class XmlManager():
-
-#
-# Entry point (like Main())
-#
-

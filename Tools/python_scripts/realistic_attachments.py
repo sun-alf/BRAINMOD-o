@@ -8,25 +8,18 @@
 
 import os, sys;
 import xml.etree.ElementTree as ET;
-from imports.xml_manager import XmlManager;
+from imports.JA2TableData import JA2TableData, JA2Workspaces, JA2Xmls;
 from imports.xml_utils import XmlUtils;
+from imports.cmd_line import CmdLineProcessor;
 
 #
 # Script setup values
 #
-SWDIR = os.getcwd();
-TABLE_DATA_ROOT = r'{}\..\..\Data-BRAINMOD\TableData'.format(SWDIR);
-INVENTORY_DATA_ROOT = os.path.join(TABLE_DATA_ROOT, "Inventory");
-ITEMS_DATA_ROOT = os.path.join(TABLE_DATA_ROOT, "Items");
-
-ITEMS_XML = "Items.xml";
-ATTACHMENTS_XML = "Attachments.xml";
 
 
 #
 # Globals
 #
-g_XmlMan = None;
 
 
 #
@@ -34,9 +27,8 @@ g_XmlMan = None;
 #
 
 def PrintAttachmentItems(args):
-    global g_XmlMan;
-    itemsRoot = g_XmlMan.GetXml(ITEMS_XML);
-    attRoot = g_XmlMan.GetXml(ATTACHMENTS_XML);
+    itemsRoot = JA2TableData.GetXml(JA2Xmls.ITEMS);
+    attRoot = JA2TableData.GetXml(JA2Xmls.ATTACHMENTS);
     
     attIds = [];
     
@@ -51,37 +43,25 @@ def PrintAttachmentItems(args):
 #end def PrintAttachmentItems(args):
 
 
+def TestFunc(args):
+    JA2TableData.OpenWorkspace(JA2Workspaces.BRAINMOD);
+    a  = [getattr(JA2Xmls, field) for field in dir(JA2Xmls) if not callable(getattr(JA2Xmls, field)) and not field.startswith("__")];
+    print(a);
+    #b = [JA2Xmls.field for field]
+    if JA2Xmls.ITEMS in a:
+        print("good");
+    else:
+        print("bad");
+    print([field for field in dir(JA2Xmls) if not callable(getattr(JA2Xmls, field)) and not field.startswith("__")]);
+    print([field for field in dir(JA2Workspaces) if not callable(getattr(JA2Workspaces, field)) and not field.startswith("__")]);
+#end def TestFunc(args):
+
+
 #
 # Entry point (like Main())
 #
+JA2TableData.OpenWorkspace(JA2Workspaces.BRAINMOD);
 
-cmdFunc = None;
-args = [];
-
-for i in range(1, len(sys.argv)):
-    if i == 1 and sys.argv[i] == 'PrintAttachmentItems':
-        cmdFunc = PrintAttachmentItems;
-    #elif i == 1 and sys.argv[i] == 'f':
-    #    cmdFunc = FixGearKitsCost;
-    else:  # parse an argument
-        dec = 0;
-        
-        try:
-            dec = int(sys.argv[i]);
-        except Exception as e:
-            #dec = MercTypes.ToType(sys.argv[i]);   -- try other types
-            #if dec == None:
-            #    dec = sys.argv[i];
-            dec = sys.argv[i];  # add this arg as a string
-        
-        args.append(dec);
-
-if cmdFunc != None:
-    g_XmlMan = XmlManager();
-    g_XmlMan.AddXml(ITEMS_DATA_ROOT, ITEMS_XML);
-    g_XmlMan.AddXml(ITEMS_DATA_ROOT, ATTACHMENTS_XML);
-    
-    dirty = cmdFunc(args);
-else:
-    print("Invalid input arguments.");
-    print("Valid functions: PrintAttachmentItems");
+cmd_map = {"PrintAttachmentItems" : PrintAttachmentItems, "Test" : TestFunc};
+cmd_line = CmdLineProcessor(cmd_map);
+cmd_line.Execute(sys.argv);

@@ -14,7 +14,7 @@ import xml.etree.ElementTree as ET;
 
 class XmlUtils():
     @classmethod
-    def RepresentsInt(s):
+    def RepresentsInt(cls, s):
         try: 
             int(s)
             return True
@@ -39,10 +39,3 @@ class XmlUtils():
         return False;
     #end def SetTagValue(item, tagName, tagValue):
 #end class XmlUtils():
-
-
-
-#
-# Entry point (like Main())
-#
-
