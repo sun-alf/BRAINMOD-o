@@ -1,0 +1,3876 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GunsDescriptors>
+<!--
+	<Descriptor weapon_id="1" name="glock" longname="FN Minimi">
+		<Interface system="0" space="1"/>
+		<Interface system="1" space="1"/>
+		<Interface system="2" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="3" name="beretta 92" longname="FN Minimi">
+		<Interface system="0" space="1"/>
+		<Interface system="1" space="2"/>
+		<Interface system="2" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4" name="beretta 93" longname="FN Minimi">
+		<Interface system="0" space="1"/>
+		<Interface system="2" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5" name="SW special" longname="FN Minimi">
+		<Interface system="2" space="1"/>
+		<Interface system="3" space="2"/>
+	</Descriptor>
+	<Descriptor weapon_id="0" name="DEBUG NULL-TERMINATOR" longname="DEBUG NULL-TERMINATOR">
+		<Interface system="0" space="0"/>
+	</Descriptor>
+-->
+
+	<Descriptor weapon_id="34" name="FN Minimi" longname="FN Minimi">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="35" name="RPK-74" longname="RPK-74">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="50" name="Colt M203 Grenade Launcher" longname="Colt M203 Grenade Launcher">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="55" name="Rocket Rifle" longname="Rocket Rifle">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="60" name="*** Tank Cannon ***" longname="*** Tank Cannon ***">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="65" name="Auto Rocket Rifle" longname="Auto Rocket Rifle">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5" name="S&amp;W Chiefs Special" longname="S&amp;W Chiefs Special">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4002" name="S&amp;W Model 64" longname="S&amp;W Model 64">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4003" name="Korth Sport .38" longname="Korth Sport .38">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4004" name="Barracuda .38" longname="Barracuda .38">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4005" name="Colt Python .38" longname="Colt Python .38">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4006" name="Manurhin MR-73 .38" longname="Manurhin MR-73 .38">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4007" name="S&amp;W M19 .38" longname="S&amp;W M19 .38">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4008" name="Manurhin MR-96 .38" longname="Manurhin MR-96 .38">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4009" name="Modified EMF Hartford 6 Shooter .38" longname="Modified EMF Hartford 6 Shooter .38">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4010" name="Ruger LCR M5401" longname="Ruger LCR M5401">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4011" name="Ruger LCRX M5431" longname="Ruger LCRX M5431">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4020" name="Korth Sport" longname="Korth Sport">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="6" name="Barracuda" longname="Barracuda">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4022" name="Colt Python" longname="Colt Python">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4023" name="Manurhin MR-73" longname="Manurhin MR-73">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4024" name="S&amp;W M19" longname="S&amp;W M19">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4025" name="Manurhin MR-96" longname="Manurhin MR-96">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="66" name="Modified EMF Hartford 6 Shooter" longname="Modified EMF Hartford 6 Shooter">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4027" name="Ruger LCR M5450" longname="Ruger LCR M5450">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4028" name="Ruger LCRX M5460" longname="Ruger LCRX M5460">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4037" name="Chiappa Rhino 60DS" longname="Chiappa Rhino 60DS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4038" name="Chiappa Rhino 50DS" longname="Chiappa Rhino 50DS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4039" name="Chiappa Rhino 40DS" longname="Chiappa Rhino 40DS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4040" name="Chiappa Rhino 20DS" longname="Chiappa Rhino 20DS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4041" name="Ruger Redhawk Revolver" longname="Ruger Redhawk Revolver">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4042" name="S&amp;W M29" longname="S&amp;W M29">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4043" name="S&amp;W M29 SATAN" longname="S&amp;W M29 SATAN">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4044" name="Colt Anaconda" longname="Colt Anaconda">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4045" name="Taurus Raging Bull 444" longname="Taurus Raging Bull 444">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4046" name="Charter Arms Bulldog" longname="Charter Arms Bulldog">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4047" name="Mateba 6 Unica" longname="Mateba 6 Unica">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4048" name="S&amp;W M1917" longname="S&amp;W M1917">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4049" name="S&amp;W M325PD" longname="S&amp;W M325PD">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4051" name="Ruger S. Redhawk Alaskan .45" longname="Ruger S. Redhawk Alaskan .45">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4052" name="Fr. Arms M83 Premier Grade .45" longname="Fr. Arms M83 Premier Grade .45">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4053" name="Taurus Raging Bull .45" longname="Taurus Raging Bull .45">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4054" name="Snake Slayer .45" longname="Snake Slayer .45">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4055" name="Taurus Judge .45" longname="Taurus Judge .45">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4056" name="Colt Peacemaker" longname="Colt Peacemaker">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4061" name="Ruger S. Redhawk Alaskan" longname="Ruger S. Redhawk Alaskan">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4062" name="Fr. Arms M83 Premier Grade" longname="Fr. Arms M83 Premier Grade">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4063" name="Taurus Raging Bull 454" longname="Taurus Raging Bull 454">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4066" name="Ladies Home Companion" longname="Ladies Home Companion">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4071" name="U-94S UDAR" longname="U-94S UDAR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4076" name="Taurus 941" longname="Taurus 941">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4077" name="Ruger LCR M5414" longname="Ruger LCR M5414">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4078" name="Ruger LCRX M5424" longname="Ruger LCRX M5424">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4081" name="Webley Mk. VI" longname="Webley Mk. VI">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4082" name="Webley Fosbery" longname="Webley Fosbery">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4083" name="Webley WG Army" longname="Webley WG Army">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4085" name="Mauser M1878 Revolver" longname="Mauser M1878 Revolver">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4086" name="M1879 Revolver" longname="M1879 Revolver">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4087" name="Taurus Raging Hornet" longname="Taurus Raging Hornet">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4091" name="Ruger Ten" longname="Ruger Ten">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4092" name="Ruger LCR M5410" longname="Ruger LCR M5410">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4093" name="Ruger LCRX M5435" longname="Ruger LCRX M5435">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4096" name="Snake Slayer" longname="Snake Slayer">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4097" name="Taurus Judge" longname="Taurus Judge">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4101" name="Glock 19" longname="Glock 19">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4102" name="HK P7M8" longname="HK P7M8">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4103" name="SIG P239 SAS" longname="SIG P239 SAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="1" name="Glock 17" longname="Glock 17">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4112" name="SIG P210" longname="SIG P210">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4113" name="SIG P226R" longname="SIG P226R">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4114" name="SIG P226 SAS" longname="SIG P226 SAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4115" name="SIG P229R" longname="SIG P229R">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4116" name="Luger P08" longname="Luger P08">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4117" name="Luger LP08" longname="Luger LP08">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4118" name="Walther P38" longname="Walther P38">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4119" name="Walther P99" longname="Walther P99">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="3" name="Beretta 92F" longname="Beretta 92F">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4122" name="Beretta 92FS" longname="Beretta 92FS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4123" name="MP-443 Grach" longname="MP-443 Grach">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4124" name="MP-446 Viking" longname="MP-446 Viking">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4125" name="FN BDA 9" longname="FN BDA 9">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4126" name="FN Browning HP-35" longname="FN Browning HP-35">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4127" name="FN PRO-9" longname="FN PRO-9">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4128" name="Sphinx 3000" longname="Sphinx 3000">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4129" name="VIS-35" longname="VIS-35">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4130" name="MAB PA-15" longname="MAB PA-15">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4136" name="Welrod" longname="Welrod">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4137" name="B&amp;T VP9" longname="B&amp;T VP9">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4138" name="Maxim 9 Short" longname="Maxim 9 Short">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4139" name="Maxim 9" longname="Maxim 9">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="67" name="Calico M-950" longname="Calico M-950">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4141" name="Makarov PM" longname="Makarov PM">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4142" name="Makarov PMM" longname="Makarov PMM">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4143" name="PB 6P9" longname="PB 6P9">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4144" name="PB 6P9s" longname="PB 6P9s">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4145" name="MP-448 Skyph" longname="MP-448 Skyph">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4151" name="SIG Mosquito" longname="SIG Mosquito">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4152" name="Walther P22" longname="Walther P22">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4153" name="Hi-Standard HDM" longname="Hi-Standard HDM">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4154" name="Ruger MK II Hunter" longname="Ruger MK II Hunter">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4155" name="Colt M1911 22LR" longname="Colt M1911 22LR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4156" name="Browning Buck Mark" longname="Browning Buck Mark">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4157" name="Grendel P30" longname="Grendel P30">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4158" name="Kel-Tec PMR-30" longname="Kel-Tec PMR-30">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4159" name="Accelerator MP-22" longname="Accelerator MP-22">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4160" name="Automag II" longname="Automag II">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4161" name="SIG P226 SAS .40" longname="SIG P226 SAS .40">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4162" name="SIG Pro" longname="SIG Pro">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4163" name="S&amp;W M4006" longname="S&amp;W M4006">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4165" name="Glock 22" longname="Glock 22">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4166" name="Beretta 96FS Brigadier" longname="Beretta 96FS Brigadier">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4167" name="CZ-75B" longname="CZ-75B">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4168" name="FN Browning HP-35 .40" longname="FN Browning HP-35 .40">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4169" name="FN Forty-Nine" longname="FN Forty-Nine">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4170" name="MP-445 Varjag" longname="MP-445 Varjag">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4171" name="HK USP" longname="HK USP">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4172" name="SIG P226R .40" longname="SIG P226R .40">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4173" name="Springfield XD" longname="Springfield XD">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4176" name="Glock 31" longname="Glock 31">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4177" name="Glock 32" longname="Glock 32">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4178" name="SIG P226R .357" longname="SIG P226R .357">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4179" name="HK USP Compact .357" longname="HK USP Compact .357">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4181" name="Mauser HSc" longname="Mauser HSc">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4182" name="Beretta Tomcat" longname="Beretta Tomcat">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4183" name="Hamada Type I" longname="Hamada Type I">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4184" name="FN 1922" longname="FN 1922">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4185" name="Llama Especial" longname="Llama Especial">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4186" name="Beretta Model 100" longname="Beretta Model 100">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4187" name="Beretta 85F" longname="Beretta 85F">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4188" name="Taurus Curve" longname="Taurus Curve">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4189" name="Walther PPK" longname="Walther PPK">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4191" name="Colt Delta Elite" longname="Colt Delta Elite">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4192" name="Bren Ten" longname="Bren Ten">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4193" name="S&amp;W M1076" longname="S&amp;W M1076">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4194" name="Tangfolio Force" longname="Tangfolio Force">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4195" name="Glock 20" longname="Glock 20">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4196" name="SIG P220 Hunter" longname="SIG P220 Hunter">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="8" name="Colt M1911A1" longname="Colt M1911A1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4202" name="Colt High Capacity M1911A1" longname="Colt High Capacity M1911A1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4203" name="HK Mark 23 SOCOM" longname="HK Mark 23 SOCOM">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4204" name="FN FNP-45" longname="FN FNP-45">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4205" name="S&amp;W M645" longname="S&amp;W M645">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4206" name="HK P12" longname="HK P12">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4210" name="AMT Hardballer" longname="AMT Hardballer">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4211" name="PSM" longname="PSM">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4216" name="VBR Glock 7.92" longname="VBR Glock 7.92">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4221" name="FN Five-seveN" longname="FN Five-seveN">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4222" name="Glock 57" longname="Glock 57">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4223" name="Accelerator MP-57" longname="Accelerator MP-57">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4226" name="QSZ-92" longname="QSZ-92">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4227" name="QSW-06" longname="QSW-06">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4231" name="HK UCP" longname="HK UCP">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4232" name="Glock 46" longname="Glock 46">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4236" name="HK G11 PDW" longname="HK G11 PDW">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4241" name="CZ-52" longname="CZ-52">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4242" name="Tokarev TT-33" longname="Tokarev TT-33">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4243" name="Mauser C96 7.62" longname="Mauser C96 7.62">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4244" name="M1921 Bolo 7.62" longname="M1921 Bolo 7.62">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4245" name="Dominion Arms P762" longname="Dominion Arms P762">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4246" name="CZ-52 7.63" longname="CZ-52 7.63">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4247" name="Tokarev TT-33 7.63" longname="Tokarev TT-33 7.63">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4248" name="Mauser C96" longname="Mauser C96">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4249" name="M1921 Bolo Mauser" longname="M1921 Bolo Mauser">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4250" name="Dominion Arms P762 7.63" longname="Dominion Arms P762 7.63">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4256" name="Nambu Type 14" longname="Nambu Type 14">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4257" name="Hamada Type II" longname="Hamada Type II">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4261" name="SR-1 Gyurza" longname="SR-1 Gyurza">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="56" name="Automag III Custom" longname="Automag III Custom">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="7" name="Desert Eagle .357" longname="Desert Eagle .357">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4272" name="Coonan .357" longname="Coonan .357">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4276" name="Desert Eagle .44" longname="Desert Eagle .44">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4281" name="Desert Eagle .50 AE" longname="Desert Eagle .50 AE">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4282" name="LAR Grizzly .50 AE" longname="LAR Grizzly .50 AE">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4283" name="Automag V" longname="Automag V">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4286" name="Webley 1913" longname="Webley 1913">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4291" name="Automag IV" longname="Automag IV">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4292" name="LAR Grizzly .45 WM" longname="LAR Grizzly .45 WM">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4293" name="Wildey Survivor" longname="Wildey Survivor">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4296" name="Franklin Armory Convert" longname="Franklin Armory Convert">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4299" name="Modele 1935A" longname="Modele 1935A">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4300" name="Modele 1935S" longname="Modele 1935S">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="2" name="Glock 18" longname="Glock 18">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4302" name="Glock 18 Tactical" longname="Glock 18 Tactical">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4" name="Beretta 93R" longname="Beretta 93R">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4304" name="Beretta 93R FA" longname="Beretta 93R FA">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="9" name="HK MP5KA4" longname="HK MP5KA4">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4306" name="FAMAE Mini SAF" longname="FAMAE Mini SAF">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4307" name="Cobray M11/9" longname="Cobray M11/9">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4308" name="Cobray M11/9 - folded" longname="Cobray M11/9 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4309" name="VBR PDW 9" longname="VBR PDW 9">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4310" name="VBR PDW 9 - collapsed" longname="VBR PDW 9 - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4311" name="Intratec TEC-9" longname="Intratec TEC-9">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4312" name="Intratec TEC-9 FA" longname="Intratec TEC-9 FA">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4313" name="Agram 2000" longname="Agram 2000">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4314" name="Steyr TMP" longname="Steyr TMP">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4315" name="IMI Micro-Uzi" longname="IMI Micro-Uzi">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4316" name="IMI Micro-Uzi - folded" longname="IMI Micro-Uzi - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4317" name="IMI Mini-Uzi" longname="IMI Mini-Uzi">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4318" name="IMI Mini-Uzi - folded" longname="IMI Mini-Uzi - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4319" name="Mauser C96 M712" longname="Mauser C96 M712">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4320" name="Beretta M12" longname="Beretta M12">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4321" name="Spectre M4" longname="Spectre M4">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4322" name="Magpul FMG9" longname="Magpul FMG9">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4323" name="FMG9 - folded" longname="FMG9 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4324" name="PP-2000" longname="PP-2000">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4325" name="PP-2000 - folded" longname="PP-2000 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4326" name="HK VP70M" longname="HK VP70M">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4327" name="HK VP70" longname="HK VP70">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4328" name="ST CPW 9" longname="ST CPW 9">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4329" name="ST CPW 9 - collapsed" longname="ST CPW 9 - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4341" name="AEK-919K Kashtan" longname="AEK-919K Kashtan">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4342" name="AEK-919K Kashtan - folded" longname="AEK-919K Kashtan - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4343" name="PP-93" longname="PP-93">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4344" name="PP-93 - folded" longname="PP-93 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4345" name="Skorpion vz.82" longname="Skorpion vz.82">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4346" name="Skorpion vz.82 - folded" longname="Skorpion vz.82 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4347" name="Stechkin APS" longname="Stechkin APS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4348" name="OTs 33 Pernach" longname="OTs 33 Pernach">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4349" name="PM-63 RAK" longname="PM-63 RAK">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4350" name="PM-63 RAK - collapsed" longname="PM-63 RAK - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4351" name="Ingram M11" longname="Ingram M11">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4352" name="Ingram M11 - folded" longname="Ingram M11 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4353" name="Mendoza HM-3S" longname="Mendoza HM-3S">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4354" name="Mendoza HM-3S - folded" longname="Mendoza HM-3S - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4355" name="Skorpion vz.61" longname="Skorpion vz.61">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4356" name="Skorpion vz.61 - folded" longname="Skorpion vz.61 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="10" name="Ingram M10" longname="Ingram M10">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4362" name="Ingram M10 - folded" longname="Ingram M10 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4363" name="KRISS Super V" longname="KRISS Super V">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4364" name="KRISS Super V - folded" longname="KRISS Super V - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4367" name="ST CPW 57" longname="ST CPW 57">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4368" name="ST CPW 57 - collapsed" longname="ST CPW 57 - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4373" name="HK MP7 PDW" longname="HK MP7 PDW">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4374" name="HK MP7 PDW - collapsed" longname="HK MP7 PDW - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4375" name="ST CPW 46" longname="ST CPW 46">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4376" name="ST CPW 46 - collapsed" longname="ST CPW 46 - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4381" name="Type 82" longname="Type 82">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4382" name="Type 82 - collapsed" longname="Type 82 - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4386" name="Type 82 7.63" longname="Type 82 7.63">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4387" name="Type 82 - collapsed 7.63" longname="Type 82 - collapsed 7.63">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4391" name="VBR PDW 7.92" longname="VBR PDW 7.92">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4392" name="VBR PDW 7.92 - collapsed" longname="VBR PDW 7.92 - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4396" name="Trejo Model 1" longname="Trejo Model 1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4397" name="OTs 23 Drotik" longname="OTs 23 Drotik">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4399" name="OA-93" longname="OA-93">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4400" name="CMMG 7.3" longname="CMMG 7.3">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4401" name="Calico M-960A" longname="Calico M-960A">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4402" name="Calico M-960A - collapsed" longname="Calico M-960A - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4403" name="IMI Uzi" longname="IMI Uzi">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4404" name="IMI Uzi - folded" longname="IMI Uzi - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4405" name="IMI Uzi MP2" longname="IMI Uzi MP2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4406" name="Colt SMG 9mm" longname="Colt SMG 9mm">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4407" name="Colt SMG 9mm RAS" longname="Colt SMG 9mm RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4408" name="Carl Gustaf M/45B" longname="Carl Gustaf M/45B">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4409" name="Carl Gustaf M/45B - folded" longname="Carl Gustaf M/45B - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4410" name="FAMAE SAF" longname="FAMAE SAF">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4411" name="FAMAE SAF - folded" longname="FAMAE SAF - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4412" name="FAMAE SAF Silenciada" longname="FAMAE SAF Silenciada">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4413" name="FAMAE SAF Silenciada - folded" longname="FAMAE SAF Silenciada - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4414" name="Jati-Matic GG-95 PDW" longname="Jati-Matic GG-95 PDW">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4415" name="KP M/31 Suomi" longname="KP M/31 Suomi">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4416" name="Sterling L2A3" longname="Sterling L2A3">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4417" name="Sterling L2A3 - folded" longname="Sterling L2A3 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4418" name="Walther MPL" longname="Walther MPL">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4419" name="Walther MPL - folded" longname="Walther MPL - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4420" name="Walther MPK" longname="Walther MPK">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4421" name="Walther MPK - folded" longname="Walther MPK - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4422" name="MAT-49" longname="MAT-49">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4423" name="MAT-49 - collapsed" longname="MAT-49 - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4424" name="SIG MP41/44" longname="SIG MP41/44">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4425" name="Bergmann MP28" longname="Bergmann MP28">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4426" name="PP-90 M1" longname="PP-90 M1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4427" name="PP-90 M1 - folded" longname="PP-90 M1 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4428" name="HK UMP9" longname="HK UMP9">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4429" name="HK UMP9 - folded" longname="HK UMP9 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4430" name="PP-19-01 Vityaz" longname="PP-19-01 Vityaz">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4431" name="PP-19-01 Vityaz - folded" longname="PP-19-01 Vityaz - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4432" name="Skorpion EVO III" longname="Skorpion EVO III">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4433" name="Skorpion EVO III - folded" longname="Skorpion EVO III - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4434" name="Erma MP40" longname="Erma MP40">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4435" name="Erma MP40 - folded" longname="Erma MP40 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4436" name="HK MP5A3" longname="HK MP5A3">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4437" name="HK MP5A3 - collapsed" longname="HK MP5A3 - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4438" name="HK MP5A3 RAS" longname="HK MP5A3 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4439" name="HK MP5A3 RAS - collapsed" longname="HK MP5A3 RAS - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4440" name="HK MP5A4" longname="HK MP5A4">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4441" name="HK MP5A4 RAS" longname="HK MP5A4 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4442" name="HK MP5SD6" longname="HK MP5SD6">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4443" name="HK MP5SD6 - collapsed" longname="HK MP5SD6 - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4444" name="HK MP5SD6 RAS" longname="HK MP5SD6 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4445" name="HK MP5SD6 RAS - collapsed" longname="HK MP5SD6 RAS - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4446" name="HK MP5SD5" longname="HK MP5SD5">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4447" name="HK MP5SD5 RAS" longname="HK MP5SD5 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4448" name="HK MP5N/A3" longname="HK MP5N/A3">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4449" name="HK MP5N/A3 - collapsed" longname="HK MP5N/A3 - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4450" name="HK MP5N/A3 RAS" longname="HK MP5N/A3 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4451" name="HK MP5N/A3 RAS - collapsed" longname="HK MP5N/A3 RAS - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4452" name="HK MP5N/A4" longname="HK MP5N/A4">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4453" name="HK MP5N/A4 RAS" longname="HK MP5N/A4 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4454" name="HK MP5K PDW" longname="HK MP5K PDW">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4455" name="HK MP5K PDW - folded" longname="HK MP5K PDW - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4456" name="HK MP5K PDW RAS" longname="HK MP5K PDW RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4457" name="HK MP5K PDW RAS - folded" longname="HK MP5K PDW RAS - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4458" name="Steyr AUG Para" longname="Steyr AUG Para">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4459" name="Steyr AUG Para RAS" longname="Steyr AUG Para RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4460" name="Sten Mk. 2" longname="Sten Mk. 2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4461" name="Skorpion vz.68" longname="Skorpion vz.68">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4462" name="ZK-383" longname="ZK-383">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4463" name="SIG MPX 9" longname="SIG MPX 9">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4464" name="SIG MPX 9 - folded" longname="SIG MPX 9 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4465" name="SIG MPXS 9" longname="SIG MPXS 9">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4466" name="SIG MPXS 9 - folded" longname="SIG MPXS 9 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4467" name="Kommando LDP" longname="Kommando LDP">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4468" name="Kommando LDP - folded" longname="Kommando LDP - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4469" name="S&amp;W M76" longname="S&amp;W M76">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4470" name="S&amp;W M76 - folded" longname="S&amp;W M76 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4471" name="FM-9 Elite" longname="FM-9 Elite">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4472" name="Lithgow F1" longname="Lithgow F1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4473" name="Daewoo K7" longname="Daewoo K7">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4474" name="Daewoo K7 - folded" longname="Daewoo K7 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4475" name="Daewoo K7A2" longname="Daewoo K7A2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4481" name="OTs 02 Kiparis" longname="OTs 02 Kiparis">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4482" name="OTs 02 Kiparis - folded" longname="OTs 02 Kiparis - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4483" name="Bizon PP-19" longname="Bizon PP-19">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4484" name="Bizon PP-19 - folded" longname="Bizon PP-19 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4485" name="Arsenal Shipka" longname="Arsenal Shipka">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4486" name="Shipka - folded" longname="Shipka - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4491" name="MGV-176" longname="MGV-176">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4492" name="MGV-176 - folded" longname="MGV-176 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4493" name="American-180" longname="American-180">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4501" name="Taurus CT-40" longname="Taurus CT-40">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4502" name="Taurus CT-40 - collapsed" longname="Taurus CT-40 - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4503" name="Beretta Cx4 Storm" longname="Beretta Cx4 Storm">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4504" name="HK MP5/40A3" longname="HK MP5/40A3">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4505" name="HK MP5/40A3 - collapsed" longname="HK MP5/40A3 - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4506" name="HK MP5/40A3 RAS" longname="HK MP5/40A3 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4507" name="HK MP5/40A3 RAS - collapsed" longname="HK MP5/40A3 RAS - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4508" name="HK MP5/40A4" longname="HK MP5/40A4">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4509" name="HK MP5/40A4 RAS" longname="HK MP5/40A4 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4510" name="Taurus MT-40 SMG" longname="Taurus MT-40 SMG">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4511" name="Taurus MT-40 SMG - folded" longname="Taurus MT-40 SMG - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4512" name="SIG MPX 40" longname="SIG MPX 40">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4513" name="SIG MPX 40 - folded" longname="SIG MPX 40 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4514" name="SIG MPXS 40" longname="SIG MPXS 40">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4515" name="SIG MPXS 40 - folded" longname="SIG MPXS 40 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4521" name="Skorpion EVO III A1" longname="Skorpion EVO III A1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4522" name="Skorpion EVO III A1 - folded" longname="Skorpion EVO III A1 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4523" name="HK MP5/10A3" longname="HK MP5/10A3">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4524" name="HK MP5/10A3 - collapsed" longname="HK MP5/10A3 - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4525" name="HK MP5/10A3 RAS" longname="HK MP5/10A3 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4526" name="HK MP5/10A3 RAS - collapsed" longname="HK MP5/10A3 RAS - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4527" name="HK MP5/10A4" longname="HK MP5/10A4">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4528" name="HK MP5/10A4 RAS" longname="HK MP5/10A4 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4530" name="Colt PDW 10mm" longname="Colt PDW 10mm">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4536" name="HK MP7A1" longname="HK MP7A1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4537" name="HK MP7A1 - collapsed" longname="HK MP7A1 - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4541" name="SR-2 Veresk" longname="SR-2 Veresk">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4542" name="SR-2 Veresk - folded" longname="SR-2 Veresk - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4546" name="Bizon 2-02" longname="Bizon 2-02">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4547" name="Bizon 2-02 - folded" longname="Bizon 2-02 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4548" name="Mendoza HM-3 Cobra" longname="Mendoza HM-3 Cobra">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4549" name="Mendoza HM-3 Cobra - folded" longname="Mendoza HM-3 Cobra - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4551" name="Nambu Type 100" longname="Nambu Type 100">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4553" name="Owen .38" longname="Owen .38">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4557" name="SIG MPX 357" longname="SIG MPX 357">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4558" name="SIG MPX 357 - folded" longname="SIG MPX 357 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4559" name="SIG MPXS 357" longname="SIG MPXS 357">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4560" name="SIG MPXS 357 - folded" longname="SIG MPXS 357 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4561" name="Taurus CT-30" longname="Taurus CT-30">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4562" name="Taurus CT-30 - folded" longname="Taurus CT-30 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4563" name="IMI Magal" longname="IMI Magal">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4564" name="IMI Magal - folded" longname="IMI Magal - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4565" name="Cristobal M2" longname="Cristobal M2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4566" name="Thompson Light Rifle" longname="Thompson Light Rifle">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4567" name="Thompson SMG .30" longname="Thompson SMG .30">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="11" name="Thompson M1A1" longname="Thompson M1A1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4572" name="Thompson M1928" longname="Thompson M1928">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4573" name="Owen .45" longname="Owen .45">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4574" name="HK UMP45" longname="HK UMP45">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4575" name="HK UMP45 - folded" longname="HK UMP45 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4576" name="Colt SMG .45" longname="Colt SMG .45">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4577" name="Colt SMG .45 RAS" longname="Colt SMG .45 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4578" name="MPA .45 Carbine" longname="MPA .45 Carbine">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4579" name="M3 Grease Gun" longname="M3 Grease Gun">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4580" name="M3 Grease Gun - folded" longname="M3 Grease Gun - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4581" name="Reising M50" longname="Reising M50">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4582" name="LWRC 45 SMG" longname="LWRC 45 SMG">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4583" name="LWRC 45 SMG - folded" longname="LWRC 45 SMG - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4584" name="Ingram M6" longname="Ingram M6">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="15" name="FN P90" longname="FN P90">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4592" name="FN P90 RAS" longname="FN P90 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4593" name="ST Kinetics SSW" longname="ST Kinetics SSW">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4596" name="QCQ-05" longname="QCQ-05">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4597" name="QCW-05" longname="QCW-05">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="16" name="Type 85" longname="Type 85">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4602" name="Type 85 - folded" longname="Type 85 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4603" name="Type 85A" longname="Type 85A">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4604" name="PPsh-41" longname="PPsh-41">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4605" name="SA-24" longname="SA-24">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4606" name="Zastava M56" longname="Zastava M56">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4607" name="Zastava M56 - folded" longname="Zastava M56 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4608" name="Bizon 2-07" longname="Bizon 2-07">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4609" name="Bizon 2-07 - folded" longname="Bizon 2-07 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4610" name="OTs 39" longname="OTs 39">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4611" name="OTs 39 - folded" longname="OTs 39 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4621" name="Type 85 7.63" longname="Type 85 7.63">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4622" name="Type 85 - folded 7.63" longname="Type 85 - folded 7.63">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4623" name="Type 85A 7.63" longname="Type 85A 7.63">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4624" name="PPsh-41 7.63" longname="PPsh-41 7.63">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4625" name="SA-24 7.63" longname="SA-24 7.63">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4626" name="Zastava M56 7.63" longname="Zastava M56 7.63">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4627" name="Zastava M56 - folded 7.63" longname="Zastava M56 - folded 7.63">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4628" name="Bizon 2-07 7.63" longname="Bizon 2-07 7.63">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4629" name="Bizon 2-07 - folded 7.63" longname="Bizon 2-07 - folded 7.63">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4630" name="OTs 39 7.63" longname="OTs 39 7.63">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4631" name="OTs 39 - folded 7.63" longname="OTs 39 - folded 7.63">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4641" name="KAC PDW 8&quot;" longname="KAC PDW 8&quot;">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4642" name="KAC PDW 8&quot; - folded" longname="KAC PDW 8&quot; - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4643" name="KAC PDW 10&quot;" longname="KAC PDW 10&quot;">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4644" name="KAC PDW 10&quot; - folded" longname="KAC PDW 10&quot; - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4645" name="Magpul PDR" longname="Magpul PDR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4646" name="MSMC" longname="MSMC">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4647" name="MSMC - collapsed" longname="MSMC - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4648" name="3-TEN .45WM Carbine" longname="3-TEN .45WM Carbine">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4650" name="MAS-38" longname="MAS-38">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4651" name="Savage Arms Model 25" longname="Savage Arms Model 25">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4652" name="CZ 527" longname="CZ 527">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4654" name="Kel-Tec CMR-30" longname="Kel-Tec CMR-30">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4655" name="Kel-Tec CMR-30 -  collapsed" longname="Kel-Tec CMR-30 -  collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4656" name="Grendel R31" longname="Grendel R31">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4657" name="Grendel R31 -  collapsed" longname="Grendel R31 -  collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4658" name="Baikal MP161" longname="Baikal MP161">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4659" name="CZ 512" longname="CZ 512">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4661" name="Sako 85 Finnlight" longname="Sako 85 Finnlight">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4662" name="Armalite AR-10 .243" longname="Armalite AR-10 .243">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4671" name="Winchester 1894" longname="Winchester 1894">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4672" name="Savage Arms Model 340" longname="Savage Arms Model 340">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4681" name="Winchester 1895" longname="Winchester 1895">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4682" name="Krag–Jorgensen" longname="Krag–Jorgensen">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4683" name="Blake Rifle" longname="Blake Rifle">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4686" name="Henry Model H010" longname="Henry Model H010">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4687" name="Sharps Carbine" longname="Sharps Carbine">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4691" name="RRA LAR-458 X-1" longname="RRA LAR-458 X-1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4692" name=".458 SOCOM 8&quot; Carbine" longname=".458 SOCOM 8&quot; Carbine">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4693" name=".458 SOCOM 12&quot; Carbine" longname=".458 SOCOM 12&quot; Carbine">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4694" name=".458 SOCOM 16&quot; Carbine" longname=".458 SOCOM 16&quot; Carbine">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4696" name="Hi-Point 1095TS" longname="Hi-Point 1095TS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="68" name="Calico M-900" longname="Calico M-900">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4702" name="Calico M-900A" longname="Calico M-900A">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4703" name="SDK Silenced Rifle" longname="SDK Silenced Rifle">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4704" name="Marlin Camp Carbine 9" longname="Marlin Camp Carbine 9">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4705" name="Kel-Tec Sub-2000" longname="Kel-Tec Sub-2000">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4706" name="Kel-Tec Sub-2000 - folded" longname="Kel-Tec Sub-2000 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4707" name="Artillery Luger LP08" longname="Artillery Luger LP08">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4711" name="DeLisle Carbine" longname="DeLisle Carbine">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4712" name="HK USC" longname="HK USC">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4713" name="Marlin Camp Carbine 45" longname="Marlin Camp Carbine 45">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4716" name="Henry Big Boy .44 Rifle" longname="Henry Big Boy .44 Rifle">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4717" name="Winchester 94 Trapper" longname="Winchester 94 Trapper">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4718" name="Mare's Leg" longname="Mare's Leg">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4719" name="Ruger Deerfield" longname="Ruger Deerfield">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4721" name="Puma .454" longname="Puma .454">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4722" name="Puma .357" longname="Puma .357">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4723" name="Winchester Model 1907" longname="Winchester Model 1907">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4724" name="Winchester Model 1907 FA" longname="Winchester Model 1907 FA">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4725" name="Uberti 1873 Revolver Carbine" longname="Uberti 1873 Revolver Carbine">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4726" name="Rossi Circuit Judge .45" longname="Rossi Circuit Judge .45">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4730" name="FN PS90" longname="FN PS90">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4731" name="FN PS90 RAS" longname="FN PS90 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4734" name="Armalon Pistol Carbine" longname="Armalon Pistol Carbine">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4736" name="Saiga Rifle 5.45" longname="Saiga Rifle 5.45">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4737" name="Saiga Rifle 5.45 RAS" longname="Saiga Rifle 5.45 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4738" name="Molot Vepr 5.45" longname="Molot Vepr 5.45">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4741" name="Ruger Ranch Rifle" longname="Ruger Ranch Rifle">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="22" name="Ruger Mini-14" longname="Ruger Mini-14">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4743" name="Ruger Mini-14 EBR" longname="Ruger Mini-14 EBR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4744" name="Ruger Mini-14 F" longname="Ruger Mini-14 F">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4745" name="Ruger Mini-14 F - folded" longname="Ruger Mini-14 F - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4746" name="Ruger AC-556" longname="Ruger AC-556">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4747" name="Ruger AC-556 EBR" longname="Ruger AC-556 EBR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4748" name="Ruger AC-556 F" longname="Ruger AC-556 F">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4749" name="Ruger AC-556 F - folded" longname="Ruger AC-556 F - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4750" name="BMS Milcam" longname="BMS Milcam">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4751" name="HK SL6" longname="HK SL6">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4752" name="HK SL8" longname="HK SL8">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4753" name="HK SL8 RAS" longname="HK SL8 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4754" name="Saiga Rifle 5.56" longname="Saiga Rifle 5.56">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4755" name="Saiga Rifle 5.56 RAS" longname="Saiga Rifle 5.56 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4756" name="Anschütz 1770" longname="Anschütz 1770">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4757" name="Benelli MR1" longname="Benelli MR1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4758" name="Remington SPS" longname="Remington SPS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4759" name="FN FS2000" longname="FN FS2000">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4764" name="Arisaka Type 44" longname="Arisaka Type 44">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4766" name="Arisaka Type 99" longname="Arisaka Type 99">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4771" name="MAS-49/56" longname="MAS-49/56">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4772" name="L1A1 SLR" longname="L1A1 SLR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4773" name="Molot Vepr" longname="Molot Vepr">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4774" name="Kel-Tec RFB" longname="Kel-Tec RFB">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4775" name="Remington 7600P" longname="Remington 7600P">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4776" name="Springfield M1A" longname="Springfield M1A">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4777" name="Springfield M1A EBR" longname="Springfield M1A EBR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4778" name="Springfield SOCOM 16" longname="Springfield SOCOM 16">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4779" name="Springfield SOCOM 16 EBR" longname="Springfield SOCOM 16 EBR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4780" name="Izmash Tigr-308" longname="Izmash Tigr-308">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4781" name="Remington 700 BDL" longname="Remington 700 BDL">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4782" name="Santa Barbara FR 8" longname="Santa Barbara FR 8">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4783" name="M1 Garand MK2Mod1" longname="M1 Garand MK2Mod1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4784" name="Saiga Rifle .308" longname="Saiga Rifle .308">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4785" name="Saiga Rifle .308 RAS" longname="Saiga Rifle .308 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="17" name="SKS" longname="SKS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4792" name="Type 56 SKS" longname="Type 56 SKS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4793" name="SKS Tactical" longname="SKS Tactical">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4794" name="Ruger Mini-30" longname="Ruger Mini-30">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4795" name="Ruger AC-762" longname="Ruger AC-762">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4796" name="CZ vz.52/57" longname="CZ vz.52/57">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4797" name="Radom Hunter" longname="Radom Hunter">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4798" name="SG SKS Carbine" longname="SG SKS Carbine">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4799" name="Saiga Rifle 762WP" longname="Saiga Rifle 762WP">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4800" name="Saiga Rifle 762WP RAS" longname="Saiga Rifle 762WP RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4801" name="Mosin-Nagant M1891/30" longname="Mosin-Nagant M1891/30">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4802" name="Mosin-Nagant M38" longname="Mosin-Nagant M38">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4803" name="Simonov AVS-36" longname="Simonov AVS-36">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4804" name="Tokarev SVT-40" longname="Tokarev SVT-40">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4805" name="Izmash Tigr" longname="Izmash Tigr">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4806" name="Winchester 1895 Russian" longname="Winchester 1895 Russian">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4807" name="Saiga Rifle 54R" longname="Saiga Rifle 54R">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4808" name="Saiga Rifle 54R RAS" longname="Saiga Rifle 54R RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4811" name="Mauser Karabiner 98k" longname="Mauser Karabiner 98k">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4813" name="G43" longname="G43">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4814" name="Carcano M91/38 TS" longname="Carcano M91/38 TS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4819" name="Armalon AL30C" longname="Armalon AL30C">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4820" name="HEZI SM-1" longname="HEZI SM-1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4821" name="M1 Carbine" longname="M1 Carbine">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4822" name="M1A1 Carbine" longname="M1A1 Carbine">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4823" name="M1A1 Carbine - folded" longname="M1A1 Carbine - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4824" name="M1 Carbine EBR" longname="M1 Carbine EBR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4825" name="M1A1 Carbine EBR" longname="M1A1 Carbine EBR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4826" name="M2 Carbine" longname="M2 Carbine">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4827" name="M2 Carbine EBR" longname="M2 Carbine EBR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4828" name="Marlin 62" longname="Marlin 62">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4831" name="M1 Garand" longname="M1 Garand">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4832" name="M1 Garand EBR" longname="M1 Garand EBR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4833" name="M1 Garand T26" longname="M1 Garand T26">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4834" name="M1 Garand T26 EBR" longname="M1 Garand T26 EBR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4835" name="Browning BAR Mk. II" longname="Browning BAR Mk. II">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4836" name="M1917 Enfield" longname="M1917 Enfield">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4837" name="Springfield M1903" longname="Springfield M1903">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4838" name="Saiga Rifle 3006" longname="Saiga Rifle 3006">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4839" name="Saiga Rifle 3006 RAS" longname="Saiga Rifle 3006 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4840" name="M1941 Johnson" longname="M1941 Johnson">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4841" name="Ruger 10/22" longname="Ruger 10/22">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4842" name="Armalite AR-7 Survival Rifle" longname="Armalite AR-7 Survival Rifle">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4843" name="Armalite AR-7 - folded" longname="Armalite AR-7 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4844" name="Calico M-100" longname="Calico M-100">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4845" name="Calico M-100 - collpased" longname="Calico M-100 - collpased">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4848" name="Kel-Tec Sub-2000 .40" longname="Kel-Tec Sub-2000 .40">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4849" name="Kel-Tec Sub-2000 .40 - folded" longname="Kel-Tec Sub-2000 .40 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4851" name="AA Beowulf 12&quot;" longname="AA Beowulf 12&quot;">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4852" name="AA Beowulf 12&quot; RAS" longname="AA Beowulf 12&quot; RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4853" name="AA Beowulf 16&quot;" longname="AA Beowulf 16&quot;">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4854" name="AA Beowulf 16&quot; RAS" longname="AA Beowulf 16&quot; RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4855" name="AA Beowulf Rifle 20&quot;" longname="AA Beowulf Rifle 20&quot;">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4856" name="AA Beowulf Rifle 20&quot; RAS" longname="AA Beowulf Rifle 20&quot; RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4861" name="Gressar" longname="Gressar">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4862" name="Benelli R-1 Standard" longname="Benelli R-1 Standard">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4863" name="Haenel SLB 2000 .300 WM" longname="Haenel SLB 2000 .300 WM">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4864" name="Nemo Omen ASP" longname="Nemo Omen ASP">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4866" name="Krieghoff .470 Nitro" longname="Krieghoff .470 Nitro">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4867" name="Gibson Elephant Gun" longname="Gibson Elephant Gun">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4871" name="Pattern 1914 Enfield" longname="Pattern 1914 Enfield">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4872" name="SMLE No 5 Mk I Jungle Carbine" longname="SMLE No 5 Mk I Jungle Carbine">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4873" name="SMLE No 4 Mk I" longname="SMLE No 4 Mk I">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4876" name="Ruger Mini-68" longname="Ruger Mini-68">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4877" name="Ruger Mini-68 EBR" longname="Ruger Mini-68 EBR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4879" name="Ruger American Ranch Rifle" longname="Ruger American Ranch Rifle">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4881" name="Izmash Tigr-9" longname="Izmash Tigr-9">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4891" name="AA Grendel AWS 20&quot;" longname="AA Grendel AWS 20&quot;">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4896" name="Mauser C96 Carbine" longname="Mauser C96 Carbine">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4897" name="Volkssturmgewehr 1-5" longname="Volkssturmgewehr 1-5">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4898" name="M1903 Pedersen" longname="M1903 Pedersen">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4899" name="MAS-36" longname="MAS-36">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4900" name="MAS-49" longname="MAS-49">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4901" name="ColtCanada C7CT" longname="ColtCanada C7CT">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4902" name="Wieger StG 945" longname="Wieger StG 945">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4903" name="Zbroyar Z-008" longname="Zbroyar Z-008">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4904" name="HK 33 SG/1" longname="HK 33 SG/1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4905" name="SSG 82" longname="SSG 82">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4906" name="QBU-88" longname="QBU-88">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4911" name="HK PSG1" longname="HK PSG1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4912" name="Beretta M501" longname="Beretta M501">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4913" name="Knight SR-25" longname="Knight SR-25">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4914" name="CZ 700" longname="CZ 700">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4915" name="FR-F2" longname="FR-F2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4916" name="HK MSG90A1" longname="HK MSG90A1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4917" name="M21 Tactical" longname="M21 Tactical">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4918" name="M21 EBR" longname="M21 EBR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4919" name="M40A1" longname="M40A1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4920" name="Parker Hale M82" longname="Parker Hale M82">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4921" name="Sako TRG 22" longname="Sako TRG 22">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4922" name="Steyr Scout Tactical" longname="Steyr Scout Tactical">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4923" name="Steyr SSG-P1" longname="Steyr SSG-P1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4924" name="Desert Tactical Arms SRS" longname="Desert Tactical Arms SRS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4925" name="IMI Galil Sniper" longname="IMI Galil Sniper">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4926" name="Walther WA 2000 7.62" longname="Walther WA 2000 7.62">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4927" name="Blaser R93 7.62" longname="Blaser R93 7.62">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4928" name="Zastava M76" longname="Zastava M76">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4929" name="Zastava M76S" longname="Zastava M76S">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4930" name="Zastava M76S - folded" longname="Zastava M76S - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="19" name="M24" longname="M24">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4932" name="AI AWS" longname="AI AWS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4933" name="AI AWS - folded" longname="AI AWS - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4934" name="Saritch 308" longname="Saritch 308">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4935" name="L129A1" longname="L129A1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4936" name="Mk 14 Mod 0 EBR" longname="Mk 14 Mod 0 EBR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4951" name="Tabuk DMR" longname="Tabuk DMR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4952" name="Howa MiniAction 7.62" longname="Howa MiniAction 7.62">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4961" name="Barrett M82A2" longname="Barrett M82A2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4962" name="Barrett M82A1M (M82A3)" longname="Barrett M82A1M">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4963" name="McMillan TAC-50" longname="McMillan TAC-50">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4964" name="PGM Ultima Ratio Hecate II" longname="PGM Ultima Ratio Hecate II">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4965" name="Gepard M6 Lynx" longname="Gepard M6 Lynx">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4966" name="Zvi Falcon OP-96" longname="Zvi Falcon OP-96">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4971" name="Gepard M2" longname="Gepard M2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4972" name="KSVK" longname="KSVK">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4973" name="OSV-96" longname="OSV-96">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4974" name="V-94" longname="V-94">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4981" name="VSSK Vychlop" longname="VSSK Vychlop">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4982" name="VKS" longname="VKS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4983" name="VSV-300" longname="VSV-300">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4986" name="PTRD" longname="PTRD">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4987" name="PTRS" longname="PTRS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4991" name="VSS Vintorez" longname="VSS Vintorez">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4992" name="VSS-M" longname="VSS-M">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4993" name="VSk-94" longname="VSk-94">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="18" name="Dragunov SVD" longname="Dragunov SVD">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5002" name="Dragunov SVDS" longname="Dragunov SVDS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5003" name="Dragunov SVDS - folded" longname="Dragunov SVDS - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5004" name="Dragunov SVD EBR" longname="Dragunov SVD EBR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5005" name="Dragunov SVD Speznaz" longname="Dragunov SVD Speznaz">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5006" name="Dragunov SVU" longname="Dragunov SVU">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5007" name="Dragunov SVU-A" longname="Dragunov SVU-A">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5008" name="SV-98" longname="SV-98">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5009" name="OTs 48K" longname="OTs 48K">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5010" name="PSL-54C" longname="PSL-54C">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5021" name="AI AWM" longname="AI AWM">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5022" name="AI AWM - folded" longname="AI AWM - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5023" name="AI AX338" longname="AI AX338">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5024" name="Barrett M98" longname="Barrett M98">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5025" name="DSR-1" longname="DSR-1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5026" name="Erma SR-100" longname="Erma SR-100">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5027" name="Sako TRG 42" longname="Sako TRG 42">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5028" name="AA Ulfberht" longname="AA Ulfberht">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5031" name="HK SL9SD" longname="HK SL9SD">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5032" name="Whisper Kitty" longname="Whisper Kitty">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5033" name="Whisper Kitty RAS" longname="Whisper Kitty RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5041" name="Benelli R-1 Sniper" longname="Benelli R-1 Sniper">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5042" name="Blaser R93 LRS2" longname="Blaser R93 LRS2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5043" name="S&amp;O Shorty" longname="S&amp;O Shorty">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5044" name="Walther WA 2000" longname="Walther WA 2000">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5045" name="M2010 ESR" longname="M2010 ESR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5051" name="Mauser M-03" longname="Mauser M-03">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5061" name="Noveske N4 XPR" longname="Noveske N4 XPR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5066" name="AAC Blackout 16&quot; Rifle" longname="AAC Blackout 16&quot; Rifle">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5071" name="Remington Model 710" longname="Remington Model 710">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5072" name="Blaser R93 .30-06" longname="Blaser R93 .30-06">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5073" name="Springfield M1903A4" longname="Springfield M1903A4">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5076" name="Barrett M82A1 .416" longname="Barret M82A1 .416">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5077" name="McMillan TAC-416" longname="McMillan TAC-416">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5081" name="CheyTac Intervention M200" longname="CheyTac Intervention M200">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5082" name="CheyTac Intervention M200 - collapsed" longname="CheyTac Intervention M200 - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5083" name="Lobaev SVL" longname="Lobaev SVL">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5084" name="Vigilance VR1" longname="Vigilance VR1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5091" name="Dragunov SVDK" longname="Dragunov SVDK">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5092" name="Dragunov SVDK - folded" longname="Dragunov SVDK - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5093" name="Blaser R93 Attaché" longname="Blaser R93 Attaché">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5096" name="AA Grendel GDMR" longname="AA Grendel GDMR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5097" name="Howa MiniAction Grendel" longname="Howa MiniAction Grendel">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5100" name="FR-F1" longname="FR-F1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5101" name="AK-74U" longname="AK-74U">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="14" name="AKS-74U" longname="AKS-74U">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5103" name="AKS-74U - folded" longname="AKS-74U - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5104" name="AKS-74UM" longname="AKS-74UM">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5105" name="AKS-74UM - folded" longname="AKS-74UM - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5106" name="AKS-74U Tactical" longname="AKS-74U Tactical">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="25" name="AK-74" longname="AK-74">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5108" name="AKS-74" longname="AKS-74">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5109" name="AKS-74 - folded" longname="AKS-74 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5110" name="AK-74 Tactical" longname="AK-74 Tactical">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5111" name="AK-74M" longname="AK-74M">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5112" name="AK-74M - folded" longname="AK-74M - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5113" name="AK-74M RAS" longname="AK-74M RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5114" name="AK-74M RAS - folded" longname="AK-74M RAS - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5115" name="AK-105" longname="AK-105">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5116" name="AK-105 - folded" longname="AK-105 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5117" name="AK-105 RAS" longname="AK-105 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5118" name="AK-105 RAS - folded" longname="AK-105 RAS - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5119" name="AK-107" longname="AK-107">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5120" name="AK-107 - folded" longname="AK-107 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5121" name="AK-107 RAS" longname="AK-107 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5122" name="AK-107 RAS - folded" longname="AK-107 RAS - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5123" name="AK-12K" longname="AK-12K">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5124" name="AK-12" longname="AK-12">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5125" name="AEK-971" longname="AEK-971">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5126" name="AEK-971 - folded" longname="AEK-971 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5127" name="AN-94 Abakan" longname="AN-94 Abakan">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5128" name="AN-94 Abakan - folded" longname="AN-94 Abakan - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5129" name="S&amp;W M&amp;P15R" longname="S&amp;W M&amp;P15R">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5130" name="S&amp;W M&amp;P15R MWS" longname="S&amp;W M&amp;P15R MWS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5131" name="AG-043" longname="AG-043">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5132" name="AG-043 - folded" longname="AG-043 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5136" name="ADS" longname="ADS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="12" name="Colt M4 Commando" longname="Colt M4 Commando">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5142" name="Colt MK18 Mod. 0" longname="Colt MK18 Mod. 0">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5143" name="Colt M4A1" longname="Colt M4A1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5144" name="Colt M4 MWS" longname="Colt M4 MWS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5145" name="Colt XM177-E1" longname="Colt XM177-E1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5146" name="Colt M16A1" longname="Colt M16A1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5147" name="Colt M16A2" longname="Colt M16A2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5148" name="Colt M16A2E1" longname="Colt M16A2E1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5149" name="Colt M16A4" longname="Colt M16A4">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5150" name="Colt M16A4 MWS" longname="Colt M16A4 MWS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5151" name="SEAL Recon Rifle" longname="SEAL Recon Rifle">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5152" name="Mk 12 SPR Mod 1" longname="Mk 12 SPR Mod 1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5153" name="Colt ACR 5.56" longname="Colt ACR 5.56">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5154" name="LaFrance M16K" longname="LaFrance M16K">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5155" name="Beretta AR-70/90" longname="Beretta AR-70/90">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5156" name="Diemaco C8A2" longname="Diemaco C8A2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="23" name="Diemaco C7A2" longname="Diemaco C7A2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="21" name="HK G41A2" longname="HK G41A2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="13" name="HK 53A3" longname="HK 53A3">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5160" name="HK 53A3 RAS" longname="HK 53A3 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5161" name="HK 53A4" longname="HK 53A4">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5162" name="HK 53A4 - collapsed" longname="HK 53A4 - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5163" name="HK 53A4 RAS" longname="HK 53A4 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5164" name="HK 53A4 RAS - collapsed" longname="HK 53A4 RAS - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5165" name="HK 33KA3" longname="HK 33KA3">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5166" name="HK 33KA3 RAS" longname="HK 33KA3 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5167" name="HK 33KA4" longname="HK 33KA4">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5168" name="HK 33KA4 - collapsed" longname="HK 33KA4 - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5169" name="HK 33KA4 RAS" longname="HK 33KA4 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5170" name="HK 33KA4 RAS - collapsed" longname="HK 33KA4 RAS - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5171" name="HK 33A2" longname="HK 33A2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5172" name="HK 33A2 RAS" longname="HK 33A2 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5173" name="HK 33A3" longname="HK 33A3">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5174" name="HK 33A3 - collapsed" longname="HK 33A3 - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5175" name="HK 33A3 RAS" longname="HK 33A3 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5176" name="HK 33A3 RAS - collapsed" longname="HK 33A3 RAS - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5177" name="ACR 10&quot; 5.56" longname="ACR 10&quot; 5.56">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5178" name="ACR 10&quot; 5.56 - folded" longname="ACR 10&quot; 5.56 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5179" name="ACR 15&quot; 5.56" longname="ACR 15&quot; 5.56">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5180" name="ACR 15&quot; 5.56 - folded" longname="ACR 15&quot; 5.56 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5181" name="ACR 18&quot; 5.56" longname="ACR 18&quot; 5.56">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5182" name="ACR 18&quot; 5.56 - folded" longname="ACR 18&quot; 5.56 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5183" name="Daewoo K1A" longname="Daewoo K1A">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5184" name="Daewoo K1A - folded" longname="Daewoo K1A - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5185" name="Daewoo K1A2" longname="Daewoo K1A2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5186" name="Daewoo K2" longname="Daewoo K2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5187" name="Daewoo K2 - folded" longname="Daewoo K2 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5188" name="Daewoo K2C1" longname="Daewoo K2C1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5189" name="HK G36C" longname="HK G36C">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5190" name="HK G36C - folded" longname="HK G36C - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5191" name="HK G36K" longname="HK G36K">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5192" name="HK G36K - folded" longname="HK G36K - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5193" name="HK G36K RAS" longname="HK G36K RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5194" name="HK G36K RAS - folded" longname="HK G36K RAS - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5195" name="HK G36" longname="HK G36">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5196" name="HK G36 - folded" longname="HK G36 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5197" name="HK G36 RAS" longname="HK G36 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5198" name="HK G36 RAS - folded" longname="HK G36 RAS - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5199" name="HK 416 10&quot;" longname="HK 416 10&quot;">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5200" name="HK 416 14&quot;" longname="HK 416 14&quot;">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5201" name="HK 416 16&quot;" longname="HK 416 16&quot;">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5202" name="HK 416 20&quot;" longname="HK 416 20&quot;">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5203" name="SIG SG552" longname="SIG SG552">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5204" name="SIG SG552 - folded" longname="SIG SG552 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5205" name="SIG SG551" longname="SIG SG551">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5206" name="SIG SG551 - folded" longname="SIG SG551 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5207" name="SIG SG550" longname="SIG SG550">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5208" name="SIG SG550 - folded" longname="SIG SG550 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5209" name="SIG SG540" longname="SIG SG540">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5210" name="SIG SG540 - folded" longname="SIG SG540 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5211" name="AK-101" longname="AK-101">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5212" name="AK-101 - folded" longname="AK-101 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5213" name="AK-101 RAS" longname="AK-101 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5214" name="AK-101 RAS - folded" longname="AK-101 RAS - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5215" name="AK-102" longname="AK-102">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5216" name="AK-102 - folded" longname="AK-102 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5217" name="AK-102 RAS" longname="AK-102 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5218" name="AK-102 RAS - folded" longname="AK-102 RAS - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5219" name="AK-108" longname="AK-108">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5220" name="AK-108 - folded" longname="AK-108 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5221" name="AK-108 RAS" longname="AK-108 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5222" name="AK-108 RAS - folded" longname="AK-108 RAS - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5223" name="IMI Micro Galil M1" longname="IMI Micro Galil M1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5224" name="IMI Micro Galil" longname="IMI Micro Galil">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5225" name="IMI Micro Galil - folded" longname="IMI Micro Galil - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5226" name="IMI Galil SAR M1" longname="IMI Galil SAR M1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5227" name="IMI Galil SAR" longname="IMI Galil SAR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5228" name="IMI Galil SAR - folded" longname="IMI Galil SAR - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5229" name="IMI Galil AR M1" longname="IMI Galil AR M1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5230" name="IMI Galil AR" longname="IMI Galil AR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5231" name="IMI Galil AR - folded" longname="IMI Galil AR - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5232" name="Vektor R6 M1" longname="Vektor R6 M1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5233" name="Vektor R6" longname="Vektor R6">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5234" name="Vektor R6 - folded" longname="Vektor R6 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5235" name="Vektor R5 M1" longname="Vektor R5 M1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5236" name="Vektor R5" longname="Vektor R5">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5237" name="Vektor R5 - folded" longname="Vektor R5 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5238" name="Vektor R4 M1" longname="Vektor R4 M1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5239" name="Vektor R4" longname="Vektor R4">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5240" name="Vektor R4 - folded" longname="Vektor R4 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5244" name="INSAS" longname="INSAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5245" name="Valmet M71" longname="Valmet M71">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5246" name="Valmet M71F" longname="Valmet M71F">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5247" name="Valmet M71F - folded" longname="Valmet M71F - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5248" name="Armalite AR-18S" longname="Armalite AR-18S">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5249" name="Armalite AR-18S - folded" longname="Armalite AR-18S - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5250" name="Armalite AR-18" longname="Armalite AR-18">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5251" name="Armalite AR-18 - folded" longname="Armalite AR-18 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5252" name="FN FNC" longname="FN FNC">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5253" name="FN FNC - folded" longname="FN FNC - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5254" name="FN SCAR-L CQC" longname="FN SCAR-L CQC">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5255" name="FN SCAR-L CQC - folded" longname="FN SCAR-L CQC - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5256" name="FN SCAR-L SV" longname="FN SCAR-L SV">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5257" name="FN SCAR-L SV - folded" longname="FN SCAR-L SV - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5258" name="XM-8 Compact Carbine" longname="XM-8 Compact Carbine">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5259" name="XM-8 Short Carbine" longname="XM-8 Short Carbine">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5260" name="XM-8 Baseline Carbine" longname="XM-8 Baseline Carbine">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5261" name="XM-8 Sharpshooter" longname="XM-8 Sharpshooter">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5262" name="Kbk Mini-Beryl" longname="Kbk Mini-Beryl">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5263" name="Kbk Mini-Beryl - folded" longname="Kbk Mini-Beryl - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5264" name="Kbs Beryl" longname="Kbs Beryl">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5265" name="Kbs Beryl - folded" longname="Kbs Beryl - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5266" name="Wieger StG 941" longname="Wieger StG 941">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5267" name="Wieger StG 942" longname="Wieger StG 942">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5268" name="Wieger StG 942 - folded" longname="Wieger StG 942 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5269" name="Wieger StG 943" longname="Wieger StG 943">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5270" name="Wieger StG 943 - folded" longname="Wieger StG 943 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5271" name="Noveske N4 Diplomat" longname="Noveske N4 Diplomat">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5272" name="Noveske N4 Complete" longname="Noveske N4 Complete">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5273" name="SIG MCX 556" longname="SIG MCX 556">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5274" name="SIG MCXS 556" longname="SIG MCXS 556">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5276" name="DTA MDRC 5.56" longname="DTA MDRC 5.56">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5277" name="DTA MDR 5.56" longname="DTA MDR 5.56">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5278" name="Valmet M82" longname="Valmet M82">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5279" name="L22A1" longname="L22A1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5280" name="L85A2" longname="L85A2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5281" name="Steyr AUG-A1" longname="Steyr AUG-A1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5282" name="Steyr AUG-A2 CQB" longname="Steyr AUG-A2 CQB">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5283" name="Steyr AUG-A2 CQB RAS" longname="Steyr AUG-A2 CQB RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="20" name="Steyr AUG-A2" longname="Steyr AUG-A2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5285" name="Steyr AUG-A2 RAS" longname="Steyr AUG-A2 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5286" name="F88 Austeyr CQB" longname="F88 Austeyr CQB">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5287" name="F88 Austeyr CQB RAS" longname="F88 Austeyr CQB RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5288" name="F88 Austeyr" longname="F88 Austeyr">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5289" name="F88 Austeyr RAS" longname="F88 Austeyr RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5290" name="Thales F90" longname="Thales F90">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5291" name="AICW" longname="AICW">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5292" name="XM-29 OICW" longname="XM-29 OICW">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5293" name="Daewoo K11" longname="Daewoo K11">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="24" name="FAMAS F1" longname="FAMAS F1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5295" name="FAMAS G2" longname="FAMAS G2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5296" name="QBZ-97" longname="QBZ-97">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5297" name="SAR 21" longname="SAR 21">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5298" name="Tavor MTAR-21" longname="Tavor MTAR-21">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5299" name="Tavor TAR 21" longname="Tavor TAR 21">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5300" name="FN F2000" longname="FN F2000">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5301" name="Armalite AR-10" longname="Armalite AR-10">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5302" name="Beretta BM-59E" longname="Beretta BM-59E">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5303" name="Beretta BM-59 Para" longname="Beretta BM-59 Para">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5304" name="Beretta BM-59 Para - folded" longname="Beretta BM-59 Para - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5305" name="IMI Romat" longname="IMI Romat">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5306" name="IMI Galil AR 7.62 M1" longname="IMI Galil AR 7.62 M1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5307" name="IMI Galil AR 7.62" longname="IMI Galil AR 7.62">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5308" name="IMI Galil AR 7.62 - folded" longname="IMI Galil AR 7.62 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5309" name="SIG SG542" longname="SIG SG542">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5310" name="CETME Modelo C" longname="CETME Modelo C">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="28" name="FN FAL" longname="FN FAL">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5312" name="FN FAL Carbine" longname="FN FAL Carbine">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5313" name="FN FAL OSW" longname="FN FAL OSW">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5314" name="FN FAL OSW - folded" longname="FN FAL OSW - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5315" name="FN SCAR-H CQC" longname="FN SCAR-H CQC">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5316" name="FN SCAR-H CQC - folded" longname="FN SCAR-H CQC - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5317" name="FN SCAR-H SV" longname="FN SCAR-H SV">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5318" name="FN SCAR-H SV - folded" longname="FN SCAR-H SV - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5319" name="FR Ordnance MC51" longname="FR Ordnance MC51">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5320" name="FR Ordnance MC51 RAS" longname="FR Ordnance MC51 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5321" name="FR Ordnance MC51A2" longname="FR Ordnance MC51A2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5322" name="FR Ordnance MC51A2 - collapsed" longname="FR Ordnance MC51A2 - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5323" name="FR Ordnance MC51A2 RAS" longname="FR Ordnance MC51A2 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5324" name="FR Ordnance MC51A2 RAS - collapsed" longname="FR Ordnance MC51A2 RAS - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5325" name="FR Ordnance MC51 SD" longname="FR Ordnance MC51 SD">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5326" name="FR Ordnance MC51 RAS SD" longname="FR Ordnance MC51 RAS SD">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5327" name="FR Ordnance MC51A2 SD" longname="FR Ordnance MC51A2 SD">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5328" name="FR Ordnance MC51A2 SD - collapsed" longname="FR Ordnance MC51A2 SD - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5329" name="FR Ordnance MC51A2 RAS SD" longname="FR Ordnance MC51A2 RAS SD">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5330" name="FR Ordnance MC51A2 RAS SD - collapsed" longname="FR Ordnance MC51A2 RAS SD - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5331" name="HK G3KA3" longname="HK G3KA3">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5332" name="HK G3KA3 RAS" longname="HK G3KA3 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5333" name="HK G3KA4" longname="HK G3KA4">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5334" name="HK G3KA4 - collapsed" longname="HK G3KA4 - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5335" name="HK G3KA4 RAS" longname="HK G3KA4 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5336" name="HK G3KA4 RAS - collapsed" longname="HK G3KA4 RAS - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="29" name="HK G3A3" longname="HK G3A3">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5338" name="HK G3A3 RAS" longname="HK G3A3 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5339" name="HK 417 12&quot;" longname="HK 417 12&quot;">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5340" name="HK 417 16&quot;" longname="HK 417 16&quot;">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5341" name="HK 417 20&quot;" longname="HK 417 20&quot;">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5342" name="Noveske N4 Leonidas" longname="Noveske N4 Leonidas">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="27" name="M14" longname="M14">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5344" name="M14 EBR" longname="M14 EBR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5345" name="L1A2 Bitch" longname="L1A2 Bitch">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5346" name="DTA MDRC 7.62" longname="DTA MDRC 7.62">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5347" name="DTA MDR 7.62" longname="DTA MDR 7.62">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5351" name="AKMU" longname="AKMU">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5352" name="AKMSU" longname="AKMSU">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5353" name="AKMSU - folded" longname="AKMSU - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5354" name="AKMSU Tactical" longname="AKMSU Tactical">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5355" name="AK-47" longname="AK-47">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5356" name="AKS-47" longname="AKS-47">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5357" name="AKS-47 - folded" longname="AKS-47 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="26" name="AKM" longname="AKM">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5359" name="AKMS" longname="AKMS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5360" name="AKMS - folded" longname="AKMS - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5361" name="AKM Tactical" longname="AKM Tactical">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5362" name="AK-103" longname="AK-103">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5363" name="AK-103 - folded" longname="AK-103 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5364" name="AK-103 RAS" longname="AK-103 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5365" name="AK-103 RAS - folded" longname="AK-103 RAS - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5366" name="AK-104" longname="AK-104">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5367" name="AK-104 - folded" longname="AK-104 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5368" name="AK-104 RAS" longname="AK-104 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5369" name="AK-104 RAS - folded" longname="AK-104 RAS - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5370" name="AK-15K" longname="AK-15K">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5371" name="AK-15" longname="AK-15">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5372" name="SA vz.58" longname="SA vz.58">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5373" name="SA vz.58 - folded" longname="SA vz.58 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5374" name="AMD-65M" longname="AMD-65M">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5375" name="AMD-65M - folded" longname="AMD-65M - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5376" name="AEK-973" longname="AEK-973">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5377" name="AEK-973 - folded" longname="AEK-973 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5378" name="AEK-973S" longname="AEK-973S">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5379" name="AEK-973S - collapsed" longname="AEK-973S - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5380" name="SIG MCX 762" longname="SIG MCX 762">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5381" name="SIG MCXS 762" longname="SIG MCXS 762">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5382" name="Valmet M76" longname="Valmet M76">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5383" name="Valmet M76 - folded" longname="Valmet M76 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5384" name="FN SCAR-WP CQC" longname="FN SCAR-WP CQC">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5385" name="FN SCAR-WP CQC - folded" longname="FN SCAR-WP CQC - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5386" name="FN SCAR-WP" longname="FN SCAR-WP">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5387" name="FN SCAR-WP - folded" longname="FN SCAR-WP - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5388" name="KAC SR-47" longname="KAC SR-47">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5389" name="PWA MK107" longname="PWA MK107">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5390" name="RTS-ZK-SD" longname="RTS-ZK-SD">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5391" name="Type 81" longname="Type 81">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5392" name="Type 81-1" longname="Type 81-1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5393" name="Type 81-1 - folded" longname="Type 81-1 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5394" name="Norinco Type 56" longname="Norinco Type 56">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5395" name="Norinco Type 56-2" longname="Norinco Type 56-2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5396" name="Norinco Type 56-2 - folded" longname="Norinco Type 56-2 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5397" name="Norinco Type 56 Tactical" longname="Norinco Type 56 Tactical">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5398" name="Norinco Type 56C" longname="Norinco Type 56C">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5399" name="Norinco Type 56C-2" longname="Norinco Type 56C-2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5400" name="Norinco Type 56C-2 - folded" longname="Norinco Type 56C-2 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5401" name="Norinco Type 56C Tactical" longname="Norinco Type 56C Tactical">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5402" name="Zastava M70" longname="Zastava M70">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5403" name="Zastava M70A" longname="Zastava M70A">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5404" name="Zastava M70A - folded" longname="Zastava M70A - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5405" name="Zastava M70 Tactical" longname="Zastava M70 Tactical">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5406" name="Zastava M92" longname="Zastava M92">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5407" name="Zastava M92A" longname="Zastava M92A">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5408" name="Zastava M92A - folded" longname="Zastava M92A - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5409" name="Zastava M92 Tactical" longname="Zastava M92 Tactical">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5410" name="ACR 10&quot; 7.62WP" longname="ACR 10&quot; 7.62WP">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5411" name="ACR 10&quot; 7.62WP - folded" longname="ACR 10&quot; 7.62WP - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5412" name="ACR 15&quot; 7.62WP" longname="ACR 15&quot; 7.62WP">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5413" name="ACR 15&quot; 7.62WP - folded" longname="ACR 15&quot; 7.62WP - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5414" name="ACR 18&quot; 7.62WP" longname="ACR 18&quot; 7.62WP">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5415" name="ACR 18&quot; 7.62WP - folded" longname="ACR 18&quot; 7.62WP - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5416" name="DTA MDRC WP" longname="DTA MDRC WP">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5417" name="DTA MDR WP" longname="DTA MDR WP">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5418" name="Groza OC-14" longname="Groza OC-14">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5419" name="AR Vintorez SBR" longname="AR Vintorez SBR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5421" name="AS Val" longname="AS Val">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5422" name="AS Val - folded" longname="AS Val - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5423" name="Vikhr SR-3 Compact" longname="Vikhr SR-3 Compact">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5424" name="Vikhr SR-3 Compact - folded" longname="Vikhr SR-3 Compact - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5425" name="OTs 12 Tiss" longname="OTs 12 Tiss">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5426" name="OTs 12 Tiss - folded" longname="OTs 12 Tiss - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5427" name="AK-9" longname="AK-9">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5428" name="AK-9 - folded" longname="AK-9 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5429" name="AK-9 RAS" longname="AK-9 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5430" name="AK-9 RAS - folded" longname="AK-9 RAS - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5431" name="Groza OC-14-4A-01" longname="Groza OC-14-4A-01">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5432" name="9A91" longname="9A91">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5433" name="9A91 - folded" longname="9A91 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5435" name="AR57 6&quot; Silenced" longname="AR57 6&quot; Silenced">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5436" name="AR57 11&quot;" longname="AR57 11&quot;">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5437" name="AR57 16&quot;" longname="AR57 16&quot;">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5438" name="ACR 10&quot; 6.8SPC" longname="ACR 10&quot; 6.8SPC">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5439" name="ACR 10&quot; 6.8SPC - folded" longname="ACR 10&quot; 6.8SPC - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5440" name="ACR 15&quot; 6.8SPC" longname="ACR 15&quot; 6.8SPC">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5441" name="ACR 15&quot; 6.8SPC - folded" longname="ACR 15&quot; 6.8SPC - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5442" name="ACR 18&quot; 6.8SPC" longname="ACR 18&quot; 6.8SPC">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5443" name="ACR 18&quot; 6.8SPC - folded" longname="ACR 18&quot; 6.8SPC - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5444" name="Barrett M468" longname="Barrett M468">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5445" name="Barrett Rec7" longname="Barrett Rec7">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5446" name="Bushmaster M4A3" longname="Bushmaster M4A3">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5447" name="Bushmaster M4A3 RAS" longname="Bushmaster M4A3 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5448" name="Noveske N4 Crusader" longname="Noveske N4 Crusader">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5449" name="Robarms XCR-1" longname="Robarms XCR-1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5450" name="Robarms XCR-1 - folded" longname="Robarms XCR-1 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5451" name="Steyr AUG-A3" longname="Steyr AUG-A3">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5452" name="DTA MDRC 68" longname="DTA MDRC 68">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5453" name="DTA MDR 68" longname="DTA MDR 68">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5454" name="FN SCAR-68 CQC" longname="FN SCAR-68 CQC">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5455" name="FN SCAR-68 CQC - folded" longname="FN SCAR-68 CQC - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5456" name="FN SCAR-68 SV" longname="FN SCAR-68 SV">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5457" name="FN SCAR-68 SV - folded" longname="FN SCAR-68 SV - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5458" name="ACR 10&quot; 6.5 Grendel" longname="ACR 10&quot; 6.5 Grendel">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5459" name="ACR 10&quot; 6.5 Grendel - folded" longname="ACR 10&quot; 6.5 Grendel - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5460" name="ACR 15&quot; 6.5 Grendel" longname="ACR 15&quot; 6.5 Grendel">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5461" name="ACR 15&quot; 6.5 Grendel - folded" longname="ACR 15&quot; 6.5 Grendel - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5462" name="ACR 18&quot; 6.5 Grendel" longname="ACR 18&quot; 6.5 Grendel">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5463" name="ACR 18&quot; 6.5 Grendel - folded" longname="ACR 18&quot; 6.5 Grendel - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5464" name="Steyr ACR" longname="Steyr ACR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5465" name="AAI ACR" longname="AAI ACR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5466" name="Colt ACR" longname="Colt ACR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="30" name="HK G11" longname="HK G11">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5468" name="HK G11 w. G36 Optics" longname="HK G11 w. G36 Optics">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5469" name="HK G11 RAS" longname="HK G11 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5470" name="QBZ-95" longname="QBZ-95">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5471" name="QBZ-95B" longname="QBZ-95B">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5472" name="Type 87" longname="Type 87">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5473" name="Type 87-1" longname="Type 87-1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5474" name="Type 87-1 - folded" longname="Type 87-1 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5475" name="ACR 10&quot; .300BLK" longname="ACR 10&quot; .300BLK">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5476" name="ACR 10&quot; .300BLK - folded" longname="ACR 10&quot; .300BLK - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5477" name="ACR 15&quot; .300BLK" longname="ACR 15&quot; .300BLK">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5478" name="ACR 15&quot; .300BLK - folded" longname="ACR 15&quot; .300BLK - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5479" name="ACR 18&quot; .300BLK" longname="ACR 18&quot; .300BLK">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5480" name="ACR 18&quot; .300BLK - folded" longname="ACR 18&quot; .300BLK - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5481" name="AAC Honey Badger" longname="AAC Honey Badger">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5482" name="AAC Honey Badger - collapsed" longname="AAC Honey Badger - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5483" name="B&amp;T APC300" longname="B&amp;T APC300">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5484" name="B&amp;T APC300 - folded" longname="B&amp;T APC300 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5485" name="SIG MCX 300" longname="SIG MCX 300">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5486" name="SIG MCXS 300" longname="SIG MCXS 300">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5487" name="DTA MDRC 300" longname="DTA MDRC 300">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5488" name="DTA MDR 300" longname="DTA MDR 300">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5489" name="Mkb 42 (H)" longname="Mkb 42 (H)">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5490" name="Sturmgewehr 44" longname="Sturmgewehr 44">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5491" name="MP 44" longname="MP 44">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5492" name="MP 44 - folded" longname="MP 44 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5493" name="CEAM Modèle 1950" longname="CEAM Modèle 1950">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5494" name="FN SCAR-WP Sniper" longname="FN SCAR-WP Sniper">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5495" name="FN SCAR-WP Sniper - folded" longname="FN SCAR-WP Sniper - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5496" name="TsKIB ASh-12.7" longname="TsKIB ASh-12.7">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5497" name="H.C.A.R." longname="H.C.A.R.">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5498" name="MINSAS" longname="MINSAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5499" name="MINSAS - folded" longname="MINSAS - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5500" name="Tavor MTAR-21 Zittara" longname="Tavor MTAR-21 Zittara">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5501" name="*** Airplane MG ***" longname="*** Airplane MG ***">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5502" name="RPK-74M" longname="RPK-74M">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5503" name="RPK-74M - folded" longname="RPK-74M - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5504" name="Tokar-2" longname="Tokar-2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5505" name="RPK-16" longname="RPK-16">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5506" name="RPD" longname="RPD">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5507" name="RPD Commando" longname="RPD Commando">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5508" name="RPK" longname="RPK">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5511" name="Ares M4 Shrike" longname="Ares M4 Shrike">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5512" name="CETME Ameli" longname="CETME Ameli">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5516" name="*** Tank MG ***" longname="*** Tank MG ***">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5517" name="FN Minimi SPW" longname="FN Minimi SPW">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5518" name="FN Minimi SPW - collapsed" longname="FN Minimi SPW - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5521" name="HK 23E" longname="HK 23E">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5522" name="HK MG36" longname="HK MG36">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5523" name="HK MG36 - folded" longname="HK MG36 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5524" name="HK MG36 RAS" longname="HK MG36 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5525" name="HK MG36 RAS - folded" longname="HK MG36 RAS - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5526" name="HK MG4" longname="HK MG4">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5527" name="HK MG4 - folded" longname="HK MG4 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5528" name="HK M27 IAR" longname="HK M27 IAR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5531" name="IMI Negev" longname="IMI Negev">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5532" name="IMI Negev - folded" longname="IMI Negev - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5533" name="KAC Stoner 96 LMG" longname="KAC Stoner 96 LMG">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5534" name="KAC Stoner 96 LMG - collapsed" longname="KAC Stoner 96 LMG - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5535" name="L86A2" longname="L86A2">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5536" name="Steyr AUG HBAR" longname="Steyr AUG HBAR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5537" name="Steyr AUG HBAR RAS" longname="Steyr AUG HBAR RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5538" name="Ultimax" longname="Ultimax">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5539" name="Wieger StG 944" longname="Wieger StG 944">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5540" name="XM-8 Automatic" longname="XM-8 Automatic">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5546" name="QBB-95" longname="QBB-95">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5551" name="FN MAG" longname="FN MAG">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="36" name="HK 21E" longname="HK 21E">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5553" name="HK MG5" longname="HK MG5">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5554" name="HK MG5 - folded" longname="HK MG5 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5555" name="M60E3" longname="M60E3">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5556" name="M240B" longname="M240B">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5557" name="Rheinmetall MG3" longname="Rheinmetall MG3">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5558" name="Zastava M77B1" longname="Zastava M77B1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5559" name="Bren L4 LMG" longname="Bren L4 LMG">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5560" name="Valmet M78/83" longname="Valmet M78/83">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5561" name="M14A1" longname="M14A1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5562" name="M14A1 EBR" longname="M14A1 EBR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5563" name="KAC LW-AMG" longname="KAC LW-AMG">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5564" name="HK G11 LMG" longname="HK G11 LMG">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5565" name="General Dynamics LWMMG" longname="General Dynamics LWMMG">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5566" name="M249 6.8SPC" longname="M249 6.8SPC">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5567" name="M249 6.8SPC - collapsed" longname="M249 6.8SPC - collapsed">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5570" name="Type 11 LMG" longname="Type 11 LMG">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5571" name="Type 96 LMG" longname="Type 96 LMG">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5573" name="Type 99 LMG" longname="Type 99 LMG">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5576" name="Pecheneg" longname="Pecheneg">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5577" name="PKM" longname="PKM">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5578" name="DPM" longname="DP-27 LMG">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5581" name="M1918A2 BAR" longname="M1918A2 BAR">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5582" name="Browning M1919 A4" longname="Browning M1919 A4">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5583" name="Browning M1919 A6" longname="Browning M1919 A6">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5584" name="Colt Monitor R80" longname="Colt Monitor R80">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5586" name="Bren LMG" longname="Bren LMG">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5587" name="Lewis Gun" longname="Lewis Gun">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5591" name="MG34" longname="MG34">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5592" name="MG42" longname="MG42">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5593" name="FG42 Model I" longname="FG42 Model I">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5594" name="FG42 Model II" longname="FG42 Model II">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5595" name="ZB vz. 26" longname="ZB vz. 26">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5596" name="ZB vz. 30" longname="ZB vz. 30">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5598" name="Hotchkiss M1922" longname="Hotchkiss M1922">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5599" name="FM 24/29" longname="FM 24/29">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5600" name="AA-52" longname="AA-52">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5601" name="Auto Assault-12 CQB" longname="Auto Assault-12 CQB">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5602" name="USAS-12" longname="USAS-12">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5603" name="Jackhammer Mk3A1" longname="Jackhammer Mk3A1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5604" name="Akdal MKA 1919" longname="Akdal MKA 1919">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5605" name="Devastator" longname="Devastator">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5606" name="Baikal MP-133" longname="Baikal MP-133">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5607" name="Baikal MP-233B" longname="Baikal MP-233B">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5608" name="Chiappa Triple Threat" longname="Chiappa Triple Threat">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5609" name="Browning Auto-5" longname="Browning Auto-5">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5610" name="Beretta 1301" longname="Beretta 1301">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5611" name="Benelli M3 Convertible" longname="Benelli M3 Convertible">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5612" name="Benelli M3 Convertible - pump" longname="Benelli M3 Convertible - pump">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5613" name="Benelli M4 Super 90" longname="Benelli M4 Super 90">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5614" name="FN TPS" longname="FN TPS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5615" name="MTs-255" longname="MTs-255">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5616" name="Fabarm FP6" longname="Fabarm FP6">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5617" name="Fabarm SDASS" longname="Fabarm SDASS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5618" name="Ithaca Model 37" longname="Ithaca Model 37">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5619" name="Mossberg 500" longname="Mossberg 500">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5620" name="Mossberg 590A1" longname="Mossberg 590A1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="31" name="Remington M870" longname="Remington M870">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5622" name="Remington M870 SBS" longname="Remington M870 SBS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5624" name="Remington M870 Sawed-off" longname="Remington M870 Sawed-off">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5625" name="Remington 870 SPM" longname="Remington 870 SPM">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5626" name="Remington 870 SPM - folded" longname="Remington 870 SPM - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5627" name="Winchester M1887" longname="Winchester M1887">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5628" name="Winchester 1200 Defender" longname="Winchester 1200 Defender">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5631" name="SPAS-12" longname="SPAS-12">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5632" name="SPAS-12 - folded" longname="SPAS-12 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5633" name="SPAS-12 - pump" longname="SPAS-12 - pump">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5634" name="SPAS-12 - pump, folded" longname="SPAS-12 - pump, folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="32" name="SPAS-15" longname="SPAS-15">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5636" name="SPAS-15 - folded" longname="SPAS-15 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5637" name="Street Sweeper" longname="Street Sweeper">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5638" name="Street Sweeper - folded" longname="Street Sweeper - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5639" name="Neostead" longname="Neostead">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5640" name="Kel-Tec KSG Tactical" longname="Kel-Tec KSG Tactical">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5641" name="Kel-Tec KSG Patrol" longname="Kel-Tec KSG Patrol">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5642" name="Kel-Tec KSG" longname="Kel-Tec KSG">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5643" name="Saiga 12K" longname="Saiga 12K">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5644" name="Saiga 12K - folded" longname="Saiga 12K - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5645" name="Saiga 12K RAS" longname="Saiga 12K RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5646" name="Saiga 12K RAS - folded" longname="Saiga 12K RAS - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5647" name="Saiga 12K SWAT" longname="Saiga 12K SWAT">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5648" name="Vepr 12 Tactical" longname="Vepr 12 Tactical">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5649" name="Vepr 12 Tactical - folded" longname="Vepr 12 Tactical - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5650" name="RIA VR60" longname="RIA VR60">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5661" name="Sawed-Off Shotgun" longname="Sawed-Off Shotgun">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5662" name="Super-Shorty Mini-Shotgun" longname="Super-Shorty Mini-Shotgun">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5664" name="KAC Masterkey" longname="KAC Masterkey">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5666" name="Baikal MP-133 *" longname="Baikal MP-133 *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5667" name="Baikal MP-233B *" longname="Baikal MP-233B *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5668" name="Chiappa Triple Threat *" longname="Chiappa Triple Threat *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5669" name="Fabarm FP6 *" longname="Fabarm FP6 *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5670" name="Fabarm SDASS *" longname="Fabarm SDASS *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5671" name="Ithaca Model 37 *" longname="Ithaca Model 37 *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5672" name="Mossberg 500 *" longname="Mossberg 500 *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5673" name="Mossberg 590A1 *" longname="Mossberg 590A1 *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5674" name="Remington M870 *" longname="Remington M870 *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5675" name="Remington M870 SBS *" longname="Remington M870 SBS *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5677" name="Remington M870 Sawed-off *" longname="Remington M870 Sawed-off *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5678" name="Remington 870 SPM *" longname="Remington 870 SPM *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5679" name="Remington 870 SPM - folded *" longname="Remington 870 SPM - folded *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5682" name="Winchester 1200 Defender *" longname="Winchester 1200 Defender *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5683" name="Street Sweeper *" longname="Street Sweeper *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5684" name="Street Sweeper - folded *" longname="Street Sweeper - folded *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5685" name="Neostead *" longname="Neostead *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5686" name="Kel-Tec KSG Tactical *" longname="Kel-Tec KSG Tactical *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5687" name="Kel-Tec KSG Patrol *" longname="Kel-Tec KSG Patrol *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5688" name="Kel-Tec KSG *" longname="Kel-Tec KSG *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5689" name="Sawed-Off Shotgun *" longname="Sawed-Off Shotgun *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5690" name="Super-Shorty Mini-Shotgun *" longname="Super-Shorty Mini-Shotgun *">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5691" name="Saiga 94" longname="Saiga 94">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5692" name="Saiga 94 - folded" longname="Saiga 94 - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5693" name="Saiga 94 RAS" longname="Saiga 94 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5694" name="Saiga 94 RAS - folded" longname="Saiga 94 RAS - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5695" name="TP 82" longname="TP 82">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5696" name="TP 82 w/o stock" longname="TP 82 w/o stock">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5697" name="TP 82 5.45 Barrel" longname="TP 82 5.45 Barrel">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5701" name="Marlin 410" longname="Marlin 410">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5702" name="Mossberg 500E" longname="Mossberg 500E">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5703" name="Rossi Circuit Judge" longname="Rossi Circuit Judge">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5706" name="Saiga 410K" longname="Saiga 410K">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5707" name="Saiga 410K - folded" longname="Saiga 410K - folded">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5708" name="Saiga 410" longname="Saiga 410">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5709" name="Saiga 410 RAS" longname="Saiga 410 RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="33" name="HK CAWS" longname="HK CAWS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5717" name="HK CAWS w. G36 Optics" longname="HK CAWS w. G36 Optics">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5718" name="HK CAWS RAS" longname="HK CAWS RAS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5720" name="Olin CS" longname="Olin CS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5721" name="M79 DS" longname="M79 DS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5722" name="M79 CAW DS" longname="M79 CAW DS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5723" name="EX-41 DS" longname="EX-41 DS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5724" name="KAC Launcher System DS" longname="KAC Launcher System DS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5725" name="Colt Launcher System DS" longname="Colt Launcher System DS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5726" name="Milkor MGL-140 DS" longname="Milkor MGL-140 DS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5727" name="Sage Deuce DS" longname="Sage Deuce DS">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="61" name="Dart Gun" longname="Dart Gun">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5742" name="Dart Rifle" longname="Dart Rifle">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5743" name="Metal Storm Pistol" longname="Metal Storm Pistol">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5744" name="Metal Storm Surf Zone" longname="Metal Storm Surf Zone">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5745" name="Gyrojet Pistol" longname="Gyrojet Pistol">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5746" name="Gyrojet Carbine" longname="Gyrojet Carbine">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5748" name="Precision Crossbow" longname="Precision Crossbow">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5750" name="M134 Minigun" longname="M134 Minigun">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5751" name="40mm Mortar" longname="40mm Mortar">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5752" name="Commando Mortar" longname="Commando Mortar">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="41" name="M224 Mortar" longname="M224 Mortar">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5754" name="2 inch Mortar" longname="2 inch Mortar">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5756" name="XM-25 Grenade Launcher" longname="XM-25 Grenade Launcher">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5757" name="HK Emergency Flare Launcher" longname="HK Emergency Flare Launcher">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5758" name="M210 Flare Gun" longname="M210 Flare Gun">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5759" name="M64 Grenade Launcher" longname="M64 Grenade Launcher">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5761" name="M72A4 LAW" longname="M72A4 LAW">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5762" name="RPG-26 Aglen" longname="RPG-26 Aglen">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5763" name="RPG-27 Tavolga" longname="RPG-27 Tavolga">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5764" name="RPO-M Shmel" longname="RPO-M Shmel">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5765" name="Panzerfaust" longname="Panzerfaust">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="51" name="AT-4" longname="AT-4">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5768" name="RPG-7" longname="RPG-7">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5769" name="Type 69" longname="Type 69">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5770" name="RPG-16 Grom" longname="RPG-16 Grom">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5771" name="SMAW" longname="SMAW">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5772" name="Bazooka M1A1" longname="Bazooka M1A1">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5773" name="Carl-Gustaf M3" longname="Carl-Gustaf M3">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5774" name="Panzerschreck" longname="Panzerschreck">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5775" name="M202 Flash" longname="M202 Flash">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="40" name="M79 Grenade Launcher" longname="M79 Grenade Launcher">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5777" name="M79 CAW" longname="M79 CAW">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5778" name="EX-41" longname="EX-41">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5779" name="KAC Launcher System" longname="KAC Launcher System">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5780" name="Colt Launcher System" longname="Colt Launcher System">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5781" name="Milkor MGL-140 Grenade Launcher" longname="Milkor MGL-140 Grenade Launcher">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5782" name="Sage Deuce" longname="Sage Deuce">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5783" name="RGM Kastet Grenade Launcher" longname="RGM Kastet Grenade Launcher">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5784" name="RG-6 Grenade Launcher" longname="RG-6 Grenade Launcher">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5785" name="GM-94 Grenade Launcher" longname="GM-94 Grenade Launcher">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5786" name="Metalstorm Launcher System" longname="Metalstorm Launcher System">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5789" name="ADS Launcher" longname="ADS Launcher">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5790" name="SSW Launcher" longname="SSW Launcher">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5791" name="*** Talon Grenade Launcher ***" longname="*** Talon Grenade Launcher ***">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5792" name="Colt M203PI Grenade Launcher" longname="Colt M203PI Grenade Launcher">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5793" name="HK AG36 Grenade Launcher" longname="HK AG36 Grenade Launcher">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5794" name="FN EGLM Grenade Launcher" longname="FN EGLM Grenade Launcher">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5795" name="HK 79 Grenade Launcher" longname="HK 79 Grenade Launcher">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5796" name="F2000 Grenade Launcher" longname="F2000 Grenade Launcher">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5797" name="AICW Grenade Launcher" longname="AICW Grenade Launcher">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5798" name="OICW Grenade Launcher" longname="OICW Grenade Launcher">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5799" name="GP-25 Kostyor Grenade Launcher" longname="GP-25 Kostyor Grenade Launcher">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="5800" name="GP-30 Obuvka Grenade Launcher" longname="GP-30 Obuvka Grenade Launcher">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4001" name="default gun" longname="*** Default Gun 2 ***">
+		<Interface system="0" space="1"/>
+	</Descriptor>
+</GunsDescriptors>

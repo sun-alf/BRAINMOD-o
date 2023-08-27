@@ -38,4 +38,22 @@ class XmlUtils():
                 return True;
         return False;
     #end def SetTagValue(item, tagName, tagValue):
+    
+    @classmethod
+    def LoadToList(cls, root):
+        result = [];
+        for xmlEl in root:
+            el = dict();
+            for tagObj in xmlEl:
+                el[tagObj.tag] = tagObj.text;
+            result.append(el);
+        return result;
+    #end def LoadToList(cls, root):
+    
+    @classmethod
+    def SanitizeString(cls, text):
+        text = text.replace("&", "&amp;");
+        text = text.replace("\"", "&quot;");
+        return text.strip();
+    #end def GetTagValue(item, tagName):
 #end class XmlUtils():

@@ -22,17 +22,17 @@ class CmdLineProcessor():
         args = [];
         startArg = 1 if isFromCmdLine == True else 0;  # argv origins from command line, argv[0] is always path/name to the file being executed. In this case we have to skip it.
         for i in range(startArg, len(argv)):
-            if i == 1 and argv[i] in self._cmdMap:
+            if i == startArg and argv[i] in self._cmdMap:
                 cmdFunc = self._cmdMap[argv[i]];
             else:  # parse an argument
                 argVal = 0;
                 
-                if CmdLineProcessor.RepresentsInt(sys.argv[i]):
-                    argVal = int(sys.argv[i]);
-                elif CmdLineProcessor.RepresentsNamedArg(sys.argv[i]):
-                    argVal = CmdLineProcessor.GetNamedArg(sys.argv[i]);
+                if CmdLineProcessor.RepresentsInt(argv[i]):
+                    argVal = int(argv[i]);
+                elif CmdLineProcessor.RepresentsNamedArg(argv[i]):
+                    argVal = CmdLineProcessor.GetNamedArg(argv[i]);
                 else:
-                    argVal = sys.argv[i];  # add this arg as a string
+                    argVal = argv[i];  # add this arg as a string
                 
                 args.append(argVal);
 
@@ -66,6 +66,15 @@ class CmdLineProcessor():
         except ValueError:
             return False
     #def RepresentsInt(s):
+
+    @classmethod
+    def RepresentsFloat(cls, s):
+        try: 
+            float(s)
+            return True
+        except ValueError:
+            return False
+    #def RepresentsFloat(s):
 
     @classmethod
     def GetNamedArg(cls, s):

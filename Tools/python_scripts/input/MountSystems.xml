@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MountSystems>
+	<MountSystem id="0" name="barrel thread"/>
+	<MountSystem id="1" name="picatinny rail"/>
+	<MountSystem id="2" name="dupa"/>
+	<MountSystem id="3" name="blue duct tape"/>
+</MountSystems>

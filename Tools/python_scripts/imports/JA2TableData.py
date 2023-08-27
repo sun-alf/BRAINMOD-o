@@ -197,6 +197,31 @@ class JA2Xmls():
             STRUCTURE_DECONSTRUCT,
             STRUCTURE_MOVE,
             WEAPONS),
+        "LogicalBodyTypes" : (LOBOT_FILTERS),
+        "Lookup" : (
+            LOOKUP_AMMO_CHOICES,
+            LOOKUP_AMMO_FLAG,
+            LOOKUP_ARMOR_CLASS,
+            LOOKUP_ATTACHMENT_CLASS,
+            LOOKUP_ATTACHMENT_POINT,
+            LOOKUP_ATTACHMENT_SYSTEM,
+            LOOKUP_CURSOR,
+            LOOKUP_DRUG_TYPE,
+            LOOKUP_EXPL_SIZE,
+            LOOKUP_EXPL_TYPE,
+            LOOKUP_ITEM_CLASS,
+            LOOKUP_ITEM_FLAG,
+            LOOKUP_LBE_CLASS,
+            LOOKUP_MAGAZINE_TYPE,
+            LOOKUP_MERGE_TYPE,
+            LOOKUP_NAS_ATTACHMENT_CLASS,
+            LOOKUP_NAS_LAYOUT_CLASS,
+            LOOKUP_POCKET_SIZE,
+            LOOKUP_SEPARABILITY,
+            LOOKUP_SILHOUETTE,
+            LOOKUP_SKILL_CHECK_TYPE,
+            LOOKUP_WEAPON_CLASS,
+            LOOKUP_WEAPON_TYPE),
     };
     
     @classmethod
@@ -214,11 +239,24 @@ class JA2Xmls():
 
 
 class Workspace():
-    def __init__(self, name, dirname):
+    def __init__(self, name, dirname, abspath = None):
         self.name = str(name);
         self.dirname = dirname;
         self.root = r'{}\..\..\{}\TableData'.format(SWDIR, dirname);
         self.xmlMan = XmlManager();
+        if abspath != None:
+            self.root = abspath;
+    
+    # It constructs actual name of additional dealer invenory XML file but only if it is a question in matter, otherwise (
+    # i.e. if a name of some other XML is given) it takes the name "as is" and returns it as a result.
+    # Anyway, the method returns actual name of a XML file.
+    def _AdditionalDealerXmlName(self, name, additionalDealerNum = None):
+        if name == JA2Xmls.DEALER_ADDITIONAL and additionalDealerNum != None:
+            if JA2Xmls.IsValidDealerId(additionalDealerNum):
+                name = JA2Xmls.DEALER_ADDITIONAL.format(additionalDealerNum);
+            else:
+                raise Exception("Unknown Additional Dealer ID");
+        return name;
     
     def IsItYou(self, name):
         strname = str(name);
@@ -226,17 +264,23 @@ class Workspace():
     
     def GetXmlPath(self, name):
         dirname = JA2Xmls.GetDirectoryOf(name);
-        return os.path.join(self.root, dirname);
+        if dirname != None:  # if it is a known XML file
+            return os.path.join(self.root, dirname);
+        else:  # otherwise it is a custom XML file from custom workspace, so return absolute path
+            return self.root;
     
     def GetXml(self, name, additionalDealerNum = None):
         path = self.GetXmlPath(name);
-        if name == JA2Xmls.DEALER_ADDITIONAL and additionalDealerNum != None:
-            if JA2Xmls.IsValidDealerId(additionalDealerNum):
-                name = JA2Xmls.DEALER_ADDITIONAL.format(additionalDealerNum);
-            else:
-                raise Exception("Unknown Additional Dealer ID");
+        name = self._AdditionalDealerXmlName(name, additionalDealerNum);
         return self.xmlMan.AddXml(path, name);
     
+    def SaveXml(self, name, additionalDealerNum = None, useNewName = False, abspath = None):
+        path = self.GetXmlPath(name);
+        name = self._AdditionalDealerXmlName(name, additionalDealerNum);
+        newName = "NEW_" + name if useNewName == True else None;
+        newPath = abspath;
+        self.xmlMan.SaveXml(path, name, newName, newPath);
+
 #end class Workspace():
 
 
@@ -255,8 +299,16 @@ class JA2TableData(metaclass=Singleton):
     @classmethod
     def OpenWorkspace(cls, name):
         dirname = None;
-        if type(name) is str:
-            raise Exception("Custom workspace name is not supported yet");
+        absPath = None;
+        if type(name) is str:  # custom workspace
+            if os.path.isdir(name):                   # in this case 'name' is an absolute path to dir with all XML files, so check if it exists;
+                pathParts = name.split(os.path.sep);  # and name of this dir is being used as workspace name to refer.
+                if len(pathParts) > 0:
+                    dirname = pathParts[len(pathParts) - 1];
+                    absPath = name;  # save absolute path,
+                    name = dirname;  # and override workspace name by its' actual name (was absolute path before this line).
+            else:
+                raise Exception("Custom workspace \'{0}\' is not reachable".format(name));
         elif type(name) is int:
             if name == JA2Workspaces.VANILLA:
                 dirname = "Data";
@@ -275,7 +327,7 @@ class JA2TableData(metaclass=Singleton):
         
         if dirname != None:
             if cls.GetWorkspace(name) == None:  # if this workspace is not open yet, open it; nothing to do otherwise
-                cls._workspacesList.append(Workspace(name, dirname));
+                cls._workspacesList.append(Workspace(name, dirname, absPath));
         else:
             raise Exception("Unknown workspace \'{0}\'".format(name));
     #def OpenWorkspace(name):
@@ -292,18 +344,15 @@ class JA2TableData(metaclass=Singleton):
     def GetXml(cls, name, dealerNum = None, wsName = None):
         result = None;
         ja2xmls = [getattr(JA2Xmls, field) for field in dir(JA2Xmls) if not callable(getattr(JA2Xmls, field)) and not field.startswith("__")];
-        if name in ja2xmls:
-            if len(cls._workspacesList) > 0:
-                ws = cls._workspacesList[0];  # use default workspace
-                if wsName != None:
-                    ws = cls.GetWorkspace(wsName);
-                    if ws == None:
-                        raise Exception("Workspace \'{0}\' is not open".format(wsName));
-                result = ws.GetXml(name, dealerNum);
-            else:
-                raise Exception("No workspace is open");
+        if len(cls._workspacesList) > 0:
+            ws = cls._workspacesList[0];  # use default workspace
+            if wsName != None:
+                ws = cls.GetWorkspace(wsName);
+                if ws == None:
+                    raise Exception("Workspace \'{0}\' is not open".format(wsName));
+            result = ws.GetXml(name, dealerNum);
         else:
-            raise Exception("Unknown file \'{0}\'".format(name));
+            raise Exception("No workspace is open");
         return result;
     #end def GetXml(cls, name, dealerNum = None, wsName = None):
 #end class JA2TableData(metaclass=Singleton):

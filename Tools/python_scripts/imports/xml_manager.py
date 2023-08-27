@@ -72,7 +72,7 @@ class XmlFile():
             
             f = open(fullpath, "wb");
             f.write(bytearray(r'<?xml version="1.0" encoding="utf-8"?>' + '\n', "utf-8"));
-            self.xmlTree.write(f, encoding="utf-8", xml_declaration=None, default_namespace=None, method="xml");
+            self._xmlTree.write(f, encoding="utf-8", xml_declaration=None, default_namespace=None, method="xml");
             f.close();
             
             self.dirty = False;  # starting from this point, it should work with newly saved XML data (see 'fullpath')
@@ -106,7 +106,15 @@ class XmlManager():
                 break;
         
         return targetXml;
-        
+
+    def SaveXml(self, filePath, fileName, newFilePath = None, newFileName = None):
+        for xml in self._fileList:
+            if xml.Name == fileName and xml.Path == filePath:
+                xml.Dirty = True;
+                xml.Save(newFilePath, newFileName);
+                break;
+        # it is OK if it wasn't found (and hence wasn't saved), because it wasn't opened obviously.
+
     def SaveAll(self):
         for xml in self._fileList:
             xml.Save();

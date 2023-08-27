@@ -133,6 +133,31 @@ def CollectUpdatedFiles(path, base_ts, files_list = None, relative_path = ""):
 #end def CollectUpdatedFiles(path, base_ts, files_list = None):
 
 
+def CollectUpdatedFiles(dest_path, src_path, ignore_ts, files_list = None, relative_path = ""):
+    if files_list == None:
+        files_list = [];
+    
+    for objectName in os.listdir(src_path):
+        srcObjectPath = os.path.join(src_path, objectName);
+        destObjectPath = os.path.join(dest_path, objectName);
+        if os.path.isfile(srcObjectPath):
+            srcTS = os.stat(srcObjectPath).st_mtime;
+            destTS = 0;                                 # exact object (file/dir) may not be existing in dest dir;
+            if os.path.exists(destObjectPath) == True:  # if it exists, get its' "modified" timestamp, or leave timestamp = 0 otherwise.
+                destTS = os.stat(destObjectPath).st_mtime;
+            if ignore_ts == True or destTS < srcTS:  # the file is updated, need to take in into account
+                files_list.append(SEFile(objectName, src_path, relative_path));
+        elif os.path.isdir(srcObjectPath):
+            deeper_relative_path = os.path.join(relative_path, objectName);
+            CollectUpdatedFiles(destObjectPath, srcObjectPath, ignore_ts, files_list, deeper_relative_path);
+        elif os.path.islink(srcObjectPath):
+            pass;  # nothing to do with symlinks to files
+        else:
+            print('Unknown file system object is found: %s' % (srcObjectPath));
+    return files_list;
+#end def CollectUpdatedFiles(path, base_ts, files_list = None):
+
+
 def EnsurePathExists(path):
     if os.path.exists(path) == False:
         dirChain = path.split(os.path.sep);
@@ -214,6 +239,22 @@ def CreateGamePatch(args):
 #end def CreateGamePatch():
 
 
+def ApplyGamePatch(args):
+    simpleArgs = ApplyNamedArguments(args);
+    if "force" in simpleArgs:
+        byForce = True;
+    else:
+        byForce = False;
+
+    # 1. Walk across everything in SRC_DIR (must be patch dir) and collect all modified files (i.e. "modified" timestamp of a patched file > 
+    #    "modified" timestamp of a current game file). Here we need to use overloaded CollectUpdatedFiles(path, path, flag) function.
+    filesList = CollectUpdatedFiles(TARGET_DIR, SRC_DIR, byForce);
+    
+    # 2. Now copy the collected list of modified (i.e. patched) files, that's simple.
+    CopyUpdatedFiles(TARGET_DIR, filesList);
+#end def ApplyGamePatch():
+
+
 def Fun1(args):
     print("Task: create dir ", args[0]);
     #EnsurePathExists(args[0])
@@ -248,6 +289,7 @@ if env_SRC_DIR != None:
 if env_TARGET_DIR != None:
     TARGET_DIR = env_TARGET_DIR;
 
-cmd_map = {"CreatePatch" : CreateGamePatch, "Fun1" : Fun1};
+cmd_map = {"CreatePatch" : CreateGamePatch, "ApplyPatch" : ApplyGamePatch, "Fun1" : Fun1};
 cmd_line = CmdLineProcessor(cmd_map);
 cmd_line.Execute(sys.argv);
+print("Done!");
