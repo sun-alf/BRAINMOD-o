@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   see the ExtraSectorItems-Readme.txt for details 
+-->
+<ExtraItems>
+   <Item>
+      <uiIndex>382</uiIndex>  <!-- small tool kit -->
+      <quantity>1</quantity>
+      <condition>89</condition>
+      <gridno>12298</gridno>  <!-- wooden crate in a ruined workshop -->
+      <visible>1</visible>
+   </Item>
+   <Item>
+      <uiIndex>308</uiIndex>  <!-- steel pipe -->
+      <quantity>4</quantity>
+      <condition>100</condition>
+      <gridno>12298</gridno>  <!-- wooden crate in a ruined workshop -->
+      <visible>1</visible>
+   </Item>
+   <Item>
+      <uiIndex>305</uiIndex>  <!-- steel tube -->
+      <quantity>1</quantity>
+      <condition>99</condition>
+      <gridno>12299</gridno>  <!-- floor in a ruined workshop -->
+      <visible>1</visible>
+   </Item>
+   <Item>
+      <uiIndex>377</uiIndex>  <!-- working gloves -->
+      <quantity>1</quantity>
+      <condition>78</condition>
+      <gridno>11808</gridno>  <!-- table in a ruined workshop -->
+      <visible>1</visible>
+   </Item>
+   <Item>
+      <uiIndex>304</uiIndex>  <!-- duct tape -->
+      <quantity>1</quantity>
+      <condition>91</condition>
+      <gridno>11809</gridno>  <!-- table in a ruined workshop, 2nd part -->
+      <visible>1</visible>
+   </Item>
+   <Item>
+      <uiIndex>306</uiIndex>  <!-- spring -->
+      <quantity>1</quantity>
+      <condition>94</condition>
+      <gridno>11810</gridno>  <!-- floor in a ruined workshop -->
+      <visible>1</visible>
+   </Item>
+</ExtraItems>
