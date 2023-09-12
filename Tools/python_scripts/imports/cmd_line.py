@@ -84,6 +84,8 @@ class CmdLineProcessor():
             pair = s.split('=');
             if len(pair) == 2:
                 result = {"name" : pair[0], "value" : pair[1]};
+            elif len(pair) == 1:
+                result = {"name" : pair[0]};
         return result;
     #def GetNamedArg(s):
 
@@ -96,6 +98,24 @@ class CmdLineProcessor():
             result = CmdLineProcessor.GetNamedArg(s) != None;
         return result;
     #def RepresentsNamedArg(s):
+
+    @classmethod
+    def FetchNamedArgs(cls, args):
+        result = [];
+        for arg in args:
+            if CmdLineProcessor.RepresentsNamedArg(arg):
+                result.append(arg);
+        return result;
+    #def FetchNamedArgs(cls, args):
+
+    @classmethod
+    def FetchSimpleArgs(cls, args):
+        result = [];
+        for arg in args:
+            if CmdLineProcessor.RepresentsNamedArg(arg) == False:
+                result.append(arg);
+        return result;
+    #def FetchSimpleArgs(s):
 
     @classmethod
     def GetTagValue(cls, item, tagName):

@@ -13,6 +13,9 @@ There some not-to-forget notes for gunsmith of any sort:
 >> Some optical scopes and electronic sights can be combined
    into one multi-purpose aiming module.
 
+>> Is there a way to re-work some built-in aiming devices
+   like HK CAWS has? Who knows, it worth to try...
+
 >> Intratec TEC-9 pistol can be 'extended' to a full-auto
    variant, no sophisticated tools, minimum efforts:
    Improvised Conversion = [Tool Kit + Spring + Steel Pipe]

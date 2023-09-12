@@ -31,16 +31,33 @@ def PrintAttachmentItems(args):
     itemsRoot = JA2TableData.GetXml(JA2Xmls.ITEMS);
     attRoot = JA2TableData.GetXml(JA2Xmls.ATTACHMENTS);
     
-    attIds = [];
-    
-    for att in attRoot:
-        attId = int(XmlUtils.GetTagValue(att, "attachmentIndex"));
-        if (attId in attIds) == False:
-            attIds.append(attId);
-    
-    for att in attIds:
-        n = XmlUtils.GetTagValue(itemsRoot[att], "szLongItemName");
-        print("[{}] {}".format(att, n));
+    namedArgs = CmdLineProcessor.FetchNamedArgs(args);
+    if len(namedArgs) == 1:
+        if namedArgs[0]["name"].lower() == "itemid":  # look-up for all attachments to this item
+            itemId = int(namedArgs[0]["value"]);
+            print("All attachments for [{}] {}:".format(itemId, XmlUtils.GetTagValue(itemsRoot[itemId], "szLongItemName")));
+            for att in attRoot:
+                if int(XmlUtils.GetTagValue(att, "itemIndex")) == itemId:
+                    attId = int(XmlUtils.GetTagValue(att, "attachmentIndex"));
+                    print("[{}] {}".format(attId, XmlUtils.GetTagValue(itemsRoot[attId], "szLongItemName")));
+        elif namedArgs[0]["name"].lower() == "attid":  # look-up for all items compatible with this attachment
+            attId = int(namedArgs[0]["value"]);
+            print("All items for [{}] {}:".format(attId, XmlUtils.GetTagValue(itemsRoot[attId], "szLongItemName")));
+            for att in attRoot:
+                if int(XmlUtils.GetTagValue(att, "attachmentIndex")) == attId:
+                    itemId = int(XmlUtils.GetTagValue(att, "itemIndex"));
+                    print("[{}] {}".format(itemId, XmlUtils.GetTagValue(itemsRoot[itemId], "szLongItemName")));
+        else:  # just list all attachments
+            attIds = [];
+            
+            for att in attRoot:
+                attId = int(XmlUtils.GetTagValue(att, "attachmentIndex"));
+                if (attId in attIds) == False:
+                    attIds.append(attId);
+            
+            for att in attIds:
+                n = XmlUtils.GetTagValue(itemsRoot[att], "szLongItemName");
+                print("[{}] {}".format(att, n));
 #end def PrintAttachmentItems(args):
 
 
@@ -67,7 +84,7 @@ def PrintAttachmentInfo(args):
 #end def PrintAttachmentInfo(args):
 
 
-def TestFunc(args):
+def MakeRealisticAttachments(args):
     def _HasCompatibleSlot(descr, mountMethod, givenSpace):
         intGivenSpace = int(givenSpace);
         for slot in descr:
@@ -191,7 +208,7 @@ def TestFunc(args):
                 attachments.append(newAttachment);
     
     JA2TableData.GetWorkspace(JA2Workspaces.BRAINMOD).SaveXml(JA2Xmls.ATTACHMENTS);
-#end def TestFunc(args):
+#end def MakeRealisticAttachments(args):
 
 
 def GenerateTemplateAttachmentsXml(args):
@@ -252,12 +269,18 @@ def GenerateTemplateGunsXml(args):
 #end GenerateTemplateGunsXml(args):
 
 
+def TestFunc(args):
+    pass;
+#end def TestFunc(args):
+
 #
 # Entry point (like Main())
 #
 JA2TableData.OpenWorkspace(JA2Workspaces.BRAINMOD);
 
 cmd_map = { "PrintAttachmentItems" : PrintAttachmentItems, "PrintAttachmentInfo" : PrintAttachmentInfo,
-            "Test" : TestFunc, "GenGuns" : GenerateTemplateGunsXml, "GenAtts" : GenerateTemplateAttachmentsXml };
+            "GenGuns" : GenerateTemplateGunsXml, "GenAtts" : GenerateTemplateAttachmentsXml,
+            "MakeRealisticAttachments" : MakeRealisticAttachments,
+            "Test" : TestFunc, };
 cmd_line = CmdLineProcessor(cmd_map);
 cmd_line.Execute(sys.argv);

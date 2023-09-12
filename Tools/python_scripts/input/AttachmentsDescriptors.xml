@@ -22,117 +22,543 @@
 	</Descriptor>
 -->
 
-	<Descriptor attachment_id="208" name="A. - Scope, Leupold 6x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
+	<!-- Here will be a quick (or not) guide on how to fill this input document. If won't put remarks here, I will just forget every single idea.
+	
+	============================================================================
+	==== General
+	============================================================================
+	* "timeAP" -- in game means "time in Action Points"; despite src code totaly discards relation to real-time, 100 AP can be treated as 5 sec.
+		Top trained merc could have up to ~105AP, or up to ~125AP after stimpack injection. I.e. 20AP == 1 sec. I suppose to use 20, 40, 60, 80
+		and 100 values (1-5 sec) for stuff which could be attached and adjusted in a combat IRL; if not, put 120 to prevent attaching in combat
+		by a normal person.
+	
+	============================================================================
+	==== Muzzle attachments
+	============================================================================
+	* "Space" here means required minimum lenght of barrel popping out of barrel box, if any. Valid values:
+		1 -- 0.5 - 0.9 cm
+		2 -- 1.0 - 2.5 cm
+		3 -- 2.6 or longer
+	* "System" = 0 is supposed to be used by Improvised suppressor only; no threads, only glue =)
+	* Sumption #1: in this game we don't differ types of barrel threads -- left or right, 1/2x28 step or any other etc; so a barrel does have
+		threads or it doesn't, no other conditions.
+	* Sumption #2: the game provides several barrel conversion kits, modern and shiny. If a gun has such converions kit available, that means
+		all its' barrels are with threads.
+	* Sumption #3: some guns modelled in the game were upgraded between production parties, keeping absolutely the same name. If it happened to
+		a gun, and barrel threads were added durings those updrades, this gun will have barrel threads in the game. The same for a modelled gun,
+		if it is not a problem to thread its' barrel in DIY way without need to exchange on longer barrel.
+	
+	============================================================================
+	==== Scopes and sights
+	============================================================================
+	* "Space" is exactly required space in cm (length of aiming device). Exclusions are ballistic computer (normally not mounted onto rifle at
+		all), grenade launcher collimator (unique and is mounted not onto rifle) and non-detachable things (system < 0). Space for exclusions
+		is 1 just because.
+	-->
+
 	<Descriptor attachment_id="310" name="A. - Muzzle, Improvised suppressor">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="0" space="3" timeAP="120"/>
 	</Descriptor>
+	<Descriptor attachment_id="1131" name="A. - Muzzle, Compensator, large">
+		<Slot system="3" space="1" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1132" name="A. - Muzzle, Compensator, medium">
+		<Slot system="2" space="1" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1133" name="A. - Muzzle, Compensator, small">
+		<Slot system="1" space="1" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1134" name="A. - Muzzle, Flash Hider">
+		<Slot system="2" space="1" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1135" name="A. - Muzzle, Flash Suppressor">
+		<Slot system="1" space="2" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1136" name="A. - Muzzle, Matchbarrel">
+		<Slot system="4" space="2" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1137" name="A. - Muzzle, Muzzle Brake">
+		<Slot system="9" space="2" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1138" name="A. - Muzzle, Shotgun Choke, Full">
+		<Slot system="5" space="1" timeAP="100"/>
+	</Descriptor>
+	<Descriptor attachment_id="1139" name="A. - Muzzle, Shotgun Choke, Imp. Mod.">
+		<Slot system="5" space="1" timeAP="100"/>
+	</Descriptor>
+	<Descriptor attachment_id="1140" name="A. - Muzzle, Shotgun Choke, Rifled">
+		<Slot system="5" space="1" timeAP="100"/>
+	</Descriptor>
+	<Descriptor attachment_id="244" name="A. - Muzzle, Shotgun Duckbill">
+		<Slot system="5" space="1" timeAP="80"/>
+	</Descriptor>
+	<Descriptor attachment_id="1142" name="A. - Muzzle, Suppressor, AR, 9x39">
+		<Slot system="6" space="2" timeAP="80"/>
+	</Descriptor>
+	<Descriptor attachment_id="1143" name="A. - Muzzle, Suppressor, AR, large">
+		<Slot system="9" space="2" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1144" name="A. - Muzzle, Suppressor, AR, medium">
+		<Slot system="8" space="2" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1145" name="A. - Muzzle, Suppressor, AR, small">
+		<Slot system="7" space="2" timeAP="100"/>
+	</Descriptor>
+	<Descriptor attachment_id="1146" name="A. - Muzzle, Suppressor, HUB-23">
+		<Slot system="10" space="2" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1147" name="A. - Muzzle, Suppressor, Pistol, large">
+		<Slot system="3" space="1" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1148" name="A. - Muzzle, Suppressor, Pistol, medium">
+		<Slot system="2" space="1" timeAP="100"/>
+	</Descriptor>
+	<Descriptor attachment_id="207" name="A. - Muzzle, Suppressor, Pistol, small">
+		<Slot system="1" space="1" timeAP="100"/>
+	</Descriptor>
+	<Descriptor attachment_id="1149" name="A. - Muzzle, Suppressor, Pistol, PB 6P9">
+		<Slot system="11" space="1" timeAP="100"/>
+	</Descriptor>
+	<Descriptor attachment_id="1151" name="A. - Muzzle, Suppressor, Shotgun">
+		<Slot system="5" space="3" timeAP="100"/>
+	</Descriptor>
+	<Descriptor attachment_id="1152" name="A. - Muzzle, Suppressor, SMG, large">
+		<Slot system="3" space="2" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1153" name="A. - Muzzle, Suppressor, SMG, medium">
+		<Slot system="2" space="2" timeAP="100"/>
+	</Descriptor>
+	<Descriptor attachment_id="1154" name="A. - Muzzle, Suppressor, SMG, small">
+		<Slot system="1" space="2" timeAP="100"/>
+	</Descriptor>
+	<Descriptor attachment_id="1155" name="A. - Muzzle, Suppressor, Sniper">
+		<Slot system="12" space="3" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1156" name="A. - Muzzle, Suppressor, Sniper, large">
+		<Slot system="13" space="3" timeAP="120"/>
+	</Descriptor>
+	
 	<Descriptor attachment_id="1001" name="A. - Advanced Ballistic Computer - on">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="14" space="1" timeAP="60"/>
 	</Descriptor>
 	<Descriptor attachment_id="1002" name="A. - Advanced Ballistic Computer - off">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="14" space="1" timeAP="60"/>
 	</Descriptor>
 	<Descriptor attachment_id="1003" name="A. - Grenade Launcher Collimator">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="15" space="1" timeAP="100"/>
 	</Descriptor>
+	
 	<Descriptor attachment_id="1006" name="A. - Aiming Module, F2000">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="16" space="15" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1007" name="A. - Aiming Module, Fixed Optics">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="-1" space="1" timeAP="0"/>
 	</Descriptor>
 	<Descriptor attachment_id="1008" name="A. - Aiming Module, G36 Dual Optics">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="-2" space="1" timeAP="0"/>
 	</Descriptor>
 	<Descriptor attachment_id="1009" name="A. - Aiming Module, Holosight + G33">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="18" space="14" timeAP="100"/>
 	</Descriptor>
 	<Descriptor attachment_id="1010" name="A. - Aiming Module, ISM-4X-IR">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="18" space="15" timeAP="100"/>
 	</Descriptor>
 	<Descriptor attachment_id="1011" name="A. - Aiming Module, ISM-V-IR">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="18" space="11" timeAP="100"/>
 	</Descriptor>
 	<Descriptor attachment_id="1012" name="A. - Aiming Module, ITL MARS">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="18" space="12" timeAP="100"/>
 	</Descriptor>
 	<Descriptor attachment_id="1013" name="A. - Aiming Module, K11">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="17" space="30" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1014" name="A. - Scope, P90 Optics">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="-3" space="1" timeAP="0"/>
 	</Descriptor>
 	<Descriptor attachment_id="1015" name="A. - Aiming Module, SDA">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="18" space="22" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1016" name="A. - Aiming Module, SDNV">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="18" space="26" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1017" name="A. - Aiming Module, SSW">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="-4" space="1" timeAP="0"/>
 	</Descriptor>
+	
+	<Descriptor attachment_id="1161" name="A. - Reflex Sight">
+		<Slot system="18" space="7" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1162" name="A. - Reflex Sight, C-More">
+		<Slot system="18" space="8" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1163" name="A. - Reflex Sight, IR">
+		<Slot system="18" space="6" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1164" name="A. - Reflex Sight, Kobra">
+		<Slot system="26" space="9" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1165" name="A. - Reflex Sight, SMR">
+		<Slot system="18" space="6" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1166" name="A. - Reflex Sight, Z-Point">
+		<Slot system="18" space="7" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1167" name="A. - Reflex Sight, DEP">
+		<Slot system="18" space="5" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1168" name="A. - Reflex Sight, Holosight">
+		<Slot system="18" space="7" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1171" name="A. - Scope, Leupold 2x">
+		<Slot system="24" space="14" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1172" name="A. - Scope, 3x">
+		<Slot system="24" space="16" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="208" name="A. - Scope, Leupold 6x">
+		<Slot system="24" space="20" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1205" name="A. - Scope, Leupold 2x Revolver">
+		<Slot system="25" space="14" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1206" name="A. - Scope, 3x Revolver">
+		<Slot system="25" space="16" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1208" name="A. - Scope, Leupold 2x Picattiny">
+		<Slot system="18" space="14" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1209" name="A. - Scope, 3x Picattiny">
+		<Slot system="18" space="16" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1207" name="A. - Scope, Leupold 6x Picattiny">
+		<Slot system="18" space="20" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1173" name="A. - Scope, Leupold MK 4 Scope 1x">
+		<Slot system="18" space="18" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1174" name="A. - Scope, Leupold MK 4 Scope 3x">
+		<Slot system="18" space="18" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1176" name="A. - Scope, ACOG 4x">
+		<Slot system="18" space="15" timeAP="120"/>
+		<Slot system="27" space="15" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1177" name="A. - Scope, ACOG 4x TA31H">
+		<Slot system="18" space="15" timeAP="120"/>
+		<Slot system="27" space="15" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1178" name="A. - Scope, ACOG TA648">
+		<Slot system="18" space="16" timeAP="120"/>
+		<Slot system="27" space="16" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1179" name="A. - Scope, Aimpoint Comp M2">
+		<Slot system="18" space="12" timeAP="100"/>
+	</Descriptor>
+	<Descriptor attachment_id="1180" name="A. - Scope, EOTech G33">
+		<Slot system="18" space="11" timeAP="100"/>
+	</Descriptor>
+	<Descriptor attachment_id="1181" name="A. - Scope, EOTech 5x">
+		<Slot system="18" space="16" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1184" name="A. - Scope, Burris XTS 1.5x">
+		<Slot system="24" space="25" timeAP="120"/>
+		<Slot system="18" space="25" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1185" name="A. - Scope, Burris XTS 6x">
+		<Slot system="24" space="25" timeAP="120"/>
+		<Slot system="18" space="25" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1186" name="A. - Scope, Redfield 2x">
+		<Slot system="24" space="27" timeAP="120"/>
+		<Slot system="18" space="27" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1187" name="A. - Scope, Redfield 4x">
+		<Slot system="24" space="27" timeAP="120"/>
+		<Slot system="18" space="27" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1188" name="A. - Scope, Redfield 7x">
+		<Slot system="24" space="27" timeAP="120"/>
+		<Slot system="18" space="27" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1189" name="A. - Scope, Sniper 6x">
+		<Slot system="24" space="36" timeAP="120"/>
+		<Slot system="18" space="36" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1190" name="A. - Scope, Sniper 8x">
+		<Slot system="24" space="36" timeAP="120"/>
+		<Slot system="18" space="36" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1191" name="A. - Scope, Sniper 10x">
+		<Slot system="24" space="36" timeAP="120"/>
+		<Slot system="18" space="36" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1192" name="A. - Scope, S&B PM II LP 3x">
+		<Slot system="24" space="34" timeAP="120"/>
+		<Slot system="18" space="34" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1193" name="A. - Scope, S&B PM II LP 6x">
+		<Slot system="24" space="34" timeAP="120"/>
+		<Slot system="18" space="34" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1194" name="A. - Scope, S&B PM II LP 9x">
+		<Slot system="24" space="34" timeAP="120"/>
+		<Slot system="18" space="34" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1195" name="A. - Scope, S&B PM II LP 12x">
+		<Slot system="24" space="34" timeAP="120"/>
+		<Slot system="18" space="34" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1196" name="A. - Scope, Vortex Viper Scope 2.5x">
+		<Slot system="24" space="36" timeAP="120"/>
+		<Slot system="18" space="36" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1197" name="A. - Scope, Vortex Viper Scope 5x">
+		<Slot system="24" space="36" timeAP="120"/>
+		<Slot system="18" space="36" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1198" name="A. - Scope, Vortex Viper Scope 7.5x">
+		<Slot system="24" space="36" timeAP="120"/>
+		<Slot system="18" space="36" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1199" name="A. - Scope, Vortex Viper Scope 10x">
+		<Slot system="24" space="36" timeAP="120"/>
+		<Slot system="18" space="36" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1210" name="A. - Scope, AN/PVS-4 NV">
+		<Slot system="27" space="32" timeAP="120"/>
+		<Slot system="28" space="32" timeAP="120"/>
+		<Slot system="29" space="32" timeAP="120"/>
+		<Slot system="18" space="32" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1211" name="A. - Scope, AN/PVS-14 NV">
+		<Slot system="18" space="13" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1212" name="A. - Scope, APX">
+		<Slot system="30" space="21" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1213" name="A. - Scope, Burris AR">
+		<Slot system="18" space="15" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1214" name="A. - Scope, Burris SpeedDot">
+		<Slot system="18" space="11" timeAP="100"/>
+	</Descriptor>
+	<Descriptor attachment_id="1215" name="A. - Scope, Elcan C79">
+		<Slot system="18" space="14" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1216" name="A. - Scope, Elcan M145 Optics">
+		<Slot system="18" space="17" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1223" name="A. - Scope, Hensoldt 4x24">
+		<Slot system="31" space="20" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1226" name="A. - Scope, M84">
+		<Slot system="24" space="31" timeAP="120"/>
+		<Slot system="32" space="31" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1227" name="A. - Scope, Nikon Monarch">
+		<Slot system="16" space="8" timeAP="100"/>
+	</Descriptor>
+	<Descriptor attachment_id="1228" name="A. - Scope, No.32">
+		<Slot system="24" space="30" timeAP="120"/>
+		<Slot system="33" space="30" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1231" name="A. - Scope, ON-M99">
+		<Slot system="26" space="26" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1233" name="A. - Scope, 1P21 Minuta 3x">
+		<Slot system="26" space="40" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1234" name="A. - Scope, 1P21 Minuta 6x">
+		<Slot system="26" space="40" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1235" name="A. - Scope, 1P21 Minuta 9x">
+		<Slot system="26" space="40" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1236" name="A. - Scope, PEM">
+		<Slot system="34" space="25" timeAP="120"/>
+		<Slot system="24" space="25" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1237" name="A. - Scope, PGO-7W">
+		<Slot system="26" space="14" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1238" name="A. - Scope, PKA-1">
+		<Slot system="26" space="17" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1239" name="A. - Scope, POSP 2x">
+		<Slot system="26" space="37" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1240" name="A. - Scope, POSP 4x">
+		<Slot system="26" space="37" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1241" name="A. - Scope, POSP 6x">
+		<Slot system="26" space="37" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1242" name="A. - Scope, PSO-1">
+		<Slot system="26" space="33" timeAP="60"/>
+	</Descriptor>
+	<Descriptor attachment_id="1243" name="A. - Scope, PSO-3">
+		<Slot system="26" space="40" timeAP="60"/>
+	</Descriptor>
+	<Descriptor attachment_id="1244" name="A. - Scope, PU">
+		<Slot system="34" space="17" timeAP="120"/>
+		<Slot system="24" space="17" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1247" name="A. - Scope, S50 Pro NV">
+		<Slot system="18" space="29" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1250" name="A. - Scope, SUIT">
+		<Slot system="27" space="14" timeAP="120"/>
+		<Slot system="35" space="14" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1251" name="A. - Scope, SUSAT">
+		<Slot system="18" space="14" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1258" name="A. - Scope, Zeiss Z4 4x32">
+		<Slot system="18" space="32" timeAP="120"/>
+		<Slot system="24" space="32" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1259" name="A. - Scope, ZF-4">
+		<Slot system="36" space="19" timeAP="120"/>
+		<Slot system="24" space="19" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1260" name="A. - Scope, ZF-42">
+		<Slot system="36" space="29" timeAP="120"/>
+		<Slot system="24" space="29" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1261" name="A. - Sight, Flip-up BUIS">
+		<Slot system="20" space="3" timeAP="80"/>
+	</Descriptor>
+	<Descriptor attachment_id="1262" name="A. - Sight, Aperture">
+		<Slot system="18" space="3" timeAP="80"/>
+	</Descriptor>
+	<Descriptor attachment_id="1266" name="A. - Sight, Pistol, B&T N.S.">
+		<Slot system="37" space="1" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1267" name="A. - Sight, Pistol, Match Sights">
+		<Slot system="37" space="1" timeAP="120"/>
+	</Descriptor>
+	
 	<Descriptor attachment_id="209" name="A. - Bipod">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="40" space="5" timeAP="100"/>
+	</Descriptor>
+	<Descriptor attachment_id="1021" name="A. - Bipod, Picattiny">
+		<Slot system="19" space="5" timeAP="100"/>
 	</Descriptor>
 	<Descriptor attachment_id="1022" name="A. - Bipod, Heavy">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="40" space="7" timeAP="100"/>
 	</Descriptor>
 	<Descriptor attachment_id="1023" name="A. - Bipod, overbarrel">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="20" space="5" timeAP="100"/>
+	</Descriptor>
+	<Descriptor attachment_id="1024" name="A. - Non-removable Bipod, rifle">
+		<Slot system="-5" space="1" timeAP="0"/>
+	</Descriptor>
+	<Descriptor attachment_id="1025" name="A. - Non-removable Bipod, machinegun">
+		<Slot system="-6" space="1" timeAP="0"/>
 	</Descriptor>
 	<Descriptor attachment_id="1026" name="A. - Foregrip">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="19" space="4" timeAP="80"/>
 	</Descriptor>
 	<Descriptor attachment_id="1027" name="A. - Foregrip, Grippod">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="19" space="5" timeAP="100"/>
 	</Descriptor>
 	<Descriptor attachment_id="1028" name="A. - Foregrip, KelTec BP">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="19" space="5" timeAP="100"/>
 	</Descriptor>
 	<Descriptor attachment_id="1029" name="A. - Foregrip, DMRC">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="19" space="3" timeAP="60"/>
 	</Descriptor>
 	<Descriptor attachment_id="1030" name="A. - Foregrip, SMG">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="19" space="4" timeAP="100"/>
 	</Descriptor>
 	<Descriptor attachment_id="1031" name="A. - Foregrip, Shotgun">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="21" space="3" timeAP="100"/>
 	</Descriptor>
 	<Descriptor attachment_id="1032" name="A. - Grip, Pistolgrip">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="38" space="1" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1033" name="A. - Foregrip, Wood">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="39" space="8" timeAP="120"/>
 	</Descriptor>
+	<Descriptor attachment_id="1034" name="A. - Non-removable Foregrip">
+		<Slot system="-7" space="1" timeAP="0"/>
+	</Descriptor>
+	
 	<Descriptor attachment_id="241" name="A. - Laser Sight">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="19" space="7" timeAP="120"/>
+		<Slot system="20" space="7" timeAP="120"/>
+		<Slot system="21" space="7" timeAP="120"/>
+		<Slot system="22" space="7" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1037" name="A. - Laser, AN/PEQ-15">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="19" space="12" timeAP="120"/>
+		<Slot system="20" space="12" timeAP="120"/>
+		<Slot system="22" space="12" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1038" name="A. - Laser, AN/PEQ-2A">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="19" space="17" timeAP="120"/>
+		<Slot system="20" space="17" timeAP="120"/>
+		<Slot system="22" space="17" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1039" name="A. - Laser, CORSAK">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="40" space="14" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1040" name="A. - Laser, Insight LAM">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="19" space="4" timeAP="120"/>
+		<Slot system="20" space="4" timeAP="120"/>
+		<Slot system="21" space="4" timeAP="120"/>
+		<Slot system="22" space="4" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1041" name="A. - Laser, LMM-01">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="19" space="5" timeAP="120"/>
+		<Slot system="20" space="5" timeAP="120"/>
+		<Slot system="21" space="5" timeAP="120"/>
+		<Slot system="22" space="5" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1042" name="A. - Laser, Old Aimpoint">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="41" space="20" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1043" name="A. - Laser, Reddot LAM">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="19" space="2" timeAP="120"/>
+		<Slot system="20" space="2" timeAP="120"/>
+		<Slot system="21" space="2" timeAP="120"/>
+		<Slot system="22" space="2" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1044" name="A. - Laser, Rifle LAM">
-		<Slot system="0" space="1" timeAP="60"/>
+		<Slot system="19" space="13" timeAP="120"/>
+		<Slot system="20" space="13" timeAP="120"/>
+		<Slot system="22" space="13" timeAP="120"/>
 	</Descriptor>
+	
+	<Descriptor attachment_id="1271" name="A. - Tact. Flashlight">
+		<Slot system="19" space="4" timeAP="120"/>
+		<Slot system="20" space="4" timeAP="120"/>
+		<Slot system="21" space="4" timeAP="120"/>
+		<Slot system="22" space="4" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1272" name="A. - Tact. Flashlight - on">
+		<Slot system="19" space="4" timeAP="120"/>
+		<Slot system="20" space="4" timeAP="120"/>
+		<Slot system="21" space="4" timeAP="120"/>
+		<Slot system="22" space="4" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1273" name="A. - Tact. Flashlight, Surefire">
+		<Slot system="19" space="8" timeAP="120"/>
+		<Slot system="20" space="8" timeAP="120"/>
+		<Slot system="22" space="8" timeAP="120"/>
+		<Slot system="42" space="8" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1274" name="A. - Tact. Flashlight, Surefire - on">
+		<Slot system="19" space="8" timeAP="120"/>
+		<Slot system="20" space="8" timeAP="120"/>
+		<Slot system="22" space="8" timeAP="120"/>
+		<Slot system="42" space="8" timeAP="120"/>
+	</Descriptor>
+	
+	<Descriptor attachment_id="0" name="NULL-TERMINATOR ignore rest items">
+		<Slot system="0" space="0" timeAP="0"/>
+	</Descriptor>
+	
 	<Descriptor attachment_id="1046" name="A. - Mag Adapter, .30 car SMag">
 		<Slot system="0" space="1" timeAP="60"/>
 	</Descriptor>
@@ -325,300 +751,7 @@
 	<Descriptor attachment_id="1114" name="A. - Mag Adapter, Gyrojet">
 		<Slot system="0" space="1" timeAP="60"/>
 	</Descriptor>
-	<Descriptor attachment_id="1131" name="A. - Muzzle, Compensator, large">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1132" name="A. - Muzzle, Compensator, medium">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1133" name="A. - Muzzle, Compensator, small">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1134" name="A. - Muzzle, Flash Hider">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1135" name="A. - Muzzle, Flash Suppressor">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1136" name="A. - Muzzle, Matchbarrel">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1137" name="A. - Muzzle, Muzzle Brake">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1138" name="A. - Muzzle, Shotgun Choke, Full">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1139" name="A. - Muzzle, Shotgun Choke, Imp. Mod.">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1140" name="A. - Muzzle, Shotgun Choke, Rifled">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="244" name="A. - Muzzle, Shotgun Duckbill">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1142" name="A. - Muzzle, Suppressor, AR, 9x39">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1143" name="A. - Muzzle, Suppressor, AR, large">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1144" name="A. - Muzzle, Suppressor, AR, medium">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1145" name="A. - Muzzle, Suppressor, AR, small">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1146" name="A. - Muzzle, Suppressor, HUB-23">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1147" name="A. - Muzzle, Suppressor, Pistol, large">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1148" name="A. - Muzzle, Suppressor, Pistol, medium">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1149" name="A. - Muzzle, Suppressor, Pistol, PB 6P9">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="207" name="A. - Muzzle, Suppressor, Pistol, small">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1151" name="A. - Muzzle, Suppressor, Shotgun">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1152" name="A. - Muzzle, Suppressor, SMG, large">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1153" name="A. - Muzzle, Suppressor, SMG, medium">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1154" name="A. - Muzzle, Suppressor, SMG, small">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1155" name="A. - Muzzle, Suppressor, Sniper">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1156" name="A. - Muzzle, Suppressor, Sniper, large">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1161" name="A. - Reflex Sight">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1162" name="A. - Reflex Sight, C-More">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1163" name="A. - Reflex Sight, IR">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1164" name="A. - Reflex Sight, Kobra">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1165" name="A. - Reflex Sight, SMR">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1166" name="A. - Reflex Sight, Z-Point">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1167" name="A. - Reflex Sight, DEP">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1168" name="A. - Reflex Sight, Holosight">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1171" name="A. - Scope, Leupold 2x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1172" name="A. - Scope, 3x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1173" name="A. - Scope, Leupold MK 4 Scope 1x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1174" name="A. - Scope, Leupold MK 4 Scope 3x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1176" name="A. - Scope, ACOG 4x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1177" name="A. - Scope, ACOG 4x TA31H">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1178" name="A. - Scope, ACOG TA648">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1179" name="A. - Scope, Aimpoint Comp M2">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1180" name="A. - Scope, EOTech G33">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1181" name="A. - Scope, EOTech 5x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1184" name="A. - Scope, Burris XTS 1.5x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1185" name="A. - Scope, Burris XTS 6x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1186" name="A. - Scope, Redfield 2x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1187" name="A. - Scope, Redfield 4x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1188" name="A. - Scope, Redfield 7x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1189" name="A. - Scope, Sniper 6x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1190" name="A. - Scope, Sniper 8x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1191" name="A. - Scope, Sniper 10x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1192" name="A. - Scope, S&B PM II LP 3x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1193" name="A. - Scope, S&B PM II LP 6x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1194" name="A. - Scope, S&B PM II LP 9x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1195" name="A. - Scope, S&B PM II LP 12x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1196" name="A. - Scope, Vortex Viper Scope 2.5x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1197" name="A. - Scope, Vortex Viper Scope 5x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1198" name="A. - Scope, Vortex Viper Scope 7.5x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1199" name="A. - Scope, Vortex Viper Scope 10x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1210" name="A. - Scope, AN/PVS-4 NV">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1211" name="A. - Scope, AN/PVS-14 NV">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1212" name="A. - Scope, APX">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1213" name="A. - Scope, Burris AR">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1214" name="A. - Scope, Burris SpeedDot">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1215" name="A. - Scope, Elcan C79">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1216" name="A. - Scope, Elcan M145 Optics">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1223" name="A. - Scope, Hensoldt 4x24">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1226" name="A. - Scope, M84">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1227" name="A. - Scope, Nikon Monarch">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1228" name="A. - Scope, No.32">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1231" name="A. - Scope, ON-M99">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1233" name="A. - Scope, 1P21 Minuta 3x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1234" name="A. - Scope, 1P21 Minuta 6x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1235" name="A. - Scope, 1P21 Minuta 9x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1236" name="A. - Scope, PEM">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1237" name="A. - Scope, PGO-7W">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1238" name="A. - Scope, PKA-1">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1239" name="A. - Scope, POSP 2x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1240" name="A. - Scope, POSP 4x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1241" name="A. - Scope, POSP 6x">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1242" name="A. - Scope, PSO-1">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1243" name="A. - Scope, PSO-3">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1244" name="A. - Scope, PU">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1247" name="A. - Scope, S50 Pro NV">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1250" name="A. - Scope, SUIT">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1251" name="A. - Scope, SUSAT">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1258" name="A. - Scope, Zeiss Z4 4x32">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1259" name="A. - Scope, ZF-4">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1260" name="A. - Scope, ZF-42">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1261" name="A. - Sight, Flip-up BUIS">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1262" name="A. - Sight, Aperture">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1266" name="A. - Sight, Pistol, B&T N.S.">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1267" name="A. - Sight, Pistol, Match Sights">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1271" name="A. - Tact. Flashlight">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1272" name="A. - Tact. Flashlight - on">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1273" name="A. - Tact. Flashlight, Surefire">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1274" name="A. - Tact. Flashlight, Surefire - on">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
+	
 	<Descriptor attachment_id="1281" name="A. - Trigger Group 2">
 		<Slot system="0" space="1" timeAP="60"/>
 	</Descriptor>
@@ -649,12 +782,14 @@
 	<Descriptor attachment_id="1297" name="A. - Lanyard, Revolver">
 		<Slot system="0" space="1" timeAP="60"/>
 	</Descriptor>
+	
 	<Descriptor attachment_id="5664" name="KAC Masterkey">
 		<Slot system="0" space="1" timeAP="60"/>
 	</Descriptor>
 	<Descriptor attachment_id="5697" name="TP 82 5.45 Barrel">
 		<Slot system="0" space="1" timeAP="60"/>
 	</Descriptor>
+	
 	<Descriptor attachment_id="5789" name="ADS Launcher">
 		<Slot system="0" space="1" timeAP="60"/>
 	</Descriptor>
@@ -691,6 +826,7 @@
 	<Descriptor attachment_id="5800" name="GP-30 Obuvka Grenade Launcher">
 		<Slot system="0" space="1" timeAP="60"/>
 	</Descriptor>
+	
 	<Descriptor attachment_id="5841" name="Bayonet - 6X5">
 		<Slot system="0" space="1" timeAP="60"/>
 	</Descriptor>

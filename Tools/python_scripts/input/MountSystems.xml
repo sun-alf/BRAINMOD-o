@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <MountSystems>
-	<MountSystem id="0" name="barrel thread"/>
-	<MountSystem id="1" name="picatinny rail"/>
-	<MountSystem id="2" name="dupa"/>
-	<MountSystem id="3" name="blue duct tape"/>
+	<!-- end-of-barrel point for ids 0..13 -->
+	<MountSystem id="0" name="barrel or compact flash-hider/compensator, threads and caliber do not matter"/>
+	<MountSystem id="1" name="barrel threads, small calibers"/>
+	<MountSystem id="2" name="barrel threads, medium calibers"/>
+	<MountSystem id="3" name="barrel threads, large calibers"/>
+	<MountSystem id="4" name="match barrel compatibility shape, 9x19mm and .40SW calibers"/>
+	<MountSystem id="5" name="internal barrel threads, 12 gauge"/>
+	<MountSystem id="6" name="barrel lock, for suppressor 9x39mm"/>
+	<MountSystem id="7" name="barrel threads, small rifle calibers 5.45 - 5.56"/>
+	<MountSystem id="8" name="barrel threads, medium rifle calibers"/>
+	<MountSystem id="9" name="barrel threads, large rifle calibers 7.62 - more"/>
+	<MountSystem id="10" name="mauser 98k HUB-23 barrel mount, specific"/>
+	<MountSystem id="11" name="PB 6P9 barrel mount, specific"/>
+	<MountSystem id="12" name="barrel suppressor mount, sniper .300 WM, .338 Magnum and .408 CheyTac calibers"/>
+	<MountSystem id="13" name="barrel suppressor mount, sniper .50 BMG and 12.7mm calibers"/>
+	
+	<MountSystem id="14" name="ballistic computer slot"/>
+	<MountSystem id="15" name="grenade launcher collimator"/>
+	<MountSystem id="16" name="F2000 aiming module, specific"/>
+	<MountSystem id="17" name="K11 aiming module, specific"/>
+	
+	<MountSystem id="18" name="picatinny rail, sight point"/>
+	<MountSystem id="19" name="picatinny rail, lower handguard point"/>
+	<MountSystem id="20" name="picatinny rail, upper handguard point"/>
+	<MountSystem id="21" name="picatinny rail, shotgun handguard point"/>
+	<MountSystem id="22" name="picatinny rail, side handguard point"/>
+	
+	<MountSystem id="24" name="optical scope rings, rifle"/>
+	<MountSystem id="25" name="optical scope rings, revolver"/>
+	<MountSystem id="26" name="AK-receiver, sight point"/>
+	<MountSystem id="27" name="M16-receiver handle, sight point"/>
+	<MountSystem id="28" name="M14-receiver, sight point"/>
+	<MountSystem id="29" name="M60-receiver, sight point"/>
+	<MountSystem id="30" name="MAS 38/49/56/36 receiver, sight point"/>
+	<MountSystem id="31" name="STANAG claw receiver, sight point"/>
+	<MountSystem id="32" name="American M84 scope mount"/>
+	<MountSystem id="33" name="British No.32 scope mount"/>
+	<MountSystem id="34" name="Soviet PU scope mount"/>
+	<MountSystem id="35" name="L1A1/FNFAL receiver, sight point"/>
+	<MountSystem id="36" name="German ZF4 scope mount"/>
+	<MountSystem id="37" name="Glock ironsight micro-slots"/>
+	
+	<MountSystem id="38" name="shotgun stock pistolgrip slot"/>
+	<MountSystem id="39" name="wooden handguard, inseparable mount"/>
+	
+	<MountSystem id="40" name="vise barrel mount, barrel point"/>
+	<MountSystem id="41" name="Old Aimpoint HK barrel mount, barrel point"/>
+	<MountSystem id="42" name="blue adhesive tape flashlight mount, handguard point"/>
+	
+	<MountSystem id="-1" name="built-in optics AUG/G11/CAWS, cannot be detached"/>
+	<MountSystem id="-2" name="built-in optics G36, cannot be detached"/>
+	<MountSystem id="-3" name="built-in optics P90, cannot be detached"/>
+	<MountSystem id="-4" name="built-in optics SSW, cannot be detached"/>
+	<MountSystem id="-5" name="built-in rifle bipod, cannot be detached"/>
+	<MountSystem id="-6" name="built-in machinegun bipod, cannot be detached"/>
+	<MountSystem id="-7" name="built-in foregrip, cannot be detached"/>
 </MountSystems>

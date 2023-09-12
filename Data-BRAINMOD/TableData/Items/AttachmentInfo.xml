@@ -43,7 +43,7 @@
 		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
-		<uiIndex>6</uiIndex>
+		<uiIndex>6</uiIndex>  <!-- placeholder for id 1288 (former Rod+Spring upgrade, removed from game) -->
 		<usItem>1288</usItem>
 		<uiItemClass>2</uiItemClass>
 		<bAttachmentSkillCheck>13</bAttachmentSkillCheck>

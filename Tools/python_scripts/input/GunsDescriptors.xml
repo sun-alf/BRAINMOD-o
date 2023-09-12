@@ -24,6 +24,16 @@
 	</Descriptor>
 -->
 
+	<Descriptor weapon_id="18" name="Dragunov SVD" longname="Dragunov SVD">
+		<Interface system="9" space="3"/>
+		<Interface system="26" space="40" default="1242"/>
+		<Interface system="42" space="10"/>
+	</Descriptor>
+
+	<Descriptor weapon_id="0" name="DEBUG NULL-TERMINATOR" longname="DEBUG NULL-TERMINATOR">
+		<Interface system="0" space="0"/>
+	</Descriptor>
+
 	<Descriptor weapon_id="34" name="FN Minimi" longname="FN Minimi">
 		<Interface system="0" space="1"/>
 	</Descriptor>
