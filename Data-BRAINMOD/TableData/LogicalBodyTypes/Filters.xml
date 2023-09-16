@@ -10,7 +10,7 @@
 		<!-- <AND> -->
 		<OR>
 			<WEAPON_TYPE>GUN_PISTOL</WEAPON_TYPE>
-			<HANDPOS op="in">5624, 5661, 5662, 5677, 5689, 5690</HANDPOS><!-- Sawn-off shotgun -->
+			<HANDPOS op="in">5624, 5661, 5662, 5677, 5689, 5690, 50</HANDPOS><!-- Sawn-off shotgun -->
 		</OR>
 			<!--<LEFT_WEAPON_TYPE>NOT_GUN</LEFT_WEAPON_TYPE>-->
 		<!-- </AND> -->

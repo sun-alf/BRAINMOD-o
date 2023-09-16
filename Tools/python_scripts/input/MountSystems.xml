@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <MountSystems>
-	<!-- end-of-barrel point for ids 0..13 -->
+	<!-- end-of-barrel mount point for ids 0..13 -->
 	<MountSystem id="0" name="barrel or compact flash-hider/compensator, threads and caliber do not matter"/>
 	<MountSystem id="1" name="barrel threads, small calibers"/>
 	<MountSystem id="2" name="barrel threads, medium calibers"/>
@@ -11,8 +11,8 @@
 	<MountSystem id="7" name="barrel threads, small rifle calibers 5.45 - 5.56"/>
 	<MountSystem id="8" name="barrel threads, medium rifle calibers"/>
 	<MountSystem id="9" name="barrel threads, large rifle calibers 7.62 - more"/>
-	<MountSystem id="10" name="mauser 98k HUB-23 barrel mount, specific"/>
-	<MountSystem id="11" name="PB 6P9 barrel mount, specific"/>
+	<MountSystem id="10" name="mauser 98k HUB-23 barrel mount, specific"/>  <!-- this system is specific to only HUB-23 attachment -->
+	<MountSystem id="11" name="PB 6P9 barrel mount, specific"/>  <!-- this system is specific to only PB 6P9 suppressor attachment -->
 	<MountSystem id="12" name="barrel suppressor mount, sniper .300 WM, .338 Magnum and .408 CheyTac calibers"/>
 	<MountSystem id="13" name="barrel suppressor mount, sniper .50 BMG and 12.7mm calibers"/>
 	
@@ -49,6 +49,7 @@
 	<MountSystem id="41" name="Old Aimpoint HK barrel mount, barrel point"/>
 	<MountSystem id="42" name="blue adhesive tape flashlight mount, handguard point"/>
 	
+	<!-- Built-in items are implemented as default attachments, each system is single attachment specific -->
 	<MountSystem id="-1" name="built-in optics AUG/G11/CAWS, cannot be detached"/>
 	<MountSystem id="-2" name="built-in optics G36, cannot be detached"/>
 	<MountSystem id="-3" name="built-in optics P90, cannot be detached"/>
@@ -56,4 +57,5 @@
 	<MountSystem id="-5" name="built-in rifle bipod, cannot be detached"/>
 	<MountSystem id="-6" name="built-in machinegun bipod, cannot be detached"/>
 	<MountSystem id="-7" name="built-in foregrip, cannot be detached"/>
+	<MountSystem id="-8" name="built-in foregrip DMRC, cannot be detached"/>
 </MountSystems>

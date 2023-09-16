@@ -136,29 +136,60 @@ def MakeRealisticAttachments(args):
         return "gunId = {}\ngunName = {}\ncompatibleAttachments = {}\ncompatibleAttachment = {}\n".format(gunId, gunName, compatibleAttachments, compatibleAttachment);
     #end def _FormatDbgText(gunId, gunName, compatibleAttachments, compatibleAttachment):
 
+    def _LoadIgnoredAttachments(attachmentsDesc):
+        result = list();
+        foundNull = False;
+        for desc in attachmentsDesc:
+            if desc.attrib["attachment_id"] == "0":  # "NULL-TERMINATOR" is found
+                foundNull = True;
+                continue;
+            if foundNull:
+                result.append(desc.attrib["attachment_id"]);
+        return result;
+    #end _LoadIgnoredAttachments(attachmentsDesc):
+
+    def _Log(f, text):
+        f.write(text);
+        f.write("\n");
+    #end _Log(f, text):
+
+    log = open(os.path.join(SWDIR, "realistic_attachments_changes.log"), "w");
     JA2TableData.OpenWorkspace(os.path.join(SWDIR, "input"));
     mountSystems = JA2TableData.GetXml("MountSystems.xml", wsName="input");
     attachmentsDesc = JA2TableData.GetXml("AttachmentsDescriptors.xml", wsName="input");
     gunsDesc = JA2TableData.GetXml("GunsDescriptors.xml", wsName="input");
     attachments = JA2TableData.GetXml(JA2Xmls.ATTACHMENTS);
+    items = JA2TableData.GetXml(JA2Xmls.ITEMS);
+    
+    # I decided to use "NULL-TERMINATOR" for not only debug purposes, but for cutting unnecessary elements also. For AttachmentsDescriptors.xml
+    # means all attachments after the NULL should be kept intact in Attachments.xml (i.e. completely ignored).
+    ignoredAttList = _LoadIgnoredAttachments(attachmentsDesc);  # contains IDs only
     
     for gunDesc in gunsDesc:
-        if gunDesc.attrib["weapon_id"] == "0":  # exit on "NULL-TERMINATOR" spot, for script debug purposes only.
+        if gunDesc.attrib["weapon_id"] == "0":  # exit on "NULL-TERMINATOR" spot.
             break;
+        
+        if "skip" in gunDesc.attrib:  # "skip" property means skip this gun, that's it.
+            continue;
         
         # Main part of this task: form a list of attachments in accordance to rules provided by "/input" XMLs.
         # The list will be in var 'compatibleAttachments'.
         gunId = gunDesc.attrib["weapon_id"];
         gunName = gunDesc.attrib["name"];
         compatibleAttachments = list();
+        defaultAttachments = list();  # contains IDs only
         for interface in gunDesc:
             for attachmentDesc in attachmentsDesc:
-                if attachmentDesc.attrib["attachment_id"] == "0":  # exit on "NULL-TERMINATOR" spot, for script debug purposes only.
+                if attachmentDesc.attrib["attachment_id"] == "0":  # exit on "NULL-TERMINATOR" spot.
                     break;
                 if _HasCompatibleSlot(attachmentDesc, interface.attrib["system"], interface.attrib["space"]):
                     attachmentDescCopy = copy.deepcopy(attachmentDesc);
                     _MarkCompatibleSlot(attachmentDescCopy, interface.attrib["system"], interface.attrib["space"]);
                     compatibleAttachments.append(attachmentDescCopy);
+                    if int(interface.attrib["system"]) < 0:  # if the compatible attachment is of built-in type, remember it as default attachment
+                        defaultAttachments.append(attachmentDesc.attrib["attachment_id"]);
+            if "default" in interface.attrib:  # directly pointed default attachment ID should be used disregarding compatibilites
+                defaultAttachments.append(interface.attrib["default"]);
 
         # Sometimes the same attachment can fit multiple interfaces on a gun, i.e. Picatinny compatible laser can be mounted onto
         # under-barrel or side-barrel rail. In this case we will have entries for this attachment in 'compatibleAttachments'. We
@@ -175,21 +206,30 @@ def MakeRealisticAttachments(args):
         for att in compatibleAttachments:
             print("    [{}] {}".format(att.attrib["attachment_id"], att.attrib["name"]));
         
+        _Log(log, "Gun [{}] \'{}\' changes:".format(gunId, gunName));
+        
         # Now it is time to edit Attachments.xml so that unrealistic attachment combinations will be removed, the only allowed
         # combinations (which correspond to 'compatibleAttachments' list) will be kept, and additional allowed combinations
         # (if any) will be added. To do so, we assume that current Attachments.xml allows too much possible attachments, much
         # more than it in real life is.
         for attachment in attachments:
             if XmlUtils.GetTagValue(attachment, "itemIndex") == gunId:  # found an attachment for a gun in question
-                compatibleAttachment = _FindCompatibleAttachment(compatibleAttachments, XmlUtils.GetTagValue(attachment, "attachmentIndex"));
+                attachmentId = XmlUtils.GetTagValue(attachment, "attachmentIndex");
+                attachmentName = XmlUtils.GetTagValue(items[int(attachmentId)], "szLongItemName");
+                compatibleAttachment = _FindCompatibleAttachment(compatibleAttachments, attachmentId);
                 if compatibleAttachment != None:  # if the 'attachment' is in allowed list
                     compatibleSlot = _GetCompatibleSlot(compatibleAttachment);
                     if compatibleSlot == None:  # at this point _GetCompatibleSlot() must return an object, not None
                         exceptionDbgText = _FormatDbgText(gunId, gunName, compatibleAttachments, compatibleAttachment);
+                        _Log(log, "Script aborted at: " + exceptionDbgText);
                         raise Exception(exceptionDbgText);
-                    XmlUtils.SetTagValue(attachment, "APCost", compatibleSlot.attrib["timeAP"]);  # then update APCost and leave it
+                    prevApCost = XmlUtils.GetTagValue(attachment, "APCost");
+                    newApCost = compatibleSlot.attrib["timeAP"];
+                    XmlUtils.SetTagValue(attachment, "APCost", newApCost);  # then update APCost and leave it
+                    _Log(log, "~  \'{}\' ({}) APCost: {} --> {}".format(attachmentName, attachmentId, prevApCost, newApCost));
                     compatibleAttachments.remove(compatibleAttachment);  # we don't need it anymore as there is no sence to put the same element into Attachments.xml more than once
-                else:  # otherwise remove it from Attachments.xml
+                elif attachmentId not in ignoredAttList:  # otherwise remove it from Attachments.xml (if not an ignored attachment, of course)
+                    _Log(log, "-  \'{}\' ({})".format(attachmentName, attachmentId));
                     attachments.remove(attachment);
         
         # Check if something is left in 'compatibleAttachments', and if it is, that means we have some new attachments for Attachments.xml
@@ -206,8 +246,22 @@ def MakeRealisticAttachments(args):
                 XmlUtils.SetTagValue(newAttachment, "itemIndex", gunId);
                 XmlUtils.SetTagValue(newAttachment, "APCost", compatibleSlot.attrib["timeAP"]);
                 attachments.append(newAttachment);
+                _Log(log, "+  \'{}\' ({})".format(attName, attId));
+        
+        # Process default attachments -- check for equality only: if ID set in defaultAttachments != <DefaultAttachment> set then vomit a warning with details
+        tagList = items[int(gunId)].findall("DefaultAttachment");
+        actualDefaultAttachments = list();
+        for tag in tagList:
+            actualDefaultAttachments.append(tag.text);
+        defaultAttachments.sort();        # 2 lists of strings could be equal only if order of strings and the strings itself are equal, so
+        actualDefaultAttachments.sort();  # let's sort both lists of IDs
+        if defaultAttachments != actualDefaultAttachments:
+            _Log(log, "!! actual default attachments {} != realistic default attachments {}".format(actualDefaultAttachments, defaultAttachments));
+        
+        _Log(log, "");  # append new line
     
     JA2TableData.GetWorkspace(JA2Workspaces.BRAINMOD).SaveXml(JA2Xmls.ATTACHMENTS);
+    log.close();
 #end def MakeRealisticAttachments(args):
 
 
@@ -270,7 +324,26 @@ def GenerateTemplateGunsXml(args):
 
 
 def TestFunc(args):
-    pass;
+    def _AllAreIgnored(attachments):
+        result = True;
+        ignoreList = ["1034", "1024", "1025"];
+        for att in attachments:
+            if att.text not in ignoreList:
+                result = False;
+                break;
+        return result;
+    
+    itemsRoot = JA2TableData.GetXml(JA2Xmls.ITEMS);
+    for item in itemsRoot:
+        defaults = item.findall("DefaultAttachment");
+        itemClass = XmlUtils.GetTagValue(item, "usItemClass");
+        if len(defaults) > 0 and (itemClass == "2" or itemClass == "16"):
+            if _AllAreIgnored(defaults) == True:
+                continue;
+            print("[{}] {}:".format(XmlUtils.GetTagValue(item, "uiIndex"), XmlUtils.GetTagValue(item, "szLongItemName")));
+            for default in defaults:
+                print("    [{}] \'{}\'".format(default.text, XmlUtils.GetTagValue(itemsRoot[int(default.text)], "szLongItemName")));
+            print();
 #end def TestFunc(args):
 
 #

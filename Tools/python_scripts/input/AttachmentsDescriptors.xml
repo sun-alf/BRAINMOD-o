@@ -22,12 +22,12 @@
 	</Descriptor>
 -->
 
-	<!-- Here will be a quick (or not) guide on how to fill this input document. If won't put remarks here, I will just forget every single idea.
+<!-- Here will be a quick (or not) guide on how to fill this input document. If won't put remarks here, I will just forget every single idea.
 	
 	============================================================================
 	==== General
 	============================================================================
-	* "timeAP" -- in game means "time in Action Points"; despite src code totaly discards relation to real-time, 100 AP can be treated as 5 sec.
+	* "timeAP" in game means "time in Action Points"; despite src code totaly discards relation to real-time, 100 AP can be treated as 5 sec.
 		Top trained merc could have up to ~105AP, or up to ~125AP after stimpack injection. I.e. 20AP == 1 sec. I suppose to use 20, 40, 60, 80
 		and 100 values (1-5 sec) for stuff which could be attached and adjusted in a combat IRL; if not, put 120 to prevent attaching in combat
 		by a normal person.
@@ -36,11 +36,11 @@
 	==== Muzzle attachments
 	============================================================================
 	* "Space" here means required minimum lenght of barrel popping out of barrel box, if any. Valid values:
-		1 -- 0.5 - 0.9 cm
-		2 -- 1.0 - 2.5 cm
-		3 -- 2.6 or longer
+		1 : 0.5 - 0.9 cm
+		2 : 1.0 - 2.5 cm
+		3 : 2.6 or longer
 	* "System" = 0 is supposed to be used by Improvised suppressor only; no threads, only glue =)
-	* Sumption #1: in this game we don't differ types of barrel threads -- left or right, 1/2x28 step or any other etc; so a barrel does have
+	* Sumption #1: in this game we don't differ types of barrel threads - left or right, 1/2x28 step or any other etc; so a barrel does have
 		threads or it doesn't, no other conditions.
 	* Sumption #2: the game provides several barrel conversion kits, modern and shiny. If a gun has such converions kit available, that means
 		all its' barrels are with threads.
@@ -51,10 +51,15 @@
 	============================================================================
 	==== Scopes and sights
 	============================================================================
-	* "Space" is exactly required space in cm (length of aiming device). Exclusions are ballistic computer (normally not mounted onto rifle at
-		all), grenade launcher collimator (unique and is mounted not onto rifle) and non-detachable things (system < 0). Space for exclusions
-		is 1 just because.
-	-->
+	* "Space" is exactly required space in cm (length of aiming device); disregarding type of system - Picattiny or something else.
+		Exclusions are ballistic computer (normally not mounted onto rifle at all), grenade launcher collimator (unique and is mounted not onto
+		rifle) and non-detachable things (system < 0). Space for exclusions is 1 just because.
+	
+	============================================================================
+	==== Laser sights
+	============================================================================
+	* "Space" is exactly required space on a rail (any of Picattiny) or barrel (vise mount) in cm.
+-->
 
 	<Descriptor attachment_id="310" name="A. - Muzzle, Improvised suppressor">
 		<Slot system="0" space="3" timeAP="120"/>
@@ -72,7 +77,7 @@
 		<Slot system="2" space="1" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1135" name="A. - Muzzle, Flash Suppressor">
-		<Slot system="1" space="2" timeAP="120"/>
+		<Slot system="7" space="2" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1136" name="A. - Muzzle, Matchbarrel">
 		<Slot system="4" space="2" timeAP="120"/>
@@ -292,19 +297,19 @@
 		<Slot system="24" space="36" timeAP="120"/>
 		<Slot system="18" space="36" timeAP="120"/>
 	</Descriptor>
-	<Descriptor attachment_id="1192" name="A. - Scope, S&B PM II LP 3x">
+	<Descriptor attachment_id="1192" name="A. - Scope, S&amp;B PM II LP 3x">
 		<Slot system="24" space="34" timeAP="120"/>
 		<Slot system="18" space="34" timeAP="120"/>
 	</Descriptor>
-	<Descriptor attachment_id="1193" name="A. - Scope, S&B PM II LP 6x">
+	<Descriptor attachment_id="1193" name="A. - Scope, S&amp;B PM II LP 6x">
 		<Slot system="24" space="34" timeAP="120"/>
 		<Slot system="18" space="34" timeAP="120"/>
 	</Descriptor>
-	<Descriptor attachment_id="1194" name="A. - Scope, S&B PM II LP 9x">
+	<Descriptor attachment_id="1194" name="A. - Scope, S&amp;B PM II LP 9x">
 		<Slot system="24" space="34" timeAP="120"/>
 		<Slot system="18" space="34" timeAP="120"/>
 	</Descriptor>
-	<Descriptor attachment_id="1195" name="A. - Scope, S&B PM II LP 12x">
+	<Descriptor attachment_id="1195" name="A. - Scope, S&amp;B PM II LP 12x">
 		<Slot system="24" space="34" timeAP="120"/>
 		<Slot system="18" space="34" timeAP="120"/>
 	</Descriptor>
@@ -363,7 +368,7 @@
 		<Slot system="33" space="30" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1231" name="A. - Scope, ON-M99">
-		<Slot system="26" space="26" timeAP="120"/>
+		<Slot system="26" space="26" timeAP="80"/>
 	</Descriptor>
 	<Descriptor attachment_id="1233" name="A. - Scope, 1P21 Minuta 3x">
 		<Slot system="26" space="40" timeAP="120"/>
@@ -379,10 +384,10 @@
 		<Slot system="24" space="25" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1237" name="A. - Scope, PGO-7W">
-		<Slot system="26" space="14" timeAP="120"/>
+		<Slot system="26" space="14" timeAP="80"/>
 	</Descriptor>
 	<Descriptor attachment_id="1238" name="A. - Scope, PKA-1">
-		<Slot system="26" space="17" timeAP="120"/>
+		<Slot system="26" space="17" timeAP="80"/>
 	</Descriptor>
 	<Descriptor attachment_id="1239" name="A. - Scope, POSP 2x">
 		<Slot system="26" space="37" timeAP="120"/>
@@ -394,10 +399,10 @@
 		<Slot system="26" space="37" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1242" name="A. - Scope, PSO-1">
-		<Slot system="26" space="33" timeAP="60"/>
+		<Slot system="26" space="33" timeAP="80"/>
 	</Descriptor>
 	<Descriptor attachment_id="1243" name="A. - Scope, PSO-3">
-		<Slot system="26" space="40" timeAP="60"/>
+		<Slot system="26" space="40" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1244" name="A. - Scope, PU">
 		<Slot system="34" space="17" timeAP="120"/>
@@ -431,7 +436,7 @@
 	<Descriptor attachment_id="1262" name="A. - Sight, Aperture">
 		<Slot system="18" space="3" timeAP="80"/>
 	</Descriptor>
-	<Descriptor attachment_id="1266" name="A. - Sight, Pistol, B&T N.S.">
+	<Descriptor attachment_id="1266" name="A. - Sight, Pistol, B&amp;T N.S.">
 		<Slot system="37" space="1" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1267" name="A. - Sight, Pistol, Match Sights">
@@ -466,7 +471,7 @@
 		<Slot system="19" space="5" timeAP="100"/>
 	</Descriptor>
 	<Descriptor attachment_id="1029" name="A. - Foregrip, DMRC">
-		<Slot system="19" space="3" timeAP="60"/>
+		<Slot system="-8" space="1" timeAP="60"/>
 	</Descriptor>
 	<Descriptor attachment_id="1030" name="A. - Foregrip, SMG">
 		<Slot system="19" space="4" timeAP="100"/>
@@ -500,8 +505,8 @@
 		<Slot system="20" space="17" timeAP="120"/>
 		<Slot system="22" space="17" timeAP="120"/>
 	</Descriptor>
-	<Descriptor attachment_id="1039" name="A. - Laser, CORSAK">
-		<Slot system="40" space="14" timeAP="120"/>
+	<Descriptor attachment_id="1039" name="A. - Laser, CORSAK-14">
+		<Slot system="40" space="4" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1040" name="A. - Laser, Insight LAM">
 		<Slot system="19" space="4" timeAP="120"/>
@@ -571,7 +576,7 @@
 	<Descriptor attachment_id="1049" name="A. - Mag Adapter, .30 car 15+ Drum">
 		<Slot system="0" space="1" timeAP="60"/>
 	</Descriptor>
-	<Descriptor attachment_id="1050" name="A. - Mag Adapter, .40 S&W Drum">
+	<Descriptor attachment_id="1050" name="A. - Mag Adapter, .40 S&amp;W Drum">
 		<Slot system="0" space="1" timeAP="60"/>
 	</Descriptor>
 	<Descriptor attachment_id="1051" name="A. - Mag Adapter, .410 Drum">

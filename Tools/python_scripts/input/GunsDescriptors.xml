@@ -1,33 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GunsDescriptors>
-<!--
-	<Descriptor weapon_id="1" name="glock" longname="FN Minimi">
-		<Interface system="0" space="1"/>
-		<Interface system="1" space="1"/>
-		<Interface system="2" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="3" name="beretta 92" longname="FN Minimi">
-		<Interface system="0" space="1"/>
-		<Interface system="1" space="2"/>
-		<Interface system="2" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4" name="beretta 93" longname="FN Minimi">
-		<Interface system="0" space="1"/>
-		<Interface system="2" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="5" name="SW special" longname="FN Minimi">
-		<Interface system="2" space="1"/>
-		<Interface system="3" space="2"/>
-	</Descriptor>
+<!-- Here are the most typical gun for copy/pasting. If a gun has no interfaces at all, just remove all <Interface> tags.
+	Typical revolver:
+	
+	Typical modern full-size pistol:
+	
+	Typical modern SMG:
+	
+	Typical bolt-action rifle:
+	
+	Typical shotgun:
+	
+	Typical modern LMG:
+	
 	<Descriptor weapon_id="0" name="DEBUG NULL-TERMINATOR" longname="DEBUG NULL-TERMINATOR">
 		<Interface system="0" space="0"/>
 	</Descriptor>
 -->
 
-	<Descriptor weapon_id="18" name="Dragunov SVD" longname="Dragunov SVD">
-		<Interface system="9" space="3"/>
-		<Interface system="26" space="40" default="1242"/>
-		<Interface system="42" space="10"/>
+	<Descriptor skip="" weapon_id="4002" name="S&amp;W Model 64" longname="S&amp;W Model 64">
+		<Interface system="0" space="1"/>
 	</Descriptor>
 
 	<Descriptor weapon_id="0" name="DEBUG NULL-TERMINATOR" longname="DEBUG NULL-TERMINATOR">
@@ -41,7 +33,6 @@
 		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="50" name="Colt M203 Grenade Launcher" longname="Colt M203 Grenade Launcher">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="55" name="Rocket Rifle" longname="Rocket Rifle">
 		<Interface system="0" space="1"/>
@@ -1937,7 +1928,10 @@
 		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="18" name="Dragunov SVD" longname="Dragunov SVD">
-		<Interface system="0" space="1"/>
+		<Interface system="9" space="3"/>
+		<Interface system="26" space="40" default="1242"/>
+		<Interface system="40" space="10"/>
+		<Interface system="42" space="20"/>
 	</Descriptor>
 	<Descriptor weapon_id="5002" name="Dragunov SVDS" longname="Dragunov SVDS">
 		<Interface system="0" space="1"/>

@@ -8790,23 +8790,6 @@
 		<szTooltipText />
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>1274</usItem>
-		<usResult1>1296</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>8</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Switch off</szMenuRowText>
-		<szTooltipText />
-	</TRANSFORM>
-	<TRANSFORM>
 		<usItem>1401</usItem>
 		<usResult1>54</usResult1>
 		<usResult2>0</usResult2>
