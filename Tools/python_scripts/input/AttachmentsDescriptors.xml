@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AttachmentsDescriptors>
 <!--
-	<Descriptor attachment_id="1148" name="A. - Muzzle, Suppressor, Pistol, medium">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="241" name="A. - Laser Sight">
-		<Slot system="1" space="2" timeAP="100"/>
-		<Slot system="3" space="2" timeAP="120"/>
-	</Descriptor>
-	<Descriptor attachment_id="1043" name="A. - Laser, Reddot LAM">
-		<Slot system="1" space="1" timeAP="80"/>
-	</Descriptor>
-	<Descriptor attachment_id="1037" name="A. - Laser, AN/PEQ-15">
-		<Slot system="1" space="3" timeAP="100"/>
-	</Descriptor>
-	<Descriptor attachment_id="1166" name="A. - Reflex Sight, Z-Point">
-		<Slot system="2" space="1" timeAP="40"/>
-	</Descriptor>
 	<Descriptor attachment_id="0" name="DEBUG NULL-TERMINATOR">
 		<Slot system="0" space="0" timeAP="0"/>
 	</Descriptor>
@@ -56,7 +40,7 @@
 		rifle) and non-detachable things (system < 0). Space for exclusions is 1 just because.
 	
 	============================================================================
-	==== Laser sights
+	==== Laser sights, bipods
 	============================================================================
 	* "Space" is exactly required space on a rail (any of Picattiny) or barrel (vise mount) in cm.
 -->

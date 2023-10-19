@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GunsDescriptors>
 <!-- Here are the most typical gun for copy/pasting. If a gun has no interfaces at all, just remove all <Interface> tags.
-	Typical revolver:
+	Typical revolver with 15 cm / 6 inch barrel:
+	<Descriptor weapon_id="4003" name="Korth Sport .38" longname="Korth Sport .38">
+		<Interface system="25" space="14"/>
+		<Interface system="40" space="4"/> - barrel mounted bipods need 5 cm min for its vise, so all revolvers must have 4 cm or less to avoid compatibility with bipods (vise will block iron sight anyway, no sense to mount bipods)
+	</Descriptor>
 	
-	Typical modern full-size pistol:
+	Typical modern full-sized pistol:
+	<Descriptor weapon_id="1" name="Glock 17" longname="Glock 17">
+		<Interface system="2" space="1"/>
+		<Interface system="19" space="5"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
 	
 	Typical modern SMG:
 	
@@ -12,235 +21,264 @@
 	Typical shotgun:
 	
 	Typical modern LMG:
+	<Descriptor weapon_id="34" name="FN Minimi" longname="FN Minimi">
+		<Interface system="7" space="3"/>
+		<Interface system="18" space="20"/>
+		<Interface system="40" space="15"/>
+		<Interface system="42" space="15"/>
+	</Descriptor>
+	<Descriptor weapon_id="35" name="RPK-74" longname="RPK-74">
+		<Interface system="7" space="3"/>
+		<Interface system="26" space="34"/> - typical AK receiver space for optical scope is about to fit PSO-1 (33cm)
+		<Interface system="40" space="20"/>
+		<Interface system="42" space="14"/> - typical AK handguard length is 14.5 cm
+	</Descriptor>
 	
 	<Descriptor weapon_id="0" name="DEBUG NULL-TERMINATOR" longname="DEBUG NULL-TERMINATOR">
 		<Interface system="0" space="0"/>
 	</Descriptor>
 -->
 
-	<Descriptor skip="" weapon_id="4002" name="S&amp;W Model 64" longname="S&amp;W Model 64">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-
-	<Descriptor weapon_id="0" name="DEBUG NULL-TERMINATOR" longname="DEBUG NULL-TERMINATOR">
-		<Interface system="0" space="0"/>
-	</Descriptor>
-
 	<Descriptor weapon_id="34" name="FN Minimi" longname="FN Minimi">
-		<Interface system="0" space="1"/>
+		<Interface system="7" space="3"/>
+		<Interface system="18" space="20"/>
+		<Interface system="40" space="15"/>
+		<Interface system="42" space="15"/>
 	</Descriptor>
 	<Descriptor weapon_id="35" name="RPK-74" longname="RPK-74">
-		<Interface system="0" space="1"/>
+		<Interface system="7" space="3"/>
+		<Interface system="26" space="34"/>
+		<Interface system="40" space="20"/>
+		<Interface system="42" space="14"/>
 	</Descriptor>
 	<Descriptor weapon_id="50" name="Colt M203 Grenade Launcher" longname="Colt M203 Grenade Launcher">
 	</Descriptor>
 	<Descriptor weapon_id="55" name="Rocket Rifle" longname="Rocket Rifle">
-		<Interface system="0" space="1"/>
+		<Interface system="18" space="30"/>
+		<Interface system="42" space="10"/>
+		<Interface system="-7" space="1"/>
 	</Descriptor>
-	<Descriptor weapon_id="60" name="*** Tank Cannon ***" longname="*** Tank Cannon ***">
+	<Descriptor skip="" weapon_id="60" name="*** Tank Cannon ***" longname="*** Tank Cannon ***">
 		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="65" name="Auto Rocket Rifle" longname="Auto Rocket Rifle">
-		<Interface system="0" space="1"/>
+		<Interface system="18" space="30"/>
+		<Interface system="42" space="10"/>
+		<Interface system="-7" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="5" name="S&amp;W Chiefs Special" longname="S&amp;W Chiefs Special">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4002" name="S&amp;W Model 64" longname="S&amp;W Model 64">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="8"/>
+		<Interface system="40" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4003" name="Korth Sport .38" longname="Korth Sport .38">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="14"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4004" name="Barracuda .38" longname="Barracuda .38">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="5"/>
 	</Descriptor>
 	<Descriptor weapon_id="4005" name="Colt Python .38" longname="Colt Python .38">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="8"/>
+		<Interface system="40" space="2"/>
 	</Descriptor>
 	<Descriptor weapon_id="4006" name="Manurhin MR-73 .38" longname="Manurhin MR-73 .38">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="10"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4007" name="S&amp;W M19 .38" longname="S&amp;W M19 .38">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="8"/>
+		<Interface system="40" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4008" name="Manurhin MR-96 .38" longname="Manurhin MR-96 .38">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="14"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4009" name="Modified EMF Hartford 6 Shooter .38" longname="Modified EMF Hartford 6 Shooter .38">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="20"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4010" name="Ruger LCR M5401" longname="Ruger LCR M5401">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4011" name="Ruger LCRX M5431" longname="Ruger LCRX M5431">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4020" name="Korth Sport" longname="Korth Sport">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="14"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="6" name="Barracuda" longname="Barracuda">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="5"/>
 	</Descriptor>
 	<Descriptor weapon_id="4022" name="Colt Python" longname="Colt Python">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="8"/>
+		<Interface system="40" space="2"/>
 	</Descriptor>
 	<Descriptor weapon_id="4023" name="Manurhin MR-73" longname="Manurhin MR-73">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="10"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4024" name="S&amp;W M19" longname="S&amp;W M19">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="8"/>
+		<Interface system="40" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4025" name="Manurhin MR-96" longname="Manurhin MR-96">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="14"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="66" name="Modified EMF Hartford 6 Shooter" longname="Modified EMF Hartford 6 Shooter">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="20"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4027" name="Ruger LCR M5450" longname="Ruger LCR M5450">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4028" name="Ruger LCRX M5460" longname="Ruger LCRX M5460">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4037" name="Chiappa Rhino 60DS" longname="Chiappa Rhino 60DS">
-		<Interface system="0" space="1"/>
+		<Interface system="18" space="16"/>
+		<Interface system="19" space="6"/>
 	</Descriptor>
 	<Descriptor weapon_id="4038" name="Chiappa Rhino 50DS" longname="Chiappa Rhino 50DS">
-		<Interface system="0" space="1"/>
+		<Interface system="19" space="6"/>
 	</Descriptor>
 	<Descriptor weapon_id="4039" name="Chiappa Rhino 40DS" longname="Chiappa Rhino 40DS">
-		<Interface system="0" space="1"/>
+		<Interface system="19" space="6"/>
 	</Descriptor>
 	<Descriptor weapon_id="4040" name="Chiappa Rhino 20DS" longname="Chiappa Rhino 20DS">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4041" name="Ruger Redhawk Revolver" longname="Ruger Redhawk Revolver">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="14"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4042" name="S&amp;W M29" longname="S&amp;W M29">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="14"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4043" name="S&amp;W M29 SATAN" longname="S&amp;W M29 SATAN">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="25"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4044" name="Colt Anaconda" longname="Colt Anaconda">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="16"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4045" name="Taurus Raging Bull 444" longname="Taurus Raging Bull 444">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="16"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4046" name="Charter Arms Bulldog" longname="Charter Arms Bulldog">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4047" name="Mateba 6 Unica" longname="Mateba 6 Unica">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4048" name="S&amp;W M1917" longname="S&amp;W M1917">
-		<Interface system="0" space="1"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4049" name="S&amp;W M325PD" longname="S&amp;W M325PD">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="8"/>
+		<Interface system="40" space="2"/>
 	</Descriptor>
 	<Descriptor weapon_id="4051" name="Ruger S. Redhawk Alaskan .45" longname="Ruger S. Redhawk Alaskan .45">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4052" name="Fr. Arms M83 Premier Grade .45" longname="Fr. Arms M83 Premier Grade .45">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="20"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4053" name="Taurus Raging Bull .45" longname="Taurus Raging Bull .45">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="8"/>
+		<Interface system="40" space="2"/>
 	</Descriptor>
 	<Descriptor weapon_id="4054" name="Snake Slayer .45" longname="Snake Slayer .45">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4055" name="Taurus Judge .45" longname="Taurus Judge .45">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4056" name="Colt Peacemaker" longname="Colt Peacemaker">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="20"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4061" name="Ruger S. Redhawk Alaskan" longname="Ruger S. Redhawk Alaskan">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4062" name="Fr. Arms M83 Premier Grade" longname="Fr. Arms M83 Premier Grade">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="20"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4063" name="Taurus Raging Bull 454" longname="Taurus Raging Bull 454">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="8"/>
+		<Interface system="40" space="2"/>
 	</Descriptor>
 	<Descriptor weapon_id="4066" name="Ladies Home Companion" longname="Ladies Home Companion">
-		<Interface system="0" space="1"/>
+		<Interface system="18" space="20"/>
 	</Descriptor>
 	<Descriptor weapon_id="4071" name="U-94S UDAR" longname="U-94S UDAR">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4076" name="Taurus 941" longname="Taurus 941">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4077" name="Ruger LCR M5414" longname="Ruger LCR M5414">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4078" name="Ruger LCRX M5424" longname="Ruger LCRX M5424">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4081" name="Webley Mk. VI" longname="Webley Mk. VI">
-		<Interface system="0" space="1"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4082" name="Webley Fosbery" longname="Webley Fosbery">
-		<Interface system="0" space="1"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4083" name="Webley WG Army" longname="Webley WG Army">
-		<Interface system="0" space="1"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4085" name="Mauser M1878 Revolver" longname="Mauser M1878 Revolver">
-		<Interface system="0" space="1"/>
+		<Interface system="40" space="3"/>
 	</Descriptor>
 	<Descriptor weapon_id="4086" name="M1879 Revolver" longname="M1879 Revolver">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="20"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4087" name="Taurus Raging Hornet" longname="Taurus Raging Hornet">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="25"/>
+		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4091" name="Ruger Ten" longname="Ruger Ten">
-		<Interface system="0" space="1"/>
+		<Interface system="25" space="20"/>
 	</Descriptor>
 	<Descriptor weapon_id="4092" name="Ruger LCR M5410" longname="Ruger LCR M5410">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4093" name="Ruger LCRX M5435" longname="Ruger LCRX M5435">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4096" name="Snake Slayer" longname="Snake Slayer">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4097" name="Taurus Judge" longname="Taurus Judge">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4101" name="Glock 19" longname="Glock 19">
-		<Interface system="0" space="1"/>
+		<Interface system="19" space="4"/>
+		<Interface system="37" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4102" name="HK P7M8" longname="HK P7M8">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4103" name="SIG P239 SAS" longname="SIG P239 SAS">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="1" name="Glock 17" longname="Glock 17">
-		<Interface system="0" space="1"/>
+		<Interface system="2" space="1"/>
+		<Interface system="19" space="5"/>
+		<Interface system="37" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4112" name="SIG P210" longname="SIG P210">
-		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4113" name="SIG P226R" longname="SIG P226R">
-		<Interface system="0" space="1"/>
+		<Interface system="19" space="5"/>
+		<Interface system="37" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4114" name="SIG P226 SAS" longname="SIG P226 SAS">
-		<Interface system="0" space="1"/>
+		<Interface system="19" space="5"/>
+		<Interface system="37" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4115" name="SIG P229R" longname="SIG P229R">
-		<Interface system="0" space="1"/>
+		<Interface system="19" space="4"/>
+		<Interface system="37" space="1"/>
 	</Descriptor>
+	
+	<Descriptor weapon_id="0" name="DEBUG NULL-TERMINATOR" longname="DEBUG NULL-TERMINATOR">
+		<Interface system="0" space="0"/>
+	</Descriptor>
+	
 	<Descriptor weapon_id="4116" name="Luger P08" longname="Luger P08">
 		<Interface system="0" space="1"/>
 	</Descriptor>
@@ -2177,6 +2215,9 @@
 		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="5146" name="Colt M16A1" longname="Colt M16A1">
+		<Interface system="27" space="25"/>
+		<Interface system="7" space="3"/>
+		<Interface system="42" space="15"/>
 		<Interface system="0" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="5147" name="Colt M16A2" longname="Colt M16A2">

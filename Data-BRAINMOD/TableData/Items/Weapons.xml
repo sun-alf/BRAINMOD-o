@@ -5269,6 +5269,8 @@
 		<usRange>260</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>64</ubAttackVolume>
+		<ubHitVolume>3</ubHitVolume>
 		<sSound>388</sSound>
 		<sReloadSound>100</sReloadSound>
 		<sLocknLoadSound>106</sLocknLoadSound>
