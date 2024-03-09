@@ -90,20 +90,9 @@
 		</OR>
 	</Filter>
 	<Filter name="CamoLongsleeves">
-		<AND>
-			<VESTPOS op="in">2705</VESTPOS>  <!-- Camo Shirt, used as placeholder here -->
-			<!-- REST ITEMS WERE MOVED TO Longsleeves SECTION until CamoLongsleeves get work -->
-		</AND>
-	</Filter>
-	<Filter name="Longsleeves">
 		<OR>
-			<VESTPOS op="in">2701, 2702, 2703, 2704, 2706, 2708</VESTPOS>  <!-- Camo Uniforms, Night Ops Jacket, Field Uniform, ACA Uniform -->
-			<VESTPOS op="in">2710</VESTPOS>  <!-- Wool Jumper -->
-			<VESTPOS op="btwn">2722, 2724</VESTPOS>  <!-- Leather & Kevlar Jacket -->
-			<VESTPOS op="btwn">2784, 2786</VESTPOS>  <!-- Kevlar Vest Stealth Ops -->
-			
-			<!-- ITEMS BELOW SHOULD BE MOVED BACK TO CamoLongsleeves SECTION WHEN PROPER ANIMATIONS ADDED.
-			     These items are in both FlackJacket/KevlarVest/SpectraVest and this sections to trigger both animations appearing. -->
+			<VESTPOS op="in">2701, 2702, 2703, 2706</VESTPOS>  <!-- Camo Uniforms, Field Uniform -->
+			<!-- These items are in both FlakJacket/KevlarVest/SpectraVest and this sections to trigger both animations appearing. -->
 			<VESTPOS op="in">2707</VESTPOS>          <!-- Zylon Combat Vest -->
 			<VESTPOS op="btwn">2734, 2736</VESTPOS>  <!-- Bristol Vest & Jumper -->
 			<VESTPOS op="btwn">2738, 2740</VESTPOS>  <!-- KAZAK-6 & Camo -->
@@ -117,6 +106,113 @@
 			<VESTPOS op="btwn">2856, 2864</VESTPOS>  <!-- Twaron Vest & Camo -->
 			<VESTPOS op="btwn">2877, 2885</VESTPOS>  <!-- Dyneema Vest & Camo -->
 			<VESTPOS op="btwn">2889, 2897</VESTPOS>  <!-- Shielded Vest & Camo -->
+		</OR>
+	</Filter>
+	<Filter name="GhilliePants">
+		<OR>
+			<LEGPOS op="in">2997, 3000</LEGPOS>
+		</OR>
+	</Filter>
+	<Filter name="GhillieVest">
+		<AND>
+			<VESTPOS op="in">2996, 2999</VESTPOS>
+		</AND>
+	</Filter>
+	<Filter name="GhillieHood">
+		<AND>
+			<HELMETPOS op="in">2995, 2998</HELMETPOS>
+		</AND>
+	</Filter>
+	<Filter name="GhillieHoodAndPistol">
+		<AND>
+			<FILTER>GhillieHood</FILTER>
+			<FILTER>HasPistolOrMPistolInRightHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="GhillieHoodAndRifle">
+		<AND>
+			<FILTER>GhillieHood</FILTER>
+			<FILTER>HasRifleTypeWeaponInHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="GhillieVestAndPistolLeft">
+		<AND>
+			<FILTER>GhillieVest</FILTER>
+			<FILTER>HasPistolOrMPistolInLeftHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="GhillieVestAndPistol">
+		<AND>
+			<FILTER>GhillieVest</FILTER>
+			<FILTER>HasPistolOrMPistolInRightHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="GhillieVestAndRifle">
+		<AND>
+			<FILTER>GhillieVest</FILTER>
+			<FILTER>HasRifleTypeWeaponInHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="GhilliePantsAndPistolLeft">
+		<AND>
+			<FILTER>GhilliePants</FILTER>
+			<FILTER>HasPistolOrMPistolInLeftHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="GhilliePantsAndPistol">
+		<AND>
+			<FILTER>GhilliePants</FILTER>
+			<FILTER>HasPistolOrMPistolInRightHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="GhilliePantsAndRifle">
+		<AND>
+			<FILTER>GhilliePants</FILTER>
+			<FILTER>HasRifleTypeWeaponInHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="CamoLongsleevesAndPistolLeft">
+		<AND>
+			<FILTER>CamoLongsleeves</FILTER>
+			<FILTER>HasPistolOrMPistolInLeftHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="CamoLongsleevesAndPistol">
+		<AND>
+			<FILTER>CamoLongsleeves</FILTER>
+			<FILTER>HasPistolOrMPistolInRightHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="CamoLongsleevesAndRifle">
+		<AND>
+			<FILTER>CamoLongsleeves</FILTER>
+			<FILTER>HasRifleTypeWeaponInHand</FILTER>
+		</AND>
+	</Filter>	
+	<Filter name="CamoPantsAndPistolLeft">
+		<AND>
+			<FILTER>CamoPants</FILTER>
+			<FILTER>HasPistolOrMPistolInLeftHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="CamoPantsAndPistol">
+		<AND>
+			<FILTER>CamoPants</FILTER>
+			<FILTER>HasPistolOrMPistolInRightHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="CamoPantsAndRifle">
+		<AND>
+			<FILTER>CamoPants</FILTER>
+			<FILTER>HasRifleTypeWeaponInHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="Longsleeves">
+		<OR>
+			<VESTPOS op="in">2704, 2708, 2709, 2725, 2726</VESTPOS>  <!-- Night Ops Jacket, ACA Uniform, Construction Jacket, Dress Uniform, Officer Coat -->
+			<VESTPOS op="in">2710</VESTPOS>  <!-- Wool Jumper -->
+			<VESTPOS op="btwn">2722, 2724</VESTPOS>  <!-- Leather & Kevlar Jacket -->
+			<VESTPOS op="btwn">2784, 2786</VESTPOS>  <!-- Kevlar Vest Stealth Ops -->
 		</OR>
 	</Filter>
 	<Filter name="LongsleevesANDHasPistolOrMPistolInLeftHand">
@@ -246,12 +342,12 @@
 	<Filter name="HasShotgunInHand">
 		<AND>
 			<WEAPON_TYPE>GUN_SHOTGUN</WEAPON_TYPE>
-			<HANDPOS not="" op="in">5726</HANDPOS> <!-- Exclude Milcor MGL-140 (revolver launcher) in buckshot mode -->
+			<HANDPOS not="" op="in">33, 5726</HANDPOS> <!-- Exclude Milcor MGL-140 (revolver launcher) in buckshot mode -->
 		</AND>
 	</Filter>
 	<Filter name="HasSaiga12kInHand">
 		<AND>
-			<HANDPOS op="in">32, 33, 5643, 5644, 5645, 5646, 5647, 5648, 5649, 5650</HANDPOS>
+			<HANDPOS op="in">32, 5643, 5644, 5645, 5646, 5647, 5648, 5649, 5650</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasSPAS12InHand">
@@ -404,6 +500,11 @@
 			<HANDPOS op="in">5726, 5781, 5784</HANDPOS>
 		</AND>
 	</Filter>
+	<Filter name="HasXM25InHand">
+		<AND>
+			<HANDPOS op="in">5291, 5292, 5756</HANDPOS>
+		</AND>
+	</Filter>
 	<Filter name="HasRocketRifleInHand">
 		<AND>
 			<HANDPOS op="in">55, 65</HANDPOS>
@@ -411,7 +512,7 @@
 	</Filter>
 	<Filter name="HasG11InHand">
 		<AND>
-			<HANDPOS op="in">30, 4236, 5468, 5469, 5564</HANDPOS>
+			<HANDPOS op="in">30, 33, 4236, 5468, 5469, 5564</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasDesertEagleInHand">
