@@ -14,7 +14,7 @@ from imports.xml_manager import XmlManager;
 #
 # Script setup values
 #
-SWDIR = os.getcwd();
+SWDIR = os.getcwd();  # Script Working Directory
 
 
 #

@@ -21,8 +21,8 @@
 	============================================================================
 	* "Space" here means required minimum lenght of barrel popping out of barrel box, if any. Valid values:
 		1 : 0.5 - 0.9 cm
-		2 : 1.0 - 2.5 cm
-		3 : 2.6 or longer
+		2 : 1.0 - 2.0 cm
+		3 : 2.1 or longer
 	* "System" = 0 is supposed to be used by Improvised suppressor only; no threads, only glue =)
 	* Sumption #1: in this game we don't differ types of barrel threads - left or right, 1/2x28 step or any other etc; so a barrel does have
 		threads or it doesn't, no other conditions.
@@ -64,7 +64,7 @@
 		<Slot system="7" space="2" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1136" name="A. - Muzzle, Matchbarrel">
-		<Slot system="4" space="2" timeAP="120"/>
+		<Slot system="4" space="1" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1137" name="A. - Muzzle, Muzzle Brake">
 		<Slot system="9" space="2" timeAP="120"/>
@@ -213,13 +213,16 @@
 	<Descriptor attachment_id="1206" name="A. - Scope, 3x Revolver">
 		<Slot system="25" space="16" timeAP="120"/>
 	</Descriptor>
+	<Descriptor attachment_id="1207" name="A. - Scope, Leupold 6x Revolver">
+		<Slot system="25" space="20" timeAP="120"/>
+	</Descriptor>
 	<Descriptor attachment_id="1208" name="A. - Scope, Leupold 2x Picattiny">
 		<Slot system="18" space="14" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1209" name="A. - Scope, 3x Picattiny">
 		<Slot system="18" space="16" timeAP="120"/>
 	</Descriptor>
-	<Descriptor attachment_id="1207" name="A. - Scope, Leupold 6x Picattiny">
+	<Descriptor attachment_id="1204" name="A. - Scope, Leupold 6x Picattiny">
 		<Slot system="18" space="20" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1173" name="A. - Scope, Leupold MK 4 Scope 1x">
@@ -345,7 +348,7 @@
 		<Slot system="32" space="31" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1227" name="A. - Scope, Nikon Monarch">
-		<Slot system="16" space="8" timeAP="100"/>
+		<Slot system="18" space="8" timeAP="100"/>
 	</Descriptor>
 	<Descriptor attachment_id="1228" name="A. - Scope, No.32">
 		<Slot system="24" space="30" timeAP="120"/>

@@ -9,6 +9,8 @@
 # 2. Available functions to execute:
 #    CreatePatch -- create path (a bunch of files to override in your game dir). Possible arguments:
 #        src_ts -- use "patch.timestamp" in SRC_DIR; timestamp in TARGET_DIR is used by default.
+#    ApplyPatch -- copy and override patch files from SRC_DIR to TARGET_DIR (JA2 game dir). Possible arguments:
+#        force -- ignore "patch.timestamp" in TARGET_DIR and copy all the files anyway.
 # 3. Run this script (i.e. "game_updates.py") in a cmd line window using the following format:
 #    >python game_updates.py FunctionName arg0 arg1 arg2 --src=C:\XXX ...
 #        FunctionName -- mandatory, see available functions in step 1.
@@ -133,7 +135,7 @@ def CollectUpdatedFiles(path, base_ts, files_list = None, relative_path = ""):
 #end def CollectUpdatedFiles(path, base_ts, files_list = None):
 
 
-def CollectUpdatedFiles(dest_path, src_path, ignore_ts, files_list = None, relative_path = ""):
+def CollectUpdatedFiles1(dest_path, src_path, ignore_ts, files_list = None, relative_path = ""):
     if files_list == None:
         files_list = [];
     
@@ -149,13 +151,13 @@ def CollectUpdatedFiles(dest_path, src_path, ignore_ts, files_list = None, relat
                 files_list.append(SEFile(objectName, src_path, relative_path));
         elif os.path.isdir(srcObjectPath):
             deeper_relative_path = os.path.join(relative_path, objectName);
-            CollectUpdatedFiles(destObjectPath, srcObjectPath, ignore_ts, files_list, deeper_relative_path);
+            CollectUpdatedFiles1(destObjectPath, srcObjectPath, ignore_ts, files_list, deeper_relative_path);
         elif os.path.islink(srcObjectPath):
             pass;  # nothing to do with symlinks to files
         else:
             print('Unknown file system object is found: %s' % (srcObjectPath));
     return files_list;
-#end def CollectUpdatedFiles(path, base_ts, files_list = None):
+#end def CollectUpdatedFiles1(dest_path, src_path, ignore_ts, files_list = None, relative_path = ""):
 
 
 def EnsurePathExists(path):
@@ -248,7 +250,7 @@ def ApplyGamePatch(args):
 
     # 1. Walk across everything in SRC_DIR (must be patch dir) and collect all modified files (i.e. "modified" timestamp of a patched file > 
     #    "modified" timestamp of a current game file). Here we need to use overloaded CollectUpdatedFiles(path, path, flag) function.
-    filesList = CollectUpdatedFiles(TARGET_DIR, SRC_DIR, byForce);
+    filesList = CollectUpdatedFiles1(TARGET_DIR, SRC_DIR, byForce);
     
     # 2. Now copy the collected list of modified (i.e. patched) files, that's simple.
     CopyUpdatedFiles(TARGET_DIR, filesList);

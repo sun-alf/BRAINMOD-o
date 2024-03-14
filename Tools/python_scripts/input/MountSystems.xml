@@ -5,7 +5,10 @@
 	<MountSystem id="1" name="muzzle threads, small calibers up to 7.63"/>
 	<MountSystem id="2" name="muzzle threads, medium calibers .357 - .40 and 9mm - 10mm"/>
 	<MountSystem id="3" name="muzzle threads, large calibers .44 - more"/>
-	<MountSystem id="4" name="match barrel compatibility shape, 9x19mm and .40SW calibers"/>
+	<!-- match barrel system also requires picatinny rail with underbarrel mounting point. I did not implement AND-logic of required
+		slots for attachments as the only item needs the AND-logic is Matchbarrel. So keep in mind, that Matchbarrel-compatible guns
+		are required to have the picattiny to be really compatible. -->
+	<MountSystem id="4" name="match barrel compatibility shape, full-size HK USP in any caliber only"/>
 	<MountSystem id="5" name="internal barrel threads, 12 gauge"/>
 	<MountSystem id="6" name="muzzle lock, for suppressor 9x39mm"/>
 	<MountSystem id="7" name="muzzle threads, small rifle calibers 5.45 - 5.56"/>
@@ -27,8 +30,8 @@
 	<MountSystem id="21" name="picatinny rail, shotgun handguard point"/>
 	<MountSystem id="22" name="picatinny rail, side handguard point"/>
 	
-	<MountSystem id="24" name="optical scope rings, rifle"/>
-	<MountSystem id="25" name="optical scope rings, revolver"/>
+	<MountSystem id="24" name="optical scope rings, rifle"/>  <!-- default for any telescopic sight which is not suited with any of mounting interface -->
+	<MountSystem id="25" name="optical scope rings, revolver"/>  <!-- for telescopic sights wrapped into rings for revolver -->
 	<MountSystem id="26" name="AK-receiver, sight point"/>
 	<MountSystem id="27" name="M16-receiver handle, sight point"/>
 	<MountSystem id="28" name="M14-receiver, sight point"/>
