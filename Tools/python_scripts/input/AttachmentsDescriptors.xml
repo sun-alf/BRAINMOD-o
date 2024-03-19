@@ -35,14 +35,14 @@
 	============================================================================
 	==== Scopes and sights
 	============================================================================
-	* "Space" is exactly required space in cm (length of aiming device); disregarding type of system - Picattiny or something else.
+	* "Space" is exactly required space in cm (length of aiming device); disregarding type of system - Picatinny or something else.
 		Exclusions are ballistic computer (normally not mounted onto rifle at all), grenade launcher collimator (unique and is mounted not onto
 		rifle) and non-detachable things (system < 0). Space for exclusions is 1 just because.
 	
 	============================================================================
 	==== Laser sights, bipods
 	============================================================================
-	* "Space" is exactly required space on a rail (any of Picattiny) or barrel (vise mount) in cm.
+	* "Space" is exactly required space on a rail (any of Picatinny) or barrel (vise mount) in cm.
 -->
 
 	<Descriptor attachment_id="310" name="A. - Muzzle, Improvised suppressor">
@@ -216,13 +216,13 @@
 	<Descriptor attachment_id="1207" name="A. - Scope, Leupold 6x Revolver">
 		<Slot system="25" space="20" timeAP="120"/>
 	</Descriptor>
-	<Descriptor attachment_id="1208" name="A. - Scope, Leupold 2x Picattiny">
+	<Descriptor attachment_id="1208" name="A. - Scope, Leupold 2x Picatinny">
 		<Slot system="18" space="14" timeAP="120"/>
 	</Descriptor>
-	<Descriptor attachment_id="1209" name="A. - Scope, 3x Picattiny">
+	<Descriptor attachment_id="1209" name="A. - Scope, 3x Picatinny">
 		<Slot system="18" space="16" timeAP="120"/>
 	</Descriptor>
-	<Descriptor attachment_id="1204" name="A. - Scope, Leupold 6x Picattiny">
+	<Descriptor attachment_id="1204" name="A. - Scope, Leupold 6x Picatinny">
 		<Slot system="18" space="20" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1173" name="A. - Scope, Leupold MK 4 Scope 1x">
@@ -433,7 +433,7 @@
 	<Descriptor attachment_id="209" name="A. - Bipod">
 		<Slot system="40" space="5" timeAP="100"/>
 	</Descriptor>
-	<Descriptor attachment_id="1021" name="A. - Bipod, Picattiny">
+	<Descriptor attachment_id="1021" name="A. - Bipod, Picatinny">
 		<Slot system="19" space="5" timeAP="100"/>
 	</Descriptor>
 	<Descriptor attachment_id="1022" name="A. - Bipod, Heavy">

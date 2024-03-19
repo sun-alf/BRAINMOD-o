@@ -225,8 +225,9 @@ def MakeRealisticAttachments(args):
                         raise Exception(exceptionDbgText);
                     prevApCost = XmlUtils.GetTagValue(attachment, "APCost");
                     newApCost = compatibleSlot.attrib["timeAP"];
-                    XmlUtils.SetTagValue(attachment, "APCost", newApCost);  # then update APCost and leave it
-                    _Log(log, "~  \'{}\' ({}) APCost: {} --> {}".format(attachmentName, attachmentId, prevApCost, newApCost));
+                    if prevApCost != newApCost:
+                        XmlUtils.SetTagValue(attachment, "APCost", newApCost);  # then update APCost and leave it
+                        _Log(log, "~  \'{}\' ({}) APCost: {} --> {}".format(attachmentName, attachmentId, prevApCost, newApCost));
                     compatibleAttachments.remove(compatibleAttachment);  # we don't need it anymore as there is no sence to put the same element into Attachments.xml more than once
                 elif attachmentId not in ignoredAttList:  # otherwise remove it from Attachments.xml (if not an ignored attachment, of course)
                     _Log(log, "-  \'{}\' ({})".format(attachmentName, attachmentId));

@@ -24020,7 +24020,7 @@
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>32</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>500</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>255</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>90</nAccuracy>
 		<bRecoilX>0.86</bRecoilX>
@@ -24057,7 +24057,7 @@
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>32</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>500</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>255</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>93</nAccuracy>
 		<bRecoilX>0.76</bRecoilX>
@@ -24094,7 +24094,7 @@
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>30</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>500</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>255</MaxDistForMessyDeath>
 		<EasyUnjam>1</EasyUnjam>
 		<APsToReloadManually>20</APsToReloadManually>
 		<ManualReloadSound>477</ManualReloadSound>
@@ -24133,7 +24133,7 @@
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>32</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>500</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>255</MaxDistForMessyDeath>
 		<EasyUnjam>1</EasyUnjam>
 		<APsToReloadManually>20</APsToReloadManually>
 		<ManualReloadSound>477</ManualReloadSound>
@@ -24172,7 +24172,7 @@
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>36</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>500</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>255</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>85</nAccuracy>
 		<bRecoilX>0.90</bRecoilX>
@@ -24208,7 +24208,7 @@
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>26</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>500</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>255</MaxDistForMessyDeath>
 		<EasyUnjam>1</EasyUnjam>
 		<APsToReloadManually>18</APsToReloadManually>
 		<ManualReloadSound>477</ManualReloadSound>
@@ -24247,7 +24247,7 @@
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>32</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>500</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>255</MaxDistForMessyDeath>
 		<ManualReloadSound>479</ManualReloadSound>
 		<nAccuracy>88</nAccuracy>
 		<bRecoilX>0.86</bRecoilX>
@@ -24284,7 +24284,7 @@
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>28</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>500</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>255</MaxDistForMessyDeath>
 		<EasyUnjam>1</EasyUnjam>
 		<APsToReloadManually>20</APsToReloadManually>
 		<ManualReloadSound>476</ManualReloadSound>
@@ -24324,7 +24324,7 @@
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>28</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>500</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>255</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>87</nAccuracy>
 		<bRecoilX>0.80</bRecoilX>
@@ -24362,7 +24362,7 @@
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>32</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>500</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>255</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>86</nAccuracy>
 		<bRecoilX>0.85</bRecoilX>
@@ -24400,7 +24400,7 @@
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>32</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>350</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>255</MaxDistForMessyDeath>
 		<EasyUnjam>1</EasyUnjam>
 		<APsToReloadManually>16</APsToReloadManually>
 		<ManualReloadSound>476</ManualReloadSound>
@@ -24439,7 +24439,7 @@
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>32</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>350</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>255</MaxDistForMessyDeath>
 		<EasyUnjam>1</EasyUnjam>
 		<APsToReloadManually>16</APsToReloadManually>
 		<ManualReloadSound>476</ManualReloadSound>
@@ -24477,7 +24477,7 @@
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>32</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>350</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>255</MaxDistForMessyDeath>
 		<EasyUnjam>1</EasyUnjam>
 		<APsToReloadManually>16</APsToReloadManually>
 		<ManualReloadSound>476</ManualReloadSound>
@@ -24515,7 +24515,7 @@
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>26</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>600</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>255</MaxDistForMessyDeath>
 		<EasyUnjam>1</EasyUnjam>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>85</nAccuracy>
@@ -24553,7 +24553,7 @@
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>28</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>600</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>255</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>83</nAccuracy>
 		<bRecoilX>1.40</bRecoilX>
@@ -25926,7 +25926,7 @@
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>32</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>350</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>255</MaxDistForMessyDeath>
 		<ManualReloadSound>477</ManualReloadSound>
 		<nAccuracy>95</nAccuracy>
 		<bRecoilX>0.65</bRecoilX>
@@ -25963,7 +25963,7 @@
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>30</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>500</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>255</MaxDistForMessyDeath>
 		<EasyUnjam>1</EasyUnjam>
 		<APsToReloadManually>20</APsToReloadManually>
 		<ManualReloadSound>477</ManualReloadSound>
@@ -26002,7 +26002,7 @@
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>30</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>350</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>255</MaxDistForMessyDeath>
 		<EasyUnjam>1</EasyUnjam>
 		<APsToReloadManually>20</APsToReloadManually>
 		<ManualReloadSound>477</ManualReloadSound>
@@ -26041,7 +26041,7 @@
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>30</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>350</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>255</MaxDistForMessyDeath>
 		<EasyUnjam>1</EasyUnjam>
 		<APsToReloadManually>20</APsToReloadManually>
 		<ManualReloadSound>477</ManualReloadSound>
@@ -26080,7 +26080,7 @@
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>36</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>350</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>255</MaxDistForMessyDeath>
 		<EasyUnjam>1</EasyUnjam>
 		<APsToReloadManually>24</APsToReloadManually>
 		<ManualReloadSound>476</ManualReloadSound>
@@ -26119,7 +26119,7 @@
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>36</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>350</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>255</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>94</nAccuracy>
 		<bRecoilX>0.75</bRecoilX>

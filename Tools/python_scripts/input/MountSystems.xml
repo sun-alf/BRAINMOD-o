@@ -2,7 +2,7 @@
 <MountSystems>
 	<!-- end-of-barrel (muzzle) mount point for ids 0..13 -->
 	<MountSystem id="0" name="barrel or compact flash-hider/compensator, threads and caliber do not matter"/>
-	<MountSystem id="1" name="muzzle threads, small calibers up to 7.63"/>
+	<MountSystem id="1" name="muzzle threads, small calibers up to 7.65 or .32 ACP"/>
 	<MountSystem id="2" name="muzzle threads, medium calibers .357 - .40 and 9mm - 10mm"/>
 	<MountSystem id="3" name="muzzle threads, large calibers .44 - more"/>
 	<!-- match barrel system also requires picatinny rail with underbarrel mounting point. I did not implement AND-logic of required

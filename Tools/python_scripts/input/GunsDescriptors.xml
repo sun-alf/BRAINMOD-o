@@ -294,16 +294,19 @@
 		<Interface system="19" space="5"/>
 	</Descriptor>
 	<Descriptor weapon_id="4123" name="MP-443 Grach" longname="MP-443 Grach">
+		<Interface system="2" space="1"/>
 		<Interface system="37" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4124" name="MP-446 Viking" longname="MP-446 Viking">
 		<Interface system="37" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4125" name="FN BDA 9" longname="FN BDA 9">
+		<Interface system="2" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4126" name="FN Browning HP-35" longname="FN Browning HP-35">
 	</Descriptor>
 	<Descriptor weapon_id="4127" name="FN PRO-9" longname="FN PRO-9">
+		<Interface system="2" space="1"/>
 		<Interface system="19" space="4"/>
 		<Interface system="37" space="1"/>
 	</Descriptor>
@@ -339,6 +342,7 @@
 	<Descriptor weapon_id="4145" name="MP-448 Skyph" longname="MP-448 Skyph">
 	</Descriptor>
 	<Descriptor weapon_id="4151" name="SIG Mosquito" longname="SIG Mosquito">
+		<Interface system="1" space="1"/>
 		<Interface system="19" space="5"/>
 		<Interface system="37" space="1"/>
 	</Descriptor>
@@ -353,6 +357,7 @@
 		<Interface system="40" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4155" name="Colt M1911 22LR" longname="Colt M1911 22LR">
+		<Interface system="1" space="1"/>
 		<Interface system="19" space="10"/>
 	</Descriptor>
 	<Descriptor weapon_id="4156" name="Browning Buck Mark" longname="Browning Buck Mark">
@@ -361,6 +366,7 @@
 	<Descriptor weapon_id="4157" name="Grendel P30" longname="Grendel P30">
 	</Descriptor>
 	<Descriptor weapon_id="4158" name="Kel-Tec PMR-30" longname="Kel-Tec PMR-30">
+		<Interface system="1" space="1"/>
 		<Interface system="19" space="8"/>
 	</Descriptor>
 	<Descriptor weapon_id="4159" name="Accelerator MP-22" longname="Accelerator MP-22">
@@ -394,6 +400,7 @@
 	<Descriptor weapon_id="4168" name="FN Browning HP-35 .40" longname="FN Browning HP-35 .40">
 	</Descriptor>
 	<Descriptor weapon_id="4169" name="FN Forty-Nine" longname="FN Forty-Nine">
+		<Interface system="2" space="1"/>
 		<Interface system="19" space="5"/>
 		<Interface system="37" space="1"/>
 	</Descriptor>
@@ -405,206 +412,225 @@
 		<Interface system="19" space="8"/>
 		<Interface system="37" space="1"/>
 	</Descriptor>
+	<Descriptor weapon_id="4172" name="SIG P226R .40" longname="SIG P226R .40">
+		<Interface system="2" space="1"/>
+		<Interface system="19" space="5"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4173" name="Springfield XD" longname="Springfield XD">
+		<Interface system="2" space="1"/>
+		<Interface system="19" space="5"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4176" name="Glock 31" longname="Glock 31">
+		<Interface system="2" space="1"/>
+		<Interface system="19" space="5"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4177" name="Glock 32" longname="Glock 32">
+		<Interface system="2" space="1"/>
+		<Interface system="19" space="4"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4178" name="SIG P226R .357" longname="SIG P226R .357">
+		<Interface system="19" space="5"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4179" name="HK USP Compact .357" longname="HK USP Compact .357">
+		<Interface system="19" space="4"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4181" name="Mauser HSc" longname="Mauser HSc">
+	</Descriptor>
+	<Descriptor weapon_id="4182" name="Beretta Tomcat" longname="Beretta Tomcat">
+	</Descriptor>
+	<Descriptor weapon_id="4183" name="Hamada Type I" longname="Hamada Type I">
+	</Descriptor>
+	<Descriptor weapon_id="4184" name="FN 1922" longname="FN 1922">
+	</Descriptor>
+	<Descriptor weapon_id="4185" name="Llama Especial" longname="Llama Especial">
+		<Interface system="1" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4186" name="Beretta Model 100" longname="Beretta Model 100">
+	</Descriptor>
+	<Descriptor weapon_id="4187" name="Beretta 85F" longname="Beretta 85F">
+	</Descriptor>
+	<Descriptor weapon_id="4188" name="Taurus Curve" longname="Taurus Curve">
+	</Descriptor>
+	<Descriptor weapon_id="4189" name="Walther PPK" longname="Walther PPK">
+	</Descriptor>
+	<Descriptor weapon_id="4191" name="Colt Delta Elite" longname="Colt Delta Elite">
+		<Interface system="2" space="1"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4192" name="Bren Ten" longname="Bren Ten">
+	</Descriptor>
+	<Descriptor weapon_id="4193" name="S&amp;W M1076" longname="S&amp;W M1076">
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4194" name="Tangfolio Force" longname="Tangfolio Force">
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4195" name="Glock 20" longname="Glock 20">
+		<Interface system="2" space="1"/>
+		<Interface system="19" space="5"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4196" name="SIG P220 Hunter" longname="SIG P220 Hunter">
+		<Interface system="19" space="8"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="8" name="Colt M1911A1" longname="Colt M1911A1">
+	</Descriptor>
+	<Descriptor weapon_id="4202" name="Colt High Capacity M1911A1" longname="Colt High Capacity M1911A1">
+		<Interface system="3" space="1"/>
+		<Interface system="19" space="8"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4203" name="HK Mark 23 SOCOM" longname="HK Mark 23 SOCOM">
+		<Interface system="3" space="1"/>
+		<Interface system="4" space="1"/>
+		<Interface system="19" space="8"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4204" name="FN FNP-45" longname="FN FNP-45">
+		<Interface system="3" space="1"/>
+		<Interface system="19" space="5"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4205" name="S&amp;W M645" longname="S&amp;W M645">
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4206" name="HK P12" longname="HK P12">
+		<Interface system="3" space="1"/>
+		<Interface system="4" space="1"/>
+		<Interface system="19" space="8"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4210" name="AMT Hardballer" longname="AMT Hardballer">
+		<Interface system="3" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4211" name="PSM" longname="PSM">
+		<Interface system="1" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4216" name="VBR Glock 7.92" longname="VBR Glock 7.92">
+		<Interface system="19" space="5"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4221" name="FN Five-seveN" longname="FN Five-seveN">
+		<Interface system="1" space="1"/>
+		<Interface system="19" space="8"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4222" name="Glock 57" longname="Glock 57">
+		<Interface system="1" space="1"/>
+		<Interface system="19" space="5"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4223" name="Accelerator MP-57" longname="Accelerator MP-57">
+		<Interface system="25" space="14"/>
+		<Interface system="40" space="4"/>
+		<Interface system="18" space="16"/>
+	</Descriptor>
+	<Descriptor weapon_id="4226" name="QSZ-92" longname="QSZ-92">
+		<Interface system="19" space="4"/>
+	</Descriptor>
+	<Descriptor weapon_id="4227" name="QSW-06" longname="QSW-06">
+		<Interface system="1" space="1"/>
+		<Interface system="19" space="4"/>
+	</Descriptor>
+	<Descriptor weapon_id="4231" name="HK UCP" longname="HK UCP">
+		<Interface system="1" space="1"/>
+		<Interface system="19" space="8"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4232" name="Glock 46" longname="Glock 46">
+		<Interface system="1" space="1"/>
+		<Interface system="19" space="5"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4236" name="HK G11 PDW" longname="HK G11 PDW">
+	</Descriptor>
+	<Descriptor weapon_id="4241" name="CZ-52" longname="CZ-52">
+		<Interface system="1" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4242" name="Tokarev TT-33" longname="Tokarev TT-33">
+	</Descriptor>
+	<Descriptor weapon_id="4243" name="Mauser C96 7.62" longname="Mauser C96 7.62">
+		<Interface system="25" space="14"/>
+	</Descriptor>
+	<Descriptor weapon_id="4244" name="M1921 Bolo 7.62" longname="M1921 Bolo 7.62">
+	</Descriptor>
+	<Descriptor weapon_id="4245" name="Dominion Arms P762" longname="Dominion Arms P762">
+		<Interface system="19" space="6"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4246" name="CZ-52 7.63" longname="CZ-52 7.63">
+		<Interface system="1" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4247" name="Tokarev TT-33 7.63" longname="Tokarev TT-33 7.63">
+	</Descriptor>
+	<Descriptor weapon_id="4248" name="Mauser C96" longname="Mauser C96">
+		<Interface system="25" space="14"/>
+	</Descriptor>
+	<Descriptor weapon_id="4249" name="M1921 Bolo Mauser" longname="M1921 Bolo Mauser">
+	</Descriptor>
+	<Descriptor weapon_id="4250" name="Dominion Arms P762 7.63" longname="Dominion Arms P762 7.63">
+		<Interface system="19" space="6"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4256" name="Nambu Type 14" longname="Nambu Type 14">
+	</Descriptor>
+	<Descriptor weapon_id="4257" name="Hamada Type II" longname="Hamada Type II">
+	</Descriptor>
+	<Descriptor weapon_id="4261" name="SR-1 Gyurza" longname="SR-1 Gyurza">
+	</Descriptor>
+	<Descriptor weapon_id="56" name="Automag III Custom" longname="Automag III Custom">
+	</Descriptor>
+	<Descriptor weapon_id="7" name="Desert Eagle .357" longname="Desert Eagle .357">
+		<Interface system="20" space="5"/>
+		<Interface system="18" space="7"/>
+	</Descriptor>
+	<Descriptor weapon_id="4272" name="Coonan .357" longname="Coonan .357">
+	</Descriptor>
+	<Descriptor weapon_id="4276" name="Desert Eagle .44" longname="Desert Eagle .44">
+		<Interface system="20" space="5"/>
+		<Interface system="18" space="7"/>
+	</Descriptor>
+	<Descriptor weapon_id="4281" name="Desert Eagle .50 AE" longname="Desert Eagle .50 AE">
+		<Interface system="20" space="5"/>
+		<Interface system="18" space="7"/>
+	</Descriptor>
+	<Descriptor weapon_id="4282" name="LAR Grizzly .50 AE" longname="LAR Grizzly .50 AE">
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4283" name="Automag V" longname="Automag V">
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4286" name="Webley 1913" longname="Webley 1913">
+	</Descriptor>
+	<Descriptor weapon_id="4291" name="Automag IV" longname="Automag IV">
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4292" name="LAR Grizzly .45 WM" longname="LAR Grizzly .45 WM">
+		<Interface system="3" space="1"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4293" name="Wildey Survivor" longname="Wildey Survivor">
+		<Interface system="25" space="16"/>
+	</Descriptor>
+	<Descriptor weapon_id="4296" name="Franklin Armory Convert" longname="Franklin Armory Convert">
+	</Descriptor>
+	<Descriptor weapon_id="4299" name="Modele 1935A" longname="Modele 1935A">
+	</Descriptor>
+	<Descriptor weapon_id="4300" name="Modele 1935S" longname="Modele 1935S">
+		<Interface system="1" space="1"/>
+	</Descriptor>
 	
 	<Descriptor weapon_id="0" name="DEBUG NULL-TERMINATOR" longname="DEBUG NULL-TERMINATOR">
 		<Interface system="0" space="0"/>
 	</Descriptor>
 	
-	<Descriptor weapon_id="4172" name="SIG P226R .40" longname="SIG P226R .40">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4173" name="Springfield XD" longname="Springfield XD">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4176" name="Glock 31" longname="Glock 31">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4177" name="Glock 32" longname="Glock 32">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4178" name="SIG P226R .357" longname="SIG P226R .357">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4179" name="HK USP Compact .357" longname="HK USP Compact .357">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4181" name="Mauser HSc" longname="Mauser HSc">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4182" name="Beretta Tomcat" longname="Beretta Tomcat">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4183" name="Hamada Type I" longname="Hamada Type I">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4184" name="FN 1922" longname="FN 1922">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4185" name="Llama Especial" longname="Llama Especial">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4186" name="Beretta Model 100" longname="Beretta Model 100">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4187" name="Beretta 85F" longname="Beretta 85F">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4188" name="Taurus Curve" longname="Taurus Curve">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4189" name="Walther PPK" longname="Walther PPK">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4191" name="Colt Delta Elite" longname="Colt Delta Elite">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4192" name="Bren Ten" longname="Bren Ten">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4193" name="S&amp;W M1076" longname="S&amp;W M1076">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4194" name="Tangfolio Force" longname="Tangfolio Force">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4195" name="Glock 20" longname="Glock 20">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4196" name="SIG P220 Hunter" longname="SIG P220 Hunter">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="8" name="Colt M1911A1" longname="Colt M1911A1">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4202" name="Colt High Capacity M1911A1" longname="Colt High Capacity M1911A1">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4203" name="HK Mark 23 SOCOM" longname="HK Mark 23 SOCOM">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4204" name="FN FNP-45" longname="FN FNP-45">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4205" name="S&amp;W M645" longname="S&amp;W M645">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4206" name="HK P12" longname="HK P12">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4210" name="AMT Hardballer" longname="AMT Hardballer">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4211" name="PSM" longname="PSM">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4216" name="VBR Glock 7.92" longname="VBR Glock 7.92">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4221" name="FN Five-seveN" longname="FN Five-seveN">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4222" name="Glock 57" longname="Glock 57">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4223" name="Accelerator MP-57" longname="Accelerator MP-57">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4226" name="QSZ-92" longname="QSZ-92">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4227" name="QSW-06" longname="QSW-06">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4231" name="HK UCP" longname="HK UCP">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4232" name="Glock 46" longname="Glock 46">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4236" name="HK G11 PDW" longname="HK G11 PDW">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4241" name="CZ-52" longname="CZ-52">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4242" name="Tokarev TT-33" longname="Tokarev TT-33">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4243" name="Mauser C96 7.62" longname="Mauser C96 7.62">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4244" name="M1921 Bolo 7.62" longname="M1921 Bolo 7.62">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4245" name="Dominion Arms P762" longname="Dominion Arms P762">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4246" name="CZ-52 7.63" longname="CZ-52 7.63">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4247" name="Tokarev TT-33 7.63" longname="Tokarev TT-33 7.63">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4248" name="Mauser C96" longname="Mauser C96">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4249" name="M1921 Bolo Mauser" longname="M1921 Bolo Mauser">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4250" name="Dominion Arms P762 7.63" longname="Dominion Arms P762 7.63">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4256" name="Nambu Type 14" longname="Nambu Type 14">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4257" name="Hamada Type II" longname="Hamada Type II">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4261" name="SR-1 Gyurza" longname="SR-1 Gyurza">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="56" name="Automag III Custom" longname="Automag III Custom">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="7" name="Desert Eagle .357" longname="Desert Eagle .357">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4272" name="Coonan .357" longname="Coonan .357">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4276" name="Desert Eagle .44" longname="Desert Eagle .44">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4281" name="Desert Eagle .50 AE" longname="Desert Eagle .50 AE">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4282" name="LAR Grizzly .50 AE" longname="LAR Grizzly .50 AE">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4283" name="Automag V" longname="Automag V">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4286" name="Webley 1913" longname="Webley 1913">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4291" name="Automag IV" longname="Automag IV">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4292" name="LAR Grizzly .45 WM" longname="LAR Grizzly .45 WM">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4293" name="Wildey Survivor" longname="Wildey Survivor">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4296" name="Franklin Armory Convert" longname="Franklin Armory Convert">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4299" name="Modele 1935A" longname="Modele 1935A">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4300" name="Modele 1935S" longname="Modele 1935S">
-		<Interface system="0" space="1"/>
-	</Descriptor>
 	<Descriptor weapon_id="2" name="Glock 18" longname="Glock 18">
 		<Interface system="0" space="1"/>
 	</Descriptor>
