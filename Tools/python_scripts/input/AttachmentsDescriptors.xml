@@ -521,6 +521,9 @@
 		<Slot system="20" space="13" timeAP="120"/>
 		<Slot system="22" space="13" timeAP="120"/>
 	</Descriptor>
+	<Descriptor attachment_id="1045" name="A. - Laser, Built-in Reddot">
+		<Slot system="-9" space="1" timeAP="120"/>
+	</Descriptor>
 	
 	<Descriptor attachment_id="1271" name="A. - Tact. Flashlight">
 		<Slot system="19" space="4" timeAP="120"/>
@@ -545,6 +548,25 @@
 		<Slot system="20" space="8" timeAP="120"/>
 		<Slot system="22" space="8" timeAP="120"/>
 		<Slot system="42" space="8" timeAP="120"/>
+	</Descriptor>
+	
+	<Descriptor attachment_id="1278" name="A. - Trigger burst 2">
+		<Slot system="-10" space="1" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1279" name="A. - Trigger burst 3">
+		<Slot system="-11" space="1" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1280" name="A. - Trigger burst 4">
+		<Slot system="-12" space="1" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1281" name="A. - Trigger Group 2 ACME">
+		<Slot system="0" space="1" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1282" name="A. - Trigger Group 3 ACME">
+		<Slot system="0" space="1" timeAP="120"/>
+	</Descriptor>
+	<Descriptor attachment_id="1283" name="A. - Trigger Group 4 ACME">
+		<Slot system="0" space="1" timeAP="120"/>
 	</Descriptor>
 	
 	<Descriptor attachment_id="0" name="NULL-TERMINATOR ignore rest items">
@@ -744,15 +766,6 @@
 		<Slot system="0" space="1" timeAP="60"/>
 	</Descriptor>
 	
-	<Descriptor attachment_id="1281" name="A. - Trigger Group 2">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1282" name="A. - Trigger Group 3">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
-	<Descriptor attachment_id="1283" name="A. - Trigger Group 4">
-		<Slot system="0" space="1" timeAP="60"/>
-	</Descriptor>
 	<Descriptor attachment_id="1286" name="A. - Trigger, Match">
 		<Slot system="0" space="1" timeAP="60"/>
 	</Descriptor>

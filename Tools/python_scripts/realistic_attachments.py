@@ -2,8 +2,8 @@
 # 0. Ensure you have !!! Python 3 !!! installed (version 3.x -- does not matter).
 # 1. ???
 # 2. ???
-# 3. Run this script (i.e. "realistic_attachments.py") in a cmd line window.
-#
+# 3. Run this script (i.e. "realistic_attachments.py") in a cmd line window:
+#    > python realistic_attachments.py MakeRealisticAttachments
 
 
 import os, sys;
@@ -130,6 +130,7 @@ def MakeRealisticAttachments(args):
     #end def _DoSomePythonPorn(xxx):
 
     def _FormatDbgText(gunId, gunName, compatibleAttachments, compatibleAttachment):
+        # __DoMorePythonPorn() is not defined yet =(
         compatibleAttachment = __DoMorePythonPorn(compatibleAttachment);
         for i in range(0, len(compatibleAttachments)):
             compatibleAttachments[i] = __DoMorePythonPorn(compatibleAttachments[i]);
@@ -148,18 +149,54 @@ def MakeRealisticAttachments(args):
         return result;
     #end _LoadIgnoredAttachments(attachmentsDesc):
 
+    def _RemoveIgnoredItems(filteringList, ignoreList):
+        for item in filteringList:
+            if item in ignoreList:
+                filteringList.remove(item);
+        return filteringList;
+    #end def _RemoveIgnoredItems(filteringList, ignoreList):
+
+    # Removes all <DefaultAttachment> tags which are in wrongList from item, then put <DefaultAttachment> tags which are in correctList instead.
+    # So this func is assumed to keep all rest (ignored) <DefaultAttachment> tags as is.
+    # item -- XML object in Items.xml, shall be of reference type.
+    # wrongList -- list of [current] attachment IDs to delete; each ID is of string type.
+    # correctList -- list of attachment IDs to insert instead; each ID is of string type.
+    def _FixDefaultAttachments(item, wrongList, correctList):
+        # find the first place where <DefaultAttachment> tag is
+        idxToInsertAt = 11;  # this default index corresponds to <ubWeight> tag of a normal/valid item
+        for tagIdx in range(0, len(item)):
+            if item[tagIdx].tag == "DefaultAttachment":
+                idxToInsertAt = tagIdx;
+                break;
+        
+        # delete wrong attachments
+        defAttList = item.findall("DefaultAttachment");
+        for el in wrongList:
+            for defAtt in defAttList:
+                if defAtt.text == el:
+                    item.remove(defAtt);
+                    break;
+        # insert right attachments
+        newElementTemplate = ET.Element("DefaultAttachment");
+        for el in correctList:
+            newEl = copy.deepcopy(newElementTemplate);
+            newEl.text = el;
+            item.insert(idxToInsertAt, newEl);
+    #def _FixDefaultAttachments(item, wrongList, correctList):
+
     def _Log(f, text):
         f.write(text);
         f.write("\n");
     #end _Log(f, text):
 
-    log = open(os.path.join(SWDIR, "realistic_attachments_changes.log"), "w");
+    log = open(os.path.join(SWDIR, "output", "realistic_attachments_changes.log"), "w");
     JA2TableData.OpenWorkspace(os.path.join(SWDIR, "input"));
     mountSystems = JA2TableData.GetXml("MountSystems.xml", wsName="input");
     attachmentsDesc = JA2TableData.GetXml("AttachmentsDescriptors.xml", wsName="input");
     gunsDesc = JA2TableData.GetXml("GunsDescriptors.xml", wsName="input");
     attachments = JA2TableData.GetXml(JA2Xmls.ATTACHMENTS);
     items = JA2TableData.GetXml(JA2Xmls.ITEMS);
+    itemsFileChanged = False;
     
     # I decided to use "NULL-TERMINATOR" for not only debug purposes, but for cutting unnecessary elements also. For AttachmentsDescriptors.xml
     # means all attachments after the NULL should be kept intact in Attachments.xml (i.e. completely ignored).
@@ -178,7 +215,15 @@ def MakeRealisticAttachments(args):
         gunName = gunDesc.attrib["name"];
         compatibleAttachments = list();
         defaultAttachments = list();  # contains IDs only
+        
+        _Log(log, "Gun [{}] \'{}\' changes:".format(gunId, gunName));
         for interface in gunDesc:
+            defaultAttachment = None;
+            defaultAttachmentIsCompatible = False;
+            if "default" in interface.attrib:  # directly pointed default attachment ID should be considered (for later check-up) disregarding compatibilites
+                defaultAttachment = interface.attrib["default"];  # remember the fact there is a defult one, we will check it a bit later
+                defaultAttachments.append(defaultAttachment);
+            
             for attachmentDesc in attachmentsDesc:
                 if attachmentDesc.attrib["attachment_id"] == "0":  # exit on "NULL-TERMINATOR" spot.
                     break;
@@ -186,10 +231,15 @@ def MakeRealisticAttachments(args):
                     attachmentDescCopy = copy.deepcopy(attachmentDesc);
                     _MarkCompatibleSlot(attachmentDescCopy, interface.attrib["system"], interface.attrib["space"]);
                     compatibleAttachments.append(attachmentDescCopy);
+                    if defaultAttachment != None and defaultAttachment == attachmentDesc.attrib["attachment_id"]:
+                        defaultAttachmentIsCompatible = True;
                     if int(interface.attrib["system"]) < 0:  # if the compatible attachment is of built-in type, remember it as default attachment
                         defaultAttachments.append(attachmentDesc.attrib["attachment_id"]);
-            if "default" in interface.attrib:  # directly pointed default attachment ID should be used disregarding compatibilites
-                defaultAttachments.append(interface.attrib["default"]);
+            
+            # Now check that default attachment (if any) for this interface: it should be compatible with the interface.
+            # If not, it is a bold warning! (Default attachments will not appear in the game, if they are not mapped in Attachments.xml)
+            if defaultAttachment != None and defaultAttachmentIsCompatible == False:
+                _Log(log, "!! Default attachment [{}] is not compatible with this gun!".format(defaultAttachment));
 
         # Sometimes the same attachment can fit multiple interfaces on a gun, i.e. Picatinny compatible laser can be mounted onto
         # under-barrel or side-barrel rail. In this case we will have entries for this attachment in 'compatibleAttachments'. We
@@ -206,7 +256,18 @@ def MakeRealisticAttachments(args):
         for att in compatibleAttachments:
             print("    [{}] {}".format(att.attrib["attachment_id"], att.attrib["name"]));
         
-        _Log(log, "Gun [{}] \'{}\' changes:".format(gunId, gunName));
+        # Process default attachments -- check for equality only: if ID set in defaultAttachments != <DefaultAttachment> set then vomit a warning with details
+        tagList = items[int(gunId)].findall("DefaultAttachment");
+        actualDefaultAttachments = list();
+        for tag in tagList:
+            actualDefaultAttachments.append(tag.text);
+        _RemoveIgnoredItems(actualDefaultAttachments, ignoredAttList);  # remove ignored attachments from current list to avoid false warnings
+        defaultAttachments.sort();        # 2 lists of strings could be equal only if order of strings and the strings itself are equal, so
+        actualDefaultAttachments.sort();  # let's sort both lists of IDs
+        if defaultAttachments != actualDefaultAttachments:
+            _Log(log, "!! actual default attachments {} != realistic default attachments {}".format(actualDefaultAttachments, defaultAttachments));
+            _FixDefaultAttachments(items[int(gunId)], actualDefaultAttachments, defaultAttachments);
+            itemsFileChanged = True;
         
         # Now it is time to edit Attachments.xml so that unrealistic attachment combinations will be removed, the only allowed
         # combinations (which correspond to 'compatibleAttachments' list) will be kept, and additional allowed combinations
@@ -249,19 +310,11 @@ def MakeRealisticAttachments(args):
                 attachments.append(newAttachment);
                 _Log(log, "+  \'{}\' ({})".format(attName, attId));
         
-        # Process default attachments -- check for equality only: if ID set in defaultAttachments != <DefaultAttachment> set then vomit a warning with details
-        tagList = items[int(gunId)].findall("DefaultAttachment");
-        actualDefaultAttachments = list();
-        for tag in tagList:
-            actualDefaultAttachments.append(tag.text);
-        defaultAttachments.sort();        # 2 lists of strings could be equal only if order of strings and the strings itself are equal, so
-        actualDefaultAttachments.sort();  # let's sort both lists of IDs
-        if defaultAttachments != actualDefaultAttachments:
-            _Log(log, "!! actual default attachments {} != realistic default attachments {}".format(actualDefaultAttachments, defaultAttachments));
-        
         _Log(log, "");  # append new line
     
     JA2TableData.GetWorkspace(JA2Workspaces.BRAINMOD).SaveXml(JA2Xmls.ATTACHMENTS);
+    if itemsFileChanged:
+        JA2TableData.GetWorkspace(JA2Workspaces.BRAINMOD).SaveXml(JA2Xmls.ITEMS);
     log.close();
 #end def MakeRealisticAttachments(args):
 

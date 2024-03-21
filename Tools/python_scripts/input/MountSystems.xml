@@ -61,4 +61,8 @@
 	<MountSystem id="-6" name="built-in machinegun bipod, cannot be detached"/>
 	<MountSystem id="-7" name="built-in foregrip, cannot be detached"/>
 	<MountSystem id="-8" name="built-in foregrip DMRC, cannot be detached"/>
+	<MountSystem id="-9" name="built-in laser sight, cannot be detached"/>
+	<MountSystem id="-10" name="built-in burst 2 fire more, cannot be detached"/>
+	<MountSystem id="-11" name="built-in burst 3 fire more, cannot be detached"/>
+	<MountSystem id="-12" name="built-in burst 4 fire more, cannot be detached"/>
 </MountSystems>

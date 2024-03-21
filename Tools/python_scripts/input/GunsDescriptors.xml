@@ -24,13 +24,13 @@
 	<Descriptor weapon_id="34" name="FN Minimi" longname="FN Minimi">
 		<Interface system="7" space="3"/>
 		<Interface system="18" space="20"/>
-		<Interface system="40" space="15"/>
+		<Interface system="40" space="15" default="1022"/>
 		<Interface system="42" space="15"/>
 	</Descriptor>
 	<Descriptor weapon_id="35" name="RPK-74" longname="RPK-74">
 		<Interface system="7" space="3"/>
 		<Interface system="26" space="34"/> - typical AK receiver space for optical scope is about to fit PSO-1 (33cm)
-		<Interface system="40" space="20"/>
+		<Interface system="40" space="20" default="1022"/>
 		<Interface system="42" space="14"/> - typical AK handguard length is 14.5 cm
 	</Descriptor>
 	
@@ -42,13 +42,13 @@
 	<Descriptor weapon_id="34" name="FN Minimi" longname="FN Minimi">
 		<Interface system="7" space="3"/>
 		<Interface system="18" space="20"/>
-		<Interface system="40" space="15"/>
+		<Interface system="40" space="15" default="1022"/>
 		<Interface system="42" space="15"/>
 	</Descriptor>
 	<Descriptor weapon_id="35" name="RPK-74" longname="RPK-74">
 		<Interface system="7" space="3"/>
 		<Interface system="26" space="34"/>
-		<Interface system="40" space="20"/>
+		<Interface system="40" space="20" default="1022"/>
 		<Interface system="42" space="14"/>
 	</Descriptor>
 	<Descriptor weapon_id="50" name="Colt M203 Grenade Launcher" longname="Colt M203 Grenade Launcher">
@@ -338,6 +338,7 @@
 	<Descriptor weapon_id="4143" name="PB 6P9" longname="PB 6P9">
 	</Descriptor>
 	<Descriptor weapon_id="4144" name="PB 6P9s" longname="PB 6P9s">
+		<Interface system="11" space="1" default="1149"/>
 	</Descriptor>
 	<Descriptor weapon_id="4145" name="MP-448 Skyph" longname="MP-448 Skyph">
 	</Descriptor>
@@ -381,7 +382,7 @@
 	</Descriptor>
 	<Descriptor weapon_id="4162" name="SIG Pro" longname="SIG Pro">
 		<Interface system="19" space="5"/>
-		<Interface system="37" space="1"/>
+		<Interface system="37" space="1" default="1267"/>
 	</Descriptor>
 	<Descriptor weapon_id="4163" name="S&amp;W M4006" longname="S&amp;W M4006">
 		<Interface system="37" space="1"/>
@@ -456,6 +457,7 @@
 	<Descriptor weapon_id="4187" name="Beretta 85F" longname="Beretta 85F">
 	</Descriptor>
 	<Descriptor weapon_id="4188" name="Taurus Curve" longname="Taurus Curve">
+		<Interface system="-9" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4189" name="Walther PPK" longname="Walther PPK">
 	</Descriptor>
@@ -478,7 +480,7 @@
 	</Descriptor>
 	<Descriptor weapon_id="4196" name="SIG P220 Hunter" longname="SIG P220 Hunter">
 		<Interface system="19" space="8"/>
-		<Interface system="37" space="1"/>
+		<Interface system="37" space="1" default="1267"/>
 	</Descriptor>
 	<Descriptor weapon_id="8" name="Colt M1911A1" longname="Colt M1911A1">
 	</Descriptor>
@@ -626,26 +628,32 @@
 	<Descriptor weapon_id="4300" name="Modele 1935S" longname="Modele 1935S">
 		<Interface system="1" space="1"/>
 	</Descriptor>
+	<Descriptor weapon_id="2" name="Glock 18" longname="Glock 18">
+		<Interface system="2" space="1"/>
+		<Interface system="19" space="5"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4302" name="Glock 18 Tactical" longname="Glock 18 Tactical">
+		<Interface system="2" space="1"/>
+		<Interface system="19" space="5"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4" name="Beretta 93R" longname="Beretta 93R">
+		<Interface system="2" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4304" name="Beretta 93R FA" longname="Beretta 93R FA">
+		<Interface system="2" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="9" name="HK MP5KA4" longname="HK MP5KA4">
+		<Interface system="-7" space="1"/>
+		<Interface system="-11" space="1"/>
+		<Interface system="31" space="15"/>
+	</Descriptor>
 	
 	<Descriptor weapon_id="0" name="DEBUG NULL-TERMINATOR" longname="DEBUG NULL-TERMINATOR">
 		<Interface system="0" space="0"/>
 	</Descriptor>
 	
-	<Descriptor weapon_id="2" name="Glock 18" longname="Glock 18">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4302" name="Glock 18 Tactical" longname="Glock 18 Tactical">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4" name="Beretta 93R" longname="Beretta 93R">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4304" name="Beretta 93R FA" longname="Beretta 93R FA">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="9" name="HK MP5KA4" longname="HK MP5KA4">
-		<Interface system="0" space="1"/>
-	</Descriptor>
 	<Descriptor weapon_id="4306" name="FAMAE Mini SAF" longname="FAMAE Mini SAF">
 		<Interface system="0" space="1"/>
 	</Descriptor>
