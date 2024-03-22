@@ -10,7 +10,7 @@
 		<!-- <AND> -->
 		<OR>
 			<WEAPON_TYPE>GUN_PISTOL</WEAPON_TYPE>
-			<HANDPOS op="in">5624, 5661, 5662, 5677, 5689, 5690, 50</HANDPOS><!-- Sawn-off shotgun -->
+			<HANDPOS op="in">5624, 5661, 5662, 5677, 5689, 5690, 50</HANDPOS><!-- Sawn-off shotgun and Super-Shorty -->
 		</OR>
 			<!--<LEFT_WEAPON_TYPE>NOT_GUN</LEFT_WEAPON_TYPE>-->
 		<!-- </AND> -->
@@ -338,21 +338,70 @@
 			<BPACKPOCKPOS op="in">484</BPACKPOCKPOS>
 		</OR>
 	</Filter>
+	
+	<!-- Full list of gun models:
+			Pistol (HasPistolInHand)
+			Auto-pistol (HasMPistolInHand)
+			Revolver (HasSW500InHand)
+			Sawn-off shotgun (HasSawnOffInHand)
+			Shotgun M870 (HasShotgunInHand)
+			Black shotgun (HasBlackShotgunInHand)
+			Saiga 12G (HasSaiga12kInHand)
+			SPAS-12 (HasSPAS12InHand)
+			FN FAL (HasFALInHand)
+			FAMAS (HasFAMASInHand)
+			FN SCAR (HasSCARInHand)
+			AK-47 / AKM (HasAKInHand)
+			AK-74M (HasBlackAKInHand)
+			AKS-74U (HasAKSUInHand)
+			Black AKS-74U (HasBlackAKSUInHand)
+			M4 / M16 (HasARInHand)
+			MP5 (HasSMGInHand)
+			FN P90 (HasP90InHand)
+			UZI (HasUziSMGInHand)
+			Micro-UZI (HasUziInHand)
+			Thompson SMG (HasTommyGunInHand)
+			PPSh-41 (HasPPSH41InHand)
+			Mosin long (HasRifleInHand)
+			SVT-40 (HasSemiAutoRifleInHand)
+			Black SVT-40 (HasBlackSemiAutoRifleInHand)
+			M249 (HasMGInHand)
+			RPK (HasRPKInHand)
+			PKM (HasPKMInHand)
+			Barrett .50 (HasBigSniperInHand)
+			SV-96 (HasSniperInHand)  // green
+			Black SV-96 (HasBlackSniperInHand)
+			SVD (HasDragunovInHand)
+			PSG-1 (HasPSG1InHand)
+			Hunting rifle (HasPatriotInHand)
+			Black Hunting rifle (HasBlackPatriotInHand)
+			Milkor (HasMilkorInHand)  // 6-round revolving 40mm grenade launcher
+			XM-25 (HasXM25InHand)
+			Rocket rifle (HasRocketRifleInHand)
+			HK G11 (HasG11InHand)
+			Desert eagle (HasDesertEagleInHand)
+	-->
+	
 	<!-- Common look shotgun with grips and stock in wood, full length -->
 	<Filter name="HasShotgunInHand">
 		<AND>
 			<WEAPON_TYPE>GUN_SHOTGUN</WEAPON_TYPE>
-			<HANDPOS not="" op="in">33, 5726</HANDPOS> <!-- Exclude Milcor MGL-140 (revolver launcher) in buckshot mode -->
+			<HANDPOS not="" op="in">33, 5601, 5602, 5603, 5604, 5639, 5640, 5641, 5642, 5726</HANDPOS> <!-- Exclude Milcor MGL-140 (revolver launcher) in buckshot mode -->
+		</AND>
+	</Filter>
+	<Filter name="HasBlackShotgunInHand">
+		<AND>
+			<HANDPOS op="in">5605, 5610, 5611, 5612, 5616, 5617, 5620</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasSaiga12kInHand">
 		<AND>
-			<HANDPOS op="in">32, 5643, 5644, 5645, 5646, 5647, 5648, 5649, 5650</HANDPOS>
+			<HANDPOS op="in">32, 5636, 5643, 5644, 5645, 5646, 5647, 5648, 5649, 5650</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasSPAS12InHand">
 		<AND>
-			<HANDPOS op="in">5631, 5632, 5633, 5634, 5635, 5636</HANDPOS>
+			<HANDPOS op="in">5631, 5632, 5633, 5634, 5613, 5614, 5637, 5638</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasFALInHand">
@@ -372,22 +421,34 @@
 	</Filter>
 	<Filter name="HasAKInHand">
 		<OR>
-			<HANDPOS op="in">14, 25, 26</HANDPOS>
-			<HANDPOS op="btwn">5101, 5128</HANDPOS>
-			<HANDPOS op="btwn">5351, 5361</HANDPOS>
+			<HANDPOS op="in">25, 26, 5101, 5108, 5109</HANDPOS>
+			<HANDPOS op="btwn">5355, 5360</HANDPOS>
 		</OR>
 	</Filter>
 	<Filter name="HasBlackAKInHand">
 		<OR>
+			<HANDPOS op="btwn">5110, 5128</HANDPOS>
+			<HANDPOS op="btwn">5211, 5222</HANDPOS>
 			<HANDPOS op="in">5306, 5307, 5308</HANDPOS>
-			<HANDPOS op="btwn">5362, 5379</HANDPOS>
+			<HANDPOS op="btwn">5361, 5379</HANDPOS>
 		</OR>
+	</Filter>
+	<Filter name="HasAKSUInHand">
+		<AND>
+			<HANDPOS op="in">14, 5103, 5104, 5105, 5131, 5132, 5351, 5352, 5353</HANDPOS>
+		</AND>
+	</Filter>
+	<Filter name="HasBlackAKSUInHand">
+		<AND>
+			<HANDPOS op="in">13, 5106, 5354</HANDPOS>
+		</AND>
 	</Filter>
 	<!-- M4/M16 alike assault rifle in black, mediocre length -->
 	<Filter name="HasARInHand">
-		<AND>
+		<OR>
 			<WEAPON_CLASS>RIFLECLASS</WEAPON_CLASS>
-		</AND>
+			<HANDPOS op="in">5601, 5602, 5604</HANDPOS>
+		</OR>
 	</Filter>
 	<Filter name="HasSMGInHand">
 		<OR>
@@ -402,7 +463,7 @@
 	</Filter>
 	<Filter name="HasUziSMGInHand">
 		<AND>
-			<HANDPOS op="in">4403, 4404, 4405, 4341, 4342, 4353, 4354, 4548, 4549</HANDPOS>
+			<HANDPOS op="in">4403, 4404, 4405, 4341, 4342, 4353, 4354, 4548, 4549, 5639, 5640, 5641, 5642</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasTommyGunInHand">
@@ -512,7 +573,7 @@
 	</Filter>
 	<Filter name="HasG11InHand">
 		<AND>
-			<HANDPOS op="in">30, 33, 4236, 5468, 5469, 5564</HANDPOS>
+			<HANDPOS op="in">30, 33, 4236, 5468, 5469, 5564, 5603</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasDesertEagleInHand">
@@ -581,6 +642,22 @@
 	<Filter name="HasDualRightSawnOff">
 		<AND>
 			<FILTER>HasSawnOffInHand</FILTER>
+			<FILTER>HasPistolOrMPistolInLeftHand</FILTER>
+		</AND>
+	</Filter>
++	<Filter name="HasBlackSawnOffInHand">
+		<AND>
+			<HANDPOS op="in">5662, 5690</HANDPOS>
+		</AND>
+	</Filter>
+	<Filter name="HasBlackSawnOffInLeftHand">
+		<AND>
+			<SECONDHANDPOS op="in">5662, 5690</SECONDHANDPOS>
+		</AND>
+	</Filter>
+	<Filter name="HasDualRightBlackSawnOff">
+		<AND>
+			<FILTER>HasBlackSawnOffInHand</FILTER>
 			<FILTER>HasPistolOrMPistolInLeftHand</FILTER>
 		</AND>
 	</Filter>
