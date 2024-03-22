@@ -434,13 +434,13 @@
 		<Slot system="40" space="5" timeAP="100"/>
 	</Descriptor>
 	<Descriptor attachment_id="1021" name="A. - Bipod, Picatinny">
-		<Slot system="19" space="5" timeAP="100"/>
+		<Slot system="19" space="6" timeAP="100"/>
 	</Descriptor>
 	<Descriptor attachment_id="1022" name="A. - Bipod, Heavy">
 		<Slot system="40" space="7" timeAP="100"/>
 	</Descriptor>
 	<Descriptor attachment_id="1023" name="A. - Bipod, overbarrel">
-		<Slot system="20" space="5" timeAP="100"/>
+		<Slot system="20" space="6" timeAP="100"/>
 	</Descriptor>
 	<Descriptor attachment_id="1024" name="A. - Non-removable Bipod, rifle">
 		<Slot system="-5" space="1" timeAP="0"/>
@@ -449,22 +449,22 @@
 		<Slot system="-6" space="1" timeAP="0"/>
 	</Descriptor>
 	<Descriptor attachment_id="1026" name="A. - Foregrip">
-		<Slot system="19" space="4" timeAP="80"/>
+		<Slot system="19" space="5" timeAP="80"/>
 	</Descriptor>
 	<Descriptor attachment_id="1027" name="A. - Foregrip, Grippod">
-		<Slot system="19" space="5" timeAP="100"/>
+		<Slot system="19" space="6" timeAP="100"/>
 	</Descriptor>
 	<Descriptor attachment_id="1028" name="A. - Foregrip, KelTec BP">
-		<Slot system="19" space="5" timeAP="100"/>
+		<Slot system="19" space="6" timeAP="100"/>
 	</Descriptor>
 	<Descriptor attachment_id="1029" name="A. - Foregrip, DMRC">
 		<Slot system="-8" space="1" timeAP="60"/>
 	</Descriptor>
 	<Descriptor attachment_id="1030" name="A. - Foregrip, SMG">
-		<Slot system="19" space="4" timeAP="100"/>
+		<Slot system="19" space="5" timeAP="100"/>
 	</Descriptor>
 	<Descriptor attachment_id="1031" name="A. - Foregrip, Shotgun">
-		<Slot system="21" space="3" timeAP="100"/>
+		<Slot system="21" space="4" timeAP="100"/>
 	</Descriptor>
 	<Descriptor attachment_id="1032" name="A. - Grip, Pistolgrip">
 		<Slot system="38" space="1" timeAP="120"/>
@@ -526,28 +526,30 @@
 	</Descriptor>
 	
 	<Descriptor attachment_id="1271" name="A. - Tact. Flashlight">
-		<Slot system="19" space="4" timeAP="120"/>
-		<Slot system="20" space="4" timeAP="120"/>
-		<Slot system="21" space="4" timeAP="120"/>
-		<Slot system="22" space="4" timeAP="120"/>
+		<Slot system="19" space="5" timeAP="120"/>
+		<Slot system="20" space="5" timeAP="120"/>
+		<Slot system="21" space="5" timeAP="120"/>
+		<Slot system="22" space="5" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1272" name="A. - Tact. Flashlight - on">
-		<Slot system="19" space="4" timeAP="120"/>
-		<Slot system="20" space="4" timeAP="120"/>
-		<Slot system="21" space="4" timeAP="120"/>
-		<Slot system="22" space="4" timeAP="120"/>
+		<Slot system="19" space="5" timeAP="120"/>
+		<Slot system="20" space="5" timeAP="120"/>
+		<Slot system="21" space="5" timeAP="120"/>
+		<Slot system="22" space="5" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1273" name="A. - Tact. Flashlight, Surefire">
 		<Slot system="19" space="8" timeAP="120"/>
 		<Slot system="20" space="8" timeAP="120"/>
+		<Slot system="21" space="8" timeAP="120"/>
 		<Slot system="22" space="8" timeAP="120"/>
-		<Slot system="42" space="8" timeAP="120"/>
+		<Slot system="42" space="16" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1274" name="A. - Tact. Flashlight, Surefire - on">
 		<Slot system="19" space="8" timeAP="120"/>
 		<Slot system="20" space="8" timeAP="120"/>
+		<Slot system="21" space="8" timeAP="120"/>
 		<Slot system="22" space="8" timeAP="120"/>
-		<Slot system="42" space="8" timeAP="120"/>
+		<Slot system="42" space="16" timeAP="120"/>
 	</Descriptor>
 	
 	<Descriptor attachment_id="1278" name="A. - Trigger burst 2">
@@ -706,6 +708,12 @@
 		<Slot system="0" space="1" timeAP="60"/>
 	</Descriptor>
 	<Descriptor attachment_id="1090" name="A. - Mag Adapter, 7.62 NATO Drum">
+		<Slot system="0" space="1" timeAP="60"/>
+	</Descriptor>
+	<Descriptor attachment_id="1091" name="A. - Mag Adapter, RPK-74 30">
+		<Slot system="0" space="1" timeAP="60"/>
+	</Descriptor>
+	<Descriptor attachment_id="1092" name="A. - Mag Adapter, RPK-74 45">
 		<Slot system="0" space="1" timeAP="60"/>
 	</Descriptor>
 	<Descriptor attachment_id="1093" name="A. - Mag Adapter, 7.62x39mm Drum">

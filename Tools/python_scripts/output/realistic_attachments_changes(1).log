@@ -1,0 +1,2893 @@
+Gun [34] 'FN Minimi' changes:
+~  'A. - Aiming Module, Holosight + G33' (1009) APCost: 20 --> 100
+~  'A. - Aiming Module, ISM-V-IR' (1011) APCost: 20 --> 100
+~  'A. - Aiming Module, ITL MARS' (1012) APCost: 20 --> 100
+-  'A. - Aiming Module, SDA' (1015)
+-  'A. - Aiming Module, SDNV' (1016)
+~  'A. - Bipod' (209) APCost: 20 --> 100
+-  'A. - Foregrip' (1026)
+-  'A. - Foregrip, Grippod' (1027)
+-  'A. - Foregrip, KelTec BP' (1028)
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, AN/PEQ-15' (1037)
+-  'A. - Laser, AN/PEQ-2A' (1038)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, LMM-01' (1041)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Laser, Rifle LAM' (1044)
+~  'A. - Muzzle, Flash Suppressor' (1135) APCost: 20 --> 120
+~  'A. - Reflex Sight' (1161) APCost: 20 --> 120
+~  'A. - Reflex Sight, C-More' (1162) APCost: 20 --> 120
+~  'A. - Reflex Sight, IR' (1163) APCost: 20 --> 120
+~  'A. - Reflex Sight, SMR' (1165) APCost: 20 --> 120
+~  'A. - Reflex Sight, Z-Point' (1166) APCost: 20 --> 120
+~  'A. - Reflex Sight, Holosight' (1168) APCost: 20 --> 120
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, 3x' (1172)
+~  'A. - Scope, Leupold MK 4 Scope 1x' (1173) APCost: 20 --> 120
+~  'A. - Scope, Leupold MK 4 Scope 3x' (1174) APCost: 20 --> 120
+~  'A. - Scope, ACOG 4x' (1176) APCost: 20 --> 120
+~  'A. - Scope, ACOG 4x TA31H' (1177) APCost: 20 --> 120
+~  'A. - Scope, Aimpoint Comp M2' (1179) APCost: 20 --> 100
+~  'A. - Scope, EOTech G33' (1180) APCost: 20 --> 100
+~  'A. - Scope, EOTech 5x' (1181) APCost: 20 --> 120
+-  'A. - Scope, AN/PVS-4 NV' (1210)
+~  'A. - Scope, AN/PVS-14 NV' (1211) APCost: 20 --> 120
+~  'A. - Scope, Burris AR' (1213) APCost: 20 --> 120
+~  'A. - Scope, Burris SpeedDot' (1214) APCost: 20 --> 100
+~  'A. - Scope, Elcan C79' (1215) APCost: 20 --> 120
+~  'A. - Scope, Elcan M145 Optics' (1216) APCost: 20 --> 120
+~  'A. - Scope, Nikon Monarch' (1227) APCost: 20 --> 100
+~  'A. - Scope, SUSAT' (1251) APCost: 20 --> 120
+-  'A. - Sight, Flip-up BUIS' (1261)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+-  'A. - Tact. Flashlight, Surefire' (1273)
+-  'A. - Tact. Flashlight, Surefire - on' (1274)
++  'A. - Muzzle, Suppressor, AR, small' (1145)
++  'A. - Aiming Module, ISM-4X-IR' (1010)
++  'A. - Reflex Sight, DEP' (1167)
++  'A. - Scope, Leupold 2x Picatinny' (1208)
++  'A. - Scope, 3x Picatinny' (1209)
++  'A. - Scope, Leupold 6x Picatinny' (1204)
++  'A. - Scope, ACOG TA648' (1178)
++  'A. - Sight, Aperture' (1262)
++  'A. - Bipod, Heavy' (1022)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [35] 'RPK-74' changes:
+~  'A. - Bipod' (209) APCost: 20 --> 100
+-  'A. - Foregrip' (1026)
+-  'A. - Foregrip, KelTec BP' (1028)
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, AN/PEQ-15' (1037)
+-  'A. - Laser, AN/PEQ-2A' (1038)
+~  'A. - Laser, CORSAK-14' (1039) APCost: 20 --> 120
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, LMM-01' (1041)
+-  'A. - Laser, Reddot LAM' (1043)
+~  'A. - Muzzle, Flash Suppressor' (1135) APCost: 20 --> 120
+~  'A. - Reflex Sight, Kobra' (1164) APCost: 20 --> 120
+-  'A. - Scope, Leupold 2x' (1171)
+~  'A. - Scope, ON-M99' (1231) APCost: 20 --> 80
+~  'A. - Scope, PGO-7W' (1237) APCost: 20 --> 80
+~  'A. - Scope, PKA-1' (1238) APCost: 20 --> 80
+-  'A. - Scope, POSP 2x' (1239)
+-  'A. - Scope, POSP 4x' (1240)
+-  'A. - Scope, POSP 6x' (1241)
+~  'A. - Scope, PSO-1' (1242) APCost: 20 --> 80
+-  'A. - Scope, PU' (1244)
+-  'A. - Scope, S50 Pro NV' (1247)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+-  'A. - Tact. Flashlight, Surefire' (1273)
+-  'A. - Tact. Flashlight, Surefire - on' (1274)
++  'A. - Muzzle, Suppressor, AR, small' (1145)
++  'A. - Bipod, Heavy' (1022)
+
+Gun [50] 'Colt M203 Grenade Launcher' changes:
+-  'A. - Foregrip' (1026)
+
+Gun [55] 'Rocket Rifle' changes:
+-  'A. - Foregrip' (1026)
+-  'A. - Foregrip, KelTec BP' (1028)
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, LMM-01' (1041)
+-  'A. - Laser, Reddot LAM' (1043)
+~  'A. - Reflex Sight' (1161) APCost: 20 --> 120
+~  'A. - Reflex Sight, IR' (1163) APCost: 20 --> 120
+~  'A. - Reflex Sight, SMR' (1165) APCost: 20 --> 120
+~  'A. - Reflex Sight, Z-Point' (1166) APCost: 20 --> 120
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, 3x' (1172)
+~  'A. - Scope, Leupold MK 4 Scope 1x' (1173) APCost: 20 --> 120
+~  'A. - Scope, Leupold MK 4 Scope 3x' (1174) APCost: 20 --> 120
+~  'A. - Scope, ACOG 4x' (1176) APCost: 20 --> 120
+~  'A. - Scope, ACOG 4x TA31H' (1177) APCost: 20 --> 120
+~  'A. - Scope, Aimpoint Comp M2' (1179) APCost: 20 --> 100
+~  'A. - Scope, EOTech 5x' (1181) APCost: 20 --> 120
+~  'A. - Scope, Elcan C79' (1215) APCost: 20 --> 120
+~  'A. - Scope, Nikon Monarch' (1227) APCost: 20 --> 100
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+-  'A. - Tact. Flashlight, Surefire' (1273)
+-  'A. - Tact. Flashlight, Surefire - on' (1274)
++  'A. - Aiming Module, Holosight + G33' (1009)
++  'A. - Aiming Module, ISM-4X-IR' (1010)
++  'A. - Aiming Module, ISM-V-IR' (1011)
++  'A. - Aiming Module, ITL MARS' (1012)
++  'A. - Aiming Module, SDA' (1015)
++  'A. - Aiming Module, SDNV' (1016)
++  'A. - Reflex Sight, C-More' (1162)
++  'A. - Reflex Sight, DEP' (1167)
++  'A. - Reflex Sight, Holosight' (1168)
++  'A. - Scope, Leupold 2x Picatinny' (1208)
++  'A. - Scope, 3x Picatinny' (1209)
++  'A. - Scope, Leupold 6x Picatinny' (1204)
++  'A. - Scope, ACOG TA648' (1178)
++  'A. - Scope, EOTech G33' (1180)
++  'A. - Scope, Burris XTS 1.5x' (1184)
++  'A. - Scope, Burris XTS 6x' (1185)
++  'A. - Scope, Redfield 2x' (1186)
++  'A. - Scope, Redfield 4x' (1187)
++  'A. - Scope, Redfield 7x' (1188)
++  'A. - Scope, AN/PVS-14 NV' (1211)
++  'A. - Scope, Burris AR' (1213)
++  'A. - Scope, Burris SpeedDot' (1214)
++  'A. - Scope, Elcan M145 Optics' (1216)
++  'A. - Scope, S50 Pro NV' (1247)
++  'A. - Scope, SUSAT' (1251)
++  'A. - Sight, Aperture' (1262)
++  'A. - Non-removable Foregrip' (1034)
+
+Gun [65] 'Auto Rocket Rifle' changes:
+-  'A. - Foregrip' (1026)
+-  'A. - Foregrip, KelTec BP' (1028)
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, LMM-01' (1041)
+-  'A. - Laser, Reddot LAM' (1043)
+~  'A. - Reflex Sight' (1161) APCost: 20 --> 120
+~  'A. - Reflex Sight, IR' (1163) APCost: 20 --> 120
+~  'A. - Reflex Sight, SMR' (1165) APCost: 20 --> 120
+~  'A. - Reflex Sight, Z-Point' (1166) APCost: 20 --> 120
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, 3x' (1172)
+~  'A. - Scope, Leupold MK 4 Scope 1x' (1173) APCost: 20 --> 120
+~  'A. - Scope, Leupold MK 4 Scope 3x' (1174) APCost: 20 --> 120
+~  'A. - Scope, ACOG 4x' (1176) APCost: 20 --> 120
+~  'A. - Scope, ACOG 4x TA31H' (1177) APCost: 20 --> 120
+~  'A. - Scope, Aimpoint Comp M2' (1179) APCost: 20 --> 100
+~  'A. - Scope, EOTech 5x' (1181) APCost: 20 --> 120
+~  'A. - Scope, Elcan C79' (1215) APCost: 20 --> 120
+~  'A. - Scope, Nikon Monarch' (1227) APCost: 20 --> 100
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+-  'A. - Tact. Flashlight, Surefire' (1273)
+-  'A. - Tact. Flashlight, Surefire - on' (1274)
++  'A. - Aiming Module, Holosight + G33' (1009)
++  'A. - Aiming Module, ISM-4X-IR' (1010)
++  'A. - Aiming Module, ISM-V-IR' (1011)
++  'A. - Aiming Module, ITL MARS' (1012)
++  'A. - Aiming Module, SDA' (1015)
++  'A. - Aiming Module, SDNV' (1016)
++  'A. - Reflex Sight, C-More' (1162)
++  'A. - Reflex Sight, DEP' (1167)
++  'A. - Reflex Sight, Holosight' (1168)
++  'A. - Scope, Leupold 2x Picatinny' (1208)
++  'A. - Scope, 3x Picatinny' (1209)
++  'A. - Scope, Leupold 6x Picatinny' (1204)
++  'A. - Scope, ACOG TA648' (1178)
++  'A. - Scope, EOTech G33' (1180)
++  'A. - Scope, Burris XTS 1.5x' (1184)
++  'A. - Scope, Burris XTS 6x' (1185)
++  'A. - Scope, Redfield 2x' (1186)
++  'A. - Scope, Redfield 4x' (1187)
++  'A. - Scope, Redfield 7x' (1188)
++  'A. - Scope, AN/PVS-14 NV' (1211)
++  'A. - Scope, Burris AR' (1213)
++  'A. - Scope, Burris SpeedDot' (1214)
++  'A. - Scope, Elcan M145 Optics' (1216)
++  'A. - Scope, S50 Pro NV' (1247)
++  'A. - Scope, SUSAT' (1251)
++  'A. - Sight, Aperture' (1262)
++  'A. - Non-removable Foregrip' (1034)
+
+Gun [5] 'S&W Chiefs Special' changes:
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4002] 'S&W Model 64' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4003] 'Korth Sport .38' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4004] 'Barracuda .38' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4005] 'Colt Python .38' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4006] 'Manurhin MR-73 .38' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4007] 'S&W M19 .38' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4008] 'Manurhin MR-96 .38' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4009] 'Modified EMF Hartford 6 Shooter .38' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Scope, 3x Revolver' (1206)
++  'A. - Scope, Leupold 6x Revolver' (1207)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4010] 'Ruger LCR M5401' changes:
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4011] 'Ruger LCRX M5431' changes:
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4020] 'Korth Sport' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [6] 'Barracuda' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4022] 'Colt Python' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4023] 'Manurhin MR-73' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4024] 'S&W M19' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4025] 'Manurhin MR-96' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [66] 'Modified EMF Hartford 6 Shooter' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Scope, 3x Revolver' (1206)
++  'A. - Scope, Leupold 6x Revolver' (1207)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4027] 'Ruger LCR M5450' changes:
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4028] 'Ruger LCRX M5460' changes:
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4037] 'Chiappa Rhino 60DS' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Insight LAM' (1040) APCost: 20 --> 120
+~  'A. - Laser, LMM-01' (1041) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Reflex Sight' (1161) APCost: 20 --> 120
+~  'A. - Reflex Sight, IR' (1163) APCost: 20 --> 120
+~  'A. - Reflex Sight, SMR' (1165) APCost: 20 --> 120
+~  'A. - Reflex Sight, Z-Point' (1166) APCost: 20 --> 120
+-  'A. - Scope, Leupold 2x' (1171)
+~  'A. - Scope, Nikon Monarch' (1227) APCost: 20 --> 100
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Aiming Module, Holosight + G33' (1009)
++  'A. - Aiming Module, ISM-4X-IR' (1010)
++  'A. - Aiming Module, ISM-V-IR' (1011)
++  'A. - Aiming Module, ITL MARS' (1012)
++  'A. - Reflex Sight, C-More' (1162)
++  'A. - Reflex Sight, DEP' (1167)
++  'A. - Reflex Sight, Holosight' (1168)
++  'A. - Scope, Leupold 2x Picatinny' (1208)
++  'A. - Scope, 3x Picatinny' (1209)
++  'A. - Scope, ACOG 4x' (1176)
++  'A. - Scope, ACOG 4x TA31H' (1177)
++  'A. - Scope, ACOG TA648' (1178)
++  'A. - Scope, Aimpoint Comp M2' (1179)
++  'A. - Scope, EOTech G33' (1180)
++  'A. - Scope, EOTech 5x' (1181)
++  'A. - Scope, AN/PVS-14 NV' (1211)
++  'A. - Scope, Burris AR' (1213)
++  'A. - Scope, Burris SpeedDot' (1214)
++  'A. - Scope, Elcan C79' (1215)
++  'A. - Scope, SUSAT' (1251)
++  'A. - Sight, Aperture' (1262)
++  'A. - Bipod, Picatinny' (1021)
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, Grippod' (1027)
++  'A. - Foregrip, KelTec BP' (1028)
++  'A. - Foregrip, SMG' (1030)
+
+Gun [4038] 'Chiappa Rhino 50DS' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Insight LAM' (1040) APCost: 20 --> 120
+~  'A. - Laser, LMM-01' (1041) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Bipod, Picatinny' (1021)
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, Grippod' (1027)
++  'A. - Foregrip, KelTec BP' (1028)
++  'A. - Foregrip, SMG' (1030)
+
+Gun [4039] 'Chiappa Rhino 40DS' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Insight LAM' (1040) APCost: 20 --> 120
+~  'A. - Laser, LMM-01' (1041) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Bipod, Picatinny' (1021)
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, Grippod' (1027)
++  'A. - Foregrip, KelTec BP' (1028)
++  'A. - Foregrip, SMG' (1030)
+
+Gun [4040] 'Chiappa Rhino 20DS' changes:
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4041] 'Ruger Redhawk Revolver' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4042] 'S&W M29' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4043] 'S&W M29 SATAN' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Scope, 3x Revolver' (1206)
++  'A. - Scope, Leupold 6x Revolver' (1207)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4044] 'Colt Anaconda' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Scope, 3x Revolver' (1206)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4045] 'Taurus Raging Bull 444' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Scope, 3x Revolver' (1206)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4046] 'Charter Arms Bulldog' changes:
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4047] 'Mateba 6 Unica' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4048] 'S&W M1917' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4049] 'S&W M325PD' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4051] 'Ruger S. Redhawk Alaskan .45' changes:
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4052] 'Fr. Arms M83 Premier Grade .45' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Scope, 3x Revolver' (1206)
++  'A. - Scope, Leupold 6x Revolver' (1207)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4053] 'Taurus Raging Bull .45' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4054] 'Snake Slayer .45' changes:
+
+Gun [4055] 'Taurus Judge .45' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4056] 'Colt Peacemaker' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Scope, 3x Revolver' (1206)
++  'A. - Scope, Leupold 6x Revolver' (1207)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4061] 'Ruger S. Redhawk Alaskan' changes:
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4062] 'Fr. Arms M83 Premier Grade' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Scope, 3x Revolver' (1206)
++  'A. - Scope, Leupold 6x Revolver' (1207)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4063] 'Taurus Raging Bull 454' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4066] 'Ladies Home Companion' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, LMM-01' (1041)
+-  'A. - Laser, Reddot LAM' (1043)
+~  'A. - Reflex Sight' (1161) APCost: 20 --> 120
+~  'A. - Reflex Sight, IR' (1163) APCost: 20 --> 120
+~  'A. - Reflex Sight, SMR' (1165) APCost: 20 --> 120
+~  'A. - Reflex Sight, Z-Point' (1166) APCost: 20 --> 120
+-  'A. - Scope, Leupold 2x' (1171)
+~  'A. - Scope, Nikon Monarch' (1227) APCost: 20 --> 100
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+-  'A. - Tact. Flashlight, Surefire' (1273)
+-  'A. - Tact. Flashlight, Surefire - on' (1274)
++  'A. - Aiming Module, Holosight + G33' (1009)
++  'A. - Aiming Module, ISM-4X-IR' (1010)
++  'A. - Aiming Module, ISM-V-IR' (1011)
++  'A. - Aiming Module, ITL MARS' (1012)
++  'A. - Reflex Sight, C-More' (1162)
++  'A. - Reflex Sight, DEP' (1167)
++  'A. - Reflex Sight, Holosight' (1168)
++  'A. - Scope, Leupold 2x Picatinny' (1208)
++  'A. - Scope, 3x Picatinny' (1209)
++  'A. - Scope, Leupold 6x Picatinny' (1204)
++  'A. - Scope, Leupold MK 4 Scope 1x' (1173)
++  'A. - Scope, Leupold MK 4 Scope 3x' (1174)
++  'A. - Scope, ACOG 4x' (1176)
++  'A. - Scope, ACOG 4x TA31H' (1177)
++  'A. - Scope, ACOG TA648' (1178)
++  'A. - Scope, Aimpoint Comp M2' (1179)
++  'A. - Scope, EOTech G33' (1180)
++  'A. - Scope, EOTech 5x' (1181)
++  'A. - Scope, AN/PVS-14 NV' (1211)
++  'A. - Scope, Burris AR' (1213)
++  'A. - Scope, Burris SpeedDot' (1214)
++  'A. - Scope, Elcan C79' (1215)
++  'A. - Scope, Elcan M145 Optics' (1216)
++  'A. - Scope, SUSAT' (1251)
++  'A. - Sight, Aperture' (1262)
+
+Gun [4071] 'U-94S UDAR' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4076] 'Taurus 941' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4077] 'Ruger LCR M5414' changes:
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4078] 'Ruger LCRX M5424' changes:
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4081] 'Webley Mk. VI' changes:
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4082] 'Webley Fosbery' changes:
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4083] 'Webley WG Army' changes:
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4085] 'Mauser M1878 Revolver' changes:
+
+Gun [4086] 'M1879 Revolver' changes:
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Scope, 3x Revolver' (1206)
++  'A. - Scope, Leupold 6x Revolver' (1207)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4087] 'Taurus Raging Hornet' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Scope, 3x Revolver' (1206)
++  'A. - Scope, Leupold 6x Revolver' (1207)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4091] 'Ruger Ten' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Scope, 3x Revolver' (1206)
++  'A. - Scope, Leupold 6x Revolver' (1207)
+
+Gun [4092] 'Ruger LCR M5410' changes:
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4093] 'Ruger LCRX M5435' changes:
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4096] 'Snake Slayer' changes:
+
+Gun [4097] 'Taurus Judge' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4101] 'Glock 19' changes:
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
++  'A. - Laser, Insight LAM' (1040)
+
+Gun [4102] 'HK P7M8' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4103] 'SIG P239 SAS' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [1] 'Glock 17' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Compensator, medium' (1132) APCost: 20 --> 120
+~  'A. - Muzzle, Flash Hider' (1134) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, medium' (1148) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Laser, LMM-01' (1041)
+
+Gun [4112] 'SIG P210' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Matchbarrel' (1136)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, Match Sights' (1267)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4113] 'SIG P226R' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Insight LAM' (1040) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Matchbarrel' (1136)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4114] 'SIG P226 SAS' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Matchbarrel' (1136)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Tact. Flashlight' (1271)
++  'A. - Tact. Flashlight - on' (1272)
++  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4115] 'SIG P229R' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Insight LAM' (1040) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Matchbarrel' (1136)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
++  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4116] 'Luger P08' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4117] 'Luger LP08' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Scope, 3x Revolver' (1206)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4118] 'Walther P38' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4119] 'Walther P99' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Matchbarrel' (1136)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [3] 'Beretta 92F' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+~  'A. - Muzzle, Compensator, medium' (1132) APCost: 20 --> 120
+~  'A. - Muzzle, Flash Hider' (1134) APCost: 20 --> 120
+-  'A. - Muzzle, Matchbarrel' (1136)
+~  'A. - Muzzle, Suppressor, Pistol, medium' (1148) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4122] 'Beretta 92A1' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Compensator, medium' (1132) APCost: 20 --> 120
+~  'A. - Muzzle, Flash Hider' (1134) APCost: 20 --> 120
+-  'A. - Muzzle, Matchbarrel' (1136)
+~  'A. - Muzzle, Suppressor, Pistol, medium' (1148) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Laser, LMM-01' (1041)
+
+Gun [4123] 'MP-443 Grach' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+~  'A. - Muzzle, Compensator, medium' (1132) APCost: 20 --> 120
+~  'A. - Muzzle, Flash Hider' (1134) APCost: 20 --> 120
+-  'A. - Muzzle, Matchbarrel' (1136)
+~  'A. - Muzzle, Suppressor, Pistol, medium' (1148) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4124] 'MP-446 Viking' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Matchbarrel' (1136)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4125] 'FN BDA 9' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+~  'A. - Muzzle, Compensator, medium' (1132) APCost: 20 --> 120
+~  'A. - Muzzle, Flash Hider' (1134) APCost: 20 --> 120
+-  'A. - Muzzle, Matchbarrel' (1136)
+~  'A. - Muzzle, Suppressor, Pistol, medium' (1148) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4126] 'FN Browning HP-35' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Matchbarrel' (1136)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4127] 'FN PRO-9' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Compensator, medium' (1132) APCost: 20 --> 120
+~  'A. - Muzzle, Flash Hider' (1134) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, medium' (1148) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4128] 'Sphinx 3000' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Matchbarrel' (1136)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Bipod, Picatinny' (1021)
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, Grippod' (1027)
++  'A. - Foregrip, KelTec BP' (1028)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4129] 'VIS-35' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Matchbarrel' (1136)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4130] 'MAB PA-15' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Matchbarrel' (1136)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4136] 'Welrod' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+
+Gun [4137] 'B&T VP9' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4138] 'Maxim 9 Short' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Sight, Pistol, Match Sights' (1267)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Reflex Sight, DEP' (1167)
++  'A. - Sight, Aperture' (1262)
+
+Gun [4139] 'Maxim 9' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Sight, Pistol, Match Sights' (1267)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Reflex Sight, DEP' (1167)
++  'A. - Sight, Aperture' (1262)
+
+Gun [67] 'Calico M-950' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+-  'A. - Trigger Group 2' (1281)
+-  'A. - Trigger Group 3' (1282)
+-  'A. - Trigger Group 4' (1283)
+
+Gun [4141] 'Makarov PM' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Reflex Sight, DEP' (1167)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4142] 'Makarov PMM' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+~  'A. - Muzzle, Suppressor, Pistol, medium' (1148) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Reflex Sight, DEP' (1167)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
++  'A. - Muzzle, Compensator, medium' (1132)
++  'A. - Muzzle, Flash Hider' (1134)
+
+Gun [4143] 'PB 6P9' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Reflex Sight, DEP' (1167)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4144] 'PB 6P9s' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+~  'A. - Muzzle, Suppressor, Pistol, PB 6P9' (1149) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Reflex Sight, DEP' (1167)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4145] 'MP-448 Skyph' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Reflex Sight, DEP' (1167)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4151] 'SIG Mosquito' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Insight LAM' (1040) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Compensator, small' (1133) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, small' (207) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Reflex Sight, DEP' (1167)
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4152] 'Walther P22' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Compensator, small' (1133)
+-  'A. - Muzzle, Suppressor, Pistol, small' (207)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Reflex Sight, DEP' (1167)
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
+-  'A. - Tact. Flashlight, Surefire' (1273)
+-  'A. - Tact. Flashlight, Surefire - on' (1274)
++  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4153] 'Hi-Standard HDM' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Reflex Sight, DEP' (1167)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4154] 'Ruger MK II Hunter' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, small' (1133)
+-  'A. - Muzzle, Suppressor, Pistol, small' (207)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Reflex Sight, DEP' (1167)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Scope, 3x Revolver' (1206)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4155] 'Colt M1911 22LR' changes:
+~  'A. - Laser Sight' (241) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Compensator, small' (1133) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, small' (207) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Reflex Sight, DEP' (1167)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Bipod, Picatinny' (1021)
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, Grippod' (1027)
++  'A. - Foregrip, KelTec BP' (1028)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Tact. Flashlight, Surefire' (1273)
++  'A. - Tact. Flashlight, Surefire - on' (1274)
+
+Gun [4156] 'Browning Buck Mark' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Suppressor, Pistol, small' (207)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Reflex Sight, DEP' (1167)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Laser, CORSAK-14' (1039)
+
+Gun [4157] 'Grendel P30' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Reflex Sight, DEP' (1167)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4158] 'Kel-Tec PMR-30' changes:
+~  'A. - Laser Sight' (241) APCost: 20 --> 120
+~  'A. - Laser, Insight LAM' (1040) APCost: 20 --> 120
+~  'A. - Laser, LMM-01' (1041) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Reflex Sight, DEP' (1167)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Muzzle, Compensator, small' (1133)
++  'A. - Muzzle, Suppressor, Pistol, small' (207)
++  'A. - Bipod, Picatinny' (1021)
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, Grippod' (1027)
++  'A. - Foregrip, KelTec BP' (1028)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Tact. Flashlight, Surefire' (1273)
++  'A. - Tact. Flashlight, Surefire - on' (1274)
+
+Gun [4159] 'Accelerator MP-22' changes:
+~  'A. - Aiming Module, Holosight + G33' (1009) APCost: 20 --> 100
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+~  'A. - Reflex Sight' (1161) APCost: 20 --> 120
+~  'A. - Reflex Sight, C-More' (1162) APCost: 20 --> 120
+~  'A. - Reflex Sight, IR' (1163) APCost: 20 --> 120
+~  'A. - Reflex Sight, SMR' (1165) APCost: 20 --> 120
+~  'A. - Reflex Sight, Z-Point' (1166) APCost: 20 --> 120
+~  'A. - Reflex Sight, DEP' (1167) APCost: 20 --> 120
+~  'A. - Reflex Sight, Holosight' (1168) APCost: 20 --> 120
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, 3x' (1172)
+-  'A. - Scope, Leupold MK 4 Scope 1x' (1173)
+-  'A. - Scope, Leupold MK 4 Scope 3x' (1174)
+~  'A. - Scope, EOTech G33' (1180) APCost: 20 --> 100
+~  'A. - Scope, Nikon Monarch' (1227) APCost: 20 --> 100
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Laser, CORSAK-14' (1039)
++  'A. - Aiming Module, ISM-4X-IR' (1010)
++  'A. - Aiming Module, ISM-V-IR' (1011)
++  'A. - Aiming Module, ITL MARS' (1012)
++  'A. - Scope, Leupold 2x Picatinny' (1208)
++  'A. - Scope, 3x Picatinny' (1209)
++  'A. - Scope, ACOG 4x' (1176)
++  'A. - Scope, ACOG 4x TA31H' (1177)
++  'A. - Scope, ACOG TA648' (1178)
++  'A. - Scope, Aimpoint Comp M2' (1179)
++  'A. - Scope, EOTech 5x' (1181)
++  'A. - Scope, AN/PVS-14 NV' (1211)
++  'A. - Scope, Burris AR' (1213)
++  'A. - Scope, Burris SpeedDot' (1214)
++  'A. - Scope, Elcan C79' (1215)
++  'A. - Scope, SUSAT' (1251)
++  'A. - Sight, Aperture' (1262)
+
+Gun [4160] 'Automag II' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Reflex Sight, DEP' (1167)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4161] 'SIG P226 SAS .40' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Matchbarrel' (1136)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
++  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4162] 'SIG Pro' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Matchbarrel' (1136)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4163] 'S&W M4006' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Flash Suppressor' (1135)
+-  'A. - Muzzle, Matchbarrel' (1136)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4165] 'Glock 22' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Compensator, medium' (1132) APCost: 20 --> 120
+~  'A. - Muzzle, Flash Hider' (1134) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, medium' (1148) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Laser, LMM-01' (1041)
+
+Gun [4166] 'Beretta 96FS Brigadier' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+~  'A. - Muzzle, Compensator, medium' (1132) APCost: 20 --> 120
+~  'A. - Muzzle, Flash Hider' (1134) APCost: 20 --> 120
+-  'A. - Muzzle, Matchbarrel' (1136)
+~  'A. - Muzzle, Suppressor, Pistol, medium' (1148) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4167] 'CZ-75B' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4168] 'FN Browning HP-35 .40' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Matchbarrel' (1136)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4169] 'FN Forty-Nine' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Compensator, medium' (1132) APCost: 20 --> 120
+~  'A. - Muzzle, Flash Hider' (1134) APCost: 20 --> 120
+-  'A. - Muzzle, Matchbarrel' (1136)
+~  'A. - Muzzle, Suppressor, Pistol, medium' (1148) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4170] 'MP-445 Varyag' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Insight LAM' (1040) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Matchbarrel' (1136)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, LMM-01' (1041)
+
+Gun [4171] 'HK USP' changes:
+~  'A. - Laser Sight' (241) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+~  'A. - Muzzle, Matchbarrel' (1136) APCost: 20 --> 120
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Bipod, Picatinny' (1021)
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, Grippod' (1027)
++  'A. - Foregrip, KelTec BP' (1028)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Tact. Flashlight, Surefire' (1273)
++  'A. - Tact. Flashlight, Surefire - on' (1274)
+
+Gun [4172] 'SIG P226R .40' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Insight LAM' (1040) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Compensator, medium' (1132) APCost: 20 --> 120
+~  'A. - Muzzle, Flash Hider' (1134) APCost: 20 --> 120
+-  'A. - Muzzle, Matchbarrel' (1136)
+~  'A. - Muzzle, Suppressor, Pistol, medium' (1148) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4173] 'Springfield XD' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Compensator, medium' (1132) APCost: 20 --> 120
+~  'A. - Muzzle, Flash Hider' (1134) APCost: 20 --> 120
+-  'A. - Muzzle, Matchbarrel' (1136)
+~  'A. - Muzzle, Suppressor, Pistol, medium' (1148) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Tact. Flashlight' (1271)
++  'A. - Tact. Flashlight - on' (1272)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4176] 'Glock 31' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Compensator, medium' (1132) APCost: 20 --> 120
+~  'A. - Muzzle, Flash Hider' (1134) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, medium' (1148) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Laser, LMM-01' (1041)
+
+Gun [4177] 'Glock 32' changes:
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Compensator, medium' (1132) APCost: 20 --> 120
+~  'A. - Muzzle, Flash Hider' (1134) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, medium' (1148) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Laser, Insight LAM' (1040)
+
+Gun [4178] 'SIG P226R .357' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Insight LAM' (1040) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Matchbarrel' (1136)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4179] 'HK USP Compact .357' changes:
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Laser, Insight LAM' (1040)
+
+Gun [4181] 'Mauser HSc' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Reflex Sight, DEP' (1167)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4182] 'Beretta Tomcat' changes:
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Suppressor, Pistol, small' (207)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Reflex Sight, DEP' (1167)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4183] 'Hamada Type I' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Suppressor, Pistol, small' (207)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Reflex Sight, DEP' (1167)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4184] 'FN 1922' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Suppressor, Pistol, small' (207)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Reflex Sight, DEP' (1167)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4185] 'Llama Especial' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+~  'A. - Muzzle, Compensator, small' (1133) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, small' (207) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Reflex Sight, DEP' (1167)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4186] 'Beretta Model 100' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Suppressor, Pistol, small' (207)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Reflex Sight, DEP' (1167)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4187] 'Beretta 85F' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, small' (1133)
+-  'A. - Muzzle, Suppressor, Pistol, small' (207)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4188] 'Taurus Curve' changes:
+!! actual default attachments ['1043'] != realistic default attachments ['1045']
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Laser, Built-in Reddot' (1045)
+
+Gun [4189] 'Walther PPK' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Suppressor, Pistol, small' (207)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Reflex Sight, DEP' (1167)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4191] 'Colt Delta Elite' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Muzzle, Compensator, medium' (1132)
++  'A. - Muzzle, Flash Hider' (1134)
++  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4192] 'Bren Ten' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4193] 'S&W M1076' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4194] 'Tangfolio Force' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4195] 'Glock 20' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Compensator, medium' (1132) APCost: 20 --> 120
+~  'A. - Muzzle, Flash Hider' (1134) APCost: 20 --> 120
+-  'A. - Muzzle, Suppressor, AR, medium' (1144)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Laser, LMM-01' (1041)
+
+Gun [4196] 'SIG P220 Hunter' changes:
+~  'A. - Laser Sight' (241) APCost: 20 --> 120
+~  'A. - Laser, Insight LAM' (1040) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Bipod, Picatinny' (1021)
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, Grippod' (1027)
++  'A. - Foregrip, KelTec BP' (1028)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Tact. Flashlight, Surefire' (1273)
++  'A. - Tact. Flashlight, Surefire - on' (1274)
+
+Gun [8] 'Colt M1911A1' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, large' (1131)
+-  'A. - Muzzle, Suppressor, Pistol, large' (1147)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4202] 'Colt High Capacity M1911A1' changes:
+~  'A. - Laser Sight' (241) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Compensator, large' (1131) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, large' (1147) APCost: 20 --> 120
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Bipod, Picatinny' (1021)
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, Grippod' (1027)
++  'A. - Foregrip, KelTec BP' (1028)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Tact. Flashlight, Surefire' (1273)
++  'A. - Tact. Flashlight, Surefire - on' (1274)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4203] 'HK Mark 23 SOCOM' changes:
+~  'A. - Laser Sight' (241) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, large' (1147) APCost: 20 --> 120
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Muzzle, Compensator, large' (1131)
++  'A. - Muzzle, Matchbarrel' (1136)
++  'A. - Bipod, Picatinny' (1021)
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, Grippod' (1027)
++  'A. - Foregrip, KelTec BP' (1028)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Tact. Flashlight, Surefire' (1273)
++  'A. - Tact. Flashlight, Surefire - on' (1274)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4204] 'FN FNP-45' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Insight LAM' (1040) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Compensator, large' (1131) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, large' (1147) APCost: 20 --> 120
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4205] 'S&W M645' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, large' (1131)
+-  'A. - Muzzle, Flash Suppressor' (1135)
+-  'A. - Muzzle, Suppressor, Pistol, large' (1147)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4206] 'HK P12' changes:
+~  'A. - Laser Sight' (241) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, large' (1147) APCost: 20 --> 120
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Muzzle, Compensator, large' (1131)
++  'A. - Muzzle, Matchbarrel' (1136)
++  'A. - Bipod, Picatinny' (1021)
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, Grippod' (1027)
++  'A. - Foregrip, KelTec BP' (1028)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Tact. Flashlight, Surefire' (1273)
++  'A. - Tact. Flashlight, Surefire - on' (1274)
+
+Gun [4210] 'AMT Hardballer' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+~  'A. - Muzzle, Compensator, large' (1131) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, large' (1147) APCost: 20 --> 120
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4211] 'PSM' changes:
+-  'A. - Laser, Reddot LAM' (1043)
+~  'A. - Muzzle, Suppressor, Pistol, small' (207) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
++  'A. - Muzzle, Compensator, small' (1133)
+
+Gun [4216] 'VBR Glock 7.92' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Laser, LMM-01' (1041)
+
+Gun [4221] 'FN Five-seveN' changes:
+~  'A. - Laser Sight' (241) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Compensator, small' (1133) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, small' (207) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Bipod, Picatinny' (1021)
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, Grippod' (1027)
++  'A. - Foregrip, KelTec BP' (1028)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Tact. Flashlight, Surefire' (1273)
++  'A. - Tact. Flashlight, Surefire - on' (1274)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4222] 'Glock 57' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Compensator, small' (1133) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, small' (207) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Laser, LMM-01' (1041)
+
+Gun [4223] 'Accelerator MP-57' changes:
+~  'A. - Aiming Module, Holosight + G33' (1009) APCost: 20 --> 100
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+~  'A. - Reflex Sight' (1161) APCost: 20 --> 120
+~  'A. - Reflex Sight, C-More' (1162) APCost: 20 --> 120
+~  'A. - Reflex Sight, IR' (1163) APCost: 20 --> 120
+~  'A. - Reflex Sight, SMR' (1165) APCost: 20 --> 120
+~  'A. - Reflex Sight, Z-Point' (1166) APCost: 20 --> 120
+~  'A. - Reflex Sight, Holosight' (1168) APCost: 20 --> 120
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, 3x' (1172)
+-  'A. - Scope, Leupold MK 4 Scope 1x' (1173)
+-  'A. - Scope, Leupold MK 4 Scope 3x' (1174)
+~  'A. - Scope, EOTech G33' (1180) APCost: 20 --> 100
+~  'A. - Scope, Nikon Monarch' (1227) APCost: 20 --> 100
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Laser, CORSAK-14' (1039)
++  'A. - Aiming Module, ISM-4X-IR' (1010)
++  'A. - Aiming Module, ISM-V-IR' (1011)
++  'A. - Aiming Module, ITL MARS' (1012)
++  'A. - Reflex Sight, DEP' (1167)
++  'A. - Scope, Leupold 2x Picatinny' (1208)
++  'A. - Scope, 3x Picatinny' (1209)
++  'A. - Scope, ACOG 4x' (1176)
++  'A. - Scope, ACOG 4x TA31H' (1177)
++  'A. - Scope, ACOG TA648' (1178)
++  'A. - Scope, Aimpoint Comp M2' (1179)
++  'A. - Scope, EOTech 5x' (1181)
++  'A. - Scope, AN/PVS-14 NV' (1211)
++  'A. - Scope, Burris AR' (1213)
++  'A. - Scope, Burris SpeedDot' (1214)
++  'A. - Scope, Elcan C79' (1215)
++  'A. - Scope, SUSAT' (1251)
++  'A. - Sight, Aperture' (1262)
+
+Gun [4226] 'QSZ-92' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Flash Suppressor' (1135)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Laser, Insight LAM' (1040)
+
+Gun [4227] 'QSW-06' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Flash Suppressor' (1135)
+~  'A. - Muzzle, Suppressor, Pistol, small' (207) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Muzzle, Compensator, small' (1133)
++  'A. - Laser, Insight LAM' (1040)
+
+Gun [4231] 'HK UCP' changes:
+~  'A. - Laser Sight' (241) APCost: 20 --> 120
+~  'A. - Laser, Insight LAM' (1040) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Compensator, small' (1133) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, small' (207) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Bipod, Picatinny' (1021)
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, Grippod' (1027)
++  'A. - Foregrip, KelTec BP' (1028)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Tact. Flashlight, Surefire' (1273)
++  'A. - Tact. Flashlight, Surefire - on' (1274)
+
+Gun [4232] 'Glock 46' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Compensator, small' (1133) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, small' (207) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Laser, LMM-01' (1041)
+
+Gun [4236] 'HK G11 PDW' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, small' (1133)
+-  'A. - Muzzle, Suppressor, Pistol, small' (207)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4241] 'CZ-52' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+~  'A. - Muzzle, Compensator, small' (1133) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, small' (207) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4242] 'Tokarev TT-33' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, small' (1133)
+-  'A. - Muzzle, Suppressor, Pistol, small' (207)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4243] 'Mauser C96 7.62' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
+
+Gun [4244] 'M1921 Bolo 7.62' changes:
+
+Gun [4245] 'Dominion Arms P762' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Insight LAM' (1040) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Compensator, small' (1133)
+-  'A. - Muzzle, Flash Suppressor' (1135)
+-  'A. - Muzzle, Suppressor, Pistol, small' (207)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Bipod, Picatinny' (1021)
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, Grippod' (1027)
++  'A. - Foregrip, KelTec BP' (1028)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4246] 'CZ-52 7.63' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+~  'A. - Muzzle, Compensator, small' (1133) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, small' (207) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4247] 'Tokarev TT-33 7.63' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, small' (1133)
+-  'A. - Muzzle, Suppressor, Pistol, small' (207)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4248] 'Mauser C96' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Leupold 2x' (1171)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
+
+Gun [4249] 'M1921 Bolo Mauser' changes:
+
+Gun [4250] 'Dominion Arms P762 7.63' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Insight LAM' (1040) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Compensator, small' (1133)
+-  'A. - Muzzle, Flash Suppressor' (1135)
+-  'A. - Muzzle, Suppressor, Pistol, small' (207)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Bipod, Picatinny' (1021)
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, Grippod' (1027)
++  'A. - Foregrip, KelTec BP' (1028)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4256] 'Nambu Type 14' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4257] 'Hamada Type II' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4261] 'SR-1 Gyurza' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [56] 'Automag III Custom' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [7] 'Desert Eagle .357' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Insight LAM' (1040) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Compensator, large' (1131)
+-  'A. - Muzzle, Suppressor, Pistol, large' (1147)
+~  'A. - Reflex Sight' (1161) APCost: 20 --> 120
+~  'A. - Reflex Sight, IR' (1163) APCost: 20 --> 120
+~  'A. - Reflex Sight, SMR' (1165) APCost: 20 --> 120
+~  'A. - Reflex Sight, Z-Point' (1166) APCost: 20 --> 120
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Sight, Flip-up BUIS' (1261)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Reflex Sight, DEP' (1167)
++  'A. - Reflex Sight, Holosight' (1168)
++  'A. - Sight, Aperture' (1262)
+
+Gun [4272] 'Coonan .357' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, large' (1131)
+-  'A. - Muzzle, Suppressor, Pistol, large' (1147)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4276] 'Desert Eagle .44' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Insight LAM' (1040) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Compensator, large' (1131)
+-  'A. - Muzzle, Suppressor, Pistol, large' (1147)
+~  'A. - Reflex Sight' (1161) APCost: 20 --> 120
+~  'A. - Reflex Sight, IR' (1163) APCost: 20 --> 120
+~  'A. - Reflex Sight, SMR' (1165) APCost: 20 --> 120
+~  'A. - Reflex Sight, Z-Point' (1166) APCost: 20 --> 120
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Sight, Flip-up BUIS' (1261)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Reflex Sight, DEP' (1167)
++  'A. - Reflex Sight, Holosight' (1168)
++  'A. - Sight, Aperture' (1262)
+
+Gun [4281] 'Desert Eagle .50 AE' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Insight LAM' (1040) APCost: 20 --> 120
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+-  'A. - Muzzle, Compensator, large' (1131)
+-  'A. - Muzzle, Suppressor, Pistol, large' (1147)
+~  'A. - Reflex Sight' (1161) APCost: 20 --> 120
+~  'A. - Reflex Sight, IR' (1163) APCost: 20 --> 120
+~  'A. - Reflex Sight, SMR' (1165) APCost: 20 --> 120
+~  'A. - Reflex Sight, Z-Point' (1166) APCost: 20 --> 120
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Sight, Flip-up BUIS' (1261)
++  'A. - Laser, LMM-01' (1041)
++  'A. - Reflex Sight, DEP' (1167)
++  'A. - Reflex Sight, Holosight' (1168)
++  'A. - Sight, Aperture' (1262)
+
+Gun [4282] 'LAR Grizzly .50 AE' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Suppressor, Pistol, large' (1147)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Nikon Monarch' (1227)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4283] 'Automag V' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Nikon Monarch' (1227)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4286] 'Webley 1913' changes:
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+
+Gun [4291] 'Automag IV' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Nikon Monarch' (1227)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4292] 'LAR Grizzly .45 WM' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+~  'A. - Muzzle, Suppressor, Pistol, large' (1147) APCost: 20 --> 120
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Nikon Monarch' (1227)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Muzzle, Compensator, large' (1131)
++  'A. - Sight, Pistol, Match Sights' (1267)
+
+Gun [4293] 'Wildey Survivor' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Suppressor, Pistol, large' (1147)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Scope, Leupold 2x Revolver' (1205)
++  'A. - Scope, 3x Revolver' (1206)
+
+Gun [4296] 'Franklin Armory Convert' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4299] 'Modele 1935A' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Matchbarrel' (1136)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4300] 'Modele 1935S' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Compensator, medium' (1132)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Matchbarrel' (1136)
+-  'A. - Muzzle, Suppressor, Pistol, medium' (1148)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
++  'A. - Muzzle, Compensator, small' (1133)
++  'A. - Muzzle, Suppressor, Pistol, small' (207)
+
+Gun [2] 'Glock 18' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Compensator, medium' (1132) APCost: 20 --> 120
+~  'A. - Muzzle, Flash Hider' (1134) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, medium' (1148) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Laser, LMM-01' (1041)
+
+Gun [4302] 'Glock 18 Tactical' changes:
+-  'A. - Laser Sight' (241)
+~  'A. - Laser, Reddot LAM' (1043) APCost: 20 --> 120
+~  'A. - Muzzle, Compensator, medium' (1132) APCost: 20 --> 120
+~  'A. - Muzzle, Flash Hider' (1134) APCost: 20 --> 120
+-  'A. - Muzzle, Flash Suppressor' (1135)
+~  'A. - Muzzle, Suppressor, Pistol, medium' (1148) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+~  'A. - Sight, Pistol, B&T N.S.' (1266) APCost: 20 --> 120
+~  'A. - Sight, Pistol, Match Sights' (1267) APCost: 20 --> 120
+~  'A. - Tact. Flashlight' (1271) APCost: 20 --> 120
+~  'A. - Tact. Flashlight - on' (1272) APCost: 20 --> 120
++  'A. - Foregrip' (1026)
++  'A. - Foregrip, SMG' (1030)
++  'A. - Laser, Insight LAM' (1040)
++  'A. - Laser, LMM-01' (1041)
+
+Gun [4] 'Beretta 93R' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Reddot LAM' (1043)
+~  'A. - Muzzle, Compensator, medium' (1132) APCost: 20 --> 120
+~  'A. - Muzzle, Flash Hider' (1134) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, medium' (1148) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [4304] 'Beretta 93R FA' changes:
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, Reddot LAM' (1043)
+~  'A. - Muzzle, Compensator, medium' (1132) APCost: 20 --> 120
+~  'A. - Muzzle, Flash Hider' (1134) APCost: 20 --> 120
+~  'A. - Muzzle, Suppressor, Pistol, medium' (1148) APCost: 20 --> 100
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Sight, Pistol, B&T N.S.' (1266)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+
+Gun [9] 'HK MP5KA4' changes:
+!! actual default attachments ['1034', '1282'] != realistic default attachments ['1034', '1279']
+-  'A. - Foregrip' (1026)
+-  'A. - Foregrip, KelTec BP' (1028)
+-  'A. - Foregrip, SMG' (1030)
+-  'A. - Laser Sight' (241)
+-  'A. - Laser, Insight LAM' (1040)
+-  'A. - Laser, LMM-01' (1041)
+-  'A. - Laser, Reddot LAM' (1043)
+-  'A. - Muzzle, Flash Hider' (1134)
+-  'A. - Muzzle, Suppressor, SMG, medium' (1153)
+-  'A. - Reflex Sight' (1161)
+-  'A. - Reflex Sight, IR' (1163)
+-  'A. - Reflex Sight, SMR' (1165)
+-  'A. - Reflex Sight, Z-Point' (1166)
+-  'A. - Scope, Nikon Monarch' (1227)
+-  'A. - Tact. Flashlight' (1271)
+-  'A. - Tact. Flashlight - on' (1272)
+-  'A. - Tact. Flashlight, Surefire' (1273)
+-  'A. - Tact. Flashlight, Surefire - on' (1274)
+-  'A. - Trigger Group 2' (1281)
+-  'A. - Trigger Group 3' (1282)
+-  'A. - Trigger Group 4' (1283)
++  'A. - Non-removable Foregrip' (1034)
++  'A. - Trigger burst 3' (1279)
+
