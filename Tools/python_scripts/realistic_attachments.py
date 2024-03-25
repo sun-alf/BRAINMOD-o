@@ -4,6 +4,7 @@
 # 2. ???
 # 3. Run this script (i.e. "realistic_attachments.py") in a cmd line window:
 #    > python realistic_attachments.py MakeRealisticAttachments
+#    > python realistic_attachments.py MakeRealisticAttachments 1 2 3  -- will process only guns with the given IDs (Glock 17, Glock 18 and Beretta 92F in this example)
 
 
 import os, sys;
@@ -203,15 +204,19 @@ def MakeRealisticAttachments(args):
     ignoredAttList = _LoadIgnoredAttachments(attachmentsDesc);  # contains IDs only
     
     for gunDesc in gunsDesc:
-        if gunDesc.attrib["weapon_id"] == "0":  # exit on "NULL-TERMINATOR" spot.
+        gunId = gunDesc.attrib["weapon_id"];
+        
+        if gunId == "0":  # exit on "NULL-TERMINATOR" spot.
             break;
         
         if "skip" in gunDesc.attrib:  # "skip" property means skip this gun, that's it.
             continue;
         
+        if len(args) > 0 and int(gunId) not in args:  # also skip if this gun is not among given IDs (if any).
+            continue;
+        
         # Main part of this task: form a list of attachments in accordance to rules provided by "/input" XMLs.
         # The list will be in var 'compatibleAttachments'.
-        gunId = gunDesc.attrib["weapon_id"];
         gunName = gunDesc.attrib["name"];
         compatibleAttachments = list();
         defaultAttachments = list();  # contains IDs only

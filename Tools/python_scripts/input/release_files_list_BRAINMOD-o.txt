@@ -1,0 +1,19 @@
+JA2_1dot13_gamedir\Data as JaggedAlliance_2\Data
+JA2_1dot13_gamedir\Data-1.13 as JaggedAlliance_2\Data-1.13
+JA2-BRAINMOD-o\Data-BRAINMOD as JaggedAlliance_2\Data-BRAINMOD
+JaggedAlliance_2\MULTIPLAYER as JaggedAlliance_2\MULTIPLAYER
+JA2-BRAINMOD-o\Profiles as JaggedAlliance_2\Profiles
+JA2_1dot13_gamedir\Shaders as JaggedAlliance_2\Shaders
+JA2_1dot13_gamedir\Docs\Manuals\JA2_113_Hotkeys_ALT_MOUSE.pdf as JaggedAlliance_2\Docs\Manuals\JA2_113_Hotkeys_ALT_MOUSE.pdf
+JA2_1dot13_gamedir\Docs\Manuals\JA2_Manual.pdf as JaggedAlliance_2\Docs\Manuals\JA2_Manual.pdf
+JA2_1dot13_gamedir\BackEnd.dll as JaggedAlliance_2\BackEnd.dll
+JA2_1dot13_gamedir\binkw32.dll as JaggedAlliance_2\binkw32.dll
+JA2_1dot13_gamedir\cnc-ddraw config.exe as JaggedAlliance_2\cnc-ddraw config.exe
+JA2_1dot13_gamedir\ddraw.dll as JaggedAlliance_2\ddraw.dll
+JaggedAlliance_2\ddraw.ini as JaggedAlliance_2\ddraw.ini
+JA2_1dot13_gamedir\fmod.dll as JaggedAlliance_2\fmod.dll
+JaggedAlliance_2\JA2.exe as JaggedAlliance_2\JA2.exe
+JA2-BRAINMOD-o\Ja2.ini as JaggedAlliance_2\Ja2.ini
+JA2_1dot13_gamedir\SMACKW32.dll as JaggedAlliance_2\SMACKW32.dll
+JA2_1dot13_gamedir\transfer_rules.txt as JaggedAlliance_2\transfer_rules.txt
+JA2-BRAINMOD-o\vfs_config.JA2_BRAINMOD.ini as JaggedAlliance_2\vfs_config.JA2_BRAINMOD.ini

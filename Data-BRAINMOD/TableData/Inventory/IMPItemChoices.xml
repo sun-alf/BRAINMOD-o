@@ -5,15 +5,15 @@
 		<name>Default Items</name>
 		<ubChoices>9</ubChoices>
 		<ubNumItems>9</ubNumItems>
-		<bItemNo1>2602</bItemNo1>
-		<bItemNo2>213</bItemNo2>
-		<bItemNo3>823</bItemNo3>
+		<bItemNo1>212</bItemNo1>
+		<bItemNo2>373</bItemNo2>
+		<bItemNo3>1300</bItemNo3>
 		<bItemNo4>1686</bItemNo4>
 		<bItemNo5>1903</bItemNo5>
 		<bItemNo6>1731</bItemNo6>
 		<bItemNo7>1731</bItemNo7>
-		<bItemNo8>373</bItemNo8>
-		<bItemNo9>212</bItemNo9>
+		<bItemNo8>1301</bItemNo8>
+		<bItemNo9>1296</bItemNo9>
 		<bItemNo10>0</bItemNo10>
 		<bItemNo11>0</bItemNo11>
 		<bItemNo12>0</bItemNo12>
@@ -59,16 +59,16 @@
 	<IMPITEMCHOICES>
 		<uiIndex>1</uiIndex>
 		<name>Random Items</name>
-		<ubChoices>0</ubChoices>
-		<ubNumItems>0</ubNumItems>
-		<bItemNo1>2986</bItemNo1>
-		<bItemNo2>294</bItemNo2>
-		<bItemNo3>1043</bItemNo3>
-		<bItemNo4>241</bItemNo4>
-		<bItemNo5>1661</bItemNo5>
-		<bItemNo6>5871</bItemNo6>
-		<bItemNo7>134</bItemNo7>
-		<bItemNo8>1411</bItemNo8>
+		<ubChoices>5</ubChoices>
+		<ubNumItems>1</ubNumItems>
+		<bItemNo1>596</bItemNo1>
+		<bItemNo2>597</bItemNo2>
+		<bItemNo3>573</bItemNo3>
+		<bItemNo4>567</bItemNo4>
+		<bItemNo5>549</bItemNo5>
+		<bItemNo6>209</bItemNo6>
+		<bItemNo7>1026</bItemNo7>
+		<bItemNo8>1030</bItemNo8>
 		<bItemNo9>1271</bItemNo9>
 		<bItemNo10>2606</bItemNo10>
 		<bItemNo11>2603</bItemNo11>
@@ -82,23 +82,23 @@
 		<bItemNo19>2748</bItemNo19>
 		<bItemNo20>2751</bItemNo20>
 		<bItemNo21>2754</bItemNo21>
-		<bItemNo22>161</bItemNo22>
-		<bItemNo23>773</bItemNo23>
-		<bItemNo24>821</bItemNo24>
-		<bItemNo25>752</bItemNo25>
-		<bItemNo26>824</bItemNo26>
-		<bItemNo27>825</bItemNo27>
-		<bItemNo28>826</bItemNo28>
-		<bItemNo29>751</bItemNo29>
+		<bItemNo22>4659</bItemNo22>
+		<bItemNo23>2986</bItemNo23>
+		<bItemNo24>294</bItemNo24>
+		<bItemNo25>1043</bItemNo25>
+		<bItemNo26>241</bItemNo26>
+		<bItemNo27>1661</bItemNo27>
+		<bItemNo28>4741</bItemNo28>
+		<bItemNo29>0</bItemNo29>
 		<bItemNo30>653</bItemNo30>
 		<bItemNo31>605</bItemNo31>
 		<bItemNo32>601</bItemNo32>
 		<bItemNo33>604</bItemNo33>
 		<bItemNo34>651</bItemNo34>
 		<bItemNo35>626</bItemNo35>
-		<bItemNo36>0</bItemNo36>
+		<bItemNo36>4658</bItemNo36>
 		<bItemNo37>581</bItemNo37>
-		<bItemNo38>549</bItemNo38>
+		<bItemNo38>577</bItemNo38>
 		<bItemNo39>2901</bItemNo39>
 		<bItemNo40>2903</bItemNo40>
 		<bItemNo41>2902</bItemNo41>
@@ -107,7 +107,7 @@
 		<bItemNo44>2702</bItemNo44>
 		<bItemNo45>4719</bItemNo45>
 		<bItemNo46>31</bItemNo46>
-		<bItemNo47>4741</bItemNo47>
+		<bItemNo47>4702</bItemNo47>
 		<bItemNo48>4842</bItemNo48>
 		<bItemNo49>4755</bItemNo49>
 		<bItemNo50>4757</bItemNo50>
@@ -117,18 +117,18 @@
 		<name>Wisdom</name>
 		<ubChoices>12</ubChoices>
 		<ubNumItems>1</ubNumItems>
-		<bItemNo1>0</bItemNo1>
-		<bItemNo2>0</bItemNo2>
-		<bItemNo3>0</bItemNo3>
-		<bItemNo4>0</bItemNo4>
+		<bItemNo1>2602</bItemNo1>
+		<bItemNo2>2602</bItemNo2>
+		<bItemNo3>2602</bItemNo3>
+		<bItemNo4>2602</bItemNo4>
 		<bItemNo5>176</bItemNo5>
 		<bItemNo6>176</bItemNo6>
-		<bItemNo7>177</bItemNo7>
-		<bItemNo8>177</bItemNo8>
-		<bItemNo9>2650</bItemNo9>
-		<bItemNo10>2650</bItemNo10>
-		<bItemNo11>2683</bItemNo11>
-		<bItemNo12>2683</bItemNo12>
+		<bItemNo7>2662</bItemNo7>
+		<bItemNo8>2662</bItemNo8>
+		<bItemNo9>2659</bItemNo9>
+		<bItemNo10>2659</bItemNo10>
+		<bItemNo11>177</bItemNo11>
+		<bItemNo12>177</bItemNo12>
 		<bItemNo13>0</bItemNo13>
 		<bItemNo14>0</bItemNo14>
 		<bItemNo15>0</bItemNo15>
@@ -173,18 +173,18 @@
 		<name>Dexterity</name>
 		<ubChoices>12</ubChoices>
 		<ubNumItems>1</ubNumItems>
-		<bItemNo1>0</bItemNo1>
-		<bItemNo2>0</bItemNo2>
-		<bItemNo3>1296</bItemNo3>
-		<bItemNo4>1296</bItemNo4>
-		<bItemNo5>1296</bItemNo5>
-		<bItemNo6>1296</bItemNo6>
-		<bItemNo7>1026</bItemNo7>
-		<bItemNo8>1026</bItemNo8>
-		<bItemNo9>1161</bItemNo9>
-		<bItemNo10>1161</bItemNo10>
-		<bItemNo11>209</bItemNo11>
-		<bItemNo12>209</bItemNo12>
+		<bItemNo1>751</bItemNo1>
+		<bItemNo2>751</bItemNo2>
+		<bItemNo3>752</bItemNo3>
+		<bItemNo4>752</bItemNo4>
+		<bItemNo5>773</bItemNo5>
+		<bItemNo6>821</bItemNo6>
+		<bItemNo7>823</bItemNo7>
+		<bItemNo8>825</bItemNo8>
+		<bItemNo9>826</bItemNo9>
+		<bItemNo10>827</bItemNo10>
+		<bItemNo11>824</bItemNo11>
+		<bItemNo12>760</bItemNo12>
 		<bItemNo13>0</bItemNo13>
 		<bItemNo14>0</bItemNo14>
 		<bItemNo15>0</bItemNo15>
@@ -285,18 +285,18 @@
 		<name>Strength</name>
 		<ubChoices>12</ubChoices>
 		<ubNumItems>1</ubNumItems>
-		<bItemNo1>545</bItemNo1>
-		<bItemNo2>545</bItemNo2>
-		<bItemNo3>545</bItemNo3>
-		<bItemNo4>596</bItemNo4>
-		<bItemNo5>596</bItemNo5>
-		<bItemNo6>567</bItemNo6>
-		<bItemNo7>547</bItemNo7>
-		<bItemNo8>543</bItemNo8>
-		<bItemNo9>559</bItemNo9>
-		<bItemNo10>504</bItemNo10>
-		<bItemNo11>505</bItemNo11>
-		<bItemNo12>501</bItemNo12>
+		<bItemNo1>1411</bItemNo1>  <!-- Free-up slots in Random items: Tool - Folding Spade -->
+		<bItemNo2>0</bItemNo2>
+		<bItemNo3>0</bItemNo3>
+		<bItemNo4>502</bItemNo4>
+		<bItemNo5>502</bItemNo5>
+		<bItemNo6>502</bItemNo6>
+		<bItemNo7>506</bItemNo7>
+		<bItemNo8>506</bItemNo8>
+		<bItemNo9>506</bItemNo9>
+		<bItemNo10>509</bItemNo10>
+		<bItemNo11>509</bItemNo11>
+		<bItemNo12>509</bItemNo12>
 		<bItemNo13>0</bItemNo13>
 		<bItemNo14>0</bItemNo14>
 		<bItemNo15>0</bItemNo15>
@@ -341,18 +341,18 @@
 		<name>Health</name>
 		<ubChoices>12</ubChoices>
 		<ubNumItems>1</ubNumItems>
-		<bItemNo1>2886</bItemNo1>
-		<bItemNo2>2886</bItemNo2>
-		<bItemNo3>2886</bItemNo3>
-		<bItemNo4>196</bItemNo4>
-		<bItemNo5>196</bItemNo5>
-		<bItemNo6>196</bItemNo6>
-		<bItemNo7>2731</bItemNo7>
-		<bItemNo8>2731</bItemNo8>
+		<bItemNo1>161</bItemNo1>
+		<bItemNo2>161</bItemNo2>
+		<bItemNo3>161</bItemNo3>
+		<bItemNo4>2745</bItemNo4>
+		<bItemNo5>2745</bItemNo5>
+		<bItemNo6>2745</bItemNo6>
+		<bItemNo7>164</bItemNo7>
+		<bItemNo8>164</bItemNo8>
 		<bItemNo9>164</bItemNo9>
-		<bItemNo10>164</bItemNo10>
-		<bItemNo11>2745</bItemNo11>
-		<bItemNo12>2745</bItemNo12>
+		<bItemNo10>196</bItemNo10>
+		<bItemNo11>196</bItemNo11>
+		<bItemNo12>196</bItemNo12>
 		<bItemNo13>0</bItemNo13>
 		<bItemNo14>0</bItemNo14>
 		<bItemNo15>0</bItemNo15>
@@ -457,11 +457,11 @@
 		<bItemNo2>0</bItemNo2>
 		<bItemNo3>0</bItemNo3>
 		<bItemNo4>1165</bItemNo4>
-		<bItemNo5>1166</bItemNo5>
-		<bItemNo6>1227</bItemNo6>
+		<bItemNo5>1227</bItemNo5>
+		<bItemNo6>1161</bItemNo6>
 		<bItemNo7>1171</bItemNo7>
 		<bItemNo8>1172</bItemNo8>
-		<bItemNo9>1258</bItemNo9>
+		<bItemNo9>1166</bItemNo9>
 		<bItemNo10>1258</bItemNo10>
 		<bItemNo11>208</bItemNo11>
 		<bItemNo12>208</bItemNo12>
@@ -566,15 +566,15 @@
 		<ubChoices>12</ubChoices>
 		<ubNumItems>1</ubNumItems>
 		<bItemNo1>0</bItemNo1>
-		<bItemNo2>0</bItemNo2>
-		<bItemNo3>0</bItemNo3>
-		<bItemNo4>385</bItemNo4>
-		<bItemNo5>385</bItemNo5>
-		<bItemNo6>385</bItemNo6>
-		<bItemNo7>385</bItemNo7>
-		<bItemNo8>382</bItemNo8>
-		<bItemNo9>382</bItemNo9>
-		<bItemNo10>382</bItemNo10>
+		<bItemNo2>385</bItemNo2>
+		<bItemNo3>385</bItemNo3>
+		<bItemNo4>382</bItemNo4>
+		<bItemNo5>382</bItemNo5>
+		<bItemNo6>382</bItemNo6>
+		<bItemNo7>382</bItemNo7>
+		<bItemNo8>203</bItemNo8>
+		<bItemNo9>203</bItemNo9>
+		<bItemNo10>203</bItemNo10>
 		<bItemNo11>203</bItemNo11>
 		<bItemNo12>203</bItemNo12>
 		<bItemNo13>0</bItemNo13>
@@ -899,11 +899,11 @@
 	<IMPITEMCHOICES>
 		<uiIndex>16</uiIndex>
 		<name>Gunslinger</name>
-		<ubChoices>2</ubChoices>
-		<ubNumItems>2</ubNumItems>
+		<ubChoices>3</ubChoices>
+		<ubNumItems>3</ubNumItems>
 		<bItemNo1>604</bItemNo1>
-		<bItemNo2>4042</bItemNo2>
-		<bItemNo3>0</bItemNo3>
+		<bItemNo2>4045</bItemNo2>
+		<bItemNo3>1266</bItemNo3>
 		<bItemNo4>0</bItemNo4>
 		<bItemNo5>0</bItemNo5>
 		<bItemNo6>0</bItemNo6>
@@ -1235,13 +1235,13 @@
 	<IMPITEMCHOICES>
 		<uiIndex>22</uiIndex>
 		<name>Melee</name>
-		<ubChoices>4</ubChoices>
-		<ubNumItems>4</ubNumItems>
+		<ubChoices>5</ubChoices>
+		<ubNumItems>5</ubNumItems>
 		<bItemNo1>5875</bItemNo1>
 		<bItemNo2>651</bItemNo2>
 		<bItemNo3>2986</bItemNo3>
 		<bItemNo4>2607</bItemNo4>
-		<bItemNo5>0</bItemNo5>
+		<bItemNo5>5871</bItemNo5>
 		<bItemNo6>0</bItemNo6>
 		<bItemNo7>0</bItemNo7>
 		<bItemNo8>0</bItemNo8>
@@ -1291,14 +1291,14 @@
 	<IMPITEMCHOICES>
 		<uiIndex>23</uiIndex>
 		<name>Throwing</name>
-		<ubChoices>4</ubChoices>
-		<ubNumItems>4</ubNumItems>
+		<ubChoices>6</ubChoices>
+		<ubNumItems>6</ubNumItems>
 		<bItemNo1>5807</bItemNo1>
 		<bItemNo2>5807</bItemNo2>
 		<bItemNo3>5807</bItemNo3>
 		<bItemNo4>636</bItemNo4>
-		<bItemNo5>0</bItemNo5>
-		<bItemNo6>0</bItemNo6>
+		<bItemNo5>134</bItemNo5>
+		<bItemNo6>134</bItemNo6>
 		<bItemNo7>0</bItemNo7>
 		<bItemNo8>0</bItemNo8>
 		<bItemNo9>0</bItemNo9>
@@ -1403,13 +1403,13 @@
 	<IMPITEMCHOICES>
 		<uiIndex>25</uiIndex>
 		<name>Stealthy</name>
-		<ubChoices>4</ubChoices>
-		<ubNumItems>4</ubNumItems>
+		<ubChoices>5</ubChoices>
+		<ubNumItems>5</ubNumItems>
 		<bItemNo1>361</bItemNo1>
 		<bItemNo2>362</bItemNo2>
 		<bItemNo3>363</bItemNo3>
 		<bItemNo4>651</bItemNo4>
-		<bItemNo5>0</bItemNo5>
+		<bItemNo5>1148</bItemNo5>
 		<bItemNo6>0</bItemNo6>
 		<bItemNo7>0</bItemNo7>
 		<bItemNo8>0</bItemNo8>
@@ -1571,8 +1571,8 @@
 	<IMPITEMCHOICES>
 		<uiIndex>28</uiIndex>
 		<name>Demolitions</name>
-		<ubChoices>7</ubChoices>
-		<ubNumItems>7</ubNumItems>
+		<ubChoices>8</ubChoices>
+		<ubNumItems>8</ubNumItems>
 		<bItemNo1>655</bItemNo1>
 		<bItemNo2>223</bItemNo2>
 		<bItemNo3>137</bItemNo3>
@@ -1580,7 +1580,7 @@
 		<bItemNo5>242</bItemNo5>
 		<bItemNo6>149</bItemNo6>
 		<bItemNo7>150</bItemNo7>
-		<bItemNo8>0</bItemNo8>
+		<bItemNo8>134</bItemNo8>
 		<bItemNo9>0</bItemNo9>
 		<bItemNo10>0</bItemNo10>
 		<bItemNo11>0</bItemNo11>
@@ -1627,11 +1627,11 @@
 	<IMPITEMCHOICES>
 		<uiIndex>29</uiIndex>
 		<name>Teaching</name>
-		<ubChoices>2</ubChoices>
-		<ubNumItems>2</ubNumItems>
-		<bItemNo1>4741</bItemNo1>
+		<ubChoices>3</ubChoices>
+		<ubNumItems>3</ubNumItems>
+		<bItemNo1>4780</bItemNo1>
 		<bItemNo2>651</bItemNo2>
-		<bItemNo3>0</bItemNo3>
+		<bItemNo3>134</bItemNo3>
 		<bItemNo4>0</bItemNo4>
 		<bItemNo5>0</bItemNo5>
 		<bItemNo6>0</bItemNo6>
@@ -1969,7 +1969,7 @@
 		<bItemNo2>2381</bItemNo2>
 		<bItemNo3>2382</bItemNo3>
 		<bItemNo4>2384</bItemNo4>
-		<bItemNo5>570</bItemNo5>
+		<bItemNo5>569</bItemNo5>
 		<bItemNo6>0</bItemNo6>
 		<bItemNo7>0</bItemNo7>
 		<bItemNo8>0</bItemNo8>
@@ -2131,11 +2131,11 @@
 	<IMPITEMCHOICES>
 		<uiIndex>38</uiIndex>
 		<name>GUNSLINGER EXPERT</name>
-		<ubChoices>1</ubChoices>
-		<ubNumItems>1</ubNumItems>
+		<ubChoices>3</ubChoices>
+		<ubNumItems>3</ubNumItems>
 		<bItemNo1>4400</bItemNo1>
-		<bItemNo2>0</bItemNo2>
-		<bItemNo3>0</bItemNo3>
+		<bItemNo2>1266</bItemNo2>
+		<bItemNo3>1267</bItemNo3>
 		<bItemNo4>0</bItemNo4>
 		<bItemNo5>0</bItemNo5>
 		<bItemNo6>0</bItemNo6>
@@ -2187,10 +2187,10 @@
 	<IMPITEMCHOICES>
 		<uiIndex>39</uiIndex>
 		<name>MARTIAL ARTS EXPERT</name>
-		<ubChoices>1</ubChoices>
-		<ubNumItems>1</ubNumItems>
+		<ubChoices>2</ubChoices>
+		<ubNumItems>2</ubNumItems>
 		<bItemNo1>5822</bItemNo1>
-		<bItemNo2>0</bItemNo2>
+		<bItemNo2>5991</bItemNo2>
 		<bItemNo3>0</bItemNo3>
 		<bItemNo4>0</bItemNo4>
 		<bItemNo5>0</bItemNo5>
@@ -2411,10 +2411,10 @@
 	<IMPITEMCHOICES>
 		<uiIndex>43</uiIndex>
 		<name>MELEE EXPERT</name>
-		<ubChoices>1</ubChoices>
-		<ubNumItems>1</ubNumItems>
+		<ubChoices>2</ubChoices>
+		<ubNumItems>2</ubNumItems>
 		<bItemNo1>5822</bItemNo1>
-		<bItemNo2>0</bItemNo2>
+		<bItemNo2>5991</bItemNo2>
 		<bItemNo3>0</bItemNo3>
 		<bItemNo4>0</bItemNo4>
 		<bItemNo5>0</bItemNo5>
@@ -2467,14 +2467,14 @@
 	<IMPITEMCHOICES>
 		<uiIndex>44</uiIndex>
 		<name>THROWING EXPERT (OLD)</name>
-		<ubChoices>4</ubChoices>
-		<ubNumItems>4</ubNumItems>
+		<ubChoices>6</ubChoices>
+		<ubNumItems>6</ubNumItems>
 		<bItemNo1>5807</bItemNo1>
 		<bItemNo2>5807</bItemNo2>
 		<bItemNo3>5807</bItemNo3>
 		<bItemNo4>636</bItemNo4>
-		<bItemNo5>0</bItemNo5>
-		<bItemNo6>0</bItemNo6>
+		<bItemNo5>134</bItemNo5>
+		<bItemNo6>134</bItemNo6>
 		<bItemNo7>0</bItemNo7>
 		<bItemNo8>0</bItemNo8>
 		<bItemNo9>0</bItemNo9>
@@ -2579,13 +2579,13 @@
 	<IMPITEMCHOICES>
 		<uiIndex>46</uiIndex>
 		<name>STEALTHY EXPERT (OLD)</name>
-		<ubChoices>4</ubChoices>
-		<ubNumItems>4</ubNumItems>
+		<ubChoices>5</ubChoices>
+		<ubNumItems>5</ubNumItems>
 		<bItemNo1>361</bItemNo1>
 		<bItemNo2>362</bItemNo2>
 		<bItemNo3>363</bItemNo3>
 		<bItemNo4>651</bItemNo4>
-		<bItemNo5>0</bItemNo5>
+		<bItemNo5>1148</bItemNo5>
 		<bItemNo6>0</bItemNo6>
 		<bItemNo7>0</bItemNo7>
 		<bItemNo8>0</bItemNo8>
@@ -2637,7 +2637,7 @@
 		<name>TEACHING EXPERT (OLD)</name>
 		<ubChoices>2</ubChoices>
 		<ubNumItems>2</ubNumItems>
-		<bItemNo1>4741</bItemNo1>
+		<bItemNo1>4780</bItemNo1>
 		<bItemNo2>651</bItemNo2>
 		<bItemNo3>0</bItemNo3>
 		<bItemNo4>0</bItemNo4>
@@ -2974,9 +2974,9 @@
 		<ubChoices>13</ubChoices>
 		<ubNumItems>1</ubNumItems>
 		<bItemNo1>1</bItemNo1>
-		<bItemNo2>2</bItemNo2>
+		<bItemNo2>4167</bItemNo2>
 		<bItemNo3>3</bItemNo3>
-		<bItemNo4>4</bItemNo4>
+		<bItemNo4>4171</bItemNo4>
 		<bItemNo5>7</bItemNo5>
 		<bItemNo6>8</bItemNo6>
 		<bItemNo7>4101</bItemNo7>
@@ -2984,8 +2984,8 @@
 		<bItemNo9>4202</bItemNo9>
 		<bItemNo10>4179</bItemNo10>
 		<bItemNo11>4113</bItemNo11>
-		<bItemNo12>4221</bItemNo12>
-		<bItemNo13>4276</bItemNo13>
+		<bItemNo12>4123</bItemNo12>
+		<bItemNo13>4163</bItemNo13>
 		<bItemNo14>5</bItemNo14>
 		<bItemNo15>4002</bItemNo15>
 		<bItemNo16>4039</bItemNo16>
@@ -2999,19 +2999,19 @@
 		<bItemNo24>4045</bItemNo24>
 		<bItemNo25>4044</bItemNo25>
 		<bItemNo26>6</bItemNo26>
-		<bItemNo27>0</bItemNo27>
-		<bItemNo28>0</bItemNo28>
-		<bItemNo29>0</bItemNo29>
-		<bItemNo30>0</bItemNo30>
-		<bItemNo31>0</bItemNo31>
-		<bItemNo32>0</bItemNo32>
-		<bItemNo33>0</bItemNo33>
-		<bItemNo34>0</bItemNo34>
-		<bItemNo35>0</bItemNo35>
-		<bItemNo36>0</bItemNo36>
-		<bItemNo37>0</bItemNo37>
-		<bItemNo38>0</bItemNo38>
-		<bItemNo39>0</bItemNo39>
+		<bItemNo27>2</bItemNo27>
+		<bItemNo28>4</bItemNo28>
+		<bItemNo29>4221</bItemNo29>
+		<bItemNo30>4276</bItemNo30>
+		<bItemNo31>4165</bItemNo31>
+		<bItemNo32>4142</bItemNo32>
+		<bItemNo33>4170</bItemNo33>
+		<bItemNo34>4188</bItemNo34>
+		<bItemNo35>4206</bItemNo35>
+		<bItemNo36>4189</bItemNo36>
+		<bItemNo37>4119</bItemNo37>
+		<bItemNo38>4152</bItemNo38>
+		<bItemNo39>4121</bItemNo39>
 		<bItemNo40>0</bItemNo40>
 		<bItemNo41>0</bItemNo41>
 		<bItemNo42>0</bItemNo42>

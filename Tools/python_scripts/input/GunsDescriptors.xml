@@ -289,6 +289,11 @@
 	<Descriptor weapon_id="3" name="Beretta 92F" longname="Beretta 92F">
 		<Interface system="2" space="1"/>
 	</Descriptor>
+	<Descriptor weapon_id="4121" name="HK USP" longname="HK USP">
+		<Interface system="4" space="1"/>
+		<Interface system="19" space="8"/>
+		<Interface system="37" space="1"/>
+	</Descriptor>
 	<Descriptor weapon_id="4122" name="Beretta 92A1" longname="Beretta 92A1">
 		<Interface system="2" space="1"/>
 		<Interface system="19" space="5"/>
@@ -408,7 +413,7 @@
 	<Descriptor weapon_id="4170" name="MP-445 Varyag" longname="MP-445 Varyag">
 		<Interface system="19" space="5"/>
 	</Descriptor>
-	<Descriptor weapon_id="4171" name="HK USP" longname="HK USP">
+	<Descriptor weapon_id="4171" name="HK USP .40" longname="HK USP .40">
 		<Interface system="4" space="1"/>
 		<Interface system="19" space="8"/>
 		<Interface system="37" space="1"/>
@@ -649,233 +654,283 @@
 		<Interface system="-11" space="1"/>
 		<Interface system="31" space="15"/>
 	</Descriptor>
+	<Descriptor weapon_id="4306" name="FAMAE Mini SAF" longname="FAMAE Mini SAF">
+		<Interface system="-7" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4307" name="Cobray M11/9" longname="Cobray M11/9">
+		<Interface system="2" space="2"/>
+	</Descriptor>
+	<Descriptor weapon_id="4308" name="Cobray M11/9 - folded" longname="Cobray M11/9 - folded">
+		<Interface system="2" space="2"/>
+	</Descriptor>
+	<Descriptor weapon_id="4309" name="VBR PDW 9" longname="VBR PDW 9">
+		<Interface system="2" space="1"/>
+		<Interface system="18" space="8"/>
+	</Descriptor>
+	<Descriptor weapon_id="4310" name="VBR PDW 9 - collapsed" longname="VBR PDW 9 - collapsed">
+		<Interface system="2" space="1"/>
+		<Interface system="18" space="8"/>
+	</Descriptor>
+	<Descriptor weapon_id="4311" name="Intratec TEC-9" longname="Intratec TEC-9">
+		<Interface system="2" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4312" name="Intratec TEC-9 FA" longname="Intratec TEC-9 FA">
+		<Interface system="2" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4313" name="Agram 2000" longname="Agram 2000">
+		<Interface system="2" space="3"/>
+	</Descriptor>
+	<Descriptor weapon_id="4314" name="Steyr TMP" longname="Steyr TMP">
+		<Interface system="2" space="2"/>
+		<Interface system="-7" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4315" name="IMI Micro-Uzi" longname="IMI Micro-Uzi">
+		<Interface system="2" space="2"/>
+	</Descriptor>
+	<Descriptor weapon_id="4316" name="IMI Micro-Uzi - folded" longname="IMI Micro-Uzi - folded">
+		<Interface system="2" space="2"/>
+	</Descriptor>
+	<Descriptor weapon_id="4317" name="IMI Mini-Uzi" longname="IMI Mini-Uzi">
+		<Interface system="2" space="2"/>
+	</Descriptor>
+	<Descriptor weapon_id="4318" name="IMI Mini-Uzi - folded" longname="IMI Mini-Uzi - folded">
+		<Interface system="2" space="2"/>
+	</Descriptor>
+	<Descriptor weapon_id="4319" name="Mauser C96 M712" longname="Mauser C96 M712">
+		<Interface system="25" space="12"/>
+	</Descriptor>
+	<Descriptor weapon_id="4320" name="Beretta M12" longname="Beretta M12">
+		<Interface system="2" space="2"/>
+		<Interface system="-7" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4321" name="Spectre M4" longname="Spectre M4">
+		<Interface system="-7" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4322" name="Magpul FMG9" longname="Magpul FMG9">
+		<Interface system="-7" space="1"/>
+		<Interface system="20" space="5" default="1271"/>
+	</Descriptor>
+	<Descriptor weapon_id="4323" name="FMG9 - folded" longname="FMG9 - folded">
+		<Interface system="-7" space="1"/>
+		<Interface system="20" space="5" default="1271"/>
+	</Descriptor>
+	<Descriptor weapon_id="4324" name="PP-2000" longname="PP-2000">
+		<Interface system="-7" space="1"/>
+		<Interface system="18" space="14"/>
+	</Descriptor>
+	<Descriptor weapon_id="4325" name="PP-2000 - folded" longname="PP-2000 - folded">
+		<Interface system="-7" space="1"/>
+		<Interface system="18" space="14"/>
+	</Descriptor>
+	<Descriptor weapon_id="4326" name="HK VP70M" longname="HK VP70M">
+	</Descriptor>
+	<Descriptor weapon_id="4327" name="HK VP70" longname="HK VP70">
+	</Descriptor>
+	<Descriptor weapon_id="4328" name="ST CPW 9" longname="ST CPW 9">
+		<Interface system="18" space="20"/>
+		<Interface system="19" space="8"/>
+		<Interface system="20" space="6"/>
+	</Descriptor>
+	<Descriptor weapon_id="4329" name="ST CPW 9 - collapsed" longname="ST CPW 9 - collapsed">
+		<Interface system="18" space="20"/>
+		<Interface system="19" space="8"/>
+		<Interface system="20" space="6"/>
+	</Descriptor>
+	<Descriptor weapon_id="4341" name="AEK-919K Kashtan" longname="AEK-919K Kashtan">
+		<Interface system="2" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4342" name="AEK-919K Kashtan - folded" longname="AEK-919K Kashtan - folded">
+		<Interface system="2" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4343" name="PP-93" longname="PP-93">
+		<Interface system="2" space="2"/>
+	</Descriptor>
+	<Descriptor weapon_id="4344" name="PP-93 - folded" longname="PP-93 - folded">
+		<Interface system="2" space="2"/>
+	</Descriptor>
+	<Descriptor weapon_id="4345" name="Skorpion vz.82" longname="Skorpion vz.82">
+		<Interface system="2" space="2"/>
+	</Descriptor>
+	<Descriptor weapon_id="4346" name="Skorpion vz.82 - folded" longname="Skorpion vz.82 - folded">
+		<Interface system="2" space="2"/>
+	</Descriptor>
+	<Descriptor weapon_id="4347" name="Stechkin APS" longname="Stechkin APS">
+	</Descriptor>
+	<Descriptor weapon_id="4348" name="OTs 33 Pernach" longname="OTs 33 Pernach">
+		<Interface system="19" space="8"/>
+	</Descriptor>
+	<Descriptor weapon_id="4349" name="PM-63 RAK" longname="PM-63 RAK">
+		<Interface system="-7" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4350" name="PM-63 RAK - collapsed" longname="PM-63 RAK - collapsed">
+		<Interface system="-7" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4351" name="Ingram M11" longname="Ingram M11">
+		<Interface system="2" space="2"/>
+	</Descriptor>
+	<Descriptor weapon_id="4352" name="Ingram M11 - folded" longname="Ingram M11 - folded">
+		<Interface system="2" space="2"/>
+	</Descriptor>
+	<Descriptor weapon_id="4353" name="Mendoza HM-3S" longname="Mendoza HM-3S">
+		<Interface system="42" space="16"/>
+	</Descriptor>
+	<Descriptor weapon_id="4354" name="Mendoza HM-3S - folded" longname="Mendoza HM-3S - folded">
+		<Interface system="42" space="16"/>
+	</Descriptor>
+	<Descriptor weapon_id="4355" name="Skorpion vz.61" longname="Skorpion vz.61">
+		<Interface system="1" space="2"/>
+	</Descriptor>
+	<Descriptor weapon_id="4356" name="Skorpion vz.61 - folded" longname="Skorpion vz.61 - folded">
+		<Interface system="1" space="2"/>
+	</Descriptor>
+	<Descriptor weapon_id="10" name="Ingram M10" longname="Ingram M10">
+		<Interface system="3" space="2"/>
+	</Descriptor>
+	<Descriptor weapon_id="4362" name="Ingram M10 - folded" longname="Ingram M10 - folded">
+		<Interface system="3" space="2"/>
+	</Descriptor>
+	<Descriptor weapon_id="4363" name="KRISS Super V" longname="KRISS Super V">
+		<Interface system="3" space="2"/>
+		<Interface system="-7" space="1"/>
+		<Interface system="20" space="6"/>
+		<Interface system="18" space="16"/>
+	</Descriptor>
+	<Descriptor weapon_id="4364" name="KRISS Super V - folded" longname="KRISS Super V - folded">
+		<Interface system="3" space="2"/>
+		<Interface system="-7" space="1"/>
+		<Interface system="20" space="6"/>
+		<Interface system="18" space="16"/>
+	</Descriptor>
+	<Descriptor weapon_id="4367" name="ST CPW 57" longname="ST CPW 57">
+		<Interface system="18" space="20"/>
+		<Interface system="19" space="8"/>
+		<Interface system="20" space="6"/>
+	</Descriptor>
+	<Descriptor weapon_id="4368" name="ST CPW 57 - collapsed" longname="ST CPW 57 - collapsed">
+		<Interface system="18" space="20"/>
+		<Interface system="19" space="8"/>
+		<Interface system="20" space="6"/>
+	</Descriptor>
+	<Descriptor weapon_id="4373" name="HK MP7 PDW" longname="HK MP7 PDW">
+		<Interface system="-7" space="1"/>
+		<Interface system="1" space="2"/>
+		<Interface system="18" space="25"/>
+		<Interface system="22" space="10"/>
+	</Descriptor>
+	<Descriptor weapon_id="4374" name="HK MP7 PDW - collapsed" longname="HK MP7 PDW - collapsed">
+		<Interface system="-7" space="1"/>
+		<Interface system="1" space="2"/>
+		<Interface system="18" space="25"/>
+		<Interface system="22" space="10"/>
+	</Descriptor>
+	<Descriptor weapon_id="4375" name="ST CPW 46" longname="ST CPW 46">
+		<Interface system="18" space="20"/>
+		<Interface system="19" space="8"/>
+		<Interface system="20" space="6"/>
+	</Descriptor>
+	<Descriptor weapon_id="4376" name="ST CPW 46 - collapsed" longname="ST CPW 46 - collapsed">
+		<Interface system="18" space="20"/>
+		<Interface system="19" space="8"/>
+		<Interface system="20" space="6"/>
+	</Descriptor>
+	<Descriptor weapon_id="4381" name="Type 82" longname="Type 82">
+		<Interface system="-7" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4382" name="Type 82 - collapsed" longname="Type 82 - collapsed">
+		<Interface system="-7" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4386" name="Type 82 7.63" longname="Type 82 7.63">
+		<Interface system="-7" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4387" name="Type 82 - collapsed 7.63" longname="Type 82 - collapsed 7.63">
+		<Interface system="-7" space="1"/>
+	</Descriptor>
+	<Descriptor weapon_id="4391" name="VBR PDW 7.92" longname="VBR PDW 7.92">
+		<Interface system="1" space="1"/>
+		<Interface system="18" space="8"/>
+	</Descriptor>
+	<Descriptor weapon_id="4392" name="VBR PDW 7.92 - collapsed" longname="VBR PDW 7.92 - collapsed">
+		<Interface system="1" space="1"/>
+		<Interface system="18" space="8"/>
+	</Descriptor>
+	<Descriptor weapon_id="4396" name="Trejo Model 1" longname="Trejo Model 1">
+	</Descriptor>
+	<Descriptor weapon_id="4397" name="OTs 23 Drotik" longname="OTs 23 Drotik">
+		<Interface system="19" space="8"/>
+	</Descriptor>
+	<Descriptor weapon_id="4399" name="OA-93" longname="OA-93">
+		<Interface system="18" space="14"/>
+	</Descriptor>
+	<Descriptor weapon_id="4400" name="CMMG 7.3" longname="CMMG 7.3">
+		<Interface system="7" space="2"/>
+		<Interface system="18" space="25"/>
+		<Interface system="19" space="14"/>
+		<Interface system="20" space="14"/>
+		<Interface system="22" space="14"/>
+		<Interface system="42" space="16"/>
+	</Descriptor>
+	<Descriptor weapon_id="4401" name="Calico M-960A" longname="Calico M-960A">
+		<Interface system="2" space="2"/>
+		<Interface system="42" space="16"/>
+	</Descriptor>
+	<Descriptor weapon_id="4402" name="Calico M-960A - collapsed" longname="Calico M-960A - collapsed">
+		<Interface system="2" space="2"/>
+		<Interface system="42" space="16"/>
+	</Descriptor>
+	<Descriptor weapon_id="4403" name="IMI Uzi" longname="IMI Uzi">
+		<Interface system="2" space="2"/>
+		<Interface system="42" space="16"/>
+	</Descriptor>
+	<Descriptor weapon_id="4404" name="IMI Uzi - folded" longname="IMI Uzi - folded">
+		<Interface system="2" space="2"/>
+		<Interface system="42" space="16"/>
+	</Descriptor>
+	<Descriptor weapon_id="4405" name="IMI Uzi MP2" longname="IMI Uzi MP2">
+		<Interface system="2" space="2"/>
+		<Interface system="42" space="16"/>
+	</Descriptor>
+	<Descriptor weapon_id="4406" name="Colt SMG 9mm" longname="Colt SMG 9mm">
+		<Interface system="2" space="2"/>
+		<Interface system="27" space="32"/>
+		<Interface system="42" space="16"/>
+	</Descriptor>
+	<Descriptor weapon_id="4407" name="Colt SMG 9mm RAS" longname="Colt SMG 9mm RAS">
+		<Interface system="2" space="2"/>
+		<Interface system="18" space="32"/>
+		<Interface system="19" space="14"/>
+		<Interface system="20" space="14"/>
+		<Interface system="22" space="14"/>
+		<Interface system="42" space="16"/>
+	</Descriptor>
+	<Descriptor weapon_id="4408" name="Carl Gustaf M/45B" longname="Carl Gustaf M/45B">
+		<Interface system="42" space="16"/>
+	</Descriptor>
+	<Descriptor weapon_id="4409" name="Carl Gustaf M/45B - folded" longname="Carl Gustaf M/45B - folded">
+		<Interface system="42" space="16"/>
+	</Descriptor>
+	<Descriptor weapon_id="4410" name="FAMAE SAF" longname="FAMAE SAF">
+		<Interface system="2" space="2"/>
+		<Interface system="42" space="16"/>
+	</Descriptor>
+	<Descriptor weapon_id="4411" name="FAMAE SAF - folded" longname="FAMAE SAF - folded">
+		<Interface system="2" space="2"/>
+		<Interface system="42" space="16"/>
+	</Descriptor>
+	<Descriptor weapon_id="4412" name="FAMAE SAF Silenciada" longname="FAMAE SAF Silenciada">
+		<Interface system="42" space="16"/>
+	</Descriptor>
+	<Descriptor weapon_id="4413" name="FAMAE SAF Silenciada - folded" longname="FAMAE SAF Silenciada - folded">
+		<Interface system="42" space="16"/>
+	</Descriptor>
+	<Descriptor weapon_id="4414" name="Jati-Matic GG-95 PDW" longname="Jati-Matic GG-95 PDW">
+		<Interface system="-7" space="1"/>
+		<Interface system="2" space="2"/>
+	</Descriptor>
 	
 	<Descriptor weapon_id="0" name="DEBUG NULL-TERMINATOR" longname="DEBUG NULL-TERMINATOR">
 		<Interface system="0" space="0"/>
 	</Descriptor>
 	
-	<Descriptor weapon_id="4306" name="FAMAE Mini SAF" longname="FAMAE Mini SAF">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4307" name="Cobray M11/9" longname="Cobray M11/9">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4308" name="Cobray M11/9 - folded" longname="Cobray M11/9 - folded">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4309" name="VBR PDW 9" longname="VBR PDW 9">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4310" name="VBR PDW 9 - collapsed" longname="VBR PDW 9 - collapsed">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4311" name="Intratec TEC-9" longname="Intratec TEC-9">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4312" name="Intratec TEC-9 FA" longname="Intratec TEC-9 FA">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4313" name="Agram 2000" longname="Agram 2000">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4314" name="Steyr TMP" longname="Steyr TMP">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4315" name="IMI Micro-Uzi" longname="IMI Micro-Uzi">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4316" name="IMI Micro-Uzi - folded" longname="IMI Micro-Uzi - folded">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4317" name="IMI Mini-Uzi" longname="IMI Mini-Uzi">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4318" name="IMI Mini-Uzi - folded" longname="IMI Mini-Uzi - folded">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4319" name="Mauser C96 M712" longname="Mauser C96 M712">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4320" name="Beretta M12" longname="Beretta M12">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4321" name="Spectre M4" longname="Spectre M4">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4322" name="Magpul FMG9" longname="Magpul FMG9">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4323" name="FMG9 - folded" longname="FMG9 - folded">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4324" name="PP-2000" longname="PP-2000">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4325" name="PP-2000 - folded" longname="PP-2000 - folded">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4326" name="HK VP70M" longname="HK VP70M">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4327" name="HK VP70" longname="HK VP70">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4328" name="ST CPW 9" longname="ST CPW 9">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4329" name="ST CPW 9 - collapsed" longname="ST CPW 9 - collapsed">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4341" name="AEK-919K Kashtan" longname="AEK-919K Kashtan">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4342" name="AEK-919K Kashtan - folded" longname="AEK-919K Kashtan - folded">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4343" name="PP-93" longname="PP-93">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4344" name="PP-93 - folded" longname="PP-93 - folded">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4345" name="Skorpion vz.82" longname="Skorpion vz.82">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4346" name="Skorpion vz.82 - folded" longname="Skorpion vz.82 - folded">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4347" name="Stechkin APS" longname="Stechkin APS">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4348" name="OTs 33 Pernach" longname="OTs 33 Pernach">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4349" name="PM-63 RAK" longname="PM-63 RAK">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4350" name="PM-63 RAK - collapsed" longname="PM-63 RAK - collapsed">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4351" name="Ingram M11" longname="Ingram M11">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4352" name="Ingram M11 - folded" longname="Ingram M11 - folded">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4353" name="Mendoza HM-3S" longname="Mendoza HM-3S">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4354" name="Mendoza HM-3S - folded" longname="Mendoza HM-3S - folded">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4355" name="Skorpion vz.61" longname="Skorpion vz.61">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4356" name="Skorpion vz.61 - folded" longname="Skorpion vz.61 - folded">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="10" name="Ingram M10" longname="Ingram M10">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4362" name="Ingram M10 - folded" longname="Ingram M10 - folded">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4363" name="KRISS Super V" longname="KRISS Super V">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4364" name="KRISS Super V - folded" longname="KRISS Super V - folded">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4367" name="ST CPW 57" longname="ST CPW 57">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4368" name="ST CPW 57 - collapsed" longname="ST CPW 57 - collapsed">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4373" name="HK MP7 PDW" longname="HK MP7 PDW">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4374" name="HK MP7 PDW - collapsed" longname="HK MP7 PDW - collapsed">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4375" name="ST CPW 46" longname="ST CPW 46">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4376" name="ST CPW 46 - collapsed" longname="ST CPW 46 - collapsed">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4381" name="Type 82" longname="Type 82">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4382" name="Type 82 - collapsed" longname="Type 82 - collapsed">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4386" name="Type 82 7.63" longname="Type 82 7.63">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4387" name="Type 82 - collapsed 7.63" longname="Type 82 - collapsed 7.63">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4391" name="VBR PDW 7.92" longname="VBR PDW 7.92">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4392" name="VBR PDW 7.92 - collapsed" longname="VBR PDW 7.92 - collapsed">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4396" name="Trejo Model 1" longname="Trejo Model 1">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4397" name="OTs 23 Drotik" longname="OTs 23 Drotik">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4399" name="OA-93" longname="OA-93">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4400" name="CMMG 7.3" longname="CMMG 7.3">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4401" name="Calico M-960A" longname="Calico M-960A">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4402" name="Calico M-960A - collapsed" longname="Calico M-960A - collapsed">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4403" name="IMI Uzi" longname="IMI Uzi">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4404" name="IMI Uzi - folded" longname="IMI Uzi - folded">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4405" name="IMI Uzi MP2" longname="IMI Uzi MP2">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4406" name="Colt SMG 9mm" longname="Colt SMG 9mm">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4407" name="Colt SMG 9mm RAS" longname="Colt SMG 9mm RAS">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4408" name="Carl Gustaf M/45B" longname="Carl Gustaf M/45B">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4409" name="Carl Gustaf M/45B - folded" longname="Carl Gustaf M/45B - folded">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4410" name="FAMAE SAF" longname="FAMAE SAF">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4411" name="FAMAE SAF - folded" longname="FAMAE SAF - folded">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4412" name="FAMAE SAF Silenciada" longname="FAMAE SAF Silenciada">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4413" name="FAMAE SAF Silenciada - folded" longname="FAMAE SAF Silenciada - folded">
-		<Interface system="0" space="1"/>
-	</Descriptor>
-	<Descriptor weapon_id="4414" name="Jati-Matic GG-95 PDW" longname="Jati-Matic GG-95 PDW">
-		<Interface system="0" space="1"/>
-	</Descriptor>
 	<Descriptor weapon_id="4415" name="KP M/31 Suomi" longname="KP M/31 Suomi">
 		<Interface system="0" space="1"/>
 	</Descriptor>

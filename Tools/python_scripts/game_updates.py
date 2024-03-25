@@ -11,6 +11,8 @@
 #        src_ts -- use "patch.timestamp" in SRC_DIR; timestamp in TARGET_DIR is used by default.
 #    ApplyPatch -- copy and override patch files from SRC_DIR to TARGET_DIR (JA2 game dir). Possible arguments:
 #        force -- ignore "patch.timestamp" in TARGET_DIR and copy all the files anyway.
+#    Release -- collect all necessary game files (SRC_DIR) and put into a zip in TARGET_DIR. Possible arguments:
+#        --name -- named argument; if given, it is considered as a custom name of output zip, default name is "JA2.zip". Put only name w/o extension (".zip").
 # 3. Run this script (i.e. "game_updates.py") in a cmd line window using the following format:
 #    >python game_updates.py FunctionName arg0 arg1 arg2 --src=C:\XXX ...
 #        FunctionName -- mandatory, see available functions in step 1.
@@ -21,6 +23,7 @@
 import os, sys, time, datetime;
 import shutil;
 import re;
+import zipfile;
 from imports.cmd_line import CmdLineProcessor;
 
 #
@@ -34,6 +37,7 @@ from imports.cmd_line import CmdLineProcessor;
 SWDIR = os.getcwd();
 SRC_DIR = r'{}\..\..'.format(SWDIR);
 TARGET_DIR = None;
+ZIP_NAME = None;
 
 #
 # Constants, functions, classes etc
@@ -42,6 +46,7 @@ DEBUG_MODE = False;
 PATCH_TIMESTAMP_FILENAME = "patch.timestamp";
 PATCH_TIMESTAMP_FORMAT = "%Y %m %d, %H:%M:%S";
 PATCH_TIMESTAMP_DIR = None;
+RELEASE_CONTENT_DESC = r'{}\input\release_files_list_BRAINMOD-o.txt'.format(SWDIR);
 
 
 class FullTimestamp():
@@ -62,7 +67,7 @@ class SEFile:  # Self-explanatory file
         self.name = fname;
         self.path = fpath;
         self.rel_path = rpath;
-        self.pathchain = [];
+        #self.pathchain = [];
 
     def GetFullPath(self):
         return os.path.join(self.path, self.name);
@@ -75,6 +80,15 @@ class SEFile:  # Self-explanatory file
         if self.rel_path[:5] == "Tools":
             return True;
         return False;
+
+    def IsDirectory(self):
+        fullpath = self.GetFullPath();
+        if os.path.isfile(fullpath):
+            return False;
+        elif os.path.isdir(fullpath):
+            return True;
+        else:  #os.path.islink(fullpath):
+            raise Exception();
 #end class SEFile:
 
 
@@ -189,6 +203,7 @@ def CopyUpdatedFiles(dst_dir, files_list):
 def ApplyNamedArguments(args):
     global SRC_DIR;
     global TARGET_DIR;
+    global ZIP_NAME;
     
     simpleArgs = [];
     for arg in args:
@@ -197,6 +212,8 @@ def ApplyNamedArguments(args):
                 SRC_DIR = arg["value"];
             elif arg["name"] == "target" or arg["name"] == "TARGET_DIR":
                 TARGET_DIR = arg["value"];
+            elif arg["name"] == "name":
+                ZIP_NAME = arg["value"];
         else:
             simpleArgs.append(arg);
     print("SRC_DIR = {}".format(SRC_DIR));
@@ -257,6 +274,70 @@ def ApplyGamePatch(args):
 #end def ApplyGamePatch():
 
 
+def MakeRelease(args):
+    def _ZipDir(zipFile, path, inzipPath):
+        for root, dirs, files in os.walk(path):
+            for file in files:
+                fileInzipPath = os.path.join(inzipPath, os.path.relpath(os.path.join(root, file), os.path.join(path, '..')));
+                zipFile.write(os.path.join(root, file), fileInzipPath);
+    
+    def _ZipFile(zipFile, path, inzipPath):
+        name = os.path.basename(path);
+        fileInzipPath = os.path.join(inzipPath, name);
+        zipFile.write(path, fileInzipPath);
+    
+    def _LoadFilesList(filepath, srcRootDir):
+        f = open(filepath, "r");
+        fileLines = f.readlines();
+        f.close();
+        
+        result = list();
+        for line in fileLines:
+            couple = line.split(" as ");
+            name = os.path.basename(couple[0]);
+            path = os.path.join(SRC_DIR, os.path.dirname(couple[0]));
+            inzipPath = os.path.dirname(couple[1].strip());
+            if os.path.basename(couple[1].strip()) != name:
+                raise Exception("Zipping under different name is not supported!");
+            result.append(SEFile(name, path, inzipPath));  # use rel_path field as in-zip path for this object
+        return result;
+    
+    global RELEASE_CONTENT_DESC;
+    global ZIP_NAME;
+    ApplyNamedArguments(args);
+    if ZIP_NAME == None:
+        ZIP_NAME = "JA2";
+    zipName = "{}.zip".format(ZIP_NAME);
+    zipPath = os.path.join(TARGET_DIR, zipName);
+    releaseFilesList = _LoadFilesList(RELEASE_CONTENT_DESC, SRC_DIR);
+    
+    # print("SRC_DIR = {}".format(SRC_DIR));
+    # print("TARGET_DIR = {}".format(TARGET_DIR));
+    # for sef in releaseFilesList:
+        # comm = "dir" if sef.IsDirectory() else "file";
+        # print("[{}] {} ---> {}  ({})".format(sef.name, sef.path, sef.rel_path, comm));
+    
+    print("RELEASE_CONTENT_DESC = {}".format(RELEASE_CONTENT_DESC));
+    print("Release zip path = {}".format(zipPath));
+    cnt = 0;
+    with zipfile.ZipFile(zipPath, 'w', zipfile.ZIP_DEFLATED) as zipf:
+        #_ZipDir(zipf, os.path.join(SRC_DIR, "JA2-BRAINMOD-o", "Tools"), "JA2");
+        #_ZipFile(zipf, os.path.join(SRC_DIR, "JA2_1dot13_gamedir", "Docs", "Manuals", "JA2_113_Hotkeys.pdf"), "JA2");
+        #_ZipFile(zipf, os.path.join(SRC_DIR, "JA2_1dot13_gamedir", "Docs", "Manuals", "JA2_Manual.pdf"), "JA2");
+        for sef in releaseFilesList:
+            if sef.IsDirectory():
+                _ZipDir(zipf, sef.GetFullPath(), sef.rel_path);
+            else:  # it is a file
+                _ZipFile(zipf, sef.GetFullPath(), sef.rel_path);
+            cnt = cnt + 1;
+            print("[{}] {} ---> {} copied ({} of {}).".format(sef.name, sef.path, sef.rel_path, cnt, len(releaseFilesList)));
+    
+    global PATCH_TIMESTAMP_DIR;
+    PATCH_TIMESTAMP_DIR = r'{}\..\..'.format(SWDIR);
+    CreatePatchTimestamp();
+#end def MakeRelease(args):
+
+
 def Fun1(args):
     print("Task: create dir ", args[0]);
     #EnsurePathExists(args[0])
@@ -291,7 +372,7 @@ if env_SRC_DIR != None:
 if env_TARGET_DIR != None:
     TARGET_DIR = env_TARGET_DIR;
 
-cmd_map = {"CreatePatch" : CreateGamePatch, "ApplyPatch" : ApplyGamePatch, "Fun1" : Fun1};
+cmd_map = {"CreatePatch" : CreateGamePatch, "ApplyPatch" : ApplyGamePatch, "Release" : MakeRelease, "Fun1" : Fun1};
 cmd_line = CmdLineProcessor(cmd_map);
 cmd_line.Execute(sys.argv);
 print("Done!");

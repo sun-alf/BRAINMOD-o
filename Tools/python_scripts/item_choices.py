@@ -1,15 +1,15 @@
 #### USAGE ####
 # 0. Ensure you have !!! Python 3 !!! installed (version 3.x -- does not matter).
-# 1. Run this script (i.e. "items_choices.py") in a cmd line window with the following arguments format:
-#    items_choices.py  <what>  <who>  <rank>
+# 1. Run this script (i.e. "item_choices.py") in a cmd line window with the following arguments format:
+#    item_choices.py  <what>  <who>  <rank>
 #    or
-#    items_choices.py  imp
+#    item_choices.py  imp
 #    <what> : g - guns, i - items
 #    <who>  : e - enemies, m - militia
 #    <rank> : 1 - admin/green, 2 - regular, 3 - elite
-# 
-#  "items_choices.py  imp"     - will print IMPItemChoices.xml in readable form.
-#  "items_choices.py  g e 2"   - will print GunChoices_Enemy_Regular.xml in readable form, and so on.
+# X. More commonly used examples:
+#    "> python item_choices.py imp"     - will print IMPItemChoices.xml in readable form.
+#    "> python item_choices.py g e 2"   - will print GunChoices_Enemy_Regular.xml in readable form, and so on.
 
 
 import os, sys;
@@ -18,7 +18,6 @@ import xml.etree.ElementTree as ET;
 #
 # Script setup values
 #
-#TABLE_DATA_ROOT = r'C:\Games\JaggedAlliance2\Data-BRAINMOD\TableData';
 SWDIR = os.getcwd();
 TABLE_DATA_ROOT = r'{}\..\..\Data-BRAINMOD\TableData'.format(SWDIR);
 INVENTORY_DATA_ROOT = os.path.join(TABLE_DATA_ROOT, "Inventory");
