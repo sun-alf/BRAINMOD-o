@@ -4,6 +4,7 @@
 # 2. Run this script (i.e. "weapons_xml.py") in a cmd line window.
 #
 
+import os, sys;
 import codecs;
 import xml.etree.ElementTree as ET;
 from imports.JA2TableData import JA2TableData, JA2Workspaces, JA2Xmls, SWDIR;
@@ -212,26 +213,55 @@ def ModifyXML_ChangeExplosivesLoudness(percents, tresholds):
 #end def ModifyXML_ChangeExplosivesLoudness(percents, tresholds):
 
 
+def ShowByCaliber(args):
+    if len(args) < 2:
+        print("Usage: python weapons_xml.py <caliber ID> <mag size>");
+        return;
+    
+    tree = ET.parse(TARGET_WEAPONS_XML);
+    root = tree.getroot();
+    
+    for weapon in root:
+        cal = -1;
+        mag = -1;
+        name = None;
+        for attr in weapon:
+            if attr.tag == "szWeaponName":
+                name = attr.text;
+            elif attr.tag == "ubCalibre":
+                cal = int(attr.text);
+            elif attr.tag == "ubMagSize":
+                mag = int(attr.text);
+        if cal == args[0] and mag == args[1]:
+            print("{}: caliber = {}, mag size = {}".format(name, cal, mag));
+#end def ShowByCaliber(args):
+
 #
 # Entry point (like Main())
 #
-tree = ET.parse(TARGET_WEAPONS_XML);
-root = tree.getroot();
+#tree = ET.parse(TARGET_WEAPONS_XML);
+#root = tree.getroot();
 #GenerateCSV(root);
 
 # tresholds (all integers): [min, max, min_value_to_apply]
 #   'min' - min range to touch, all guns with range <= 'min' will be skipped. Use 0 to remove this margin.
 #   'max' - max range to touch, all guns with range >= 'max' will be skipped. Use 65535 to remove this margin.
 #   'min_value_to_apply' - all affected ranges will be changed by at least this value. Example: increase by 3% gives 0.2 tiles to add, and it is wanted to +1 anyway in this case.
-modified = False;
-modified = ModifyXML_IncreaseFirearmsLoudness(root, 300, [0, 65000, 1]) or modified;
-modified = ModifyXML_IncreaseFirearmsRange(root, 300, [0, 65000, 1]) or modified;
-if modified:
-    tree.write(OUTPUT_WEAPONS_XML);
+#modified = False;
+#modified = ModifyXML_IncreaseFirearmsLoudness(root, 300, [0, 65000, 1]) or modified;
+#modified = ModifyXML_IncreaseFirearmsRange(root, 300, [0, 65000, 1]) or modified;
+#if modified:
+#    tree.write(OUTPUT_WEAPONS_XML);
 
 #ModifyXML_SetExplosivesLoudness(1.70, [10, 1000]);
 # ModifyXML_ChangeExplosivesLoudness(300, [0, 5000]);
 
-tree2 = ET.parse(OUTPUT_WEAPONS_XML);
-root2 = tree2.getroot();
-GenerateCSV(root2);
+#tree2 = ET.parse(OUTPUT_WEAPONS_XML);
+#root2 = tree2.getroot();
+#GenerateCSV(root2);
+
+
+
+cmd_map = { "Show" : ShowByCaliber, };
+cmd_line = CmdLineProcessor(cmd_map);
+cmd_line.Execute(sys.argv);

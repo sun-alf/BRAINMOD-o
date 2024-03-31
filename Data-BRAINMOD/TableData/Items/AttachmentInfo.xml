@@ -1,42 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	bAttachmentSkillCheck: skill ID, see below.
+	0: NO_CHECK,
+	1: LOCKPICKING_CHECK,
+	2: ELECTRONIC_LOCKPICKING_CHECK,
+	3: ATTACHING_DETONATOR_CHECK,
+	4: ATTACHING_REMOTE_DETONATOR_CHECK,
+	5: PLANTING_BOMB_CHECK,
+	6: PLANTING_REMOTE_BOMB_CHECK,
+	7: OPEN_WITH_CROWBAR,
+	8: SMASH_DOOR_CHECK,
+	9: DISARM_TRAP_CHECK,
+	10: UNJAM_GUN_CHECK,
+	11: NOTICE_DART_CHECK,
+	12: LIE_TO_QUEEN_CHECK,
+	13: ATTACHING_SPECIAL_ITEM_CHECK,
+	14: ATTACHING_SPECIAL_ELECTRONIC_ITEM_CHECK,
+	15: DISARM_ELECTRONIC_TRAP_CHECK,
+	16: ATTACH_POWER_PACK,					// Flugente: attach a power pack to power armor
+	17: PLANTING_MECHANICAL_BOMB_CHECK,
+	18: DISARM_MECHANICAL_TRAP_CHECK.
+	
+	bAttachmentSkillCheckMod: +/- percents to resulting chance. 100 is surely success, -100 is surely failure. Also defines severity of possible damage on check fail:
+	[-128 .. -1] - difficult, high risk of serious damage.
+	[0 .. 5] - medium, moderate damage is possible.
+	[6 .. 127] - easy, little damage is the most likely.
+-->
+
 <ATTACHMENTINFOLIST>
 	<ATTACHMENTINFO>
-		<uiIndex>0</uiIndex>
+		<uiIndex>0</uiIndex>  <!-- A. - Muzzle, Suppressor, Pistol, small -->
 		<usItem>207</usItem>
 		<uiItemClass>2</uiItemClass>
 		<bAttachmentSkillCheck>0</bAttachmentSkillCheck>
 		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
-		<uiIndex>1</uiIndex>
-		<usItem>1248</usItem>
+		<uiIndex>1</uiIndex>  <!-- A. - Foregrip, Wood -->
+		<usItem>1033</usItem>
 		<uiItemClass>2</uiItemClass>
-		<bAttachmentSkillCheck>0</bAttachmentSkillCheck>
-		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
+		<bAttachmentSkillCheck>13</bAttachmentSkillCheck>
+		<bAttachmentSkillCheckMod>8</bAttachmentSkillCheckMod>
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
-		<uiIndex>2</uiIndex>
+		<uiIndex>2</uiIndex>  <!-- A. - Laser Sight -->
 		<usItem>241</usItem>
 		<uiItemClass>2</uiItemClass>
 		<bAttachmentSkillCheck>0</bAttachmentSkillCheck>
 		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
-		<uiIndex>3</uiIndex>
+		<uiIndex>3</uiIndex>  <!-- A. - Bipod -->
 		<usItem>209</usItem>
 		<uiItemClass>2</uiItemClass>
 		<bAttachmentSkillCheck>0</bAttachmentSkillCheck>
 		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
-		<uiIndex>4</uiIndex>
+		<uiIndex>4</uiIndex>  <!-- Colt M203 Grenade Launcher -->
 		<usItem>50</usItem>
 		<uiItemClass>2</uiItemClass>
 		<bAttachmentSkillCheck>0</bAttachmentSkillCheck>
 		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
-		<uiIndex>5</uiIndex>
+		<uiIndex>5</uiIndex>  <!-- A. - Muzzle, Shotgun Choke, Duckbill -->
 		<usItem>244</usItem>
 		<uiItemClass>2</uiItemClass>
 		<bAttachmentSkillCheck>0</bAttachmentSkillCheck>
@@ -46,110 +75,159 @@
 		<uiIndex>6</uiIndex>  <!-- placeholder for id 1288 (former Rod+Spring upgrade, removed from game) -->
 		<usItem>1288</usItem>
 		<uiItemClass>2</uiItemClass>
-		<bAttachmentSkillCheck>13</bAttachmentSkillCheck>
+		<bAttachmentSkillCheck>0</bAttachmentSkillCheck>
 		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
-		<uiIndex>7</uiIndex>
+		<uiIndex>7</uiIndex>  <!-- A. - Muzzle, Improvised suppressor -->
 		<usItem>310</usItem>
 		<uiItemClass>2</uiItemClass>
 		<bAttachmentSkillCheck>13</bAttachmentSkillCheck>
-		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
+		<bAttachmentSkillCheckMod>10</bAttachmentSkillCheckMod>
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
-		<uiIndex>8</uiIndex>
+		<uiIndex>8</uiIndex>  <!-- Detonator - Timed -->
 		<usItem>223</usItem>
 		<uiItemClass>512</uiItemClass>
 		<bAttachmentSkillCheck>3</bAttachmentSkillCheck>
-		<bAttachmentSkillCheckMod>20</bAttachmentSkillCheckMod>
+		<bAttachmentSkillCheckMod>10</bAttachmentSkillCheckMod>
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
-		<uiIndex>9</uiIndex>
+		<uiIndex>9</uiIndex>  <!-- Detonator - Remote -->
 		<usItem>224</usItem>
 		<uiItemClass>512</uiItemClass>
 		<bAttachmentSkillCheck>4</bAttachmentSkillCheck>
-		<bAttachmentSkillCheckMod>50</bAttachmentSkillCheckMod>  <!-- compensate stupid penalty (skill / 2) for Remote Det. -->
+		<bAttachmentSkillCheckMod>20</bAttachmentSkillCheckMod>  <!-- compensate stupid penalty (skill / 2) for Remote Det. -->
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
-		<uiIndex>10</uiIndex>
+		<uiIndex>10</uiIndex>  <!-- X-ray Tube -->
 		<usItem>319</usItem>
 		<uiItemClass>1</uiItemClass>
 		<bAttachmentSkillCheck>14</bAttachmentSkillCheck>
 		<bAttachmentSkillCheckMod>-15</bAttachmentSkillCheckMod>
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
-		<uiIndex>11</uiIndex>
+		<uiIndex>11</uiIndex>  <!-- Copper Wire -->
 		<usItem>316</usItem>
 		<uiItemClass>1</uiItemClass>
 		<bAttachmentSkillCheck>14</bAttachmentSkillCheck>
 		<bAttachmentSkillCheckMod>20</bAttachmentSkillCheckMod>
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
-		<uiIndex>12</uiIndex>
+		<uiIndex>12</uiIndex>  <!-- Ceramic Plates -->
 		<usItem>183</usItem>
 		<uiItemClass>2048</uiItemClass>
 		<bAttachmentSkillCheck>0</bAttachmentSkillCheck>
 		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
-		<uiIndex>13</uiIndex>
+		<uiIndex>13</uiIndex>  <!-- Titanium Plating -->
 		<usItem>2982</usItem>
 		<uiItemClass>2048</uiItemClass>
 		<bAttachmentSkillCheck>0</bAttachmentSkillCheck>
 		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
-		<uiIndex>14</uiIndex>
+		<uiIndex>14</uiIndex>  <!-- Spring -->
 		<usItem>306</usItem>
 		<uiItemClass>8192</uiItemClass>
 		<bAttachmentSkillCheck>13</bAttachmentSkillCheck>
-		<bAttachmentSkillCheckMod>-20</bAttachmentSkillCheckMod>
+		<bAttachmentSkillCheckMod>-5</bAttachmentSkillCheckMod>
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
-		<uiIndex>15</uiIndex>
+		<uiIndex>15</uiIndex>  <!-- Spring -->
 		<usItem>306</usItem>
 		<uiItemClass>268435456</uiItemClass>
 		<bAttachmentSkillCheck>13</bAttachmentSkillCheck>
-		<bAttachmentSkillCheckMod>-20</bAttachmentSkillCheckMod>
-	</ATTACHMENTINFO>
-	<ATTACHMENTINFO>
-		<uiIndex>16</uiIndex>
-		<usItem>308</usItem>
-		<uiItemClass>8192</uiItemClass>
-		<bAttachmentSkillCheck>13</bAttachmentSkillCheck>
-		<bAttachmentSkillCheckMod>-20</bAttachmentSkillCheckMod>
-	</ATTACHMENTINFO>
-	<ATTACHMENTINFO>
-		<uiIndex>17</uiIndex>
-		<usItem>346</usItem>
-		<uiItemClass>512</uiItemClass>
-		<bAttachmentSkillCheck>3</bAttachmentSkillCheck>
-		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
-	</ATTACHMENTINFO>
-	<ATTACHMENTINFO>
-		<uiIndex>18</uiIndex>
-		<usItem>347</usItem>
-		<uiItemClass>512</uiItemClass>
-		<bAttachmentSkillCheck>4</bAttachmentSkillCheck>
 		<bAttachmentSkillCheckMod>-10</bAttachmentSkillCheckMod>
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
-		<uiIndex>19</uiIndex>
+		<uiIndex>16</uiIndex>  <!-- Steel Pipe -->
+		<usItem>308</usItem>
+		<uiItemClass>8192</uiItemClass>
+		<bAttachmentSkillCheck>13</bAttachmentSkillCheck>
+		<bAttachmentSkillCheckMod>-5</bAttachmentSkillCheckMod>
+	</ATTACHMENTINFO>
+	<ATTACHMENTINFO>
+		<uiIndex>17</uiIndex>  <!-- Detonator - mod. Timed -->
+		<usItem>346</usItem>
+		<uiItemClass>512</uiItemClass>
+		<bAttachmentSkillCheck>3</bAttachmentSkillCheck>
+		<bAttachmentSkillCheckMod>30</bAttachmentSkillCheckMod>
+	</ATTACHMENTINFO>
+	<ATTACHMENTINFO>
+		<uiIndex>18</uiIndex>  <!-- Detonator - mod. Remote -->
+		<usItem>347</usItem>
+		<uiItemClass>512</uiItemClass>
+		<bAttachmentSkillCheck>3</bAttachmentSkillCheck>
+		<bAttachmentSkillCheckMod>30</bAttachmentSkillCheckMod>
+	</ATTACHMENTINFO>
+	<ATTACHMENTINFO>
+		<uiIndex>19</uiIndex>  <!-- Detonator - Fuse -->
 		<usItem>348</usItem>
 		<uiItemClass>512</uiItemClass>
 		<bAttachmentSkillCheck>3</bAttachmentSkillCheck>
-		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
+		<bAttachmentSkillCheckMod>25</bAttachmentSkillCheckMod>
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
-		<uiIndex>20</uiIndex>
+		<uiIndex>20</uiIndex>  <!-- Gun Cleaning Kit -->
 		<usItem>351</usItem>
 		<uiItemClass>2</uiItemClass>
 		<bAttachmentSkillCheck>13</bAttachmentSkillCheck>
 		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
-		<uiIndex>21</uiIndex>
+		<uiIndex>21</uiIndex>  <!-- A. - Buffer Tube -->
 		<usItem>1289</usItem>
+		<uiItemClass>2</uiItemClass>
+		<bAttachmentSkillCheck>13</bAttachmentSkillCheck>
+		<bAttachmentSkillCheckMod>5</bAttachmentSkillCheckMod>
+	</ATTACHMENTINFO>
+	<ATTACHMENTINFO>
+		<uiIndex>22</uiIndex>  <!-- A. - Trigger Group 2 ACME -->
+		<usItem>1281</usItem>
+		<uiItemClass>2</uiItemClass>
+		<bAttachmentSkillCheck>13</bAttachmentSkillCheck>
+		<bAttachmentSkillCheckMod>-3</bAttachmentSkillCheckMod>
+	</ATTACHMENTINFO>
+	<ATTACHMENTINFO>
+		<uiIndex>23</uiIndex>  <!-- A. - Trigger Group 3 ACME -->
+		<usItem>1282</usItem>
+		<uiItemClass>2</uiItemClass>
+		<bAttachmentSkillCheck>13</bAttachmentSkillCheck>
+		<bAttachmentSkillCheckMod>-3</bAttachmentSkillCheckMod>
+	</ATTACHMENTINFO>
+	<ATTACHMENTINFO>
+		<uiIndex>24</uiIndex>  <!-- A. - Trigger Group 4 ACME -->
+		<usItem>1283</usItem>
+		<uiItemClass>2</uiItemClass>
+		<bAttachmentSkillCheck>13</bAttachmentSkillCheck>
+		<bAttachmentSkillCheckMod>-3</bAttachmentSkillCheckMod>
+	</ATTACHMENTINFO>
+	<ATTACHMENTINFO>
+		<uiIndex>25</uiIndex>  <!-- A. - Trigger, Match -->
+		<usItem>1286</usItem>
+		<uiItemClass>2</uiItemClass>
+		<bAttachmentSkillCheck>13</bAttachmentSkillCheck>
+		<bAttachmentSkillCheckMod>-1</bAttachmentSkillCheckMod>
+	</ATTACHMENTINFO>
+	<ATTACHMENTINFO>
+		<uiIndex>26</uiIndex>  <!-- A. - Trigger, Ruger -->
+		<usItem>1287</usItem>
+		<uiItemClass>2</uiItemClass>
+		<bAttachmentSkillCheck>13</bAttachmentSkillCheck>
+		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
+	</ATTACHMENTINFO>
+	<ATTACHMENTINFO>
+		<uiIndex>27</uiIndex>  <!-- A. - Bolt Weight -->
+		<usItem>1290</usItem>
+		<uiItemClass>2</uiItemClass>
+		<bAttachmentSkillCheck>13</bAttachmentSkillCheck>
+		<bAttachmentSkillCheckMod>-2</bAttachmentSkillCheckMod>
+	</ATTACHMENTINFO>
+	<ATTACHMENTINFO>
+		<uiIndex>28</uiIndex>  <!-- A. - Mauser Bolt-Action -->
+		<usItem>1291</usItem>
 		<uiItemClass>2</uiItemClass>
 		<bAttachmentSkillCheck>13</bAttachmentSkillCheck>
 		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>

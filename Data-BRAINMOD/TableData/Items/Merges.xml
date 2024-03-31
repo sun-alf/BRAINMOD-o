@@ -2645,7 +2645,7 @@
 		<secondItemIndex>304</secondItemIndex>
 		<firstResultingItemIndex>346</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>3</mergeType>
+		<mergeType>9</mergeType>
 		<APCost>50</APCost>
 	</MERGE>
 	<MERGE>
@@ -2653,7 +2653,7 @@
 		<secondItemIndex>309</secondItemIndex>
 		<firstResultingItemIndex>346</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>3</mergeType>
+		<mergeType>9</mergeType>
 		<APCost>50</APCost>
 	</MERGE>
 	<MERGE>
@@ -2661,7 +2661,7 @@
 		<secondItemIndex>304</secondItemIndex>
 		<firstResultingItemIndex>347</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>3</mergeType>
+		<mergeType>9</mergeType>
 		<APCost>50</APCost>
 	</MERGE>
 	<MERGE>
@@ -2669,7 +2669,7 @@
 		<secondItemIndex>309</secondItemIndex>
 		<firstResultingItemIndex>347</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>3</mergeType>
+		<mergeType>9</mergeType>
 		<APCost>50</APCost>
 	</MERGE>
 	<MERGE>
@@ -3069,7 +3069,7 @@
 		<secondItemIndex>224</secondItemIndex>
 		<firstResultingItemIndex>347</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>3</mergeType>
+		<mergeType>9</mergeType>
 		<APCost>50</APCost>
 	</MERGE>
 	<MERGE>
@@ -3077,7 +3077,7 @@
 		<secondItemIndex>223</secondItemIndex>
 		<firstResultingItemIndex>346</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>3</mergeType>
+		<mergeType>9</mergeType>
 		<APCost>50</APCost>
 	</MERGE>
 	<MERGE>
@@ -3101,7 +3101,7 @@
 		<secondItemIndex>224</secondItemIndex>
 		<firstResultingItemIndex>347</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>3</mergeType>
+		<mergeType>9</mergeType>
 		<APCost>50</APCost>
 	</MERGE>
 	<MERGE>
@@ -3109,7 +3109,7 @@
 		<secondItemIndex>223</secondItemIndex>
 		<firstResultingItemIndex>346</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>3</mergeType>
+		<mergeType>9</mergeType>
 		<APCost>50</APCost>
 	</MERGE>
 	<MERGE>

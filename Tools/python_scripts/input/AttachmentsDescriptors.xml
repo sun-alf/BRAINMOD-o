@@ -542,14 +542,14 @@
 		<Slot system="20" space="8" timeAP="120"/>
 		<Slot system="21" space="8" timeAP="120"/>
 		<Slot system="22" space="8" timeAP="120"/>
-		<Slot system="42" space="16" timeAP="120"/>
+		<Slot system="42" space="14" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1274" name="A. - Tact. Flashlight, Surefire - on">
 		<Slot system="19" space="8" timeAP="120"/>
 		<Slot system="20" space="8" timeAP="120"/>
 		<Slot system="21" space="8" timeAP="120"/>
 		<Slot system="22" space="8" timeAP="120"/>
-		<Slot system="42" space="16" timeAP="120"/>
+		<Slot system="42" space="14" timeAP="120"/>
 	</Descriptor>
 	
 	<Descriptor attachment_id="1278" name="A. - Trigger burst 2">
@@ -562,13 +562,13 @@
 		<Slot system="-12" space="1" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1281" name="A. - Trigger Group 2 ACME">
-		<Slot system="0" space="1" timeAP="120"/>
+		<Slot system="43" space="1" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1282" name="A. - Trigger Group 3 ACME">
-		<Slot system="0" space="1" timeAP="120"/>
+		<Slot system="43" space="1" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1283" name="A. - Trigger Group 4 ACME">
-		<Slot system="0" space="1" timeAP="120"/>
+		<Slot system="43" space="1" timeAP="120"/>
 	</Descriptor>
 	
 	<Descriptor attachment_id="0" name="NULL-TERMINATOR ignore rest items">
