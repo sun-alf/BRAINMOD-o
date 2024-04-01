@@ -50,7 +50,7 @@
 		<szTileSetDisplayName>Barbed Wire</szTileSetDisplayName>
 		<szTileSetName>spot_1.sti</szTileSetName>
 		<dCreationCost>1.0</dCreationCost>
-		<fFortifyAdjacentAdjustment>1</fFortifyAdjacentAdjustment>
+		<fFortifyAdjacentAdjustment>0</fFortifyAdjacentAdjustment>
 		<northfacingtile>2</northfacingtile>
 		<northfacingtile>4</northfacingtile>
 		<southfacingtile>2</southfacingtile>
