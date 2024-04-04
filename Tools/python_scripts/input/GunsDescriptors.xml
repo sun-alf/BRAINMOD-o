@@ -15,6 +15,41 @@
 	</Descriptor>
 	
 	Typical modern SMG:
+	<Descriptor weapon_id="4436, 4438" name="HK MP5 + RAS">
+		<Interface system="2" space="1"/>
+		<Interface system="0" space="3"/>
+		<Interface system="31" space="20"/> - HK MP5 or G3 upper receiver
+		<Interface system="42" space="14"/> - blue tape style is not compatible with RAS handguards
+		<Interface system="-11" space="1"/>
+		<Interface system="18" space="32"/> - RAS interfaces: sight,
+		<Interface system="19" space="14"/> - lower,
+		<Interface system="20" space="6"/>  - upper,
+		<Interface system="22" space="14"/> - side handguards.
+	</Descriptor>
+	<Descriptor weapon_id="4448, 4450" name="HK MP5N + RAS"> - Navy version is 2cm shorter
+		<Interface system="2" space="2"/>
+		<Interface system="0" space="3"/>
+		<Interface system="31" space="20"/> - HK MP5 or G3 upper receiver
+		<Interface system="42" space="14"/> - blue tape style is not compatible with RAS handguards
+		<Interface system="-12" space="1"/>
+		<Interface system="18" space="32"/> - RAS interfaces: sight,
+		<Interface system="19" space="12"/> - lower,
+		<Interface system="20" space="4"/>  - upper,
+		<Interface system="22" space="14"/> - side handguards.
+	</Descriptor>
+	
+	Typical assault rifle in "commando" length:
+	<Descriptor weapon_id="12" name="Colt M4 Commando" longname="Colt M4 Commando"> - any Colt SMG (9mm, 10mm etc) has the same dimensions
+		<Interface system="7" space="2"/>
+		<Interface system="0" space="3"/>
+		<Interface system="27" space="32"/> - M4/M16 carrying handle
+		<Interface system="42" space="16"/> - blue tape style is not compatible with RAS handguards
+		<Interface system="43" space="1"/> - trigger group in lower receiver is a module, can be changed to ACME custom trigger group with minimum gunsmith efforts
+		<Interface system="18" space="32"/> - RAS interfaces: sight,
+		<Interface system="19" space="14"/> - lower,
+		<Interface system="20" space="14"/> - upper,
+		<Interface system="22" space="14"/> - side handguards.
+	</Descriptor>
 	
 	Typical bolt-action rifle:
 	
@@ -891,7 +926,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="14"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="16"/>
 		<Interface system="43" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4401" name="Calico M-960A" longname="Calico M-960A">
@@ -933,7 +967,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="14"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="16"/>
 		<Interface system="43" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4408" name="Carl Gustaf M/45B" longname="Carl Gustaf M/45B">
@@ -1029,7 +1062,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="10"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="16"/>
 	</Descriptor>
 	<Descriptor weapon_id="4433" name="Skorpion EVO III - folded" longname="Skorpion EVO III - folded">
 		<Interface system="2" space="2"/>
@@ -1037,7 +1069,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="10"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="16"/>
 	</Descriptor>
 	<Descriptor weapon_id="4434" name="Erma MP40" longname="Erma MP40">
 		<Interface system="40" space="10"/>
@@ -1066,7 +1097,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="6"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="14"/>
 		<Interface system="-11" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4439" name="HK MP5A3 RAS - collapsed" longname="HK MP5A3 RAS - collapsed">
@@ -1076,7 +1106,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="6"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="14"/>
 		<Interface system="-11" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4440" name="HK MP5A4" longname="HK MP5A4">
@@ -1093,7 +1122,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="6"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="14"/>
 		<Interface system="-11" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4442" name="HK MP5SD6" longname="HK MP5SD6">
@@ -1111,7 +1139,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="6"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="14"/>
 		<Interface system="-11" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4445" name="HK MP5SD6 RAS - collapsed" longname="HK MP5SD6 RAS - collapsed">
@@ -1119,7 +1146,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="6"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="14"/>
 		<Interface system="-11" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4446" name="HK MP5SD5" longname="HK MP5SD5">
@@ -1132,19 +1158,20 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="6"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="14"/>
 		<Interface system="-11" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4448" name="HK MP5N/A3" longname="HK MP5N/A3">
 		<Interface system="2" space="2"/>
 		<Interface system="0" space="3"/>
 		<Interface system="31" space="20"/>
+		<Interface system="42" space="14"/>
 		<Interface system="-12" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4449" name="HK MP5N/A3 - collapsed" longname="HK MP5N/A3 - collapsed">
 		<Interface system="2" space="2"/>
 		<Interface system="0" space="3"/>
 		<Interface system="31" space="20"/>
+		<Interface system="42" space="14"/>
 		<Interface system="-12" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4450" name="HK MP5N/A3 RAS" longname="HK MP5N/A3 RAS">
@@ -1153,7 +1180,7 @@
 		<Interface system="18" space="32"/>
 		<Interface system="19" space="12"/>
 		<Interface system="20" space="4"/>
-		<Interface system="22" space="4"/>
+		<Interface system="22" space="14"/>
 		<Interface system="-12" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4451" name="HK MP5N/A3 RAS - collapsed" longname="HK MP5N/A3 RAS - collapsed">
@@ -1162,13 +1189,14 @@
 		<Interface system="18" space="32"/>
 		<Interface system="19" space="12"/>
 		<Interface system="20" space="4"/>
-		<Interface system="22" space="4"/>
+		<Interface system="22" space="14"/>
 		<Interface system="-12" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4452" name="HK MP5N/A4" longname="HK MP5N/A4">
 		<Interface system="2" space="2"/>
 		<Interface system="0" space="3"/>
 		<Interface system="31" space="20"/>
+		<Interface system="42" space="14"/>
 		<Interface system="-12" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4453" name="HK MP5N/A4 RAS" longname="HK MP5N/A4 RAS">
@@ -1177,7 +1205,7 @@
 		<Interface system="18" space="32"/>
 		<Interface system="19" space="12"/>
 		<Interface system="20" space="4"/>
-		<Interface system="22" space="4"/>
+		<Interface system="22" space="14"/>
 		<Interface system="-12" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4454" name="HK MP5K PDW" longname="HK MP5K PDW">
@@ -1237,7 +1265,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="10"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="14"/>
 	</Descriptor>
 	<Descriptor weapon_id="4464" name="SIG MPX 9 - folded" longname="SIG MPX 9 - folded">
 		<Interface system="2" space="2"/>
@@ -1245,7 +1272,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="10"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="14"/>
 	</Descriptor>
 	<Descriptor weapon_id="4465" name="SIG MPXS 9" longname="SIG MPXS 9">
 		<Interface system="2" space="1"/>
@@ -1283,7 +1309,6 @@
 		<Interface system="19" space="20"/>
 		<Interface system="20" space="20"/>
 		<Interface system="22" space="20"/>
-		<Interface system="42" space="20"/>
 	</Descriptor>
 	<Descriptor weapon_id="4472" name="Lithgow F1" longname="Lithgow F1">
 		<Interface system="42" space="16"/>
@@ -1380,7 +1405,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="6"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="14"/>
 		<Interface system="-11" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4507" name="HK MP5/40A3 RAS - collapsed" longname="HK MP5/40A3 RAS - collapsed">
@@ -1390,7 +1414,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="6"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="14"/>
 		<Interface system="-11" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4508" name="HK MP5/40A4" longname="HK MP5/40A4">
@@ -1407,7 +1430,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="6"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="14"/>
 		<Interface system="-11" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4510" name="Taurus MT-40 SMG" longname="Taurus MT-40 SMG">
@@ -1417,7 +1439,6 @@
 		<Interface system="19" space="12"/>
 		<Interface system="20" space="6"/>
 		<Interface system="22" space="12"/>
-		<Interface system="42" space="14"/>
 	</Descriptor>
 	<Descriptor weapon_id="4511" name="Taurus MT-40 SMG - folded" longname="Taurus MT-40 SMG - folded">
 		<Interface system="2" space="2"/>
@@ -1426,7 +1447,6 @@
 		<Interface system="19" space="12"/>
 		<Interface system="20" space="6"/>
 		<Interface system="22" space="12"/>
-		<Interface system="42" space="14"/>
 	</Descriptor>
 	<Descriptor weapon_id="4512" name="SIG MPX 40" longname="SIG MPX 40">
 		<Interface system="2" space="2"/>
@@ -1434,7 +1454,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="10"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="14"/>
 	</Descriptor>
 	<Descriptor weapon_id="4513" name="SIG MPX 40 - folded" longname="SIG MPX 40 - folded">
 		<Interface system="2" space="2"/>
@@ -1442,7 +1461,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="10"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="14"/>
 	</Descriptor>
 	<Descriptor weapon_id="4514" name="SIG MPXS 40" longname="SIG MPXS 40">
 		<Interface system="2" space="1"/>
@@ -1464,7 +1482,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="10"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="16"/>
 		<Interface system="-11" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4522" name="Skorpion EVO III A1 - folded" longname="Skorpion EVO III A1 - folded">
@@ -1473,7 +1490,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="10"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="16"/>
 		<Interface system="-11" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4523" name="HK MP5/10A3" longname="HK MP5/10A3">
@@ -1497,7 +1513,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="6"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="14"/>
 		<Interface system="-11" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4526" name="HK MP5/10A3 RAS - collapsed" longname="HK MP5/10A3 RAS - collapsed">
@@ -1507,7 +1522,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="6"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="14"/>
 		<Interface system="-11" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4527" name="HK MP5/10A4" longname="HK MP5/10A4">
@@ -1524,7 +1538,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="6"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="14"/>
 		<Interface system="-11" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4530" name="Colt PDW 10mm" longname="Colt PDW 10mm">
@@ -1534,7 +1547,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="14"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="16"/>
 		<Interface system="43" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4536" name="HK MP7A1" longname="HK MP7A1">
@@ -1595,7 +1607,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="10"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="14"/>
 	</Descriptor>
 	<Descriptor weapon_id="4558" name="SIG MPX 357 - folded" longname="SIG MPX 357 - folded">
 		<Interface system="2" space="2"/>
@@ -1603,7 +1614,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="10"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="14"/>
 	</Descriptor>
 	<Descriptor weapon_id="4559" name="SIG MPXS 357" longname="SIG MPXS 357">
 		<Interface system="2" space="1"/>
@@ -1699,7 +1709,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="14"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="16"/>
 		<Interface system="43" space="1"/>
 	</Descriptor>
 	<Descriptor weapon_id="4578" name="MPA .45 Carbine" longname="MPA .45 Carbine">
@@ -1708,7 +1717,6 @@
 		<Interface system="18" space="24"/>
 		<Interface system="19" space="14"/>
 		<Interface system="40" space="10"/>
-		<Interface system="42" space="16"/>
 	</Descriptor>
 	<Descriptor weapon_id="4579" name="M3 Grease Gun" longname="M3 Grease Gun">
 		<Interface system="0" space="3"/>
@@ -1729,7 +1737,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="14"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="16"/>
 	</Descriptor>
 	<Descriptor weapon_id="4583" name="LWRC 45 SMG - folded" longname="LWRC 45 SMG - folded">
 		<Interface system="3" space="2"/>
@@ -1737,7 +1744,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="14"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="16"/>
 	</Descriptor>
 	<Descriptor weapon_id="4584" name="Ingram M6" longname="Ingram M6">
 		<Interface system="39" space="10"/>
@@ -1858,7 +1864,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="14"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="16"/>
 	</Descriptor>
 	<Descriptor weapon_id="4642" name="KAC PDW 8&quot; - folded" longname="KAC PDW 8&quot; - folded">
 		<Interface system="0" space="3"/>
@@ -1867,7 +1872,6 @@
 		<Interface system="19" space="14"/>
 		<Interface system="20" space="14"/>
 		<Interface system="22" space="14"/>
-		<Interface system="42" space="16"/>
 	</Descriptor>
 	<Descriptor weapon_id="4643" name="KAC PDW 10&quot;" longname="KAC PDW 10&quot;">
 		<Interface system="0" space="3"/>
@@ -1877,7 +1881,6 @@
 		<Interface system="20" space="14"/>
 		<Interface system="22" space="14"/>
 		<Interface system="40" space="5"/>
-		<Interface system="42" space="16"/>
 	</Descriptor>
 	<Descriptor weapon_id="4644" name="KAC PDW 10&quot; - folded" longname="KAC PDW 10&quot; - folded">
 		<Interface system="0" space="3"/>
@@ -1887,7 +1890,6 @@
 		<Interface system="20" space="14"/>
 		<Interface system="22" space="14"/>
 		<Interface system="40" space="5"/>
-		<Interface system="42" space="16"/>
 	</Descriptor>
 	<Descriptor weapon_id="4645" name="Magpul PDR" longname="Magpul PDR">
 		<Interface system="18" space="26"/>
@@ -1912,46 +1914,93 @@
 	<Descriptor weapon_id="4650" name="MAS-38" longname="MAS-38">
 		<Interface system="40" space="16"/>
 	</Descriptor>
-	
-	<Descriptor weapon_id="0" name="DEBUG NULL-TERMINATOR" longname="DEBUG NULL-TERMINATOR">
-		<Interface system="0" space="0"/>
-	</Descriptor>
-	
 	<Descriptor weapon_id="4651" name="Savage Arms Model 25" longname="Savage Arms Model 25">
-		<Interface system="0" space="1"/>
+		<Interface system="0" space="5"/>
+		<Interface system="39" space="20"/>
+		<Interface system="40" space="30"/>
+		<Interface system="42" space="28"/>
+		<Interface system="18" space="32"/>
 	</Descriptor>
 	<Descriptor weapon_id="4652" name="CZ 527" longname="CZ 527">
-		<Interface system="0" space="1"/>
+		<Interface system="0" space="5"/>
+		<Interface system="7" space="2"/>
+		<Interface system="39" space="20"/>
+		<Interface system="40" space="30"/>
+		<Interface system="42" space="28"/>
+		<Interface system="18" space="32"/>
 	</Descriptor>
 	<Descriptor weapon_id="4654" name="Kel-Tec CMR-30" longname="Kel-Tec CMR-30">
-		<Interface system="0" space="1"/>
+		<Interface system="0" space="5"/>
+		<Interface system="7" space="2"/>
+		<Interface system="40" space="10"/>
+		<Interface system="18" space="32"/>
+		<Interface system="19" space="16"/>
+		<Interface system="20" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4655" name="Kel-Tec CMR-30 -  collapsed" longname="Kel-Tec CMR-30 -  collapsed">
-		<Interface system="0" space="1"/>
+		<Interface system="0" space="5"/>
+		<Interface system="7" space="2"/>
+		<Interface system="40" space="10"/>
+		<Interface system="18" space="32"/>
+		<Interface system="19" space="16"/>
+		<Interface system="20" space="4"/>
 	</Descriptor>
 	<Descriptor weapon_id="4656" name="Grendel R31" longname="Grendel R31">
-		<Interface system="0" space="1"/>
+		<Interface system="0" space="5"/>
+		<Interface system="7" space="2"/>
+		<Interface system="40" space="10"/>
+		<Interface system="42" space="16"/>
 	</Descriptor>
 	<Descriptor weapon_id="4657" name="Grendel R31 -  collapsed" longname="Grendel R31 -  collapsed">
-		<Interface system="0" space="1"/>
+		<Interface system="0" space="5"/>
+		<Interface system="7" space="2"/>
+		<Interface system="40" space="10"/>
+		<Interface system="42" space="16"/>
 	</Descriptor>
 	<Descriptor weapon_id="4658" name="Baikal MP161" longname="Baikal MP161">
-		<Interface system="0" space="1"/>
+		<Interface system="0" space="5"/>
+		<Interface system="7" space="2"/>
+		<Interface system="40" space="8"/>
+		<Interface system="42" space="20"/>
+		<Interface system="18" space="32"/>
 	</Descriptor>
 	<Descriptor weapon_id="4659" name="CZ 512" longname="CZ 512">
-		<Interface system="0" space="1"/>
+		<Interface system="39" space="20"/>
+		<Interface system="40" space="20"/>
+		<Interface system="42" space="28"/>
+	</Descriptor>
+	<Descriptor weapon_id="4660" name="CZ 512 RAS" longname="CZ 512 RAS">
+		<Interface system="39" space="20"/>
+		<Interface system="40" space="20"/>
+		<Interface system="42" space="28"/>
+		<Interface system="18" space="36"/>
 	</Descriptor>
 	<Descriptor weapon_id="4661" name="Sako 85 Finnlight" longname="Sako 85 Finnlight">
-		<Interface system="0" space="1"/>
+		<Interface system="0" space="5"/>
+		<Interface system="40" space="20"/>
+		<Interface system="42" space="28"/>
+		<Interface system="18" space="32" default="1204"/>
 	</Descriptor>
 	<Descriptor weapon_id="4662" name="Armalite AR-10 .243" longname="Armalite AR-10 .243">
-		<Interface system="0" space="1"/>
+		<Interface system="0" space="5"/>
+		<Interface system="8" space="2"/>
+		<Interface system="40" space="10"/>
+		<Interface system="42" space="26"/>
+		<Interface system="18" space="40" default="1209"/>
 	</Descriptor>
 	<Descriptor weapon_id="4671" name="Winchester 1894" longname="Winchester 1894">
-		<Interface system="0" space="1"/>
+		<Interface system="42" space="14"/>
 	</Descriptor>
 	<Descriptor weapon_id="4672" name="Savage Arms Model 340" longname="Savage Arms Model 340">
-		<Interface system="0" space="1"/>
+		<Interface system="39" space="10"/>
+		<Interface system="40" space="20"/>
+		<Interface system="42" space="20"/>
+	</Descriptor>
+	<Descriptor weapon_id="4673" name="Savage Arms Model 340 RAS" longname="Savage Arms Model 340 RAS">
+		<Interface system="39" space="10"/>
+		<Interface system="40" space="20"/>
+		<Interface system="42" space="20"/>
+		<Interface system="18" space="36"/>
 	</Descriptor>
 	<Descriptor weapon_id="4681" name="Winchester 1895" longname="Winchester 1895">
 		<Interface system="0" space="1"/>
@@ -2679,6 +2728,11 @@
 	<Descriptor weapon_id="5100" name="FR-F1" longname="FR-F1">
 		<Interface system="0" space="1"/>
 	</Descriptor>
+	
+	<Descriptor weapon_id="0" name="DEBUG NULL-TERMINATOR" longname="DEBUG NULL-TERMINATOR">
+		<Interface system="0" space="0"/>
+	</Descriptor>
+	
 	<Descriptor weapon_id="5101" name="AK-74U" longname="AK-74U">
 		<Interface system="0" space="1"/>
 	</Descriptor>

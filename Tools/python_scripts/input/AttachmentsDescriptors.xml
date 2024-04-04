@@ -24,13 +24,13 @@
 		2 : 1.0 - 2.0 cm
 		3 : 2.1 or longer
 	* "System" = 0 is supposed to be used by Improvised suppressor only; no threads, only glue =)
-	* Sumption #1: in this game we don't differ types of barrel threads - left or right, 1/2x28 step or any other etc; so a barrel does have
-		threads or it doesn't, no other conditions.
+	* Sumption #1: in this game we don't differ types of muzzle threads - left or right, 1/2x28 step or any other etc; so a barrel does have
+		muzzle threads or it doesn't, no other conditions.
 	* Sumption #2: the game provides several barrel conversion kits, modern and shiny. If a gun has such converions kit available, that means
-		all its' barrels are with threads.
+		all its' barrels are with muzzle threads.
 	* Sumption #3: some guns modelled in the game were upgraded between production parties, keeping absolutely the same name. If it happened to
-		a gun, and barrel threads were added durings those updrades, this gun will have barrel threads in the game. The same for a modelled gun,
-		if it is not a problem to thread its' barrel in DIY way without need to exchange on longer barrel.
+		a gun, and muzzle threads were added durings those updrades, this gun will have muzzle threads in the game. The same for a modelled gun,
+		if it is not a problem to thread its' barrel muzzle in DIY way without need to exchange on longer barrel.
 	
 	============================================================================
 	==== Scopes and sights
@@ -205,16 +205,16 @@
 		<Slot system="24" space="16" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="208" name="A. - Scope, Leupold 6x">
-		<Slot system="24" space="20" timeAP="120"/>
+		<Slot system="24" space="24" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1205" name="A. - Scope, Leupold 2x Revolver">
-		<Slot system="25" space="14" timeAP="120"/>
+		<Slot system="25" space="10" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1206" name="A. - Scope, 3x Revolver">
-		<Slot system="25" space="16" timeAP="120"/>
+		<Slot system="25" space="12" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1207" name="A. - Scope, Leupold 6x Revolver">
-		<Slot system="25" space="20" timeAP="120"/>
+		<Slot system="25" space="20" timeAP="120"/>  <!-- intentionally left size of 20 vs 24 (normal required size for Leupold 6x): I dont want to review revolvers again -->
 	</Descriptor>
 	<Descriptor attachment_id="1208" name="A. - Scope, Leupold 2x Picatinny">
 		<Slot system="18" space="14" timeAP="120"/>
@@ -223,7 +223,7 @@
 		<Slot system="18" space="16" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1204" name="A. - Scope, Leupold 6x Picatinny">
-		<Slot system="18" space="20" timeAP="120"/>
+		<Slot system="18" space="24" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1173" name="A. - Scope, Leupold MK 4 Scope 1x">
 		<Slot system="18" space="18" timeAP="120"/>
@@ -483,14 +483,12 @@
 		<Slot system="22" space="7" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1037" name="A. - Laser, AN/PEQ-15">
-		<Slot system="19" space="12" timeAP="120"/>
 		<Slot system="20" space="12" timeAP="120"/>
 		<Slot system="22" space="12" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1038" name="A. - Laser, AN/PEQ-2A">
-		<Slot system="19" space="17" timeAP="120"/>
-		<Slot system="20" space="17" timeAP="120"/>
-		<Slot system="22" space="17" timeAP="120"/>
+		<Slot system="20" space="14" timeAP="120"/>
+		<Slot system="22" space="14" timeAP="120"/>
 	</Descriptor>
 	<Descriptor attachment_id="1039" name="A. - Laser, CORSAK-14">
 		<Slot system="40" space="4" timeAP="120"/>
@@ -525,13 +523,13 @@
 		<Slot system="-9" space="1" timeAP="120"/>
 	</Descriptor>
 	
-	<Descriptor attachment_id="1271" name="A. - Tact. Flashlight">
+	<Descriptor attachment_id="1271" name="A. - Small Tact. Flashlight">
 		<Slot system="19" space="5" timeAP="120"/>
 		<Slot system="20" space="5" timeAP="120"/>
 		<Slot system="21" space="5" timeAP="120"/>
 		<Slot system="22" space="5" timeAP="120"/>
 	</Descriptor>
-	<Descriptor attachment_id="1272" name="A. - Tact. Flashlight - on">
+	<Descriptor attachment_id="1272" name="A. - Small Tact. Flashlight - on">
 		<Slot system="19" space="5" timeAP="120"/>
 		<Slot system="20" space="5" timeAP="120"/>
 		<Slot system="21" space="5" timeAP="120"/>

@@ -24,6 +24,7 @@
 	<MountSystem id="16" name="F2000 aiming module, specific"/>
 	<MountSystem id="17" name="K11 aiming module, specific"/>
 	
+	<!-- SIG/HK proprietary rail system (widely used on HK USP and SIG pistols) is counted as picatinny at lower handguard -->
 	<MountSystem id="18" name="picatinny rail, sight point"/>
 	<MountSystem id="19" name="picatinny rail, lower handguard point"/>
 	<MountSystem id="20" name="picatinny rail, upper handguard point"/>
@@ -50,7 +51,7 @@
 	
 	<MountSystem id="40" name="vise barrel mount, barrel point"/>
 	<MountSystem id="41" name="Old Aimpoint HK barrel mount, barrel point"/>
-	<MountSystem id="42" name="blue adhesive tape flashlight mount, handguard point"/>
+	<MountSystem id="42" name="blue adhesive tape flashlight mount, handguard point"/>    <!-- not compatible with RAS handguards -->
 	<MountSystem id="43" name="ACME Trigger Group, AR-15 trigger group point"/>
 	
 	<!-- Built-in items are implemented as default attachments, each system is single attachment specific -->
