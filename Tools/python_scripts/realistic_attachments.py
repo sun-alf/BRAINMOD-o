@@ -27,6 +27,50 @@ from imports.cmd_line import CmdLineProcessor;
 #
 # Constants, functions, classes etc
 #
+LOBOT_MODELS = {
+    "pistol" : "HasPistolInHand",  # default
+    "revolver" : "HasSW500InHand",
+    "deagle" : "HasDesertEagleInHand",
+    "mp5k" : "HasMPistolInHand",
+    "miniuzi" : "HasUziInHand",
+    "sawnoff" : "HasSawnOffInHand",
+    "sawnoff-b" : "HasBlackSawnOffInHand",
+    "g11" : "HasG11InHand",
+    "mp5" : "HasSMGInHand",
+    "p90" : "HasP90InHand",
+    "uzi" : "HasUziSMGInHand",
+    "tommy" : "HasTommyGunInHand",
+    "ppsh41" : "HasPPSH41InHand",
+    "m870" : "HasShotgunInHand",
+    "m870-b" : "HasBlackShotgunInHand",
+    "saiga" : "HasSaiga12kInHand",
+    "spas12" : "HasSPAS12InHand",
+    "fal" : "HasFALInHand",
+    "famas" : "HasFAMASInHand",
+    "scar" : "HasSCARInHand",
+    "akm" : "HasAKInHand",
+    "ak74m" : "HasBlackAKInHand",
+    "aksu" : "HasAKSUInHand",
+    "aksu-b" : "HasBlackAKSUInHand",
+    "m16" : "HasARInHand",
+    "mosin" : "HasRifleInHand",
+    "m14" : "HasSemiAutoRifleInHand",
+    "m14-b" : "HasBlackSemiAutoRifleInHand",
+    "barret" : "HasBigSniperInHand",
+    "awp" : "HasSniperInHand",
+    "awp-b" : "HasBlackSniperInHand",
+    "svd" : "HasDragunovInHand",
+    "psg1" : "HasPSG1InHand",
+    "hunter" : "HasPatriotInHand",
+    "hunter-b" : "HasBlackPatriotInHand",
+    "M249" : "HasMGInHand",
+    "RPK" : "HasRPKInHand",
+    "PKM" : "HasPKMInHand",
+    "milkor" : "HasMilkorInHand",
+    "xm25" : "HasXM25InHand",
+    "rocket rifle" : "HasRocketRifleInHand",
+}
+
 
 def PrintAttachmentItems(args):
     itemsRoot = JA2TableData.GetXml(JA2Xmls.ITEMS);
